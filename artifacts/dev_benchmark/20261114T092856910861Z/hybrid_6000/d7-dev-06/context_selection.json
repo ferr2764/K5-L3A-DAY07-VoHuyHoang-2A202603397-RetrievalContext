@@ -1,0 +1,316 @@
+{
+  "context": "[0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91 | starter/data/Foundations_of_Information_Systems.pdf | page 33]\nFigure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By\nasking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs\nfrom the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification\n1.2 • Frameworks of Knowledge and Industry Standards 23\n\n[56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae | starter/data/Foundations_of_Information_Systems.pdf | page 33]\nWaterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n\n\n[b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f | starter/data/Foundations_of_Information_Systems.pdf | page 33]\n• Who? seeks to learn who the organizational members are, as well as gather details about the\norganization’s units and hierarchy.\n• When? seeks to learn the organization’s schedule of operations, including when processes are performed.\n• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk\nmanagement and information systems. This question also seeks to determine what motivates the\norganization to perform certain functions.\nAs shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of\nthe matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’\nperspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an\nimportant tool to understand what an organization’s information systems should entail and develop the\nappropriate enterprise architecture to support that system.\n\n\n[06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c | starter/data/Foundations_of_Information_Systems.pdf | page 34]\nof work “Zachman Framework (9026775815)” by National Institute of Standards and Technology/Wikimedia Commons, Public\nDomain)\nThe industry standards that are applicable in IS include the American Society for Industrial Security (ASIS), the\nFederal Information Security Modernization Act (FISMA), IS2020, ISO/IEC 27001, and the Open Group\nArchitecture Framework (TOGAF).\nThe American Society for Industrial Security (ASIS) is a global organization that provides training and\ncertification to help professionals in all industries provide security for people, property, and information. ASIS\nis a global organization that collaborates with public and private organizations throughout the world—such as\nthe Department of Homeland Security and the Federal Bureau of Investigation—to ensure that IS\nprofessionals and others involved in security have the resources needed to successfully handle security issues\nat every stage of their career.\n\n\n[ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576 | starter/data/Foundations_of_Information_Systems.pdf | page 31]\nThe McKinsey 7-S Framework can be used by following four steps:\n1. Identify the parts of the organization that are not aligned with shared values, including a shared mission,\ngoals, and objectives.\n2. Determine the design and structure that will enable the organization to achieve alignment and reach its\ngoals and objectives.\n3. Identify areas where changes are needed to update the organizational design.\n4. Implement the necessary changes.\nThis framework can help ensure organizations are in alignment and have an effective design, making it easier\nto develop and maintain the appropriate information systems to meet the organization’s needs.\n\n\n[91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076 | starter/data/Foundations_of_Information_Systems.pdf | page 52]\n1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,\nhttps://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/\n2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,\nhttps://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-\nunused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D\n42 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org\n\n[580259a3f4761925e489cf9601d7ca908349f0cdc74b81f6a6029959e3857f83 | starter/data/Foundations_of_Information_Systems.pdf | page 60]\ninternal or external. If both the decision-makers\n(stakeholders) and intelligence needed can be found internally, as in the case of order entry and budgeting,\nthen the problem qualifies as being structured. But if both the intelligence needed and the decision-makers\nare external to the organization, then the problem qualifies as being unstructured, for instance, in the case of\nsystems for cash management or personnel management.\n",
+  "context_ids": [
+    "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+    "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+    "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+    "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+    "ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576",
+    "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+    "580259a3f4761925e489cf9601d7ca908349f0cdc74b81f6a6029959e3857f83"
+  ],
+  "context_chars": 5923,
+  "context_sha256": "35b2193d0ac003a1fdaf14de8feefe522fbf570bbf4a5a2899a0bdff06cefcfb",
+  "budget_chars": 6000,
+  "remaining_chars": 77,
+  "unit": "Python len(str), Unicode codepoints including headers and separators",
+  "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+  "candidate_occurrences": 10,
+  "unique_candidates": 10,
+  "duplicates_removed": 0,
+  "selected_count": 7,
+  "skipped_count": 3,
+  "decisions": [
+    {
+      "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "metadata": {
+        "end": 2394,
+        "part": 0,
+        "year": 2025,
+        "start": 1950,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.01639344262295082,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 1
+        }
+      ],
+      "text_characters": 444,
+      "block_characters": 575,
+      "separator_characters": 0,
+      "remaining_before": 6000,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "metadata": {
+        "end": 986,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.016129032258064516,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 2
+        }
+      ],
+      "text_characters": 986,
+      "block_characters": 1117,
+      "separator_characters": 2,
+      "remaining_before": 5425,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "metadata": {
+        "end": 1950,
+        "part": 0,
+        "year": 2025,
+        "start": 986,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015873015873015872,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 3
+        }
+      ],
+      "text_characters": 964,
+      "block_characters": 1095,
+      "separator_characters": 2,
+      "remaining_before": 4306,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "metadata": {
+        "end": 935,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015625,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 4
+        }
+      ],
+      "text_characters": 935,
+      "block_characters": 1066,
+      "separator_characters": 2,
+      "remaining_before": 3209,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1701,
+        "end": 2347,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015384615384615385,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 5
+        }
+      ],
+      "text_characters": 646,
+      "block_characters": 777,
+      "separator_characters": 2,
+      "remaining_before": 2141,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "metadata": {
+        "end": 5009,
+        "part": 0,
+        "year": 2025,
+        "start": 4423,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015151515151515152,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 6
+        }
+      ],
+      "text_characters": 586,
+      "block_characters": 717,
+      "separator_characters": 2,
+      "remaining_before": 1362,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 61,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.2",
+        "part": 1,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1145,
+        "end": 2094,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014925373134328358,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 7
+        }
+      ],
+      "text_characters": 949,
+      "block_characters": 1080,
+      "separator_characters": 2,
+      "remaining_before": 643,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "580259a3f4761925e489cf9601d7ca908349f0cdc74b81f6a6029959e3857f83",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 60,
+      "metadata": {
+        "end": 1430,
+        "part": 0,
+        "year": 2025,
+        "start": 997,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.014705882352941176,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 8
+        }
+      ],
+      "text_characters": 433,
+      "block_characters": 564,
+      "separator_characters": 2,
+      "remaining_before": 643,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 652,
+        "end": 1415,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014492753623188406,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 9
+        }
+      ],
+      "text_characters": 763,
+      "block_characters": 894,
+      "separator_characters": 2,
+      "remaining_before": 77,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "b030f4e15514acc0a2c552c35cc890ae690a3765197c99ac5436c206ca3efc97",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 60,
+      "metadata": {
+        "end": 4276,
+        "part": 0,
+        "year": 2025,
+        "start": 3567,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.014285714285714285,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 10
+        }
+      ],
+      "text_characters": 709,
+      "block_characters": 840,
+      "separator_characters": 2,
+      "remaining_before": 77,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    }
+  ],
+  "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+}

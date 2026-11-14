@@ -1,0 +1,1199 @@
+{
+  "query": "Khi doanh nghiệp chỉ theo đuổi cost leadership, sách cảnh báo nguy cơ gì đối với nghiên cứu phát triển và đổi mới?",
+  "filter": null,
+  "results": [
+    {
+      "id": "23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737",
+      "text": "Cost leadership strategy is a business approach wherein a company aims to become the lowest-cost producer\nin its industry or market. The primary goal of this strategy is to offer products or services at the lowest possible\nprice while maintaining acceptable quality levels. Walmart’s focus on cost leadership has allowed it to maintain\na dominant position in the retail industry. It consistently outperforms competitors by offering lower prices and\nattracting a broad customer base, including price-sensitive shoppers. Despite its low-margin business,\nWalmart’s sheer scale and operational efficiency allow it to generate massive revenue while maintaining\nprofitability.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 67,
+      "metadata": {
+        "end": 1599,
+        "part": 0,
+        "year": 2025,
+        "start": 928,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03252247488101534,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.38736341214076675,
+          "rrf_contribution": 0.016129032258064516
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.32079918111109273,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47",
+      "text": "Each of these strategies has its pros and cons. For example, if a company focuses only on pursuing a cost\nleadership strategy, it might not have enough resources for research and development, and so it might lag in\nterms of innovation. Let’s say a company traditionally sells a one-size-fits-all software product, and they decide\nto shift toward a customer-oriented strategy by offering customizable features and personalized support\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 57",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 67,
+      "metadata": {
+        "end": 4551,
+        "part": 0,
+        "year": 2025,
+        "start": 4030,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.032266458495966696,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.4150247806211377,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 3,
+          "raw_score": 0.16607841086507708,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "6b02d6af6b3f1b530418d3a2eb658ee02f9675cb09a342e80bc88d94401260eb",
+      "text": "options. A customer-oriented strategy impacts the scope, cost, schedule, risk, and quality dimensions of a\nproject. While a customer-oriented approach can lead to higher initial costs, it can also bring significant\nbenefits.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 68,
+      "metadata": {
+        "end": 225,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.029437229437229435,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 10,
+          "raw_score": 0.26796757626463563,
+          "rrf_contribution": 0.014285714285714285
+        },
+        "lexical": {
+          "rank": 6,
+          "raw_score": 0.11370618544510798,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 3
+    },
+    {
+      "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+      "text": "specific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 71,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.3",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 358,
+        "method": "paragraph-1000"
+      },
+      "score": 0.016129032258064516,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.24901462042718556,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 4
+    },
+    {
+      "id": "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+      "text": "Figure 2.7 The business model is the key to bridging the gap between technological potential and business success, paving the way\nfor companies to thrive in the competitive landscape. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license;\ncredit gears: modification of work “Noun project 1063” by Jeremy Minnick/Wikimedia Commons, CC0 1.0; credit people with laptops:\nmodification of work “Noun project - Meeting with laptops” by Slava Strizh/Wikimedia Commons, CC BY 3.0; credit target:\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 68,
+      "metadata": {
+        "end": 1558,
+        "part": 1,
+        "year": 2025,
+        "start": 1049,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015873015873015872,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 3,
+          "raw_score": 0.32151008139112014,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 5
+    },
+    {
+      "id": "3a4883bad9d408ff7a57b875dddf96cd1fa77f609fb13da321ec935353e17210",
+      "text": "Today’s business environment has undergone significant transformations. Unlike the traditional stable and\nlow-competition business world, the digital business realm is marked by complexity, dynamism, and high\nlevels of uncertainty and competition. Consequently, in this intricate digital business setting, the business\nmodel must be explicit and highly flexible to adapt effectively. Embracing change is important for effectively\nnavigating today’s business landscape.\nLINK TO LEARNING\nLearn about AI-generated music (https://openstax.org/r/109AIMusic) and how AI is disrupting the music\nindustry as well as freemium and subscription business models.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 1185,
+        "part": 0,
+        "year": 2025,
+        "start": 534,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015625,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 4,
+          "raw_score": 0.3181474086953119,
+          "rrf_contribution": 0.015625
+        }
+      },
+      "rank": 6
+    },
+    {
+      "id": "6528b6855557df45feb001dc95197679ae37da5be6ef945a91a57b59f79eadb4",
+      "text": "• cloud computing: networking, programming,\nmachine learning, virtualization, cloud security,\nbusiness concepts, and project management\n• systems analysis: system design, data analysis,\nbusiness analysis, problem-solving, critical\nthinking, creativity, and systems administration\n• cybersecurity: threat detection systems, digital\nforensics, penetration testing, auditing, data\nsecurity, data privacy\nManagement\nCompetencies regarding\nleadership, conflict resolution,\ndelegation, and team dynamics\nGeneral:\n• team management\n• conflict management\n• delegation\n• leadership\nIS-specific:\n• risk assessment\n• policy development\n• regulatory compliance\n• incident response planning\nTable 1.1 Professional Competencies No matter what field you go into, certain personal, academic, and workplace skills are needed\nto be successful as you grow in your career.\n28 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 38,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.3",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 510,
+        "end": 1437,
+        "method": "paragraph-1000"
+      },
+      "score": 0.015625,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 4,
+          "raw_score": 0.14429773737432405,
+          "rrf_contribution": 0.015625
+        }
+      },
+      "rank": 7
+    },
+    {
+      "id": "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce",
+      "text": "on\ninvestment\nManufacturing\nand\noperations\nProduct life-cycle\noptimization and risk\nassessment\nEfficient\nmaterials and\nproduction\nplanning\nReal-time shop\nfloor\nmonitoring\nand quality\ncontrol\nImproved product\nquality, reduced\nproduction downtime,\nstreamlined processes\nSupply chain\nmanagement\nSupply chain visibility\nand demand\nforecasting\nInventory\noptimization and\nsupplier\nperformance\ntracking\nEfficient order\nprocessing and\nshipment\ntracking\nReduced inventory costs,\nimproved supply chain\nefficiency\nCustomer\nservice\nAcquisition and\nretention of\ncustomers; customer\nfeedback and\nsentiment analysis\nHelp desk\nperformance\nanalytics and\nticket tracking\nCustomer self-\nhelp\nknowledge\nbase and issue\nresolution\nEnhanced customer\nsatisfaction, reduced\nresponse time, and\nsupport costs\nResearch and\ndevelopment\nRate of collaborative\ninnovation and new\nidea generation\nProject resource\nallocation and\ninnovation\ntracking\nIdea evaluation\nand research\nand\ndevelopment\nprocess\noptimization\nAccelerated ",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 64,
+      "metadata": {
+        "end": 1972,
+        "part": 0,
+        "year": 2025,
+        "start": 978,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015384615384615385,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 5,
+          "raw_score": 0.29796973443952623,
+          "rrf_contribution": 0.015384615384615385
+        }
+      },
+      "rank": 8
+    },
+    {
+      "id": "d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4",
+      "text": "The details of this case reveal a significant misalignment between IT and business perspectives concerning the\ntechnological aspect of identity cards. Overall, the disparity between the UK’s simple, traditional ID cards and\nthe envisioned technological sophistication of the new cards highlighted the disconnect between IT and\nbusiness perspectives: the clash between a simple, efficient approach and the pursuit of advanced technology.\nThis case emphasizes the importance of fostering collaboration and understanding between IT and\nstakeholders to develop practical and effective solutions for many different business scenarios.\nStrategies to Generate Value Using Information Technology\nIn today’s business landscape, there are five key strategies usually pursued by organizations when seeking to\ngenerate value using IT: cost leadership, differentiation, focus/innovation, operational effectiveness, and\ncustomer orientation.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 67,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 928,
+        "method": "paragraph-1000"
+      },
+      "score": 0.015384615384615385,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 5,
+          "raw_score": 0.11771720651254233,
+          "rrf_contribution": 0.015384615384615385
+        }
+      },
+      "rank": 9
+    },
+    {
+      "id": "7e5aeb9e42675f54450adc7c04582c9ec4d32c9d15fc29a5b28703e3b86079e9",
+      "text": "drive continuous improvement and growth.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 58,
+      "metadata": {
+        "end": 1723,
+        "part": 0,
+        "year": 2025,
+        "start": 1682,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015151515151515152,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 6,
+          "raw_score": 0.2914190323560599,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 10
+    }
+  ],
+  "top3": [
+    {
+      "id": "23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737",
+      "text": "Cost leadership strategy is a business approach wherein a company aims to become the lowest-cost producer\nin its industry or market. The primary goal of this strategy is to offer products or services at the lowest possible\nprice while maintaining acceptable quality levels. Walmart’s focus on cost leadership has allowed it to maintain\na dominant position in the retail industry. It consistently outperforms competitors by offering lower prices and\nattracting a broad customer base, including price-sensitive shoppers. Despite its low-margin business,\nWalmart’s sheer scale and operational efficiency allow it to generate massive revenue while maintaining\nprofitability.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 67,
+      "metadata": {
+        "end": 1599,
+        "part": 0,
+        "year": 2025,
+        "start": 928,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03252247488101534,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.38736341214076675,
+          "rrf_contribution": 0.016129032258064516
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.32079918111109273,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47",
+      "text": "Each of these strategies has its pros and cons. For example, if a company focuses only on pursuing a cost\nleadership strategy, it might not have enough resources for research and development, and so it might lag in\nterms of innovation. Let’s say a company traditionally sells a one-size-fits-all software product, and they decide\nto shift toward a customer-oriented strategy by offering customizable features and personalized support\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 57",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 67,
+      "metadata": {
+        "end": 4551,
+        "part": 0,
+        "year": 2025,
+        "start": 4030,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.032266458495966696,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.4150247806211377,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 3,
+          "raw_score": 0.16607841086507708,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "6b02d6af6b3f1b530418d3a2eb658ee02f9675cb09a342e80bc88d94401260eb",
+      "text": "options. A customer-oriented strategy impacts the scope, cost, schedule, risk, and quality dimensions of a\nproject. While a customer-oriented approach can lead to higher initial costs, it can also bring significant\nbenefits.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 68,
+      "metadata": {
+        "end": 225,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.029437229437229435,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 10,
+          "raw_score": 0.26796757626463563,
+          "rrf_contribution": 0.014285714285714285
+        },
+        "lexical": {
+          "rank": 6,
+          "raw_score": 0.11370618544510798,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 3
+    }
+  ],
+  "trace": {
+    "method": "hybrid_rrf",
+    "filter": {},
+    "candidate_k_per_branch": 10,
+    "rrf_k": 60,
+    "dense_results": [
+      {
+        "id": "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "text": "Each of these strategies has its pros and cons. For example, if a company focuses only on pursuing a cost\nleadership strategy, it might not have enough resources for research and development, and so it might lag in\nterms of innovation. Let’s say a company traditionally sells a one-size-fits-all software product, and they decide\nto shift toward a customer-oriented strategy by offering customizable features and personalized support\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 57",
+        "metadata": {
+          "end": 4551,
+          "part": 0,
+          "year": 2025,
+          "start": 4030,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4150247806211377,
+        "rank": 1,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "text": "Cost leadership strategy is a business approach wherein a company aims to become the lowest-cost producer\nin its industry or market. The primary goal of this strategy is to offer products or services at the lowest possible\nprice while maintaining acceptable quality levels. Walmart’s focus on cost leadership has allowed it to maintain\na dominant position in the retail industry. It consistently outperforms competitors by offering lower prices and\nattracting a broad customer base, including price-sensitive shoppers. Despite its low-margin business,\nWalmart’s sheer scale and operational efficiency allow it to generate massive revenue while maintaining\nprofitability.\n",
+        "metadata": {
+          "end": 1599,
+          "part": 0,
+          "year": 2025,
+          "start": 928,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.38736341214076675,
+        "rank": 2,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "Figure 2.7 The business model is the key to bridging the gap between technological potential and business success, paving the way\nfor companies to thrive in the competitive landscape. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license;\ncredit gears: modification of work “Noun project 1063” by Jeremy Minnick/Wikimedia Commons, CC0 1.0; credit people with laptops:\nmodification of work “Noun project - Meeting with laptops” by Slava Strizh/Wikimedia Commons, CC BY 3.0; credit target:\n",
+        "metadata": {
+          "end": 1558,
+          "part": 1,
+          "year": 2025,
+          "start": 1049,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.32151008139112014,
+        "rank": 3,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "3a4883bad9d408ff7a57b875dddf96cd1fa77f609fb13da321ec935353e17210",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "Today’s business environment has undergone significant transformations. Unlike the traditional stable and\nlow-competition business world, the digital business realm is marked by complexity, dynamism, and high\nlevels of uncertainty and competition. Consequently, in this intricate digital business setting, the business\nmodel must be explicit and highly flexible to adapt effectively. Embracing change is important for effectively\nnavigating today’s business landscape.\nLINK TO LEARNING\nLearn about AI-generated music (https://openstax.org/r/109AIMusic) and how AI is disrupting the music\nindustry as well as freemium and subscription business models.\n",
+        "metadata": {
+          "end": 1185,
+          "part": 0,
+          "year": 2025,
+          "start": 534,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3181474086953119,
+        "rank": 4,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 64,
+        "text": "on\ninvestment\nManufacturing\nand\noperations\nProduct life-cycle\noptimization and risk\nassessment\nEfficient\nmaterials and\nproduction\nplanning\nReal-time shop\nfloor\nmonitoring\nand quality\ncontrol\nImproved product\nquality, reduced\nproduction downtime,\nstreamlined processes\nSupply chain\nmanagement\nSupply chain visibility\nand demand\nforecasting\nInventory\noptimization and\nsupplier\nperformance\ntracking\nEfficient order\nprocessing and\nshipment\ntracking\nReduced inventory costs,\nimproved supply chain\nefficiency\nCustomer\nservice\nAcquisition and\nretention of\ncustomers; customer\nfeedback and\nsentiment analysis\nHelp desk\nperformance\nanalytics and\nticket tracking\nCustomer self-\nhelp\nknowledge\nbase and issue\nresolution\nEnhanced customer\nsatisfaction, reduced\nresponse time, and\nsupport costs\nResearch and\ndevelopment\nRate of collaborative\ninnovation and new\nidea generation\nProject resource\nallocation and\ninnovation\ntracking\nIdea evaluation\nand research\nand\ndevelopment\nprocess\noptimization\nAccelerated ",
+        "metadata": {
+          "end": 1972,
+          "part": 0,
+          "year": 2025,
+          "start": 978,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.29796973443952623,
+        "rank": 5,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "7e5aeb9e42675f54450adc7c04582c9ec4d32c9d15fc29a5b28703e3b86079e9",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 58,
+        "text": "drive continuous improvement and growth.\n",
+        "metadata": {
+          "end": 1723,
+          "part": 0,
+          "year": 2025,
+          "start": 1682,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2914190323560599,
+        "rank": 6,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "c762720e9ae557feb11d2be993c0f445120defeffbe8d7adbbb93972587bd1d0",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 64,
+        "text": "innovation,\nstreamlined research\nand development\nprocesses, and\nsuccessful product\ndevelopment\nTable 2.2 FAIS Values These indicators serve as metrics for evaluating information technology investments and demonstrate how\ntechnology can create value for organizations.\n54 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 2338,
+          "part": 0,
+          "year": 2025,
+          "start": 1972,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.28430512179760126,
+        "rank": 7,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "31c6f10f23a0445ceb0f9bf61884bae3fb9c6ef8e81f25bb411ffe33c1838d4f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "text": "Focus/innovation strategy is a business approach wherein a company focuses on introducing new products,\nservices, or processes—or enhancing existing ones—to stay ahead of the competition and meet evolving\ncustomer needs. The primary goal of this strategy is to drive growth and create a competitive advantage by\nbeing at the forefront of innovation in the industry. Google is a prime example. Continuously introducing new\nproducts and features, such as Google Search, Gmail, and Google Maps, the company revolutionized the way\npeople access and interact with information online.\n",
+        "metadata": {
+          "end": 2817,
+          "part": 0,
+          "year": 2025,
+          "start": 2238,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.26978136688206966,
+        "rank": 8,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "e6b22fa9ced500d35dcf48fd4dba507b1900ba8f4a279c62a3ab1866c3fb0b2f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "• Compare digital business models and their design and integration components\n• Critique digital business models\nThe use of IT offers businesses numerous opportunities to generate value. Since most businesses adopt IT,\nundergo digital transformation, or fundamentally change how the business operates and delivers value using\ndigital technologies, the digital field is crowded with apps, services, platforms, and digital devices. Some\nbusinesses undergoing digital transformations thrive initially but then go bankrupt, and others pivot and\nsurvive. Many established companies like retailers, banks, travel agencies, and print media have struggled to\nsurvive in the face of digital disruption. Organizations confront a common challenge—the necessity to develop\ndigital business models that deliver value to customers or users. Thus, business models act as the vital\nconnector between technology and the strategic goals of an organization (Figure 2.7).\n",
+        "metadata": {
+          "end": 1049,
+          "part": 1,
+          "year": 2025,
+          "start": 97,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2690750557319047,
+        "rank": 9,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "6b02d6af6b3f1b530418d3a2eb658ee02f9675cb09a342e80bc88d94401260eb",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "options. A customer-oriented strategy impacts the scope, cost, schedule, risk, and quality dimensions of a\nproject. While a customer-oriented approach can lead to higher initial costs, it can also bring significant\nbenefits.\n",
+        "metadata": {
+          "end": 225,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.26796757626463563,
+        "rank": 10,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      }
+    ],
+    "lexical_results": [
+      {
+        "id": "23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737",
+        "text": "Cost leadership strategy is a business approach wherein a company aims to become the lowest-cost producer\nin its industry or market. The primary goal of this strategy is to offer products or services at the lowest possible\nprice while maintaining acceptable quality levels. Walmart’s focus on cost leadership has allowed it to maintain\na dominant position in the retail industry. It consistently outperforms competitors by offering lower prices and\nattracting a broad customer base, including price-sensitive shoppers. Despite its low-margin business,\nWalmart’s sheer scale and operational efficiency allow it to generate massive revenue while maintaining\nprofitability.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 928,
+          "end": 1599,
+          "method": "paragraph-1000"
+        },
+        "score": 0.32079918111109273,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 1
+      },
+      {
+        "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+        "text": "specific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 358,
+          "method": "paragraph-1000"
+        },
+        "score": 0.24901462042718556,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 2
+      },
+      {
+        "id": "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47",
+        "text": "Each of these strategies has its pros and cons. For example, if a company focuses only on pursuing a cost\nleadership strategy, it might not have enough resources for research and development, and so it might lag in\nterms of innovation. Let’s say a company traditionally sells a one-size-fits-all software product, and they decide\nto shift toward a customer-oriented strategy by offering customizable features and personalized support\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 57",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 4030,
+          "end": 4551,
+          "method": "paragraph-1000"
+        },
+        "score": 0.16607841086507708,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 3
+      },
+      {
+        "id": "6528b6855557df45feb001dc95197679ae37da5be6ef945a91a57b59f79eadb4",
+        "text": "• cloud computing: networking, programming,\nmachine learning, virtualization, cloud security,\nbusiness concepts, and project management\n• systems analysis: system design, data analysis,\nbusiness analysis, problem-solving, critical\nthinking, creativity, and systems administration\n• cybersecurity: threat detection systems, digital\nforensics, penetration testing, auditing, data\nsecurity, data privacy\nManagement\nCompetencies regarding\nleadership, conflict resolution,\ndelegation, and team dynamics\nGeneral:\n• team management\n• conflict management\n• delegation\n• leadership\nIS-specific:\n• risk assessment\n• policy development\n• regulatory compliance\n• incident response planning\nTable 1.1 Professional Competencies No matter what field you go into, certain personal, academic, and workplace skills are needed\nto be successful as you grow in your career.\n28 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 38,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 510,
+          "end": 1437,
+          "method": "paragraph-1000"
+        },
+        "score": 0.14429773737432405,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 4
+      },
+      {
+        "id": "d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4",
+        "text": "The details of this case reveal a significant misalignment between IT and business perspectives concerning the\ntechnological aspect of identity cards. Overall, the disparity between the UK’s simple, traditional ID cards and\nthe envisioned technological sophistication of the new cards highlighted the disconnect between IT and\nbusiness perspectives: the clash between a simple, efficient approach and the pursuit of advanced technology.\nThis case emphasizes the importance of fostering collaboration and understanding between IT and\nstakeholders to develop practical and effective solutions for many different business scenarios.\nStrategies to Generate Value Using Information Technology\nIn today’s business landscape, there are five key strategies usually pursued by organizations when seeking to\ngenerate value using IT: cost leadership, differentiation, focus/innovation, operational effectiveness, and\ncustomer orientation.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 928,
+          "method": "paragraph-1000"
+        },
+        "score": 0.11771720651254233,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 5
+      },
+      {
+        "id": "6b02d6af6b3f1b530418d3a2eb658ee02f9675cb09a342e80bc88d94401260eb",
+        "text": "options. A customer-oriented strategy impacts the scope, cost, schedule, risk, and quality dimensions of a\nproject. While a customer-oriented approach can lead to higher initial costs, it can also bring significant\nbenefits.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 225,
+          "method": "paragraph-1000"
+        },
+        "score": 0.11370618544510798,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 6
+      },
+      {
+        "id": "787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a",
+        "text": "Notably, most of these data are underutilized. For most enterprises, only about one-third of data is used for\ndecision-making, while the remaining two-thirds is simply stored.2 When analysts are unable to find the\nappropriate and available data for decision-making, it can cost organizations billions of dollars each year. On\nthe other hand, data archives are often required for regulatory reasons to ensure compliance with laws\ngoverning data retention, privacy, and security. For instance, industries like health care and finance have strict\nregulations regarding the retention of patient records and financial transactions data.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 2964,
+          "end": 3596,
+          "method": "paragraph-1000"
+        },
+        "score": 0.06444784335856808,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 7
+      },
+      {
+        "id": "f053b5f872be3e01c702d2a1665ef6cd777f5b3e62084d965e39dff4fd11d74d",
+        "text": "• Internal and external customers, as well as customer service, hold paramount importance for these\norganizations.\n• Business and IT professionals are cross-trained and move across different departments and job roles.\n• Clear overarching goals are established and understood by both IT and business employees.\n• Information technology employees are informed about the company’s revenue generation and cost-\nsaving mechanisms.\n• The organization fosters a vibrant and inclusive company culture.\nFigure 2.6 Successful strategic alignment occurs when information technology directly supports the business goals of the\norganization, guided by these six characteristics. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; credit\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 55",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 65,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1881,
+          "end": 2717,
+          "method": "paragraph-1000"
+        },
+        "score": 0.06293753931722024,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 8
+      },
+      {
+        "id": "615963ed2d8ec580b29ead6827aafd1eec7c86578d66cffd14290b69873cb754",
+        "text": "dependability, reliability, and willingness to learn\n• Academic: competencies such as reading, writing, and mathematics\n• Workplace: competencies used in the workplace such as teamwork, creative thinking, problem-solving,\nand decision-making\n• Industry-wide technical: general competencies needed in a specific industry; for example, database\nmanagement and network administration are competencies necessary to succeed in IS\n• Industry-sector technical: competencies directly related to specific positions within an industry; for\nexample, in IS, professionals who focus on cybersecurity must be competent about data security and risk\nmanagement\n• Management: leadership, direction setting, team oversight, conflict resolution, delegation\nTo be successful in the workplace, IS professionals need personal effectiveness, academic, and workplace\ncompetencies. In addition, they need competencies specific to technology and information systems. These\ninclude knowledge and skills in the principles of ",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 37,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 997,
+          "method": "paragraph-1000"
+        },
+        "score": 0.06123696598489762,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 9
+      },
+      {
+        "id": "b43143e1fb1f9c1cddeec293adae557b3560dd0c02490097131813bfa3a9b48e",
+        "text": "(credit: modification of work “Tiling 6 simple” by T. Piesk/Wikimedia Commons, CC BY 4.0)\nThe automation of repetitive and mundane tasks via IT enables organizations to increase efficiency and reduce\nhuman error. For example, automating inventory management processes can streamline supply chain\noperations, leading to cost savings and improved inventory control. Automation can also enhance customer\nservice through the deployment of chatbots or virtual assistants that can handle routine inquiries and thereby\nfree up human agents to focus on more complex customer needs. For instance, Domino’s leverages IT to\nautomate tasks associated with delivery route planning, finding the most efficient delivery routes, reducing the\nneed for manual planning, and saving valuable time for employees.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 62,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1902,
+          "end": 2694,
+          "method": "paragraph-1000"
+        },
+        "score": 0.05780554931794238,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 10
+      }
+    ],
+    "dense_call": {
+      "method": "dense",
+      "filter": {},
+      "returned": 10,
+      "elapsed_ms": 890.1784000008774,
+      "cache_hit": false,
+      "service_cost_usd": null,
+      "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+      "model": "openai/text-embedding-3-small",
+      "dimensions": 1536,
+      "strategy": "B",
+      "embedding_requests": [
+        {
+          "status": "ok",
+          "id": "gen-emb-1794650040-PfbD2UU1HFUGxKDHFpV0",
+          "elapsed_ms": 824.5663000016066,
+          "usage": {
+            "prompt_tokens": 48,
+            "total_tokens": 48,
+            "cost": 9.6e-07,
+            "is_byok": false,
+            "cost_details": {
+              "upstream_inference_cost": 9.6e-07,
+              "upstream_inference_prompt_cost": 9.6e-07,
+              "upstream_inference_completions_cost": 0
+            }
+          }
+        }
+      ],
+      "measured_embedding_cost": {
+        "request_count": 1,
+        "known_cost_usd": 9.6e-07,
+        "cost_usd": 9.6e-07,
+        "unknown_cost_request_count": 0,
+        "prompt_tokens_known": 48
+      }
+    },
+    "lexical_call": {
+      "method": "tfidf",
+      "filter": {},
+      "eligible_count": 162,
+      "returned": 10,
+      "elapsed_ms": 0.2703000009205425,
+      "service_cost_usd": 0,
+      "tokenization": "NFC_casefold_word_regex",
+      "idf_scope": "entire_fixed_snapshot"
+    },
+    "returned": 10,
+    "elapsed_ms": 890.7111000007717
+  },
+  "context_selection": {
+    "context": "[23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737 | starter/data/Foundations_of_Information_Systems.pdf | page 67]\nCost leadership strategy is a business approach wherein a company aims to become the lowest-cost producer\nin its industry or market. The primary goal of this strategy is to offer products or services at the lowest possible\nprice while maintaining acceptable quality levels. Walmart’s focus on cost leadership has allowed it to maintain\na dominant position in the retail industry. It consistently outperforms competitors by offering lower prices and\nattracting a broad customer base, including price-sensitive shoppers. Despite its low-margin business,\nWalmart’s sheer scale and operational efficiency allow it to generate massive revenue while maintaining\nprofitability.\n\n\n[bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47 | starter/data/Foundations_of_Information_Systems.pdf | page 67]\nEach of these strategies has its pros and cons. For example, if a company focuses only on pursuing a cost\nleadership strategy, it might not have enough resources for research and development, and so it might lag in\nterms of innovation. Let’s say a company traditionally sells a one-size-fits-all software product, and they decide\nto shift toward a customer-oriented strategy by offering customizable features and personalized support\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 57\n\n[6b02d6af6b3f1b530418d3a2eb658ee02f9675cb09a342e80bc88d94401260eb | starter/data/Foundations_of_Information_Systems.pdf | page 68]\noptions. A customer-oriented strategy impacts the scope, cost, schedule, risk, and quality dimensions of a\nproject. While a customer-oriented approach can lead to higher initial costs, it can also bring significant\nbenefits.\n\n\n[09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae | starter/data/Foundations_of_Information_Systems.pdf | page 71]\nspecific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n\n\n[a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99 | starter/data/Foundations_of_Information_Systems.pdf | page 68]\nFigure 2.7 The business model is the key to bridging the gap between technological potential and business success, paving the way\nfor companies to thrive in the competitive landscape. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license;\ncredit gears: modification of work “Noun project 1063” by Jeremy Minnick/Wikimedia Commons, CC0 1.0; credit people with laptops:\nmodification of work “Noun project - Meeting with laptops” by Slava Strizh/Wikimedia Commons, CC BY 3.0; credit target:\n\n\n[3a4883bad9d408ff7a57b875dddf96cd1fa77f609fb13da321ec935353e17210 | starter/data/Foundations_of_Information_Systems.pdf | page 70]\nToday’s business environment has undergone significant transformations. Unlike the traditional stable and\nlow-competition business world, the digital business realm is marked by complexity, dynamism, and high\nlevels of uncertainty and competition. Consequently, in this intricate digital business setting, the business\nmodel must be explicit and highly flexible to adapt effectively. Embracing change is important for effectively\nnavigating today’s business landscape.\nLINK TO LEARNING\nLearn about AI-generated music (https://openstax.org/r/109AIMusic) and how AI is disrupting the music\nindustry as well as freemium and subscription business models.\n\n\n[6528b6855557df45feb001dc95197679ae37da5be6ef945a91a57b59f79eadb4 | starter/data/Foundations_of_Information_Systems.pdf | page 38]\n• cloud computing: networking, programming,\nmachine learning, virtualization, cloud security,\nbusiness concepts, and project management\n• systems analysis: system design, data analysis,\nbusiness analysis, problem-solving, critical\nthinking, creativity, and systems administration\n• cybersecurity: threat detection systems, digital\nforensics, penetration testing, auditing, data\nsecurity, data privacy\nManagement\nCompetencies regarding\nleadership, conflict resolution,\ndelegation, and team dynamics\nGeneral:\n• team management\n• conflict management\n• delegation\n• leadership\nIS-specific:\n• risk assessment\n• policy development\n• regulatory compliance\n• incident response planning\nTable 1.1 Professional Competencies No matter what field you go into, certain personal, academic, and workplace skills are needed\nto be successful as you grow in your career.\n28 1 • Fundamentals of Information Systems\nAccess for free at openstax.org\n\n[c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce | starter/data/Foundations_of_Information_Systems.pdf | page 64]\non\ninvestment\nManufacturing\nand\noperations\nProduct life-cycle\noptimization and risk\nassessment\nEfficient\nmaterials and\nproduction\nplanning\nReal-time shop\nfloor\nmonitoring\nand quality\ncontrol\nImproved product\nquality, reduced\nproduction downtime,\nstreamlined processes\nSupply chain\nmanagement\nSupply chain visibility\nand demand\nforecasting\nInventory\noptimization and\nsupplier\nperformance\ntracking\nEfficient order\nprocessing and\nshipment\ntracking\nReduced inventory costs,\nimproved supply chain\nefficiency\nCustomer\nservice\nAcquisition and\nretention of\ncustomers; customer\nfeedback and\nsentiment analysis\nHelp desk\nperformance\nanalytics and\nticket tracking\nCustomer self-\nhelp\nknowledge\nbase and issue\nresolution\nEnhanced customer\nsatisfaction, reduced\nresponse time, and\nsupport costs\nResearch and\ndevelopment\nRate of collaborative\ninnovation and new\nidea generation\nProject resource\nallocation and\ninnovation\ntracking\nIdea evaluation\nand research\nand\ndevelopment\nprocess\noptimization\nAccelerated ",
+    "context_ids": [
+      "23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737",
+      "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47",
+      "6b02d6af6b3f1b530418d3a2eb658ee02f9675cb09a342e80bc88d94401260eb",
+      "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+      "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+      "3a4883bad9d408ff7a57b875dddf96cd1fa77f609fb13da321ec935353e17210",
+      "6528b6855557df45feb001dc95197679ae37da5be6ef945a91a57b59f79eadb4",
+      "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce"
+    ],
+    "context_chars": 5918,
+    "context_sha256": "ba76a3ab49afc61eb617e6f6f7109aa4b4882dd68954738c8f4e01c43faed2b3",
+    "budget_chars": 6000,
+    "remaining_chars": 82,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 8,
+    "skipped_count": 2,
+    "decisions": [
+      {
+        "id": "23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "metadata": {
+          "end": 1599,
+          "part": 0,
+          "year": 2025,
+          "start": 928,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 671,
+        "block_characters": 802,
+        "separator_characters": 0,
+        "remaining_before": 6000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "metadata": {
+          "end": 4551,
+          "part": 0,
+          "year": 2025,
+          "start": 4030,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 521,
+        "block_characters": 652,
+        "separator_characters": 2,
+        "remaining_before": 5198,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "6b02d6af6b3f1b530418d3a2eb658ee02f9675cb09a342e80bc88d94401260eb",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "metadata": {
+          "end": 225,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 225,
+        "block_characters": 356,
+        "separator_characters": 2,
+        "remaining_before": 4544,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 358,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 358,
+        "block_characters": 489,
+        "separator_characters": 2,
+        "remaining_before": 4186,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "metadata": {
+          "end": 1558,
+          "part": 1,
+          "year": 2025,
+          "start": 1049,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 509,
+        "block_characters": 640,
+        "separator_characters": 2,
+        "remaining_before": 3695,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "3a4883bad9d408ff7a57b875dddf96cd1fa77f609fb13da321ec935353e17210",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "end": 1185,
+          "part": 0,
+          "year": 2025,
+          "start": 534,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 651,
+        "block_characters": 782,
+        "separator_characters": 2,
+        "remaining_before": 3053,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "6528b6855557df45feb001dc95197679ae37da5be6ef945a91a57b59f79eadb4",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 38,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 510,
+          "end": 1437,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 927,
+        "block_characters": 1058,
+        "separator_characters": 2,
+        "remaining_before": 2269,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 64,
+        "metadata": {
+          "end": 1972,
+          "part": 0,
+          "year": 2025,
+          "start": 978,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 994,
+        "block_characters": 1125,
+        "separator_characters": 2,
+        "remaining_before": 1209,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 928,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 928,
+        "block_characters": 1059,
+        "separator_characters": 2,
+        "remaining_before": 82,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "7e5aeb9e42675f54450adc7c04582c9ec4d32c9d15fc29a5b28703e3b86079e9",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 58,
+        "metadata": {
+          "end": 1723,
+          "part": 0,
+          "year": 2025,
+          "start": 1682,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 41,
+        "block_characters": 172,
+        "separator_characters": 2,
+        "remaining_before": 82,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 891.0539000007702
+}

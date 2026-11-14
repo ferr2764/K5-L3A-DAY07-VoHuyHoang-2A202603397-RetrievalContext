@@ -1,0 +1,43 @@
+[f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506 | starter/data/Foundations_of_Information_Systems.pdf | page 58]
+There is a distinction between information used for strategic planning and information used for management
+control. An organization’s strategic planning is its process of defining the organization’s mission, vision, goals,
+and objectives, and developing strategies to achieve them, often with the support of information systems,
+typically done by senior-level managers. In contrast, management control ensures efficient day-to-day
+operations and adherence to those strategic plans. The information required for each level serves a distinct
+purpose; hence, the data required also differ. The data need to be in user-friendly formats, enabling managers
+and analysts to easily comprehend and utilize the information according to their specific requirements (Figure
+2.3). Managers, drawing on their expertise and experience while analyzing data, can effectively leverage these
+insights to address complex business problems. This fosters a dynamic and adaptive approach of leveraging
+collective data to 
+
+[1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea | starter/data/Foundations_of_Information_Systems.pdf | page 59]
+• Management control is the process of ensuring that the organization is meeting its strategic goals. It
+involves setting budgets, monitoring expenses, and tracking sales. Management control is typically done
+by middle management.
+• Strategic planning is the process of setting long-term goals for an organization. It involves identifying the
+organization’s mission, vision, and values, as well as its strategic objectives. Strategic planning is typically
+done by the organization’s top management team.
+By classifying information into these categories, Anthony’s framework provides a structured approach to
+gathering, analyzing, and utilizing information for effective planning and control within an organization. Table
+2.1 features data characteristics for the three types of domains.
+Domain Data Use Data Characteristics
+Operational Track and control day-to-day activities. Data are typically detailed and time sensitive.
+
+
+[5753737545aba6557803791fb2267f4b8315124b220975dd0757cf8f9255922c | starter/data/Foundations_of_Information_Systems.pdf | page 60]
+According to the Gorry and Scott Morton framework, management control primarily deals with overseeing and
+guiding people, while operational control focuses on the performance of designated activities or tasks, such as
+manufacturing a particular part. Typically, operational control systems have a limited ability to provide
+managerial control reports or data that are helpful for strategic decision-making. For example, an online retail
+system primarily focused on operational control can generate sales reports that may provide valuable data for
+both managerial and strategic decision-making. Similarly, an online retail system primarily focused on
+operational control can generate reports, such as a sales analysis report. While intended for operational
+purposes, such reports can also provide valuable data for both managerial and strategic decision-making. For
+instance, Zara has been able to use online retail system data for its supply chain management system to beat
+competitors in the time 
+
+[2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf | starter/data/Foundations_of_Information_Systems.pdf | page 59]
+Management Make decisions about how to allocate resources and achieve goals. Data are typically summarized and less time sensitive than operational data.
+Strategic Set long-term goals and make strategic decisions. Data are typically aggregated and less time sensitive than management data.
+Table 2.1 Three Domains of the Robert Anthony Framework The three domains of the Robert Anthony framework—operational
+control, management control, and strategic planning—each work with different types of data for different purposes.

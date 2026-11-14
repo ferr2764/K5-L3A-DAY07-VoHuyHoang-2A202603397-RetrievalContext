@@ -1,0 +1,59 @@
+{
+  "profile": "hybrid_6000",
+  "split": "dev",
+  "cases": 17,
+  "answerable_cases": 15,
+  "unanswerable_cases": 2,
+  "original_query_hit_at_1_literal": {
+    "n": 8,
+    "N": 15,
+    "rate": 0.5333333333333333
+  },
+  "original_query_evidence_hit_at_3_literal": {
+    "n": 12,
+    "N": 15,
+    "rate": 0.8
+  },
+  "final_model_context_evidence_rate_literal": {
+    "n": 9,
+    "N": 15,
+    "rate": 0.6
+  },
+  "agent_status_counts": {
+    "answered": 9,
+    "abstain": 1,
+    "error": 7
+  },
+  "raw_retrieval_errors": 0,
+  "tool_use": {
+    "n": 10,
+    "N": 10
+  },
+  "search_count_distribution": {
+    "0": 4,
+    "1": 13,
+    "2": 0
+  },
+  "answerable_abstentions_unreviewed": 1,
+  "unanswerable_abstentions_unreviewed": 0,
+  "median_original_query_ms": 889.7936000012123,
+  "median_agent_seconds": 4.469976200000019,
+  "sum_agent_seconds": 58.8932858000062,
+  "model_usage": {
+    "request_count": 30,
+    "known_cost_usd": 0.0153012,
+    "cost_usd": null,
+    "unknown_cost_request_count": 7,
+    "prompt_tokens_known": 27025
+  },
+  "embedding_usage": {
+    "request_count": 30,
+    "known_cost_usd": 1.748e-05,
+    "cost_usd": 1.748e-05,
+    "unknown_cost_request_count": 0,
+    "prompt_tokens_known": 874
+  },
+  "total_cost_usd": null,
+  "known_cost_subtotal_usd": 0.01531868,
+  "manual_answer_citation_abstention_review": "pending; do not infer semantic correctness from IDs or literal metrics"
+}

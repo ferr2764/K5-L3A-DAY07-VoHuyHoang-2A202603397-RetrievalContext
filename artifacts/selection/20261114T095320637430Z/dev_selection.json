@@ -1,0 +1,143 @@
+{
+  "scoring": [
+    {
+      "profile": "hybrid_6000",
+      "system_errors": 0,
+      "grounded_answer_counts": {
+        "0": 3,
+        "1": 0,
+        "2": 12
+      },
+      "grounded_answer_mean": 1.6,
+      "abstention": {
+        "n": 2,
+        "N": 2
+      },
+      "citation_validity": {
+        "n": 19,
+        "N": 21
+      },
+      "selection_key": [
+        0,
+        1.6,
+        1.0,
+        0.9047619047619048,
+        0.9333333333333333,
+        0.8,
+        0.5333333333333333,
+        -0.02417208,
+        -4.804145600000993,
+        -6000
+      ],
+      "cost_usd_effective_cases": 0.02417208
+    },
+    {
+      "profile": "hybrid_4000",
+      "system_errors": 0,
+      "grounded_answer_counts": {
+        "0": 4,
+        "1": 0,
+        "2": 11
+      },
+      "grounded_answer_mean": 1.4666666666666666,
+      "abstention": {
+        "n": 2,
+        "N": 2
+      },
+      "citation_validity": {
+        "n": 16,
+        "N": 19
+      },
+      "selection_key": [
+        0,
+        1.4666666666666666,
+        1.0,
+        0.8421052631578947,
+        0.8,
+        0.8,
+        0.5333333333333333,
+        -0.02028616,
+        -4.73881529999926,
+        -4000
+      ],
+      "cost_usd_effective_cases": 0.02028616
+    },
+    {
+      "profile": "dense_4000",
+      "system_errors": 0,
+      "grounded_answer_counts": {
+        "0": 5,
+        "1": 0,
+        "2": 10
+      },
+      "grounded_answer_mean": 1.3333333333333333,
+      "abstention": {
+        "n": 2,
+        "N": 2
+      },
+      "citation_validity": {
+        "n": 11,
+        "N": 12
+      },
+      "selection_key": [
+        0,
+        1.3333333333333333,
+        1.0,
+        0.9166666666666666,
+        0.8666666666666667,
+        0.8666666666666667,
+        0.5333333333333333,
+        -0.0196795,
+        -4.659235500001159,
+        -4000
+      ],
+      "cost_usd_effective_cases": 0.0196795
+    },
+    {
+      "profile": "lexical_4000",
+      "system_errors": 0,
+      "grounded_answer_counts": {
+        "0": 5,
+        "1": 0,
+        "2": 10
+      },
+      "grounded_answer_mean": 1.3333333333333333,
+      "abstention": {
+        "n": 2,
+        "N": 2
+      },
+      "citation_validity": {
+        "n": 12,
+        "N": 15
+      },
+      "selection_key": [
+        0,
+        1.3333333333333333,
+        1.0,
+        0.8,
+        0.7333333333333333,
+        0.7333333333333333,
+        0.4666666666666667,
+        -0.0177268,
+        -3.988004299999375,
+        -4000
+      ],
+      "cost_usd_effective_cases": 0.0177268
+    }
+  ],
+  "winner": "hybrid_6000",
+  "selection_order": [
+    "fewer_system_errors",
+    "higher_grounded_answer_mean_all_answerable_errors_zero",
+    "higher_abstention_rate_all_unanswerable_errors_fail",
+    "higher_supported_citation_rate_NA_last",
+    "higher_context_evidence_rate",
+    "higher_original_query_evidence_hit3",
+    "higher_original_query_hit1",
+    "lower_comparable_actual_usd_else_skip",
+    "lower_median_end_to_end_latency",
+    "smaller_context_budget",
+    "configuration_id_alphabetical"
+  ],
+  "note": "AI-assisted semantic review recorded before test; student confirmation pending. No test outcomes used."
+}

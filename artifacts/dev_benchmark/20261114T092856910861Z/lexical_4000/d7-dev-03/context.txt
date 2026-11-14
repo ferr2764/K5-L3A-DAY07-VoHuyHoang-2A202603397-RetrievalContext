@@ -1,0 +1,49 @@
+[b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c | starter/data/Foundations_of_Information_Systems.pdf | page 31]
+• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including
+training and incentive programs
+• Structure: how an organization is designed, including its hierarchy and chain of command
+• Strategy: the organization’s goals/objectives and the plans to achieve these
+• Skills: the skills, knowledge, and competencies held by the organization’s staff
+• Systems: the workflow processes used to achieve the organization’s goals and objectives
+• Style: the tone at the executive level established by the organization’s leaders and managers
+• Shared values: the organization’s mission and values that motivate its operations
+LINK TO LEARNING
+The McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination
+within an organization across its structure. Review this interactive presentation about the framework’s
+applicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.
+
+
+[57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9 | starter/data/Foundations_of_Information_Systems.pdf | page 31]
+discusses best practices for managing information technology. ITIL is managed and updated by AXELOS, a
+company that provides training and certifications to various technology professionals, including those in IS.
+ITIL offers guidance, as well as professional certification, for carrying out twenty-six processes in the areas of
+service strategy, design, transition, operation, and improvement.
+The McKinsey 7-S Framework focuses on how an organization can be efficient and effective with interaction
+and coordination of its staff, structure, strategy, skills, systems, style, and shared values. The goal of the
+framework is to determine how an organization can be effective with interaction and coordination of the seven
+elements:
+
+
+[ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576 | starter/data/Foundations_of_Information_Systems.pdf | page 31]
+The McKinsey 7-S Framework can be used by following four steps:
+1. Identify the parts of the organization that are not aligned with shared values, including a shared mission,
+goals, and objectives.
+2. Determine the design and structure that will enable the organization to achieve alignment and reach its
+goals and objectives.
+3. Identify areas where changes are needed to update the organizational design.
+4. Implement the necessary changes.
+This framework can help ensure organizations are in alignment and have an effective design, making it easier
+to develop and maintain the appropriate information systems to meet the organization’s needs.
+
+
+[8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7 | starter/data/Foundations_of_Information_Systems.pdf | page 32]
+• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an
+organization’s objectives and assigning responsibilities to subordinates. These employees perform highly
+complex tasks and make decisions that directly impact an organization’s performance and achievement of
+organizational goals and objectives.
+• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top
+leaders and managers. These individuals establish an organization’s policy objectives and have oversight
+and accountability for all decisions made and actions taken throughout the organization.
+SFIA is an important framework used globally to promote success in the digital world. Its common language
+helps technology professionals across the globe integrate the processes they must learn to successfully
+manage technology.

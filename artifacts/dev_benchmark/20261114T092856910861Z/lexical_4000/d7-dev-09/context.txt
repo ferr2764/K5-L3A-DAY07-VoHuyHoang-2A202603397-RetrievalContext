@@ -1,0 +1,39 @@
+[f465b7f8409a07fde37be3d48e524be29741df7a685a8892fd30d8c2890dc9cd | starter/data/Foundations_of_Information_Systems.pdf | page 55]
+Businesses that strive to ensure they follow these data management parameters can decide to follow any
+framework. A framework is a structured and organized approach that provides a set of guidelines, principles,
+or tools to address complex problems or tasks in a systematic manner. It serves as a foundation to build and
+manage processes, systems, or projects, ensuring consistency, efficiency, and effectiveness. Following are
+some common data management frameworks:
+• DAMA-DMBOK: The Data Management Body of Knowledge, developed by the Data Management
+Association (DAMA International), provides comprehensive guidelines across ten key knowledge areas,
+including data governance, data architecture, and data quality.
+• MIKE2.0 IMM: This framework offers a structured way to assess an organization’s information maturity
+level.
+• IBM Data Governance Council Maturity Model: This model provides a road map for implementing effective
+data governance processes and controls.
+
+
+[8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018 | starter/data/Foundations_of_Information_Systems.pdf | page 55]
+There are some differences in how each framework approaches data management. DAMA-DMBOK focuses on
+the technical aspects of data management, while MIKE2.0 focuses on the business aspects of information
+management. The IBM Data Governance Council Maturity Model and the EDM Council Data Management
+Maturity Model are both designed to help organizations assess their current data management practices and
+identify areas for improvement. The best framework for an organization will depend on its specific needs and
+requirements. However, all five frameworks can be valuable tools for improving data management and
+information quality. The optimal framework for managing data is one that is continuously developing to
+address advancements in data storage and changes in organizational policy.
+CAREERS IN IS
+Data Architect
+A data architect is responsible for designing, creating, and managing an organization’s data architecture.
+
+
+[6091d0dbdc9fb02ed1baf2aaa8b104d68f04e58b4559ad88b80a0b408ee72a44 | starter/data/Foundations_of_Information_Systems.pdf | page 58]
+Figure 2.3 Data processing for particular purposes generates information, and when applied with business acumen, information
+creates knowledge. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; credit Data: modification of work
+“Project 365 #195: 140709 Let’s Get Jiggy With It” by Pete/Flickr, Public Domain; credit Knowledge: modification of work “Thick arrow
+made from jigsaw puzzle pieces” by Old Photo Profile/Flickr, CC BY 2.0)
+Consider an example within the energy sector’s need for sustainable energy solutions. To plan information
+systems for a company in this sector, the chief information officer (CIO) must first understand what decisions
+need to be made and, correspondingly, what data these decisions require—strategic planning, management
+control, and operational control. The CIO should assess the different types of data currently available. These
+data can come from various sources across operations. The focus should be on ensuring existing data 

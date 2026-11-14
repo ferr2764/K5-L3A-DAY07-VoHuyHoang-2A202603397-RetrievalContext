@@ -1,0 +1,11 @@
+{
+  "runtime_path": "starter/data/day6/chunks.json",
+  "submission_path": "data/day6/chunks.json",
+  "sha256": "1c7f0683495b7d53a55a510fc541d472d8d905f83709b83c17c8def82c12dbb4",
+  "chunks": 162,
+  "strategy": "B",
+  "embedding_model": "openai/text-embedding-3-small",
+  "dimensions": 1536,
+  "vectors_included": false,
+  "database_requirement": "Reuse DAY06 day6_chunks strategy B; raw text alone does not recreate the vector index."
+}

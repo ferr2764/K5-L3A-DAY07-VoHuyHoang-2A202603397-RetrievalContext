@@ -1,0 +1,607 @@
+{
+  "scope": "Two predeclared improvements already executed in task 7, plus three source-reviewed DEV error cases. No new experiments/API calls or test evaluation.",
+  "run": "artifacts/dev_retries/20261114T093849461754Z",
+  "experiments": [
+    {
+      "id": "improvement_1_rrf",
+      "before": "dense_4000",
+      "after": "hybrid_4000",
+      "hypothesis_predeclared": "Combine exact lexical terms and semantic retrieval with RRF to improve evidence ranking/coverage.",
+      "change": "Dense alone -> dense + TF-IDF, each branch top-10, RRF k=60; same 4000-char context and model/prompt.",
+      "before_metrics": {
+        "original_query_hit_at_1_literal": {
+          "n": 8,
+          "N": 15,
+          "rate": 0.5333333333333333
+        },
+        "original_query_evidence_hit_at_3_literal": {
+          "n": 13,
+          "N": 15,
+          "rate": 0.8666666666666667
+        },
+        "final_model_context_evidence_rate_literal": {
+          "n": 13,
+          "N": 15,
+          "rate": 0.8666666666666667
+        },
+        "median_original_query_ms": 900.6979000005231,
+        "median_agent_seconds": 4.659235500001159,
+        "total_cost_usd": 0.0196795,
+        "agent_status_counts": {
+          "answered": 11,
+          "abstain": 6,
+          "error": 0
+        }
+      },
+      "after_metrics": {
+        "original_query_hit_at_1_literal": {
+          "n": 8,
+          "N": 15,
+          "rate": 0.5333333333333333
+        },
+        "original_query_evidence_hit_at_3_literal": {
+          "n": 12,
+          "N": 15,
+          "rate": 0.8
+        },
+        "final_model_context_evidence_rate_literal": {
+          "n": 12,
+          "N": 15,
+          "rate": 0.8
+        },
+        "median_original_query_ms": 869.0449000005174,
+        "median_agent_seconds": 4.73881529999926,
+        "total_cost_usd": 0.02028616,
+        "agent_status_counts": {
+          "answered": 14,
+          "abstain": 3,
+          "error": 0
+        }
+      },
+      "observed_result": "Did not improve aggregate literal retrieval/context: Hit@1 8/15 -> 8/15; Hit@3 13/15 -> 12/15; context 13/15 -> 12/15. Report regression honestly; do not tune using test."
+    },
+    {
+      "id": "improvement_2_context",
+      "before": "hybrid_4000",
+      "after": "hybrid_6000",
+      "hypothesis_predeclared": "Larger context budget can retain lower-ranked relevant whole chunks skipped at 4000 chars.",
+      "change": "Only context budget 4000 -> 6000; same hybrid candidates/RRF/filter/model/prompt/limits.",
+      "before_metrics": {
+        "original_query_hit_at_1_literal": {
+          "n": 8,
+          "N": 15,
+          "rate": 0.5333333333333333
+        },
+        "original_query_evidence_hit_at_3_literal": {
+          "n": 12,
+          "N": 15,
+          "rate": 0.8
+        },
+        "final_model_context_evidence_rate_literal": {
+          "n": 12,
+          "N": 15,
+          "rate": 0.8
+        },
+        "median_original_query_ms": 869.0449000005174,
+        "median_agent_seconds": 4.73881529999926,
+        "total_cost_usd": 0.02028616,
+        "agent_status_counts": {
+          "answered": 14,
+          "abstain": 3,
+          "error": 0
+        }
+      },
+      "after_metrics": {
+        "original_query_hit_at_1_literal": {
+          "n": 8,
+          "N": 15,
+          "rate": 0.5333333333333333
+        },
+        "original_query_evidence_hit_at_3_literal": {
+          "n": 12,
+          "N": 15,
+          "rate": 0.8
+        },
+        "final_model_context_evidence_rate_literal": {
+          "n": 14,
+          "N": 15,
+          "rate": 0.9333333333333333
+        },
+        "median_original_query_ms": 889.7936000012123,
+        "median_agent_seconds": 4.804145600000993,
+        "total_cost_usd": 0.02417208,
+        "agent_status_counts": {
+          "answered": 13,
+          "abstain": 4,
+          "error": 0
+        }
+      },
+      "observed_result": "Hit@1/Hit@3 unchanged 8/15 and 12/15; context 12/15 -> 14/15. More model input and cost; not proof of better overall grounded answers."
+    }
+  ],
+  "errors": [
+    {
+      "id": "sfia_level5_budget",
+      "query_id": "d7-dev-05",
+      "source_page": 32,
+      "cause": "Gold chunk at agent hybrid rank 6 is 1046 chars including header; 4000-budget remaining 160 chars so it is skipped. Model confuses Level 6 with expected Level 5.",
+      "hypothesis": "Keep same ranking and increase budget to fit the whole SFIA level-definition chunk.",
+      "before": {
+        "profile": "hybrid_4000",
+        "query_id": "d7-dev-05",
+        "question": "Theo SFIA, cấp nào cho phép nhận định hướng rộng và tự khởi xướng công việc được cho là cần thực hiện?",
+        "expected_answer": "Level 5 — Ensure and Advise.",
+        "gold": [
+          {
+            "source_id": "foundations-of-information-systems",
+            "page": 32,
+            "evidence": "Level 5, Ensure and Advise: At this level, employees receive broad direction, giving them more autonomy,\nincluding the ability to self-initiate work that they think should be performed."
+          }
+        ],
+        "trace_path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-05/agent_trace.json",
+        "status": "answered",
+        "answer": "Theo SFIA, cấp 6 (Initiate and Influence) cho phép nhận định hướng rộng và tự khởi xướng công việc được cho là cần thực hiện. Ở cấp này, nhân viên đóng vai trò trung tâm trong việc thiết lập mục tiêu của tổ chức và phân công trách nhiệm cho cấp dưới, thực hiện các nhiệm vụ phức tạp và đưa ra các quyết định ảnh hưởng trực tiếp đến hiệu suất và mục tiêu của tổ chức [8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7].",
+        "queries": [
+          "SFIA cấp nhận định hướng rộng và tự khởi xướng công việc"
+        ],
+        "target_candidates": [
+          {
+            "chunk_id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+            "page": 32,
+            "rank": 6,
+            "decision": {
+              "id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+              "source_id": "foundations-of-information-systems",
+              "source": "starter/data/Foundations_of_Information_Systems.pdf",
+              "page": 32,
+              "metadata": {
+                "end": 1802,
+                "part": 0,
+                "year": 2025,
+                "start": 887,
+                "method": "paragraph-1000",
+                "section": "1.2",
+                "language": "en",
+                "attribution": "Access for free at openstax.org."
+              },
+              "best_reciprocal_rank": 0.015151515151515152,
+              "occurrences": [
+                {
+                  "search_round": 1,
+                  "rank": 6
+                }
+              ],
+              "text_characters": 915,
+              "block_characters": 1046,
+              "separator_characters": 2,
+              "remaining_before": 160,
+              "selected": false,
+              "reason": "insufficient_remaining_budget"
+            }
+          }
+        ],
+        "citations": [
+          {
+            "id": "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7",
+            "page": 32,
+            "text": "• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an\norganization’s objectives and assigning responsibilities to subordinates. These employees perform highly\ncomplex tasks and make decisions that directly impact an organization’s performance and achievement of\norganizational goals and objectives.\n• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top\nleaders and managers. These individuals establish an organization’s policy objectives and have oversight\nand accountability for all decisions made and actions taken throughout the organization.\nSFIA is an important framework used globally to promote success in the digital world. Its common language\nhelps technology professionals across the globe integrate the processes they must learn to successfully\nmanage technology.\n",
+            "in_context": true
+          }
+        ],
+        "context_evidence_literal": false,
+        "grounded_answer_0_2": 0,
+        "citation_support": [
+          false
+        ],
+        "reason": "Answer says Level 6; PDF explicitly assigns broad direction and self-initiation to Level 5. Cited chunk describes levels 6/7 and does not support this answer.",
+        "provenance": {
+          "reviewer": "Codex (AI assistant)",
+          "method": "Read saved dev answers, citations, original/rewritten rankings, context decisions and PDF evidence; do not infer semantic grades from IDs.",
+          "human_confirmation": "confirmed",
+          "scope": "Selected error cases only, not full dev answer grading or model selection."
+        }
+      },
+      "after": {
+        "profile": "hybrid_6000",
+        "query_id": "d7-dev-05",
+        "question": "Theo SFIA, cấp nào cho phép nhận định hướng rộng và tự khởi xướng công việc được cho là cần thực hiện?",
+        "expected_answer": "Level 5 — Ensure and Advise.",
+        "gold": [
+          {
+            "source_id": "foundations-of-information-systems",
+            "page": 32,
+            "evidence": "Level 5, Ensure and Advise: At this level, employees receive broad direction, giving them more autonomy,\nincluding the ability to self-initiate work that they think should be performed."
+          }
+        ],
+        "trace_path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-05/agent_trace.json",
+        "status": "answered",
+        "answer": "Theo SFIA, cấp 5 (Ensure and Advise) cho phép nhân viên nhận định hướng rộng và có khả năng tự khởi xướng công việc mà họ cho là cần thực hiện. Ở cấp này, nhân viên nhận được sự chỉ đạo rộng rãi, có nhiều quyền tự chủ, bao gồm khả năng tự khởi xướng công việc mà họ nghĩ là cần thiết. Công việc của họ thường phức tạp và là một phần quan trọng trong kế hoạch chiến lược của tổ chức [1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde].",
+        "queries": [
+          "SFIA cấp nhận định hướng rộng và tự khởi xướng công việc"
+        ],
+        "target_candidates": [
+          {
+            "chunk_id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+            "page": 32,
+            "rank": 6,
+            "decision": {
+              "id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+              "source_id": "foundations-of-information-systems",
+              "source": "starter/data/Foundations_of_Information_Systems.pdf",
+              "page": 32,
+              "metadata": {
+                "end": 1802,
+                "part": 0,
+                "year": 2025,
+                "start": 887,
+                "method": "paragraph-1000",
+                "section": "1.2",
+                "language": "en",
+                "attribution": "Access for free at openstax.org."
+              },
+              "best_reciprocal_rank": 0.015151515151515152,
+              "occurrences": [
+                {
+                  "search_round": 1,
+                  "rank": 6
+                }
+              ],
+              "text_characters": 915,
+              "block_characters": 1046,
+              "separator_characters": 2,
+              "remaining_before": 1410,
+              "selected": true,
+              "reason": "selected_complete_chunk"
+            }
+          }
+        ],
+        "citations": [
+          {
+            "id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+            "page": 32,
+            "text": "• Level 2, Assist: These employees also work under close supervision, but their work is a bit more complex,\nand they have more influence with colleagues.\n• Level 3, Apply: At this level, employees receive more general supervision, and they have more autonomy.\nTheir work is more complex and may not be routine. They also may be allowed to make some decisions on\ntheir own and may oversee other employees.\n• Level 4, Enable: Employees at this level have much more complex work in a broader range of contexts.\nWhile they receive general direction, they have considerable autonomy, as well as personal responsibility\nfor work outcomes.\n• Level 5, Ensure and Advise: At this level, employees receive broad direction, giving them more autonomy,\nincluding the ability to self-initiate work that they think should be performed. Their tasks tend to be\ncomplex and are an integral part of an organization’s strategic plans.\n",
+            "in_context": true
+          }
+        ],
+        "context_evidence_literal": true,
+        "grounded_answer_0_2": 2,
+        "citation_support": [
+          true
+        ],
+        "reason": "Same query/candidate ranking; 6000-budget remaining 1410 chars permits the 1046-char target. Answer correctly identifies Level 5 with supported citation.",
+        "provenance": {
+          "reviewer": "Codex (AI assistant)",
+          "method": "Read saved dev answers, citations, original/rewritten rankings, context decisions and PDF evidence; do not infer semantic grades from IDs.",
+          "human_confirmation": "confirmed",
+          "scope": "Selected error cases only, not full dev answer grading or model selection."
+        }
+      },
+      "result": "Context evidence false -> true; selected-case answer grade 0 -> 2; no claim about all dev answers."
+    },
+    {
+      "id": "velocity_budget_unsupported_citation",
+      "query_id": "d7-dev-11",
+      "source_page": 56,
+      "cause": "Gold Velocity chunk at hybrid rank 6 is 932 chars; 4000-budget remaining 191 chars skips it. Answer names Velocity but cites a chunk defining Volume/Variety, not the requested relationship.",
+      "hypothesis": "Increase context budget while holding the hybrid ranking fixed to retain the explicit Velocity definition.",
+      "before": {
+        "profile": "hybrid_4000",
+        "query_id": "d7-dev-11",
+        "question": "Nếu dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực, đó là chiều nào của big data?",
+        "expected_answer": "Velocity.",
+        "gold": [
+          {
+            "source_id": "foundations-of-information-systems",
+            "page": 56,
+            "evidence": "Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity."
+          }
+        ],
+        "trace_path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-11/agent_trace.json",
+        "status": "answered",
+        "answer": "Nếu dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực, đó là thuộc chiều \"Velocity\" (tốc độ) của big data. Chiều này đề cập đến tốc độ dữ liệu được tạo ra và xử lý để đáp ứng các yêu cầu thời gian thực hoặc gần thời gian thực trong các ứng dụng vận hành và ra quyết định nhanh chóng [eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245].",
+        "queries": [
+          "big data dimensions real-time data processing"
+        ],
+        "target_candidates": [
+          {
+            "chunk_id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+            "page": 56,
+            "rank": 6,
+            "decision": {
+              "id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+              "source_id": "foundations-of-information-systems",
+              "source": "starter/data/Foundations_of_Information_Systems.pdf",
+              "page": 56,
+              "metadata": {
+                "end": 1502,
+                "part": 0,
+                "year": 2025,
+                "start": 701,
+                "method": "paragraph-1000",
+                "section": "2.1",
+                "language": "en",
+                "attribution": "Access for free at openstax.org."
+              },
+              "best_reciprocal_rank": 0.015151515151515152,
+              "occurrences": [
+                {
+                  "search_round": 1,
+                  "rank": 6
+                }
+              ],
+              "text_characters": 801,
+              "block_characters": 932,
+              "separator_characters": 2,
+              "remaining_before": 191,
+              "selected": false,
+              "reason": "insufficient_remaining_budget"
+            }
+          }
+        ],
+        "citations": [
+          {
+            "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+            "page": 56,
+            "text": "Dimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n",
+            "in_context": true
+          }
+        ],
+        "context_evidence_literal": false,
+        "grounded_answer_0_2": 0,
+        "citation_support": [
+          false
+        ],
+        "reason": "Velocity label happens to be correct but the cited eab422... chunk has Volume/Variety and does not support the real-time Velocity claim; rubric 0 for missing evidence.",
+        "provenance": {
+          "reviewer": "Codex (AI assistant)",
+          "method": "Read saved dev answers, citations, original/rewritten rankings, context decisions and PDF evidence; do not infer semantic grades from IDs.",
+          "human_confirmation": "confirmed",
+          "scope": "Selected error cases only, not full dev answer grading or model selection."
+        }
+      },
+      "after": {
+        "profile": "hybrid_6000",
+        "query_id": "d7-dev-11",
+        "question": "Nếu dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực, đó là chiều nào của big data?",
+        "expected_answer": "Velocity.",
+        "gold": [
+          {
+            "source_id": "foundations-of-information-systems",
+            "page": 56,
+            "evidence": "Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity."
+          }
+        ],
+        "trace_path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-11/agent_trace.json",
+        "status": "answered",
+        "answer": "Chiều của big data liên quan đến việc dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực là chiều \"Velocity\" (tốc độ). Velocity đặc trưng cho tốc độ nhanh chóng mà dữ liệu được tạo ra và thu thập, đòi hỏi phải xử lý ngay lập tức hoặc gần như thời gian thực để có thể phân tích và đưa ra các quyết định kịp thời. Ví dụ, trong các sự kiện có lưu lượng truy cập cao như các đợt bán hàng trực tuyến nhanh, dữ liệu clickstream liên tục được thu thập và cần phân tích nhanh để cung cấp các đề xuất và thông tin phù hợp cho người dùng trong môi trường số động này [dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c].",
+        "queries": [
+          "big data dimensions real-time data processing"
+        ],
+        "target_candidates": [
+          {
+            "chunk_id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+            "page": 56,
+            "rank": 6,
+            "decision": {
+              "id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+              "source_id": "foundations-of-information-systems",
+              "source": "starter/data/Foundations_of_Information_Systems.pdf",
+              "page": 56,
+              "metadata": {
+                "end": 1502,
+                "part": 0,
+                "year": 2025,
+                "start": 701,
+                "method": "paragraph-1000",
+                "section": "2.1",
+                "language": "en",
+                "attribution": "Access for free at openstax.org."
+              },
+              "best_reciprocal_rank": 0.015151515151515152,
+              "occurrences": [
+                {
+                  "search_round": 1,
+                  "rank": 6
+                }
+              ],
+              "text_characters": 801,
+              "block_characters": 932,
+              "separator_characters": 2,
+              "remaining_before": 1231,
+              "selected": true,
+              "reason": "selected_complete_chunk"
+            }
+          }
+        ],
+        "citations": [
+          {
+            "id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+            "page": 56,
+            "text": "• Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity. Particularly evident during high-traffic events, such as online flash\nsales, the constant influx of clickstream data necessitates swift analysis to enable the system to offer\ntailored recommendations and insights to users navigating a dynamic digital landscape.\n• Veracity: The veracity dimension refers to the reliability, accuracy, and trustworthiness of the data,\nconsidering factors like data quality and consistency. As data originate from a multitude of sources and\nare influenced by user behaviors and tracking nuances, ensuring the quality of the data is imperative to\navoiding misinterpretations of metrics like bounce rates and session durations.\n",
+            "in_context": true
+          }
+        ],
+        "context_evidence_literal": true,
+        "grounded_answer_0_2": 2,
+        "citation_support": [
+          true
+        ],
+        "reason": "932-char Velocity block fits with 1231 chars remaining, answer cites the explicit definition and relevant flash-sale example.",
+        "provenance": {
+          "reviewer": "Codex (AI assistant)",
+          "method": "Read saved dev answers, citations, original/rewritten rankings, context decisions and PDF evidence; do not infer semantic grades from IDs.",
+          "human_confirmation": "confirmed",
+          "scope": "Selected error cases only, not full dev answer grading or model selection."
+        }
+      },
+      "result": "Context evidence false -> true; selected-case grounded grade 0 -> 2; original Vietnamese-query Hit@3 remains a miss."
+    },
+    {
+      "id": "sfia_level3_rrf_regression",
+      "query_id": "d7-dev-04",
+      "source_page": 32,
+      "cause": "Original dense ranks correct Level-3 chunk 3rd; RRF moves it to 4th. Agent rewritten query moves target to dense rank 7/hybrid rank 8; context budgets both skip it.",
+      "hypothesis": "RRF might preserve useful exact SFIA terms; larger context might recover lower-ranked evidence.",
+      "before": {
+        "profile": "dense_4000",
+        "query_id": "d7-dev-04",
+        "question": "Theo SFIA, nhân viên nhận giám sát tổng quát, có thêm tự chủ, công việc có thể không thường lệ và có thể giám sát người khác thuộc cấp độ nào?",
+        "expected_answer": "Level 3 — Apply.",
+        "gold": [
+          {
+            "source_id": "foundations-of-information-systems",
+            "page": 32,
+            "evidence": "Level 3, Apply: At this level, employees receive more general supervision, and they have more autonomy.\nTheir work is more complex and may not be routine. They also may be allowed to make some decisions on\ntheir own and may oversee other employees."
+          }
+        ],
+        "trace_path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-04/agent_trace.json",
+        "status": "abstain",
+        "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+        "queries": [
+          "SFIA nhân viên nhận giám sát tổng quát tự chủ công việc không thường lệ giám sát người khác"
+        ],
+        "target_candidates": [
+          {
+            "chunk_id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+            "page": 32,
+            "rank": 7,
+            "decision": {
+              "id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+              "source_id": "foundations-of-information-systems",
+              "source": "starter/data/Foundations_of_Information_Systems.pdf",
+              "page": 32,
+              "metadata": {
+                "end": 1802,
+                "part": 0,
+                "year": 2025,
+                "start": 887,
+                "method": "paragraph-1000",
+                "section": "1.2",
+                "language": "en",
+                "attribution": "Access for free at openstax.org."
+              },
+              "best_reciprocal_rank": 0.014925373134328358,
+              "occurrences": [
+                {
+                  "search_round": 1,
+                  "rank": 7
+                }
+              ],
+              "text_characters": 915,
+              "block_characters": 1046,
+              "separator_characters": 2,
+              "remaining_before": 358,
+              "selected": false,
+              "reason": "insufficient_remaining_budget"
+            }
+          }
+        ],
+        "citations": [],
+        "context_evidence_literal": false,
+        "grounded_answer_0_2": 0,
+        "citation_support": [],
+        "reason": "False abstention on an answerable question; original query had a valid top-3 hit but agent query/context omitted it.",
+        "provenance": {
+          "reviewer": "Codex (AI assistant)",
+          "method": "Read saved dev answers, citations, original/rewritten rankings, context decisions and PDF evidence; do not infer semantic grades from IDs.",
+          "human_confirmation": "confirmed",
+          "scope": "Selected error cases only, not full dev answer grading or model selection."
+        }
+      },
+      "after": {
+        "profile": "hybrid_6000",
+        "query_id": "d7-dev-04",
+        "question": "Theo SFIA, nhân viên nhận giám sát tổng quát, có thêm tự chủ, công việc có thể không thường lệ và có thể giám sát người khác thuộc cấp độ nào?",
+        "expected_answer": "Level 3 — Apply.",
+        "gold": [
+          {
+            "source_id": "foundations-of-information-systems",
+            "page": 32,
+            "evidence": "Level 3, Apply: At this level, employees receive more general supervision, and they have more autonomy.\nTheir work is more complex and may not be routine. They also may be allowed to make some decisions on\ntheir own and may oversee other employees."
+          }
+        ],
+        "trace_path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-04/agent_trace.json",
+        "status": "answered",
+        "answer": "Theo SFIA, nhân viên nhận giám sát tổng quát, có thêm tự chủ, công việc có thể không thường lệ và có thể giám sát người khác thuộc cấp độ 5. Cấp độ này là \"Ensure, Advise\" (Đảm bảo, Tư vấn), trong đó nhân viên có trách nhiệm giám sát tổng quát, có mức độ tự chủ cao hơn và công việc có thể không theo quy trình thường lệ, đồng thời có thể giám sát người khác. Đây là cấp độ cao hơn so với các cấp độ đầu như \"Follow\" (theo dõi) hay \"Assist\" (hỗ trợ) và thấp hơn các cấp độ như \"Initiate and Influence\" (Khởi xướng và Ảnh hưởng) hoặc \"Set Strategy, Inspire, and Mobilize\" (Đặt chiến lược, Truyền cảm hứng và Huy động) dành cho các nhà lãnh đạo cấp cao [6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8].",
+        "queries": [
+          "SFIA nhân viên nhận giám sát tổng quát tự chủ công việc không thường lệ giám sát người khác"
+        ],
+        "target_candidates": [
+          {
+            "chunk_id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+            "page": 32,
+            "rank": 8,
+            "decision": {
+              "id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+              "source_id": "foundations-of-information-systems",
+              "source": "starter/data/Foundations_of_Information_Systems.pdf",
+              "page": 32,
+              "metadata": {
+                "end": 1802,
+                "part": 0,
+                "year": 2025,
+                "start": 887,
+                "method": "paragraph-1000",
+                "section": "1.2",
+                "language": "en",
+                "attribution": "Access for free at openstax.org."
+              },
+              "best_reciprocal_rank": 0.014705882352941176,
+              "occurrences": [
+                {
+                  "search_round": 1,
+                  "rank": 8
+                }
+              ],
+              "text_characters": 915,
+              "block_characters": 1046,
+              "separator_characters": 2,
+              "remaining_before": 439,
+              "selected": false,
+              "reason": "insufficient_remaining_budget"
+            }
+          }
+        ],
+        "citations": [
+          {
+            "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+            "page": 32,
+            "text": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+            "in_context": true
+          }
+        ],
+        "context_evidence_literal": false,
+        "grounded_answer_0_2": 0,
+        "citation_support": [
+          false
+        ],
+        "reason": "Still omits Level-3 chunk, answers Level 5 and cites a Level-1 introductory chunk. 6000 budget remaining 439 chars is still less than target 1046.",
+        "provenance": {
+          "reviewer": "Codex (AI assistant)",
+          "method": "Read saved dev answers, citations, original/rewritten rankings, context decisions and PDF evidence; do not infer semantic grades from IDs.",
+          "human_confirmation": "confirmed",
+          "scope": "Selected error cases only, not full dev answer grading or model selection."
+        }
+      },
+      "result": "Not fixed; raw Hit@3 true -> false and answer remains grade 0. Do not equate answered with improvement."
+    }
+  ],
+  "provenance": {
+    "reviewer": "Codex (AI assistant)",
+    "method": "Read saved dev answers, citations, original/rewritten rankings, context decisions and PDF evidence; do not infer semantic grades from IDs.",
+    "human_confirmation": "confirmed",
+    "scope": "Selected error cases only, not full dev answer grading or model selection."
+  },
+  "selected_configuration": null,
+  "input_hashes": {
+    "effective_records_sha256": "00e2e0b46416b6ea9d82dbeddcd19ce295143ba49573c0cee50b751ba6be2ad3",
+    "protocol_sha256": "2d2ff50bd6407fffcfa0a13ecff2fb265e6037a5c2297135936393bd034d2f0b",
+    "pdf_sha256": "496dd5f206da66e0334514df9c22a22fa58267851c349619f35c2d3aeba69306"
+  },
+  "limitations": [
+    "Only selected dev cases semantically reviewed; no full answer/citation score yet.",
+    "Original 49 successes plus 19 restored-credit retries; preserve all attempts and billing.",
+    "Single observation/profile; model/provider nondeterminism and concurrent latency.",
+    "Larger context does not fix low-ranking evidence or all citation-format errors."
+  ]
+}

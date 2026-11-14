@@ -1,0 +1,182 @@
+{
+  "query": "Agile chia dự án thành đơn vị nào và nhóm làm gì sau mỗi đơn vị?",
+  "filter": null,
+  "results": [
+    {
+      "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+      "text": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1415,
+        "end": 1942,
+        "method": "paragraph-1000"
+      },
+      "score": 0.39288738743019747,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 1
+    },
+    {
+      "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 652,
+        "end": 1415,
+        "method": "paragraph-1000"
+      },
+      "score": 0.13924487654760345,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 2
+    }
+  ],
+  "top3": [
+    {
+      "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+      "text": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1415,
+        "end": 1942,
+        "method": "paragraph-1000"
+      },
+      "score": 0.39288738743019747,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 1
+    },
+    {
+      "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 652,
+        "end": 1415,
+        "method": "paragraph-1000"
+      },
+      "score": 0.13924487654760345,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 2
+    }
+  ],
+  "trace": {
+    "method": "tfidf",
+    "filter": {},
+    "eligible_count": 162,
+    "returned": 2,
+    "elapsed_ms": 0.15359999997599516,
+    "service_cost_usd": 0,
+    "tokenization": "NFC_casefold_word_regex",
+    "idf_scope": "entire_fixed_snapshot"
+  },
+  "context_selection": {
+    "context": "[e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09 | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nAgile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n\n\n[5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nIndustry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+    "context_ids": [
+      "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+      "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc"
+    ],
+    "context_chars": 1554,
+    "context_sha256": "dcb7b8b711de6785bab71fe85cb0d53f0588a0b0c249abd51312f03ccca2f30c",
+    "budget_chars": 4000,
+    "remaining_chars": 2446,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 2,
+    "unique_candidates": 2,
+    "duplicates_removed": 0,
+    "selected_count": 2,
+    "skipped_count": 0,
+    "decisions": [
+      {
+        "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1415,
+          "end": 1942,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 527,
+        "block_characters": 658,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 652,
+          "end": 1415,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 763,
+        "block_characters": 894,
+        "separator_characters": 2,
+        "remaining_before": 3342,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 0.24330000087502412
+}

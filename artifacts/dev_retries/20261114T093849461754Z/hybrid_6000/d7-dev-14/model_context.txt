@@ -1,0 +1,70 @@
+[513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44 | starter/data/Foundations_of_Information_Systems.pdf | page 57]
+• Resolving discrepancies in redundant data sources: When multiple sources provide similar data, it is
+important to reconcile any inconsistencies or differences to establish a reliable and accurate
+representation of the information.
+• Managing variations in opinions, forecasting techniques, or simulation models: Recognizing and
+addressing divergent viewpoints, methodologies, or models used for forecasting or simulation ensures
+transparency and reliability in the data analysis process.
+FUTURE TECHNOLOGY
+Master Data Management
+Master data management (MDM) ensures the creation and maintenance of a single, accurate source of
+truth for crucial data points within an organization. This centralized data repository eliminates
+inconsistencies and fosters seamless information exchange across different systems and applications. Let’s
+explore the importance of MDM in two specific contexts: health care and e-commerce retail.
+
+
+[1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd | starter/data/Foundations_of_Information_Systems.pdf | page 53]
+Appropriate data management is crucial to an organization’s reputation and success. Data management
+parameters establish practices that organizations can use to ensure that their data are managed, protected¸
+and of high quality so they can be utilized to make informed decisions. The essential areas for managing data
+effectively are as follows (Figure 2.2)3 :
+• Data governance establishes policies, processes, standards, roles, and responsibilities to manage data
+as a valuable asset.
+• Data quality ensures that data are accurate, complete, and consistent. This is achieved through
+activities such as validation, cleansing, matching, and monitoring via metrics and reporting.
+• Data integration combines data from different systems and applications. It includes tasks such as
+mapping data elements, transforming data, and ensuring seamless integration using tools and best
+practices.
+
+
+[fa2190de930dd9497d4bf9c17ae5d87a4e4ea018d76d0f89eeaa76ca4c34690d | starter/data/Foundations_of_Information_Systems.pdf | page 55]
+• Enterprise Data Management (EDM) Council Data Management Maturity Model: This comprehensive
+framework covers various aspects of data management, including data strategy, data operations, and data
+architecture.
+• Responsible Data Maturity Model: This model is an evolving concept that continues to gain importance as
+the role of data in our lives becomes more prominent.
+
+
+[7ffd5de2be32e43e9fb63d3947950460cdca48553612b9476be9372146499afb | starter/data/Foundations_of_Information_Systems.pdf | page 56]
+• Serving as a system of record or reference for enterprise-wide use, master data represent core entities
+such as customers, products, or employees, and reference data include codes, classifications, or
+standards used across the organization. Maintaining data accuracy, consistency, and synchronization
+across multiple systems for these data types is necessary to ensure reliable and consistent information
+across the organization.
+• Used for data warehousing, business intelligence, and analysis-oriented applications, analytic data
+include aggregated and summarized data from various sources and enable in-depth analysis, reporting,
+and decision support. Analytic data require data integration, transformation, and optimization to provide a
+consolidated view and support complex analytics.
+
+
+[e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc | starter/data/Foundations_of_Information_Systems.pdf | page 52]
+For any organization, information is an invaluable resource, hence data and data management have become
+critical. Effective data management aligns with data analytics capabilities, facilitating the automated discovery
+of trends, patterns, and anomalies through techniques like data mining and analysis. In today’s data-driven
+world, there’s increasing attention to the relevance of big data, highly complex and large datasets that require
+specialized processing techniques to extract valuable insights and make informed decisions. Managing any
+data involves activities such as cleaning, extracting, integrating, categorizing, labeling, and organizing. All
+these activities should be executed in a manner that ensures that the quality of the data is preserved, and the
+data remain secure but also easily retrievable. Organizations need people to manage data and control data
+accessibility, and they need to define roles and responsibilities for all the people working with and extracting
+information 
+
+[34daaddd4938cf6d81965ffba188cb7c79038ebae208ccd88d98f2361bc06085 | starter/data/Foundations_of_Information_Systems.pdf | page 54]
+Figure 2.2 Data governance plays a role in all data management areas. It ensures an organization’s data are of high quality and are
+managed and protected effectively so that the data can be used to make informed decisions. (attribution: Copyright Rice University,
+OpenStax, under CC BY 4.0 license)
+FUTURE TECHNOLOGY
+Data Management Technologies
+A new approach to data management, called a data mesh, is based on the principle of domain-driven
+design. In a data mesh, data are owned by the domain experts who create the data, and the data are made
+available to other users through a self-service model.

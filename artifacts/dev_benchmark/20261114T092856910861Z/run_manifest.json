@@ -1,0 +1,98 @@
+{
+  "scope": "DEV only: 17 cases x 4 predeclared profiles; no test",
+  "started_at_utc": "20261114T092856910861Z",
+  "controller": {
+    "model": "openai/gpt-4.1-mini",
+    "prompt_sha256": "9ad421ed8535924986ed172ece09faaf9b2cb00c112cd72d078dd6bc42165ad7",
+    "tools_sha256": "727b080c7961699d1df1256d604f351473431031b3556aa6a46bba19d42dfd85",
+    "generation_settings": {
+      "temperature": 0,
+      "max_tokens": 800,
+      "parallel_tool_calls": false,
+      "tool_choice": "required",
+      "max_retries": 2,
+      "timeout_seconds": 60
+    },
+    "provider": "OpenRouter",
+    "context_transport": "latest repacked cumulative context via paired assistant/tool messages"
+  },
+  "protocol_sha256": "2d2ff50bd6407fffcfa0a13ecff2fb265e6037a5c2297135936393bd034d2f0b",
+  "profiles": [
+    {
+      "id": "dense_4000",
+      "method": "dense",
+      "return_top_k": 10,
+      "ranking_cutoffs": [
+        1,
+        3
+      ],
+      "context_budget_chars": 4000,
+      "max_searches": 2,
+      "max_model_decisions": 3,
+      "role": "baseline",
+      "rrf_k": null
+    },
+    {
+      "id": "lexical_4000",
+      "method": "tfidf",
+      "return_top_k": 10,
+      "ranking_cutoffs": [
+        1,
+        3
+      ],
+      "context_budget_chars": 4000,
+      "max_searches": 2,
+      "max_model_decisions": 3,
+      "role": "method_2",
+      "rrf_k": null
+    },
+    {
+      "id": "hybrid_4000",
+      "method": "hybrid_rrf",
+      "return_top_k": 10,
+      "ranking_cutoffs": [
+        1,
+        3
+      ],
+      "context_budget_chars": 4000,
+      "max_searches": 2,
+      "max_model_decisions": 3,
+      "role": "method_3_and_improvement_1",
+      "rrf_k": 60
+    },
+    {
+      "id": "hybrid_6000",
+      "method": "hybrid_rrf",
+      "return_top_k": 10,
+      "ranking_cutoffs": [
+        1,
+        3
+      ],
+      "context_budget_chars": 6000,
+      "max_searches": 2,
+      "max_model_decisions": 3,
+      "role": "improvement_2_context_budget_only",
+      "rrf_k": 60
+    }
+  ],
+  "inputs": {
+    "questions_path": "data/benchmark/questions.json",
+    "questions_sha256": "aa58d6b0d688eb053bffb7d4726cbe489829cbe5204c805d80f48ca984b8d61a",
+    "chunks_path": "starter/data/day6/chunks.json",
+    "chunks_sha256": "1c7f0683495b7d53a55a510fc541d472d8d905f83709b83c17c8def82c12dbb4",
+    "chunk_count": 162,
+    "day6_strategy": "B",
+    "embedding_model": "openai/text-embedding-3-small",
+    "embedding_dimensions": 1536
+  },
+  "workers": 4,
+  "versions": {
+    "openai": "3.51.0",
+    "psycopg": "3.3.9",
+    "python-dotenv": "1.2.4"
+  },
+  "cache_policy": "Independent dense instance per profile, cache within profile; original query runs before agent; cache hits disclosed; no cross-profile reuse.",
+  "latency_note": "Profiles may run concurrently; single observation, not isolated latency benchmarking.",
+  "grading": "literal retrieval/context only; semantic answer/citation/abstention grades pending",
+  "selected_configuration": null
+}

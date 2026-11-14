@@ -1,0 +1,45 @@
+{
+  "scope": "single explicit query; no benchmark scoring or configuration selection",
+  "started_at_utc": "20261114T084709552005Z",
+  "profile": {
+    "id": "lexical_4000",
+    "method": "tfidf",
+    "return_top_k": 10,
+    "ranking_cutoffs": [
+      1,
+      3
+    ],
+    "context_budget_chars": 4000,
+    "max_searches": 2,
+    "max_model_decisions": 3,
+    "role": "method_2",
+    "rrf_k": null
+  },
+  "filter": {},
+  "protocol_sha256": "2d2ff50bd6407fffcfa0a13ecff2fb265e6037a5c2297135936393bd034d2f0b",
+  "inputs": {
+    "questions_path": "data/benchmark/questions.json",
+    "questions_sha256": "aa58d6b0d688eb053bffb7d4726cbe489829cbe5204c805d80f48ca984b8d61a",
+    "chunks_path": "starter/data/day6/chunks.json",
+    "chunks_sha256": "1c7f0683495b7d53a55a510fc541d472d8d905f83709b83c17c8def82c12dbb4",
+    "chunk_count": 162,
+    "day6_strategy": "B",
+    "embedding_model": "openai/text-embedding-3-small",
+    "embedding_dimensions": 1536
+  },
+  "controller": {
+    "model": "openai/gpt-4.1-mini",
+    "prompt_sha256": "9ad421ed8535924986ed172ece09faaf9b2cb00c112cd72d078dd6bc42165ad7",
+    "tools_sha256": "727b080c7961699d1df1256d604f351473431031b3556aa6a46bba19d42dfd85",
+    "generation_settings": {
+      "temperature": 0,
+      "max_tokens": 800,
+      "parallel_tool_calls": false,
+      "tool_choice": "required",
+      "max_retries": 2,
+      "timeout_seconds": 60
+    },
+    "provider": "OpenRouter",
+    "context_transport": "latest repacked cumulative context via paired assistant/tool messages"
+  }
+}

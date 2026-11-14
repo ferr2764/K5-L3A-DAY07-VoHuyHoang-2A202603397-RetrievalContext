@@ -1,0 +1,76 @@
+[0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91 | starter/data/Foundations_of_Information_Systems.pdf | page 33]
+Figure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By
+asking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs
+from the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification
+1.2 • Frameworks of Knowledge and Industry Standards 23
+
+[56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae | starter/data/Foundations_of_Information_Systems.pdf | page 33]
+Waterfall include compiling documentation of the project requirements, using logical design to brainstorm
+how to approach the project, developing the physical design, implementing the design plan, verifying and
+testing the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer
+programming and coding, the framework can be applied to IS.
+The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise
+architecture, including data and documents, which are vital for a robust information system. Using a 6 × 6
+matrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of
+stakeholders in a particular system:
+• What? seeks to understand the data needed for the system by learning about the organization’s data,
+objects, and information.
+• How? seeks to understand the organization’s processes and functions.
+• Where? seeks to learn where the organization operates.
+
+
+[b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f | starter/data/Foundations_of_Information_Systems.pdf | page 33]
+• Who? seeks to learn who the organizational members are, as well as gather details about the
+organization’s units and hierarchy.
+• When? seeks to learn the organization’s schedule of operations, including when processes are performed.
+• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk
+management and information systems. This question also seeks to determine what motivates the
+organization to perform certain functions.
+As shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of
+the matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’
+perspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an
+important tool to understand what an organization’s information systems should entail and develop the
+appropriate enterprise architecture to support that system.
+
+
+[06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c | starter/data/Foundations_of_Information_Systems.pdf | page 34]
+of work “Zachman Framework (9026775815)” by National Institute of Standards and Technology/Wikimedia Commons, Public
+Domain)
+The industry standards that are applicable in IS include the American Society for Industrial Security (ASIS), the
+Federal Information Security Modernization Act (FISMA), IS2020, ISO/IEC 27001, and the Open Group
+Architecture Framework (TOGAF).
+The American Society for Industrial Security (ASIS) is a global organization that provides training and
+certification to help professionals in all industries provide security for people, property, and information. ASIS
+is a global organization that collaborates with public and private organizations throughout the world—such as
+the Department of Homeland Security and the Federal Bureau of Investigation—to ensure that IS
+professionals and others involved in security have the resources needed to successfully handle security issues
+at every stage of their career.
+
+
+[ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576 | starter/data/Foundations_of_Information_Systems.pdf | page 31]
+The McKinsey 7-S Framework can be used by following four steps:
+1. Identify the parts of the organization that are not aligned with shared values, including a shared mission,
+goals, and objectives.
+2. Determine the design and structure that will enable the organization to achieve alignment and reach its
+goals and objectives.
+3. Identify areas where changes are needed to update the organizational design.
+4. Implement the necessary changes.
+This framework can help ensure organizations are in alignment and have an effective design, making it easier
+to develop and maintain the appropriate information systems to meet the organization’s needs.
+
+
+[91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076 | starter/data/Foundations_of_Information_Systems.pdf | page 52]
+1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,
+https://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/
+2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,
+https://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-
+unused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D
+42 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[580259a3f4761925e489cf9601d7ca908349f0cdc74b81f6a6029959e3857f83 | starter/data/Foundations_of_Information_Systems.pdf | page 60]
+internal or external. If both the decision-makers
+(stakeholders) and intelligence needed can be found internally, as in the case of order entry and budgeting,
+then the problem qualifies as being structured. But if both the intelligence needed and the decision-makers
+are external to the organization, then the problem qualifies as being unstructured, for instance, in the case of
+systems for cash management or personnel management.

@@ -1,0 +1,79 @@
+[d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82 | starter/data/Foundations_of_Information_Systems.pdf | page 66]
+Business and IT alignment as an integral unit, not separate entities, is vital. It is important that organizations
+view IT as a strategic partner, not just a support function. By fostering collaboration and communication
+between business and IT stakeholders, organizations can ensure that technology solutions directly address
+business needs and objectives. To improve business-IT alignment, organizations can employ several
+measures:11
+• Prioritize organizational communication: Encouraging effective dialogue between different departments,
+fostering interdepartmental partnerships, and promoting mutual understanding between business and IT
+teams ensures sufficient knowledge sharing, well-informed decision-making, and seamless collaboration.
+
+
+[3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881 | starter/data/Foundations_of_Information_Systems.pdf | page 66]
+• Different objectives: Business managers focus on achieving business goals and generating revenue, while
+IT managers concentrate on technology implementation and maintenance.
+• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise
+and perspectives, leading to misunderstandings and misalignment.
+• Lack of communication: Inadequate communication between business and IT executives hinders the
+exchange of valuable insights and requirements.
+
+
+[e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a | starter/data/Foundations_of_Information_Systems.pdf | page 65]
+organizations.
+Strategies to Improve the Value of Information Technology for
+Organizations
+Understanding the role of business processes within an organization is vital to measuring the specific value
+that IT can deliver and the mechanisms through which it achieves this. Information systems professionals
+know that technology alone is not the sole determinant of digital success, and that strategy is an important
+catalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of
+the IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly
+supports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure
+2.6):
+• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading
+to new revenue opportunities.
+
+
+[92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81 | starter/data/Foundations_of_Information_Systems.pdf | page 61]
+quantified the value of their IT
+investment by measuring improvements in delivery times, a key performance indicator directly linked to
+customer satisfaction.
+In today’s ever-evolving business landscape, organizations have come to recognize the immense potential of
+IT to enhance the value of their products and services. Leveraging IT has become a key factor in staying
+competitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face
+an essential question: How can they effectively assess the value IT adds to their organization?
+Defining the Value of Information Technology Within Organizations
+Over the past decades, businesses and managers have focused on understanding how to employ IT systems
+to achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have
+been ushered in with the emergence of a new generation of IT, including elements such as:
+
+
+[b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18 | starter/data/Foundations_of_Information_Systems.pdf | page 66]
+• Focus on strengthening governance: Organizations should involve IT in strategic planning to ensure
+technology initiatives align with overall business goals. Engaging IT in executive committees enhances the
+decision-making process. Implementing a structured reporting hierarchy establishes clear communication
+channels, and defining authorization for decision-making roles ensures efficient execution. Coordinated
+governance can help set criteria whereby IT projects are prioritized based on their alignment with
+business objectives.
+• Align scope and IT architecture: Evaluating IT solutions for their effectiveness and customizing them to
+suit specific scope and business needs can lead to better outcomes.
+• Emphasize the development of human skills: Cultivating readiness to embrace technological changes,
+adapting management styles to support successful IT implementation, and learning from previous
+experiences contribute to continuous improvement.
+
+
+[53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5 | starter/data/Foundations_of_Information_Systems.pdf | page 72]
+2.4 Business Process Management
+Learning Objectives
+By the end of this section, you will be able to:
+• Describe a business process
+• Differentiate business process reengineering, improvement, and management
+• Discuss ways in which information systems enable business processes
+To promote success, businesses and other organizations need robust business processes that are well
+managed. Business processes help organizations be more efficient and effective—providing higher-quality
+products and services, and improving customer service and satisfaction. Business processes can be tailored to
+meet an organization’s specific needs, and information systems can be important tools to enhance business
+processes.
+Business Process
+A business process represents a continuous series of interconnected activities aimed at producing a valuable
+product or service for an organization, its business partners, and its customers. This process relies on three
+essential components:

@@ -1,0 +1,53 @@
+[8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77 | starter/data/Foundations_of_Information_Systems.pdf | page 70]
+1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management
+platform, allowing hospital management to access and manage equipment-related data. The platform
+offers real-time data and usage analytics, centralized decision-making, and personalized dashboards,
+enabling clinics to optimize resource deployment effectively.
+2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the
+utilization of their most critical technology investments. By spreading out costs and consumption, Cohealo
+enables new efficiencies, faster capital redeployment cycles, and improved return on investment.
+
+
+[e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394 | starter/data/Foundations_of_Information_Systems.pdf | page 70]
+3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical
+equipment across the network to support procedures wherever and whenever needed. This manufacturer-
+agnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and
+physician care.
+4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required
+location optimally and returns to the original site after usage. The network effect, fostered by health-care
+institutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the
+emergence of disruptive business models.
+Several factors influence the success of the sharing economy model in the health-care sector, as observed in
+Cohealo’s case12 :
+• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered
+suitable for sharing.
+
+
+[2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0 | starter/data/Foundations_of_Information_Systems.pdf | page 70]
+Case Study: Transforming Health Care Through the Sharing Economy Model
+The U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure
+going toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential
+of the sharing economy model to address these inefficiencies and created a platform that facilitates the
+seamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform
+supporting logistic capabilities and as an analytics-enabled information system that enables customers to
+manage medical equipment centrally and make it available on demand. Cohealo’s products include the
+following:
+
+
+[aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f | starter/data/Foundations_of_Information_Systems.pdf | page 70]
+• Clustering of resources: The concentration of interconnected health-care companies and institutions in
+12 Ayushi Tandon, “Cohealo! Sharing Economy Determinants in Healthcare Industry,” SSRN, December 2017, http://dx.doi.org/
+10.2139/ssrn.3677462
+60 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae | starter/data/Foundations_of_Information_Systems.pdf | page 71]
+specific geographic locations facilitates the easy transfer of use rights.
+• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.
+• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than
+the cost of ownership, promoting the adoption of the sharing economy model.
+
+
+[d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3 | starter/data/Foundations_of_Information_Systems.pdf | page 72]
+62 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org

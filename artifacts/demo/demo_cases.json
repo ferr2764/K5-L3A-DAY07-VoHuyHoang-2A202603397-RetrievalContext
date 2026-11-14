@@ -1,0 +1,17 @@
+{
+  "mode": "Replay saved real runs; no new model or retrieval calls.",
+  "cases": {
+    "answer": {
+      "trace": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-01/agent_trace.json",
+      "sha256": "361211631438d607fdbb2c19243101bc0ad6420b4bb12a9a4e068e82de7d218a"
+    },
+    "refusal": {
+      "trace": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-06/agent_trace.json",
+      "sha256": "be71720259aca21ce76aed5c8a302fcb9597b238e938edf2a034b0165932b323"
+    },
+    "error": {
+      "trace": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-12/agent_trace.json",
+      "sha256": "84a9b78a233ad59c0d3c7587d22dd5607c8a0ffaad361a7b4c9d0b1f51fa066f"
+    }
+  }
+}

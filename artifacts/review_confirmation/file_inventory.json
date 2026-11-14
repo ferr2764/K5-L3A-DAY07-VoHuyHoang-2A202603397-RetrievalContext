@@ -1,0 +1,5966 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 185,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "ADVANCED.md",
+    "bytes": 6095,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "AGENT_SETUP.md",
+    "bytes": 1328,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "BENCHMARK.md",
+    "bytes": 4814,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "CHECKPOINTS.md",
+    "bytes": 1052,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "GUIDE.md",
+    "bytes": 5047,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "PSEUDOCODE.md",
+    "bytes": 946,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "README.md",
+    "bytes": 2658,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "REPORT_TEMPLATE.md",
+    "bytes": 2453,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "RUBRIC.md",
+    "bytes": 2075,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "RULES.md",
+    "bytes": 960,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "RUN_SUBMISSION.md",
+    "bytes": 1104,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "SUBMISSION.md",
+    "bytes": 2025,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/retrieval_smoke.json",
+    "bytes": 54260,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/submission_audit.json",
+    "bytes": 1050,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "assets/experiment-loop.svg",
+    "bytes": 2906,
+    "inspection": "metadata only; binary/non-text"
+  },
+  {
+    "path": "assets/retrieval-pipeline.svg",
+    "bytes": 3715,
+    "inspection": "metadata only; binary/non-text"
+  },
+  {
+    "path": "data/agent_cases_example.json",
+    "bytes": 366,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/example_chunks.json",
+    "bytes": 197,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/example_questions.json",
+    "bytes": 230,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/README.md",
+    "bytes": 1249,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "docs/AGENT_IMPLEMENTATION.md",
+    "bytes": 4863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "docs/CONTEXT_IMPLEMENTATION.md",
+    "bytes": 4989,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "docs/DEV_BENCHMARK.md",
+    "bytes": 1734,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "docs/DEV_IMPROVEMENTS.md",
+    "bytes": 8879,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "docs/README.md",
+    "bytes": 271,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "docs/RETRIEVAL_IMPLEMENTATION.md",
+    "bytes": 4690,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "docs/SUBMISSION_CHECKLIST.md",
+    "bytes": 2491,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "docs/TEST_BENCHMARK.md",
+    "bytes": 2447,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "docs/TEST_REVIEW.md",
+    "bytes": 8004,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/analyze_dev_improvements.py",
+    "bytes": 14878,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "scripts/build_benchmark.py",
+    "bytes": 12049,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/check_context_dev.py",
+    "bytes": 4189,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/check_retrieval_methods.py",
+    "bytes": 1998,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/demo_saved_traces.py",
+    "bytes": 1682,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/requirements-analysis.txt",
+    "bytes": 15,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/requirements-submission.txt",
+    "bytes": 166,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/restore_submission_data.py",
+    "bytes": 1078,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/retry_dev_errors.py",
+    "bytes": 6323,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "scripts/review_test_outputs.py",
+    "bytes": 13941,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 2
+  },
+  {
+    "path": "scripts/run_agent.py",
+    "bytes": 4486,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/run_dev_benchmark.py",
+    "bytes": 8275,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 2
+  },
+  {
+    "path": "scripts/run_test_benchmark.py",
+    "bytes": 4153,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "scripts/search_retrieval.py",
+    "bytes": 1707,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "scripts/select_dev_configuration.py",
+    "bytes": 9273,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 3
+  },
+  {
+    "path": "src/agent_runtime.py",
+    "bytes": 14658,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "src/context_builder.py",
+    "bytes": 4896,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "src/dev_evaluation.py",
+    "bytes": 7214,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 2
+  },
+  {
+    "path": "src/README.md",
+    "bytes": 160,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "src/retrieval.py",
+    "bytes": 11272,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "src/__init__.py",
+    "bytes": 37,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "starter/.env",
+    "bytes": 239,
+    "inspection": "credential file; contents not copied or displayed"
+  },
+  {
+    "path": "starter/.env.example",
+    "bytes": 166,
+    "inspection": "metadata only; binary/non-text"
+  },
+  {
+    "path": "starter/agentic.py",
+    "bytes": 4500,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "starter/agent_metrics.py",
+    "bytes": 4838,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "starter/baseline.py",
+    "bytes": 6972,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "starter/convert_day6.py",
+    "bytes": 2098,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "starter/dense_retriever.py",
+    "bytes": 2576,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "starter/README.md",
+    "bytes": 5803,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "starter/requirements.txt",
+    "bytes": 39,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "tests/test_agentic.py",
+    "bytes": 4038,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "tests/test_agent_metrics.py",
+    "bytes": 2139,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "tests/test_agent_runtime.py",
+    "bytes": 6042,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "tests/test_baseline.py",
+    "bytes": 4018,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "tests/test_context_builder.py",
+    "bytes": 3759,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "tests/test_dense.py",
+    "bytes": 338,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "tests/test_dev_evaluation.py",
+    "bytes": 2389,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "tests/test_fixture.py",
+    "bytes": 688,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "tests/test_retrieval_methods.py",
+    "bytes": 4509,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/demo/demo_cases.json",
+    "bytes": 740,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_improvements/analysis.json",
+    "bytes": 33878,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/review_confirmation/confirmation.json",
+    "bytes": 1076,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/review_confirmation/dev_reviews_confirmed.json",
+    "bytes": 168503,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084323295707Z/run_manifest.json",
+    "bytes": 1594,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084323295707Z/trace.json",
+    "bytes": 16173,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084405675468Z/run_manifest.json",
+    "bytes": 1594,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084405675468Z/trace.json",
+    "bytes": 41174,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084503049008Z/run_manifest.json",
+    "bytes": 1594,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084503049008Z/trace.json",
+    "bytes": 42081,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084553259113Z/run_manifest.json",
+    "bytes": 1594,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084553259113Z/trace.json",
+    "bytes": 42587,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084709552005Z/run_manifest.json",
+    "bytes": 1570,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084709552005Z/trace.json",
+    "bytes": 14300,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084921888098Z/run_manifest.json",
+    "bytes": 1594,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/agent_runs/20261114T084921888098Z/trace.json",
+    "bytes": 42197,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/context_dev/20261114T085712568487Z/model_payload_check.json",
+    "bytes": 699,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/context_dev/20261114T085712568487Z/summary.json",
+    "bytes": 1432,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/context_dev/20261114T085712568487Z/traces.json",
+    "bytes": 915463,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/comparison.csv",
+    "bytes": 513,
+    "inspection": "metadata only; binary/non-text"
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/comparison.md",
+    "bytes": 3106,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/run_manifest.json",
+    "bytes": 3052,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/summary.json",
+    "bytes": 7581,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 5
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/records.json",
+    "bytes": 1734885,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 17
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/summary.json",
+    "bytes": 1486,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/records.json",
+    "bytes": 2583360,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 17
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/summary.json",
+    "bytes": 1462,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/records.json",
+    "bytes": 2913324,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 17
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/summary.json",
+    "bytes": 1462,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/records.json",
+    "bytes": 1505041,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 17
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/summary.json",
+    "bytes": 1488,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-01/agent_trace.json",
+    "bytes": 84534,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-01/context.txt",
+    "bytes": 4095,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-01/context_selection.json",
+    "bytes": 13939,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-01/embedding_usage.json",
+    "bytes": 864,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-01/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-01/model_context.txt",
+    "bytes": 4095,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-01/original_query.json",
+    "bytes": 33823,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-02/agent_trace.json",
+    "bytes": 82755,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-02/context.txt",
+    "bytes": 4054,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-02/context_selection.json",
+    "bytes": 13824,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-02/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-02/evaluation.json",
+    "bytes": 556,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-02/model_context.txt",
+    "bytes": 4054,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-02/original_query.json",
+    "bytes": 33533,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-03/agent_trace.json",
+    "bytes": 82966,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-03/context.txt",
+    "bytes": 3938,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-03/context_selection.json",
+    "bytes": 13653,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-03/embedding_usage.json",
+    "bytes": 860,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-03/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-03/model_context.txt",
+    "bytes": 3938,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-03/original_query.json",
+    "bytes": 34336,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-04/agent_trace.json",
+    "bytes": 81808,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-04/context.txt",
+    "bytes": 3690,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-04/context_selection.json",
+    "bytes": 13405,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-04/embedding_usage.json",
+    "bytes": 872,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-04/evaluation.json",
+    "bytes": 526,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-04/model_context.txt",
+    "bytes": 3690,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-04/original_query.json",
+    "bytes": 35187,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-05/agent_trace.json",
+    "bytes": 82401,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-05/context.txt",
+    "bytes": 3932,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-05/context_selection.json",
+    "bytes": 13710,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-05/embedding_usage.json",
+    "bytes": 868,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-05/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-05/model_context.txt",
+    "bytes": 3932,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-05/original_query.json",
+    "bytes": 33942,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-06/agent_trace.json",
+    "bytes": 81459,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-06/context.txt",
+    "bytes": 3950,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-06/context_selection.json",
+    "bytes": 13665,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-06/embedding_usage.json",
+    "bytes": 861,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-06/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-06/model_context.txt",
+    "bytes": 3950,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-06/original_query.json",
+    "bytes": 33895,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-07/agent_trace.json",
+    "bytes": 83544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-07/context.txt",
+    "bytes": 3862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-07/context_selection.json",
+    "bytes": 13638,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-07/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-07/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-07/model_context.txt",
+    "bytes": 3862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-07/original_query.json",
+    "bytes": 33340,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-08/agent_trace.json",
+    "bytes": 84545,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-08/context.txt",
+    "bytes": 4057,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-08/context_selection.json",
+    "bytes": 13759,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-08/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-08/evaluation.json",
+    "bytes": 524,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-08/model_context.txt",
+    "bytes": 4057,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-08/original_query.json",
+    "bytes": 34375,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-09/agent_trace.json",
+    "bytes": 80866,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-09/context.txt",
+    "bytes": 3760,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-09/context_selection.json",
+    "bytes": 13544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-09/embedding_usage.json",
+    "bytes": 857,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-09/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-09/model_context.txt",
+    "bytes": 3760,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-09/original_query.json",
+    "bytes": 34075,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-10/agent_trace.json",
+    "bytes": 84050,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-10/context.txt",
+    "bytes": 4059,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-10/context_selection.json",
+    "bytes": 13831,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-10/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-10/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-10/model_context.txt",
+    "bytes": 4059,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-10/original_query.json",
+    "bytes": 32429,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-11/agent_trace.json",
+    "bytes": 83823,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-11/context.txt",
+    "bytes": 4057,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-11/context_selection.json",
+    "bytes": 13835,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-11/embedding_usage.json",
+    "bytes": 861,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-11/evaluation.json",
+    "bytes": 545,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-11/model_context.txt",
+    "bytes": 4057,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-11/original_query.json",
+    "bytes": 33591,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-12/agent_trace.json",
+    "bytes": 5863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-12/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-12/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-12/embedding_usage.json",
+    "bytes": 431,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-12/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-12/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-12/original_query.json",
+    "bytes": 35714,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-13/agent_trace.json",
+    "bytes": 5923,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-13/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-13/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-13/embedding_usage.json",
+    "bytes": 437,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-13/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-13/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-13/original_query.json",
+    "bytes": 35078,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-14/agent_trace.json",
+    "bytes": 5853,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-14/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-14/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-14/embedding_usage.json",
+    "bytes": 431,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-14/evaluation.json",
+    "bytes": 524,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-14/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-14/original_query.json",
+    "bytes": 35422,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-15/agent_trace.json",
+    "bytes": 81674,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-15/context.txt",
+    "bytes": 4035,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-15/context_selection.json",
+    "bytes": 13742,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-15/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-15/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-15/model_context.txt",
+    "bytes": 4035,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-15/original_query.json",
+    "bytes": 35674,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-16/agent_trace.json",
+    "bytes": 5896,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-16/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-16/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-16/embedding_usage.json",
+    "bytes": 437,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-16/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-16/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-16/original_query.json",
+    "bytes": 30578,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-17/agent_trace.json",
+    "bytes": 5843,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-17/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-17/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-17/embedding_usage.json",
+    "bytes": 437,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-17/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-17/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/dense_4000/d7-dev-17/original_query.json",
+    "bytes": 33411,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-01/agent_trace.json",
+    "bytes": 102799,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-01/context.txt",
+    "bytes": 3799,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-01/context_selection.json",
+    "bytes": 13645,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-01/embedding_usage.json",
+    "bytes": 864,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-01/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-01/model_context.txt",
+    "bytes": 3799,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-01/original_query.json",
+    "bytes": 54111,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-02/agent_trace.json",
+    "bytes": 117553,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-02/context.txt",
+    "bytes": 4022,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-02/context_selection.json",
+    "bytes": 13800,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-02/embedding_usage.json",
+    "bytes": 860,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-02/evaluation.json",
+    "bytes": 556,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-02/model_context.txt",
+    "bytes": 4022,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-02/original_query.json",
+    "bytes": 55772,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-03/agent_trace.json",
+    "bytes": 118608,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-03/context.txt",
+    "bytes": 3856,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-03/context_selection.json",
+    "bytes": 13571,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-03/embedding_usage.json",
+    "bytes": 861,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-03/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-03/model_context.txt",
+    "bytes": 3856,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-03/original_query.json",
+    "bytes": 68535,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-04/agent_trace.json",
+    "bytes": 108174,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-04/context.txt",
+    "bytes": 3754,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-04/context_selection.json",
+    "bytes": 13471,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-04/embedding_usage.json",
+    "bytes": 872,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-04/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-04/model_context.txt",
+    "bytes": 3754,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-04/original_query.json",
+    "bytes": 59824,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-05/agent_trace.json",
+    "bytes": 105618,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-05/context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-05/context_selection.json",
+    "bytes": 13615,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-05/embedding_usage.json",
+    "bytes": 868,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-05/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-05/model_context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-05/original_query.json",
+    "bytes": 58234,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-06/agent_trace.json",
+    "bytes": 112155,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-06/context.txt",
+    "bytes": 3950,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-06/context_selection.json",
+    "bytes": 13665,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-06/embedding_usage.json",
+    "bytes": 860,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-06/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-06/model_context.txt",
+    "bytes": 3950,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-06/original_query.json",
+    "bytes": 62846,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-07/agent_trace.json",
+    "bytes": 105118,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-07/context.txt",
+    "bytes": 3862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-07/context_selection.json",
+    "bytes": 13638,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-07/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-07/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-07/model_context.txt",
+    "bytes": 3862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-07/original_query.json",
+    "bytes": 53829,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-08/agent_trace.json",
+    "bytes": 114742,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-08/context.txt",
+    "bytes": 3976,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-08/context_selection.json",
+    "bytes": 13756,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-08/embedding_usage.json",
+    "bytes": 868,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-08/evaluation.json",
+    "bytes": 569,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-08/model_context.txt",
+    "bytes": 3976,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-08/original_query.json",
+    "bytes": 63119,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-09/agent_trace.json",
+    "bytes": 109793,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-09/context.txt",
+    "bytes": 3947,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-09/context_selection.json",
+    "bytes": 13795,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-09/embedding_usage.json",
+    "bytes": 857,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-09/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-09/model_context.txt",
+    "bytes": 3947,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-09/original_query.json",
+    "bytes": 66303,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-10/agent_trace.json",
+    "bytes": 101752,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-10/context.txt",
+    "bytes": 4059,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-10/context_selection.json",
+    "bytes": 13831,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-10/embedding_usage.json",
+    "bytes": 862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-10/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-10/model_context.txt",
+    "bytes": 4059,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-10/original_query.json",
+    "bytes": 48768,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-11/agent_trace.json",
+    "bytes": 115791,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-11/context.txt",
+    "bytes": 3870,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-11/context_selection.json",
+    "bytes": 13586,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-11/embedding_usage.json",
+    "bytes": 860,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-11/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-11/model_context.txt",
+    "bytes": 3870,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-11/original_query.json",
+    "bytes": 66580,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-12/agent_trace.json",
+    "bytes": 118424,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-12/context.txt",
+    "bytes": 3862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-12/context_selection.json",
+    "bytes": 13578,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-12/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-12/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-12/model_context.txt",
+    "bytes": 3862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-12/original_query.json",
+    "bytes": 68912,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-13/agent_trace.json",
+    "bytes": 5922,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-13/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-13/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-13/embedding_usage.json",
+    "bytes": 436,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-13/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-13/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-13/original_query.json",
+    "bytes": 66710,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-14/agent_trace.json",
+    "bytes": 5852,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-14/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-14/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-14/embedding_usage.json",
+    "bytes": 432,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-14/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-14/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-14/original_query.json",
+    "bytes": 69533,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-15/agent_trace.json",
+    "bytes": 5805,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-15/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-15/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-15/embedding_usage.json",
+    "bytes": 436,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-15/evaluation.json",
+    "bytes": 524,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-15/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-15/original_query.json",
+    "bytes": 69407,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-16/agent_trace.json",
+    "bytes": 5894,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-16/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-16/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-16/embedding_usage.json",
+    "bytes": 437,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-16/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-16/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-16/original_query.json",
+    "bytes": 46044,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-17/agent_trace.json",
+    "bytes": 5844,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-17/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-17/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-17/embedding_usage.json",
+    "bytes": 437,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-17/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-17/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_4000/d7-dev-17/original_query.json",
+    "bytes": 58018,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-01/agent_trace.json",
+    "bytes": 119485,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-01/context.txt",
+    "bytes": 6036,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-01/context_selection.json",
+    "bytes": 16017,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-01/embedding_usage.json",
+    "bytes": 864,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-01/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-01/model_context.txt",
+    "bytes": 6036,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-01/original_query.json",
+    "bytes": 56487,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-02/agent_trace.json",
+    "bytes": 118119,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-02/context.txt",
+    "bytes": 5737,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-02/context_selection.json",
+    "bytes": 15720,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-02/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-02/evaluation.json",
+    "bytes": 556,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-02/model_context.txt",
+    "bytes": 5737,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-02/original_query.json",
+    "bytes": 57535,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-03/agent_trace.json",
+    "bytes": 133865,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-03/context.txt",
+    "bytes": 5901,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-03/context_selection.json",
+    "bytes": 15750,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-03/embedding_usage.json",
+    "bytes": 861,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-03/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-03/model_context.txt",
+    "bytes": 5901,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-03/original_query.json",
+    "bytes": 70295,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-04/agent_trace.json",
+    "bytes": 123162,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-04/context.txt",
+    "bytes": 5645,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-04/context_selection.json",
+    "bytes": 15496,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-04/embedding_usage.json",
+    "bytes": 872,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-04/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-04/model_context.txt",
+    "bytes": 5645,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-04/original_query.json",
+    "bytes": 61846,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-05/agent_trace.json",
+    "bytes": 121315,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-05/context.txt",
+    "bytes": 5911,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-05/context_selection.json",
+    "bytes": 15826,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-05/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-05/evaluation.json",
+    "bytes": 545,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-05/model_context.txt",
+    "bytes": 5911,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-05/original_query.json",
+    "bytes": 60206,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-06/agent_trace.json",
+    "bytes": 129726,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-06/context.txt",
+    "bytes": 6055,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-06/context_selection.json",
+    "bytes": 15969,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-06/embedding_usage.json",
+    "bytes": 862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-06/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-06/model_context.txt",
+    "bytes": 6055,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-06/original_query.json",
+    "bytes": 64603,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-07/agent_trace.json",
+    "bytes": 121596,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-07/context.txt",
+    "bytes": 6065,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-07/context_selection.json",
+    "bytes": 15972,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-07/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-07/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-07/model_context.txt",
+    "bytes": 6065,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-07/original_query.json",
+    "bytes": 56033,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-08/agent_trace.json",
+    "bytes": 131076,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-08/context.txt",
+    "bytes": 6046,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-08/context_selection.json",
+    "bytes": 15960,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-08/embedding_usage.json",
+    "bytes": 870,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-08/evaluation.json",
+    "bytes": 608,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-08/model_context.txt",
+    "bytes": 6046,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-08/original_query.json",
+    "bytes": 65157,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-09/agent_trace.json",
+    "bytes": 124616,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-09/context.txt",
+    "bytes": 5997,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-09/context_selection.json",
+    "bytes": 15913,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-09/embedding_usage.json",
+    "bytes": 857,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-09/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-09/model_context.txt",
+    "bytes": 5997,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-09/original_query.json",
+    "bytes": 68100,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-10/agent_trace.json",
+    "bytes": 112341,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-10/context.txt",
+    "bytes": 5421,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-10/context_selection.json",
+    "bytes": 15333,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-10/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-10/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-10/model_context.txt",
+    "bytes": 5421,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-10/original_query.json",
+    "bytes": 51442,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-11/agent_trace.json",
+    "bytes": 127673,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-11/context.txt",
+    "bytes": 5868,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-11/context_selection.json",
+    "bytes": 15719,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-11/embedding_usage.json",
+    "bytes": 861,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-11/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-11/model_context.txt",
+    "bytes": 5868,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-11/original_query.json",
+    "bytes": 68371,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-12/agent_trace.json",
+    "bytes": 130528,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-12/context.txt",
+    "bytes": 5747,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-12/context_selection.json",
+    "bytes": 15598,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-12/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-12/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-12/model_context.txt",
+    "bytes": 5747,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-12/original_query.json",
+    "bytes": 70929,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-13/agent_trace.json",
+    "bytes": 5922,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-13/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-13/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-13/embedding_usage.json",
+    "bytes": 437,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-13/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-13/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-13/original_query.json",
+    "bytes": 68781,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-14/agent_trace.json",
+    "bytes": 5853,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-14/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-14/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-14/embedding_usage.json",
+    "bytes": 431,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-14/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-14/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-14/original_query.json",
+    "bytes": 71564,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-15/agent_trace.json",
+    "bytes": 131166,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-15/context.txt",
+    "bytes": 5882,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-15/context_selection.json",
+    "bytes": 15726,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-15/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-15/evaluation.json",
+    "bytes": 524,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-15/model_context.txt",
+    "bytes": 5882,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-15/original_query.json",
+    "bytes": 71401,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-16/agent_trace.json",
+    "bytes": 5897,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-16/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-16/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-16/embedding_usage.json",
+    "bytes": 437,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-16/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-16/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-16/original_query.json",
+    "bytes": 48451,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-17/agent_trace.json",
+    "bytes": 5845,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-17/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-17/context_selection.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-17/embedding_usage.json",
+    "bytes": 438,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-17/evaluation.json",
+    "bytes": 523,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-17/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/hybrid_6000/d7-dev-17/original_query.json",
+    "bytes": 60047,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-01/agent_trace.json",
+    "bytes": 36141,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-01/context.txt",
+    "bytes": 1571,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-01/context_selection.json",
+    "bytes": 4138,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-01/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-01/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-01/model_context.txt",
+    "bytes": 1571,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-01/original_query.json",
+    "bytes": 9995,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-02/agent_trace.json",
+    "bytes": 45862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-02/context.txt",
+    "bytes": 2460,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-02/context_selection.json",
+    "bytes": 5973,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-02/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-02/evaluation.json",
+    "bytes": 556,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-02/model_context.txt",
+    "bytes": 2460,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-02/original_query.json",
+    "bytes": 14650,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-03/agent_trace.json",
+    "bytes": 81435,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-03/context.txt",
+    "bytes": 3856,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-03/context_selection.json",
+    "bytes": 13575,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-03/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-03/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-03/model_context.txt",
+    "bytes": 3856,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-03/original_query.json",
+    "bytes": 33000,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-04/agent_trace.json",
+    "bytes": 61561,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-04/context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-04/context_selection.json",
+    "bytes": 8344,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-04/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-04/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-04/model_context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-04/original_query.json",
+    "bytes": 19570,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-05/agent_trace.json",
+    "bytes": 61120,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-05/context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-05/context_selection.json",
+    "bytes": 8344,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-05/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-05/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-05/model_context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-05/original_query.json",
+    "bytes": 19520,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-06/agent_trace.json",
+    "bytes": 68913,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-06/context.txt",
+    "bytes": 3653,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-06/context_selection.json",
+    "bytes": 10731,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-06/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-06/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-06/model_context.txt",
+    "bytes": 3653,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-06/original_query.json",
+    "bytes": 26382,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-07/agent_trace.json",
+    "bytes": 39392,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-07/context.txt",
+    "bytes": 1880,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-07/context_selection.json",
+    "bytes": 4445,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-07/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-07/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-07/model_context.txt",
+    "bytes": 1880,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-07/original_query.json",
+    "bytes": 10922,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-08/agent_trace.json",
+    "bytes": 69232,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-08/context.txt",
+    "bytes": 3419,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-08/context_selection.json",
+    "bytes": 10496,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-08/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-08/evaluation.json",
+    "bytes": 556,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-08/model_context.txt",
+    "bytes": 3419,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-08/original_query.json",
+    "bytes": 25591,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-09/agent_trace.json",
+    "bytes": 60793,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-09/context.txt",
+    "bytes": 3347,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-09/context_selection.json",
+    "bytes": 8598,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-09/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-09/evaluation.json",
+    "bytes": 544,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-09/model_context.txt",
+    "bytes": 3347,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-09/original_query.json",
+    "bytes": 32883,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-10/agent_trace.json",
+    "bytes": 16600,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-10/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-10/context_selection.json",
+    "bytes": 668,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-10/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-10/evaluation.json",
+    "bytes": 527,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-10/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-10/original_query.json",
+    "bytes": 1199,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-11/agent_trace.json",
+    "bytes": 82048,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-11/context.txt",
+    "bytes": 4059,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-11/context_selection.json",
+    "bytes": 13758,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-11/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-11/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-11/model_context.txt",
+    "bytes": 4059,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-11/original_query.json",
+    "bytes": 33368,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-12/agent_trace.json",
+    "bytes": 79444,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-12/context.txt",
+    "bytes": 3556,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-12/context_selection.json",
+    "bytes": 13272,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-12/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-12/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-12/model_context.txt",
+    "bytes": 3556,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-12/original_query.json",
+    "bytes": 32993,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-13/agent_trace.json",
+    "bytes": 83831,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-13/context.txt",
+    "bytes": 4066,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-13/context_selection.json",
+    "bytes": 13773,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-13/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-13/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-13/model_context.txt",
+    "bytes": 4066,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-13/original_query.json",
+    "bytes": 32809,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-14/agent_trace.json",
+    "bytes": 78052,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-14/context.txt",
+    "bytes": 3415,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-14/context_selection.json",
+    "bytes": 13131,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-14/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-14/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-14/model_context.txt",
+    "bytes": 3415,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-14/original_query.json",
+    "bytes": 32875,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-15/agent_trace.json",
+    "bytes": 84022,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-15/context.txt",
+    "bytes": 4035,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-15/context_selection.json",
+    "bytes": 13739,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-15/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-15/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-15/model_context.txt",
+    "bytes": 4035,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-15/original_query.json",
+    "bytes": 33921,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-16/agent_trace.json",
+    "bytes": 16630,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-16/context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-16/context_selection.json",
+    "bytes": 668,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-16/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-16/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-16/model_context.txt",
+    "bytes": 0,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-16/original_query.json",
+    "bytes": 1227,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-17/agent_trace.json",
+    "bytes": 60122,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-17/context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-17/context_selection.json",
+    "bytes": 8344,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-17/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-17/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-17/model_context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_benchmark/20261114T092856910861Z/lexical_4000/d7-dev-17/original_query.json",
+    "bytes": 19479,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/comparison.csv",
+    "bytes": 528,
+    "inspection": "metadata only; binary/non-text"
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/comparison.md",
+    "bytes": 3757,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/effective_records.json",
+    "bytes": 10222334,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 68
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/run_manifest.json",
+    "bytes": 5333,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/summary.json",
+    "bytes": 10216,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 5
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/records.json",
+    "bytes": 759394,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 6
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/summary.json",
+    "bytes": 1490,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/records.json",
+    "bytes": 933467,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 5
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/summary.json",
+    "bytes": 1506,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/records.json",
+    "bytes": 1446047,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 7
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/summary.json",
+    "bytes": 1463,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/lexical_4000/records.json",
+    "bytes": 124028,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/lexical_4000/summary.json",
+    "bytes": 1429,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-12/agent_trace.json",
+    "bytes": 83592,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-12/context.txt",
+    "bytes": 3866,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-12/context_selection.json",
+    "bytes": 13578,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-12/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-12/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-12/model_context.txt",
+    "bytes": 3866,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-12/original_query.json",
+    "bytes": 35711,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-13/agent_trace.json",
+    "bytes": 83509,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-13/context.txt",
+    "bytes": 4000,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-13/context_selection.json",
+    "bytes": 13710,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-13/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-13/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-13/model_context.txt",
+    "bytes": 4000,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-13/original_query.json",
+    "bytes": 35080,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-14/agent_trace.json",
+    "bytes": 84550,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-14/context.txt",
+    "bytes": 3985,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-14/context_selection.json",
+    "bytes": 13760,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-14/embedding_usage.json",
+    "bytes": 856,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-14/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-14/model_context.txt",
+    "bytes": 3985,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-14/original_query.json",
+    "bytes": 35422,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-15/agent_trace.json",
+    "bytes": 84010,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-15/context.txt",
+    "bytes": 4035,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-15/context_selection.json",
+    "bytes": 13740,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-15/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-15/evaluation.json",
+    "bytes": 524,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-15/model_context.txt",
+    "bytes": 4035,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-15/original_query.json",
+    "bytes": 35676,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-16/agent_trace.json",
+    "bytes": 81105,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-16/context.txt",
+    "bytes": 3971,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-16/context_selection.json",
+    "bytes": 13818,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-16/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-16/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-16/model_context.txt",
+    "bytes": 3971,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-16/original_query.json",
+    "bytes": 30578,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-17/agent_trace.json",
+    "bytes": 81251,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-17/context.txt",
+    "bytes": 3987,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-17/context_selection.json",
+    "bytes": 13765,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-17/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-17/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-17/model_context.txt",
+    "bytes": 3987,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/dense_4000/d7-dev-17/original_query.json",
+    "bytes": 33411,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-13/agent_trace.json",
+    "bytes": 118960,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-13/context.txt",
+    "bytes": 3928,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-13/context_selection.json",
+    "bytes": 13646,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-13/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-13/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-13/model_context.txt",
+    "bytes": 3928,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-13/original_query.json",
+    "bytes": 66715,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-14/agent_trace.json",
+    "bytes": 118500,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-14/context.txt",
+    "bytes": 3881,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-14/context_selection.json",
+    "bytes": 13664,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-14/embedding_usage.json",
+    "bytes": 857,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-14/evaluation.json",
+    "bytes": 524,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-14/model_context.txt",
+    "bytes": 3881,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-14/original_query.json",
+    "bytes": 69529,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-15/agent_trace.json",
+    "bytes": 118457,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-15/context.txt",
+    "bytes": 4035,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-15/context_selection.json",
+    "bytes": 13741,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-15/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-15/evaluation.json",
+    "bytes": 570,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-15/model_context.txt",
+    "bytes": 4035,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-15/original_query.json",
+    "bytes": 69406,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-16/agent_trace.json",
+    "bytes": 98095,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-16/context.txt",
+    "bytes": 3919,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-16/context_selection.json",
+    "bytes": 13772,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-16/embedding_usage.json",
+    "bytes": 862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-16/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-16/model_context.txt",
+    "bytes": 3919,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-16/original_query.json",
+    "bytes": 46043,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-17/agent_trace.json",
+    "bytes": 104252,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-17/context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-17/context_selection.json",
+    "bytes": 13616,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-17/embedding_usage.json",
+    "bytes": 870,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-17/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-17/model_context.txt",
+    "bytes": 3900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_4000/d7-dev-17/original_query.json",
+    "bytes": 58026,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-11/agent_trace.json",
+    "bytes": 130960,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-11/context.txt",
+    "bytes": 5790,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-11/context_selection.json",
+    "bytes": 15640,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-11/embedding_usage.json",
+    "bytes": 862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-11/evaluation.json",
+    "bytes": 545,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-11/model_context.txt",
+    "bytes": 5790,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-11/original_query.json",
+    "bytes": 68369,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-12/agent_trace.json",
+    "bytes": 132790,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-12/context.txt",
+    "bytes": 5747,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-12/context_selection.json",
+    "bytes": 15598,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-12/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-12/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-12/model_context.txt",
+    "bytes": 5747,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-12/original_query.json",
+    "bytes": 70928,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-13/agent_trace.json",
+    "bytes": 134234,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-13/context.txt",
+    "bytes": 5942,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-13/context_selection.json",
+    "bytes": 15795,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-13/embedding_usage.json",
+    "bytes": 868,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-13/evaluation.json",
+    "bytes": 543,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-13/model_context.txt",
+    "bytes": 5942,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-13/original_query.json",
+    "bytes": 68783,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-14/agent_trace.json",
+    "bytes": 131108,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-14/context.txt",
+    "bytes": 5473,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-14/context_selection.json",
+    "bytes": 15324,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-14/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-14/evaluation.json",
+    "bytes": 524,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-14/model_context.txt",
+    "bytes": 5473,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-14/original_query.json",
+    "bytes": 71562,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-15/agent_trace.json",
+    "bytes": 133981,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-15/context.txt",
+    "bytes": 5882,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-15/context_selection.json",
+    "bytes": 15725,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-15/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-15/evaluation.json",
+    "bytes": 570,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-15/model_context.txt",
+    "bytes": 5882,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-15/original_query.json",
+    "bytes": 71399,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-16/agent_trace.json",
+    "bytes": 109817,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-16/context.txt",
+    "bytes": 5425,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-16/context_selection.json",
+    "bytes": 15412,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-16/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-16/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-16/model_context.txt",
+    "bytes": 5425,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-16/original_query.json",
+    "bytes": 48451,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-17/agent_trace.json",
+    "bytes": 120413,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-17/context.txt",
+    "bytes": 5984,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-17/context_selection.json",
+    "bytes": 15900,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-17/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-17/evaluation.json",
+    "bytes": 525,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-17/model_context.txt",
+    "bytes": 5984,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/hybrid_6000/d7-dev-17/original_query.json",
+    "bytes": 60046,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/lexical_4000/d7-dev-11/agent_trace.json",
+    "bytes": 82609,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/lexical_4000/d7-dev-11/context.txt",
+    "bytes": 4059,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/lexical_4000/d7-dev-11/context_selection.json",
+    "bytes": 13758,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/lexical_4000/d7-dev-11/embedding_usage.json",
+    "bytes": 4,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/lexical_4000/d7-dev-11/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/lexical_4000/d7-dev-11/model_context.txt",
+    "bytes": 4059,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/dev_retries/20261114T093849461754Z/lexical_4000/d7-dev-11/original_query.json",
+    "bytes": 33368,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/selection/20261114T095320637430Z/dev_reviews.json",
+    "bytes": 168367,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 68
+  },
+  {
+    "path": "artifacts/selection/20261114T095320637430Z/dev_selection.json",
+    "bytes": 3302,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/selection/20261114T095320637430Z/freeze.json",
+    "bytes": 3084,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/comparison.csv",
+    "bytes": 250,
+    "inspection": "metadata only; binary/non-text"
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/comparison.md",
+    "bytes": 2270,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/run_manifest.json",
+    "bytes": 4359,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/summary.json",
+    "bytes": 3769,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 3
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/records.json",
+    "bytes": 870458,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 7
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/summary.json",
+    "bytes": 1449,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/records.json",
+    "bytes": 1464963,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 7
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/summary.json",
+    "bytes": 1468,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-01/agent_trace.json",
+    "bytes": 81082,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-01/context.txt",
+    "bytes": 3771,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-01/context_selection.json",
+    "bytes": 13550,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-01/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-01/evaluation.json",
+    "bytes": 547,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-01/model_context.txt",
+    "bytes": 3771,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-01/original_query.json",
+    "bytes": 33021,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-02/agent_trace.json",
+    "bytes": 81611,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-02/context.txt",
+    "bytes": 3704,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-02/context_selection.json",
+    "bytes": 13483,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-02/embedding_usage.json",
+    "bytes": 862,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-02/evaluation.json",
+    "bytes": 545,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-02/model_context.txt",
+    "bytes": 3704,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-02/original_query.json",
+    "bytes": 33770,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-03/agent_trace.json",
+    "bytes": 82780,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-03/context.txt",
+    "bytes": 3570,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-03/context_selection.json",
+    "bytes": 13285,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-03/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-03/evaluation.json",
+    "bytes": 559,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-03/model_context.txt",
+    "bytes": 3570,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-03/original_query.json",
+    "bytes": 34640,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-04/agent_trace.json",
+    "bytes": 82221,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-04/context.txt",
+    "bytes": 3623,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-04/context_selection.json",
+    "bytes": 13337,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-04/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-04/evaluation.json",
+    "bytes": 545,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-04/model_context.txt",
+    "bytes": 3623,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-04/original_query.json",
+    "bytes": 34321,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-05/agent_trace.json",
+    "bytes": 84647,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-05/context.txt",
+    "bytes": 4098,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-05/context_selection.json",
+    "bytes": 13941,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-05/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-05/evaluation.json",
+    "bytes": 545,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-05/model_context.txt",
+    "bytes": 4098,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-05/original_query.json",
+    "bytes": 31899,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-06/agent_trace.json",
+    "bytes": 81916,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-06/context.txt",
+    "bytes": 4012,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-06/context_selection.json",
+    "bytes": 13859,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-06/embedding_usage.json",
+    "bytes": 857,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-06/evaluation.json",
+    "bytes": 527,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-06/model_context.txt",
+    "bytes": 4012,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-06/original_query.json",
+    "bytes": 31731,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-07/agent_trace.json",
+    "bytes": 80188,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-07/context.txt",
+    "bytes": 3648,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-07/context_selection.json",
+    "bytes": 13435,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-07/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-07/evaluation.json",
+    "bytes": 527,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-07/model_context.txt",
+    "bytes": 3648,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/dense_4000/d7-test-07/original_query.json",
+    "bytes": 31598,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-01/agent_trace.json",
+    "bytes": 125819,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-01/context.txt",
+    "bytes": 5279,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-01/context_selection.json",
+    "bytes": 15193,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-01/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-01/evaluation.json",
+    "bytes": 547,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-01/model_context.txt",
+    "bytes": 5279,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-01/original_query.json",
+    "bytes": 65683,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-02/agent_trace.json",
+    "bytes": 122807,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-02/context.txt",
+    "bytes": 6134,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-02/context_selection.json",
+    "bytes": 16112,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-02/embedding_usage.json",
+    "bytes": 863,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-02/evaluation.json",
+    "bytes": 545,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-02/model_context.txt",
+    "bytes": 6134,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-02/original_query.json",
+    "bytes": 59126,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-03/agent_trace.json",
+    "bytes": 136921,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-03/context.txt",
+    "bytes": 5865,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-03/context_selection.json",
+    "bytes": 15714,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-03/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-03/evaluation.json",
+    "bytes": 527,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-03/model_context.txt",
+    "bytes": 5865,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-03/original_query.json",
+    "bytes": 69876,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-04/agent_trace.json",
+    "bytes": 134794,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-04/context.txt",
+    "bytes": 5910,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-04/context_selection.json",
+    "bytes": 15761,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-04/embedding_usage.json",
+    "bytes": 869,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-04/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-04/model_context.txt",
+    "bytes": 5910,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-04/original_query.json",
+    "bytes": 71206,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-05/agent_trace.json",
+    "bytes": 130469,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-05/context.txt",
+    "bytes": 5884,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-05/context_selection.json",
+    "bytes": 15860,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-05/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-05/evaluation.json",
+    "bytes": 546,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-05/model_context.txt",
+    "bytes": 5884,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-05/original_query.json",
+    "bytes": 64500,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-06/agent_trace.json",
+    "bytes": 127876,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-06/context.txt",
+    "bytes": 5919,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-06/context_selection.json",
+    "bytes": 15906,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-06/embedding_usage.json",
+    "bytes": 857,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-06/evaluation.json",
+    "bytes": 527,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-06/model_context.txt",
+    "bytes": 5919,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-06/original_query.json",
+    "bytes": 61011,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-07/agent_trace.json",
+    "bytes": 131865,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-07/context.txt",
+    "bytes": 6046,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-07/context_selection.json",
+    "bytes": 15965,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-07/embedding_usage.json",
+    "bytes": 867,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-07/evaluation.json",
+    "bytes": 527,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 1
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-07/model_context.txt",
+    "bytes": 6046,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-07/original_query.json",
+    "bytes": 67755,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_review/20261114T095337524594Z/dense_4000_labels.json",
+    "bytes": 786,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_review/20261114T095337524594Z/dense_4000_reviews.json",
+    "bytes": 29513,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_review/20261114T095337524594Z/dense_4000_summary.json",
+    "bytes": 888,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_review/20261114T095337524594Z/hybrid_6000_labels.json",
+    "bytes": 755,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_review/20261114T095337524594Z/hybrid_6000_reviews.json",
+    "bytes": 25497,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_review/20261114T095337524594Z/hybrid_6000_summary.json",
+    "bytes": 889,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "artifacts/test_review/20261114T095337524594Z/summary.json",
+    "bytes": 3342,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/benchmark/answerable_questions.json",
+    "bytes": 18555,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/benchmark/cases.json",
+    "bytes": 6135,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/benchmark/evaluation_protocol.json",
+    "bytes": 4274,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/benchmark/EVALUATION_PROTOCOL.md",
+    "bytes": 13143,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/benchmark/questions.json",
+    "bytes": 27297,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/benchmark/README.md",
+    "bytes": 6617,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/benchmark/validation.json",
+    "bytes": 8975,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/day6/ATTRIBUTION.md",
+    "bytes": 977,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/day6/chunks.json",
+    "bytes": 197202,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/day6/snapshot.json",
+    "bytes": 448,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "data/day6/source_manifest.json",
+    "bytes": 15935,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "report/individual/2A202603397_VoHuyHoang.md",
+    "bytes": 19333,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "report/individual/README.md",
+    "bytes": 224,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "src/prompts/agent_system.txt",
+    "bytes": 1642,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "starter/data/day6/chunks.json",
+    "bytes": 197202,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  },
+  {
+    "path": "starter/data/day6/questions.json",
+    "bytes": 15734,
+    "inspection": "read",
+    "todo_fixme_count": 0,
+    "pending_count": 0
+  }
+]

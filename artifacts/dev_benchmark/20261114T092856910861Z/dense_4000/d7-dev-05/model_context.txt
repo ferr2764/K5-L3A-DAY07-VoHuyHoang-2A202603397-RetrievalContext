@@ -1,0 +1,46 @@
+[6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8 | starter/data/Foundations_of_Information_Systems.pdf | page 32]
+Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes
+planning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations
+reward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)
+Individually, IS professionals use SFIA to identify the skills they personally need to develop to perform their
+jobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the
+following seven levels of responsibility:
+• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,
+rely on basic tools, and have minimal influence on the work environment, essentially following others as
+they perform their jobs.
+
+
+[71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6 | starter/data/Foundations_of_Information_Systems.pdf | page 31]
+The Skills Framework for the Information Age (SFIA) provides a comprehensive skills and competency
+framework in a common language for the IT industry. It includes the steps listed in Figure 1.7. It was
+developed and is overseen by the SFIA Foundation, a global organization committed to helping IS and other
+technology professionals acquire the skills and competencies needed to successfully develop and manage
+technology. Organizations around the world in both the public and private sectors use SFIA to map out the
+knowledge and expertise needed to fill each role in their organizations. This includes entry-level to advanced
+positions in the areas of technology development, strategy, architecture, and support.
+1.2 • Frameworks of Knowledge and Industry Standards 21
+
+[8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7 | starter/data/Foundations_of_Information_Systems.pdf | page 32]
+• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an
+organization’s objectives and assigning responsibilities to subordinates. These employees perform highly
+complex tasks and make decisions that directly impact an organization’s performance and achievement of
+organizational goals and objectives.
+• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top
+leaders and managers. These individuals establish an organization’s policy objectives and have oversight
+and accountability for all decisions made and actions taken throughout the organization.
+SFIA is an important framework used globally to promote success in the digital world. Its common language
+helps technology professionals across the globe integrate the processes they must learn to successfully
+manage technology.
+
+
+[1553810c7b57686230d5860470bb0f130b8e7f160e12d976ab05a389994eb74d | starter/data/Foundations_of_Information_Systems.pdf | page 34]
+IS professionals who work for government agencies or private businesses that contract with the government
+should be familiar with the Federal Information Security Modernization Act (FISMA), which sets the
+guidelines and standards for security that affected organizations are required to meet to minimize the
+possibility that data will be stolen, lost, or misused. Under FISMA, affected organizations must have a security
+strategy that addresses issues such as system access control, risk assessment and management, information
+integrity, audit and accountability, incident response, and staff’s continuing education.
+
+
+[7e5aeb9e42675f54450adc7c04582c9ec4d32c9d15fc29a5b28703e3b86079e9 | starter/data/Foundations_of_Information_Systems.pdf | page 58]
+drive continuous improvement and growth.

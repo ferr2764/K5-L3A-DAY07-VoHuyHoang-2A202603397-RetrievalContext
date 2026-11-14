@@ -1,0 +1,52 @@
+[e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee | starter/data/Foundations_of_Information_Systems.pdf | page 30]
+Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and
+maintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and
+Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,
+and Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association
+(ISACA), which is a global organization that provides training, research information, news updates, advocacy,
+and related support for IS professionals and others involved in information technology.
+
+
+[05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2 | starter/data/Foundations_of_Information_Systems.pdf | page 30]
+Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and
+Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess
+(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer
+Science. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)
+Information Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that
+20 1 • Fundamentals of Information Systems
+Access for free at openstax.org
+
+[53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5 | starter/data/Foundations_of_Information_Systems.pdf | page 72]
+2.4 Business Process Management
+Learning Objectives
+By the end of this section, you will be able to:
+• Describe a business process
+• Differentiate business process reengineering, improvement, and management
+• Discuss ways in which information systems enable business processes
+To promote success, businesses and other organizations need robust business processes that are well
+managed. Business processes help organizations be more efficient and effective—providing higher-quality
+products and services, and improving customer service and satisfaction. Business processes can be tailored to
+meet an organization’s specific needs, and information systems can be important tools to enhance business
+processes.
+Business Process
+A business process represents a continuous series of interconnected activities aimed at producing a valuable
+product or service for an organization, its business partners, and its customers. This process relies on three
+essential components:
+
+
+[5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc | starter/data/Foundations_of_Information_Systems.pdf | page 30]
+Industry standards help IS professionals ensure that the system they develop has the appropriate
+infrastructure and technological components required to function efficiently. This includes ensuring the
+system is compatible with information systems used in other organizations. After all, an important objective of
+IS to enable information sharing internally and externally as organizations interact in the marketplace.
+Specific Frameworks and Standards in Information Systems
+Starting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for
+Information and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills
+Framework for the Information Age (SFIA), Waterfall, and Zachman.
+
+
+[66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da | starter/data/Foundations_of_Information_Systems.pdf | page 62]
+• automation of operation
+• information generation for managing people and resources
+• transformation of existing processes or combined tasks called routines
+Figure 2.5 Information technology creates value for organizations through automation, information generation, and transformation.

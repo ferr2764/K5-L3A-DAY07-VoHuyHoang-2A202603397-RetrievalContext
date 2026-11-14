@@ -1,0 +1,136 @@
+[bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47 | starter/data/Foundations_of_Information_Systems.pdf | page 67]
+Each of these strategies has its pros and cons. For example, if a company focuses only on pursuing a cost
+leadership strategy, it might not have enough resources for research and development, and so it might lag in
+terms of innovation. Let’s say a company traditionally sells a one-size-fits-all software product, and they decide
+to shift toward a customer-oriented strategy by offering customizable features and personalized support
+2.2 • Strategies to Improve the Value of Information Technology Within Organizations 57
+
+[23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737 | starter/data/Foundations_of_Information_Systems.pdf | page 67]
+Cost leadership strategy is a business approach wherein a company aims to become the lowest-cost producer
+in its industry or market. The primary goal of this strategy is to offer products or services at the lowest possible
+price while maintaining acceptable quality levels. Walmart’s focus on cost leadership has allowed it to maintain
+a dominant position in the retail industry. It consistently outperforms competitors by offering lower prices and
+attracting a broad customer base, including price-sensitive shoppers. Despite its low-margin business,
+Walmart’s sheer scale and operational efficiency allow it to generate massive revenue while maintaining
+profitability.
+
+
+[c762720e9ae557feb11d2be993c0f445120defeffbe8d7adbbb93972587bd1d0 | starter/data/Foundations_of_Information_Systems.pdf | page 64]
+innovation,
+streamlined research
+and development
+processes, and
+successful product
+development
+Table 2.2 FAIS Values These indicators serve as metrics for evaluating information technology investments and demonstrate how
+technology can create value for organizations.
+54 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce | starter/data/Foundations_of_Information_Systems.pdf | page 64]
+on
+investment
+Manufacturing
+and
+operations
+Product life-cycle
+optimization and risk
+assessment
+Efficient
+materials and
+production
+planning
+Real-time shop
+floor
+monitoring
+and quality
+control
+Improved product
+quality, reduced
+production downtime,
+streamlined processes
+Supply chain
+management
+Supply chain visibility
+and demand
+forecasting
+Inventory
+optimization and
+supplier
+performance
+tracking
+Efficient order
+processing and
+shipment
+tracking
+Reduced inventory costs,
+improved supply chain
+efficiency
+Customer
+service
+Acquisition and
+retention of
+customers; customer
+feedback and
+sentiment analysis
+Help desk
+performance
+analytics and
+ticket tracking
+Customer self-
+help
+knowledge
+base and issue
+resolution
+Enhanced customer
+satisfaction, reduced
+response time, and
+support costs
+Research and
+development
+Rate of collaborative
+innovation and new
+idea generation
+Project resource
+allocation and
+innovation
+tracking
+Idea evaluation
+and research
+and
+development
+process
+optimization
+Accelerated 
+
+[31c6f10f23a0445ceb0f9bf61884bae3fb9c6ef8e81f25bb411ffe33c1838d4f | starter/data/Foundations_of_Information_Systems.pdf | page 67]
+Focus/innovation strategy is a business approach wherein a company focuses on introducing new products,
+services, or processes—or enhancing existing ones—to stay ahead of the competition and meet evolving
+customer needs. The primary goal of this strategy is to drive growth and create a competitive advantage by
+being at the forefront of innovation in the industry. Google is a prime example. Continuously introducing new
+products and features, such as Google Search, Gmail, and Google Maps, the company revolutionized the way
+people access and interact with information online.
+
+
+[09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae | starter/data/Foundations_of_Information_Systems.pdf | page 71]
+specific geographic locations facilitates the easy transfer of use rights.
+• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.
+• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than
+the cost of ownership, promoting the adoption of the sharing economy model.
+
+
+[01ec090a761e56c89f0eed5d490ca01eef33bab72c35a20c8232f30d61640847 | starter/data/Foundations_of_Information_Systems.pdf | page 66]
+Innovation: modification of work “Idea (89054) - The Noun Project” by “Nice and Serious”/Wikimedia Commons, CC0 1.0; credit
+Customers: modification of work “Noun Project people icon 3376085” by Anhar Ismail, ID/Wikimedia Commons, CC BY 3.0; credit
+Collaboration: modification of work “Handshake, by David“ by David/Wikimedia Commons, CC BY 3.0; credit Goals: modification of
+work “Checklist Noun project 5166” by Aaron Dodson/Wikimedia Commons, CC BY 3.0; credit Financials: modification of work
+“Analysis (1510724) - The Noun Project” by Anwer Hossain/Wikimedia Commons, CC0 1.0; credit Culture: modification of work “Ethics
+of Open Sharing icon - Organizational culture” by Julius Uusikylä, KRUT Collective/Wikimedia Commons, CC0 1.0)
+Unfortunately, many organizations struggle to achieve such close alignment. The primary reasons for the gap
+between business and IT departments can usually be attributed to the following:
+
+
+[6b02d6af6b3f1b530418d3a2eb658ee02f9675cb09a342e80bc88d94401260eb | starter/data/Foundations_of_Information_Systems.pdf | page 68]
+options. A customer-oriented strategy impacts the scope, cost, schedule, risk, and quality dimensions of a
+project. While a customer-oriented approach can lead to higher initial costs, it can also bring significant
+benefits.

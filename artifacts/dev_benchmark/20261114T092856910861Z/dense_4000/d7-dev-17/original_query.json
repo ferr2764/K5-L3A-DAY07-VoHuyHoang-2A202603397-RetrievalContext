@@ -1,0 +1,632 @@
+{
+  "query": "Theo corpus này, lệ phí thi chứng chỉ SFIA tại Việt Nam năm 2026 là bao nhiêu VND?",
+  "filter": null,
+  "results": [
+    {
+      "id": "71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "The Skills Framework for the Information Age (SFIA) provides a comprehensive skills and competency\nframework in a common language for the IT industry. It includes the steps listed in Figure 1.7. It was\ndeveloped and is overseen by the SFIA Foundation, a global organization committed to helping IS and other\ntechnology professionals acquire the skills and competencies needed to successfully develop and manage\ntechnology. Organizations around the world in both the public and private sectors use SFIA to map out the\nknowledge and expertise needed to fill each role in their organizations. This includes entry-level to advanced\npositions in the areas of technology development, strategy, architecture, and support.\n1.2 • Frameworks of Knowledge and Industry Standards 21",
+      "metadata": {
+        "end": 3117,
+        "part": 0,
+        "year": 2025,
+        "start": 2347,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3152394491831423,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 32,
+      "text": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+      "metadata": {
+        "end": 887,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3106629262081476,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "text": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n",
+      "metadata": {
+        "end": 2203,
+        "part": 0,
+        "year": 2025,
+        "start": 1552,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.23024361827520612,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 32,
+      "text": "• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an\norganization’s objectives and assigning responsibilities to subordinates. These employees perform highly\ncomplex tasks and make decisions that directly impact an organization’s performance and achievement of\norganizational goals and objectives.\n• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top\nleaders and managers. These individuals establish an organization’s policy objectives and have oversight\nand accountability for all decisions made and actions taken throughout the organization.\nSFIA is an important framework used globally to promote success in the digital world. Its common language\nhelps technology professionals across the globe integrate the processes they must learn to successfully\nmanage technology.\n",
+      "metadata": {
+        "end": 2692,
+        "part": 0,
+        "year": 2025,
+        "start": 1802,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.21131898486110434,
+      "rank": 4,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "text": "of work “Zachman Framework (9026775815)” by National Institute of Standards and Technology/Wikimedia Commons, Public\nDomain)\nThe industry standards that are applicable in IS include the American Society for Industrial Security (ASIS), the\nFederal Information Security Modernization Act (FISMA), IS2020, ISO/IEC 27001, and the Open Group\nArchitecture Framework (TOGAF).\nThe American Society for Industrial Security (ASIS) is a global organization that provides training and\ncertification to help professionals in all industries provide security for people, property, and information. ASIS\nis a global organization that collaborates with public and private organizations throughout the world—such as\nthe Department of Homeland Security and the Federal Bureau of Investigation—to ensure that IS\nprofessionals and others involved in security have the resources needed to successfully handle security issues\nat every stage of their career.\n",
+      "metadata": {
+        "end": 935,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.207333088524966,
+      "rank": 5,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "bbaa96e300ab6afb45dd208a6154b701b7c6f0707be7e547180065990e40b46c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 39,
+      "text": "learn more about specific topics, you can take additional courses\ndevoted to covering these subjects in depth.\nDepending on the role, future IS professionals may qualify for a job by earning a degree or certification(s) in IS,\n1.3 • Connections between Information Systems and Information Technology 29",
+      "metadata": {
+        "end": 3206,
+        "part": 0,
+        "year": 2025,
+        "start": 2904,
+        "method": "paragraph-1000",
+        "section": "1.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.19155895006740997,
+      "rank": 6,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "b1267b5f90b9175e3c256f250e6a9f097f3d6fe7aa49c9c60cb3d0b50a789029",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 41,
+      "text": "technology, the evolving frontiers of IS, and the future of technology and its impacts on IS.\nFUTURE TECHNOLOGY\nArtificial Intelligence: Theory in Action\nTechnology changes rapidly, and IS professionals must stay abreast of technological advances,\nunderstanding the impact that these have on IS. For example, consider artificial intelligence. AI has many\npotential benefits for IS, including improvements in efficiency for the processes to gather, store, and\nmanage data. AI also presents a number of serious challenges such as privacy concerns as AI often gathers\ndata without the individual’s consent. AI is rapidly evolving and will be an important part of the future of IS.\nThe advent of AI also provides an example of why continuing education is so important. With continuing\neducation, IS professionals can ensure that they are prepared to handle the future, regardless of what\ntechnological changes and challenges face them.\n",
+      "metadata": {
+        "end": 932,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.4",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.18660931605017783,
+      "rank": 7,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "b7f6b96281977aa9dd9274df536af83f4780e2af28aea85439564327dc615a8c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 41,
+      "text": "Cybercriminals and cyberattacks are on the rise. According to the Federal Bureau of Investigation, 2023 saw a\nrecord number of complaints about cybercrimes, with over 880,000 complaints and financial losses exceeding\n$12.5 billion. This was a 10 percent increase in complaints and a 22 percent increase in financial losses\ncompared to the previous year.4 Fighting cybercrime and developing better cybersecurity to handle\ntechnological advances is an important global initiative for IS professionals throughout the world.\n4 Internet Crime Complaint Center, Internet Crime Report (Federal Bureau of Investigation, 2023), https://www.ic3.gov/Media/PDF/\nAnnualReport/2023_IC3Report.pdf\n1.4 • The Global Importance of Information Systems 31",
+      "metadata": {
+        "end": 4023,
+        "part": 0,
+        "year": 2025,
+        "start": 3288,
+        "method": "paragraph-1000",
+        "section": "1.4",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.1863266724773598,
+      "rank": 8,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "6b4f320ffea0272e4e09c1e7e4c563c01813339a1360c12df98066aea422af7b",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "text": "ISO/IEC 27001 is a worldwide standard established by the International Organization for Standardization that\ndefines the requirements information systems must satisfy to provide adequate security for any system. ISO/\nIEC 27001 applies to all sizes and types of organizations in both the public and private sectors. The standard\nfocuses on cybercrime but helps organizations guard against any threats to data availability, integrity, and\nconfidentiality.\n",
+      "metadata": {
+        "end": 2657,
+        "part": 0,
+        "year": 2025,
+        "start": 2203,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.18562301349968235,
+      "rank": 9,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "c762720e9ae557feb11d2be993c0f445120defeffbe8d7adbbb93972587bd1d0",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 64,
+      "text": "innovation,\nstreamlined research\nand development\nprocesses, and\nsuccessful product\ndevelopment\nTable 2.2 FAIS Values These indicators serve as metrics for evaluating information technology investments and demonstrate how\ntechnology can create value for organizations.\n54 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+      "metadata": {
+        "end": 2338,
+        "part": 0,
+        "year": 2025,
+        "start": 1972,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.1852494930433508,
+      "rank": 10,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "top3": [
+    {
+      "id": "71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "The Skills Framework for the Information Age (SFIA) provides a comprehensive skills and competency\nframework in a common language for the IT industry. It includes the steps listed in Figure 1.7. It was\ndeveloped and is overseen by the SFIA Foundation, a global organization committed to helping IS and other\ntechnology professionals acquire the skills and competencies needed to successfully develop and manage\ntechnology. Organizations around the world in both the public and private sectors use SFIA to map out the\nknowledge and expertise needed to fill each role in their organizations. This includes entry-level to advanced\npositions in the areas of technology development, strategy, architecture, and support.\n1.2 • Frameworks of Knowledge and Industry Standards 21",
+      "metadata": {
+        "end": 3117,
+        "part": 0,
+        "year": 2025,
+        "start": 2347,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3152394491831423,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 32,
+      "text": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+      "metadata": {
+        "end": 887,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3106629262081476,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "text": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n",
+      "metadata": {
+        "end": 2203,
+        "part": 0,
+        "year": 2025,
+        "start": 1552,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.23024361827520612,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "trace": {
+    "method": "dense",
+    "filter": {},
+    "returned": 10,
+    "elapsed_ms": 891.1122999998042,
+    "cache_hit": false,
+    "service_cost_usd": null,
+    "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+    "model": "openai/text-embedding-3-small",
+    "dimensions": 1536,
+    "strategy": "B",
+    "embedding_requests": [
+      {
+        "status": "ok",
+        "id": "gen-emb-1794648609-laUQo5B3YIcAEF02oQpm",
+        "elapsed_ms": 843.1854999998905,
+        "usage": {
+          "prompt_tokens": 37,
+          "total_tokens": 37,
+          "cost": 7.4e-07,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 7.4e-07,
+            "upstream_inference_prompt_cost": 7.4e-07,
+            "upstream_inference_completions_cost": 0
+          }
+        }
+      }
+    ],
+    "measured_embedding_cost": {
+      "request_count": 1,
+      "known_cost_usd": 7.4e-07,
+      "cost_usd": 7.4e-07,
+      "unknown_cost_request_count": 0,
+      "prompt_tokens_known": 37
+    }
+  },
+  "context_selection": {
+    "context": "[71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6 | starter/data/Foundations_of_Information_Systems.pdf | page 31]\nThe Skills Framework for the Information Age (SFIA) provides a comprehensive skills and competency\nframework in a common language for the IT industry. It includes the steps listed in Figure 1.7. It was\ndeveloped and is overseen by the SFIA Foundation, a global organization committed to helping IS and other\ntechnology professionals acquire the skills and competencies needed to successfully develop and manage\ntechnology. Organizations around the world in both the public and private sectors use SFIA to map out the\nknowledge and expertise needed to fill each role in their organizations. This includes entry-level to advanced\npositions in the areas of technology development, strategy, architecture, and support.\n1.2 • Frameworks of Knowledge and Industry Standards 21\n\n[6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8 | starter/data/Foundations_of_Information_Systems.pdf | page 32]\nFigure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n\n\n[ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c | starter/data/Foundations_of_Information_Systems.pdf | page 34]\nIS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n\n\n[8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7 | starter/data/Foundations_of_Information_Systems.pdf | page 32]\n• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an\norganization’s objectives and assigning responsibilities to subordinates. These employees perform highly\ncomplex tasks and make decisions that directly impact an organization’s performance and achievement of\norganizational goals and objectives.\n• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top\nleaders and managers. These individuals establish an organization’s policy objectives and have oversight\nand accountability for all decisions made and actions taken throughout the organization.\nSFIA is an important framework used globally to promote success in the digital world. Its common language\nhelps technology professionals across the globe integrate the processes they must learn to successfully\nmanage technology.\n",
+    "context_ids": [
+      "71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6",
+      "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+      "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+      "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7"
+    ],
+    "context_chars": 3728,
+    "context_sha256": "60019f9620326c3da8ff59f2b42179b1966782ed0764faebe18540631e0014fd",
+    "budget_chars": 4000,
+    "remaining_chars": 272,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 4,
+    "skipped_count": 6,
+    "decisions": [
+      {
+        "id": "71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 31,
+        "metadata": {
+          "end": 3117,
+          "part": 0,
+          "year": 2025,
+          "start": 2347,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 770,
+        "block_characters": 901,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 32,
+        "metadata": {
+          "end": 887,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 887,
+        "block_characters": 1018,
+        "separator_characters": 2,
+        "remaining_before": 3099,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "metadata": {
+          "end": 2203,
+          "part": 0,
+          "year": 2025,
+          "start": 1552,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 651,
+        "block_characters": 782,
+        "separator_characters": 2,
+        "remaining_before": 2079,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 32,
+        "metadata": {
+          "end": 2692,
+          "part": 0,
+          "year": 2025,
+          "start": 1802,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 890,
+        "block_characters": 1021,
+        "separator_characters": 2,
+        "remaining_before": 1295,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "metadata": {
+          "end": 935,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 935,
+        "block_characters": 1066,
+        "separator_characters": 2,
+        "remaining_before": 272,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "bbaa96e300ab6afb45dd208a6154b701b7c6f0707be7e547180065990e40b46c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 39,
+        "metadata": {
+          "end": 3206,
+          "part": 0,
+          "year": 2025,
+          "start": 2904,
+          "method": "paragraph-1000",
+          "section": "1.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 302,
+        "block_characters": 433,
+        "separator_characters": 2,
+        "remaining_before": 272,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "b1267b5f90b9175e3c256f250e6a9f097f3d6fe7aa49c9c60cb3d0b50a789029",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 41,
+        "metadata": {
+          "end": 932,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 932,
+        "block_characters": 1063,
+        "separator_characters": 2,
+        "remaining_before": 272,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "b7f6b96281977aa9dd9274df536af83f4780e2af28aea85439564327dc615a8c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 41,
+        "metadata": {
+          "end": 4023,
+          "part": 0,
+          "year": 2025,
+          "start": 3288,
+          "method": "paragraph-1000",
+          "section": "1.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 735,
+        "block_characters": 866,
+        "separator_characters": 2,
+        "remaining_before": 272,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "6b4f320ffea0272e4e09c1e7e4c563c01813339a1360c12df98066aea422af7b",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "metadata": {
+          "end": 2657,
+          "part": 0,
+          "year": 2025,
+          "start": 2203,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 454,
+        "block_characters": 585,
+        "separator_characters": 2,
+        "remaining_before": 272,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "c762720e9ae557feb11d2be993c0f445120defeffbe8d7adbbb93972587bd1d0",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 64,
+        "metadata": {
+          "end": 2338,
+          "part": 0,
+          "year": 2025,
+          "start": 1972,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 366,
+        "block_characters": 497,
+        "separator_characters": 2,
+        "remaining_before": 272,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 891.3463999997475
+}

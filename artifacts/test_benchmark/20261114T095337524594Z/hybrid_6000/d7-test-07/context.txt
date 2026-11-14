@@ -1,0 +1,185 @@
+[91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076 | starter/data/Foundations_of_Information_Systems.pdf | page 52]
+1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,
+https://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/
+2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,
+https://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-
+unused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D
+42 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737 | starter/data/Foundations_of_Information_Systems.pdf | page 67]
+Cost leadership strategy is a business approach wherein a company aims to become the lowest-cost producer
+in its industry or market. The primary goal of this strategy is to offer products or services at the lowest possible
+price while maintaining acceptable quality levels. Walmart’s focus on cost leadership has allowed it to maintain
+a dominant position in the retail industry. It consistently outperforms competitors by offering lower prices and
+attracting a broad customer base, including price-sensitive shoppers. Despite its low-margin business,
+Walmart’s sheer scale and operational efficiency allow it to generate massive revenue while maintaining
+profitability.
+
+
+[92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81 | starter/data/Foundations_of_Information_Systems.pdf | page 61]
+quantified the value of their IT
+investment by measuring improvements in delivery times, a key performance indicator directly linked to
+customer satisfaction.
+In today’s ever-evolving business landscape, organizations have come to recognize the immense potential of
+IT to enhance the value of their products and services. Leveraging IT has become a key factor in staying
+competitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face
+an essential question: How can they effectively assess the value IT adds to their organization?
+Defining the Value of Information Technology Within Organizations
+Over the past decades, businesses and managers have focused on understanding how to employ IT systems
+to achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have
+been ushered in with the emergence of a new generation of IT, including elements such as:
+
+
+[00f8596499f471efc2f2274a7093a3d38f1e87fb996d4c1fe9bcf283d3da32e2 | starter/data/Foundations_of_Information_Systems.pdf | page 63]
+10 Parmy Olson, “Under Armour Buys Health-Tracking App MyFitnessPal for $475 Million,” Forbes, February 4, 2015,
+https://www.forbes.com/sites/parmyolson/2015/02/04/myfitnesspal-acquisition-under-armour/
+2.2 • Strategies to Improve the Value of Information Technology Within Organizations 53
+
+[821b2ddad02a0d60a03c778c5eef55549ef52bb87bf663d810fac88d8b56a1a9 | starter/data/Foundations_of_Information_Systems.pdf | page 64]
+Functional
+Area
+Strategic
+Information
+Systems
+Managerial
+Information
+Systems
+Operational
+Information
+Systems
+Overall Value
+Indicators for
+Information
+Technology Investment
+Human
+resources
+Workforce
+optimization
+Data-driven
+human
+resources
+decision-making
+and analytics
+Efficient
+employee data
+management
+and self-
+service options
+Improved talent
+acquisition and
+retention, reduced
+human resources
+operational costs
+Finance and
+accounting
+Effectiveness of real-
+time financial insights
+and predictive
+analysis
+Streamlined
+budgeting and
+financial
+forecasting
+Automated
+accounting
+processes and
+payroll
+management
+Better financial decision-
+making, cost savings,
+minimized errors
+Sales and
+marketing
+Acquisition and
+retention of customer
+with data analysis for
+market trends and
+demand forecasting
+Sales
+performance
+tracking and
+sales pipeline
+management
+Target
+marketing
+campaigns and
+customer
+engagement
+Increased sales,
+enhanced customer
+satisfaction, improved
+marketing return 
+
+[f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92 | starter/data/Foundations_of_Information_Systems.pdf | page 52]
+from their data. Decisions about data management have long-lasting impacts, so it is important
+for organizations to select suitable frameworks for managing data.
+Identifying Practices and Frameworks That Assist Data Management
+Analysts report that by 2025 the global volume of data is expected to reach 200 zettabytes.1 A zettabyte is a
+measure of digital storage capacity equal to a thousand exabytes, a billion terabytes, or a trillion gigabytes.
+
+
+[07a863c983f9e4511e1150da4a44f19b77c6fed7b7d540e0df8c35c7a2691f7e | starter/data/Foundations_of_Information_Systems.pdf | page 65]
+Functional
+Area
+Strategic
+Information
+Systems
+Managerial
+Information
+Systems
+Operational
+Information
+Systems
+Overall Value
+Indicators for
+Information
+Technology Investment
+Information
+technology
+and
+technology
+management
+Alignment of
+information
+technology
+investments with
+business goals and
+strategy
+Information
+technology
+project progress
+monitoring and
+resource
+optimization
+Efficient
+information
+technology
+service delivery
+and asset
+management
+Optimized information
+technology spending,
+improved project
+outcomes, and reduced
+operational disruptions
+Business
+intelligence
+and analytics
+Utilization of data for
+advanced analytics
+Data
+visualization for
+insights and
+decision-making
+Interactive
+dashboards for
+real-time
+performance
+tracking
+Data-driven decision-
+making, actionable
+insights, and improved
+business performance
+Table 2.2 FAIS Values These indicators serve as metrics for evaluating information technology investments and demonstrate how
+technology can create value for 

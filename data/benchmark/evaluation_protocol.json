@@ -1,0 +1,134 @@
+{
+  "version": "1.0",
+  "status": "rules_defined_before_DAY07_benchmark_not_experiment_results",
+  "date": "2026-11-14",
+  "scope": {
+    "dev_answerable": 15,
+    "dev_unanswerable": 2,
+    "test_answerable": 5,
+    "test_unanswerable": 2
+  },
+  "inputs": {
+    "questions_path": "data/benchmark/questions.json",
+    "questions_sha256": "aa58d6b0d688eb053bffb7d4726cbe489829cbe5204c805d80f48ca984b8d61a",
+    "chunks_path": "starter/data/day6/chunks.json",
+    "chunks_sha256": "1c7f0683495b7d53a55a510fc541d472d8d905f83709b83c17c8def82c12dbb4",
+    "chunk_count": 162,
+    "day6_strategy": "B",
+    "embedding_model": "openai/text-embedding-3-small",
+    "embedding_dimensions": 1536
+  },
+  "evidence": {
+    "normalization": "NFC_then_collapse_whitespace_preserve_case_and_punctuation",
+    "gold_semantics": "OR_alternatives",
+    "retrieval_hit": "one_chunk_complete_literal_or_reviewed_equivalent_with_source_page",
+    "context_hit": "all_required_facts_and_conditions_supported_by_final_context",
+    "multi_chunk_retrieval_union_counts_as_hit": false,
+    "current_mandatory_multihop_cases": 0,
+    "equivalence_review": "record_query_chunk_source_page_quote_reason_apply_to_all_methods; retain_literal_metrics"
+  },
+  "runtime": {
+    "allowed_payload_fields": [
+      "question",
+      "filter"
+    ],
+    "filter_keys": [
+      "section",
+      "language",
+      "year"
+    ],
+    "filter_source": "explicit_question_or_user_context_only",
+    "apply_filter_to_all_retrievers": true,
+    "query_original_ranking_required": true,
+    "agent_model": null,
+    "prompt_sha256": null,
+    "generation_settings": null,
+    "require_agent_model_and_prompt_before_first_run": true
+  },
+  "context": {
+    "unit": "Python_len_Unicode_codepoints_including_headers_and_separators",
+    "baseline_budget": 4000,
+    "expanded_budget": 6000,
+    "block_format": "[chunk-id | source | page N]\\ntext",
+    "deduplicate_by": "chunk_id",
+    "oversized_chunk": "skip_do_not_truncate",
+    "multi_round_order": "best_reciprocal_rank_across_searches_then_chunk_id",
+    "rank_constant": 60,
+    "repack_each_round": true
+  },
+  "profiles": [
+    {
+      "id": "dense_4000",
+      "method": "dense",
+      "return_top_k": 10,
+      "ranking_cutoffs": [
+        1,
+        3
+      ],
+      "context_budget_chars": 4000,
+      "max_searches": 2,
+      "max_model_decisions": 3,
+      "role": "baseline",
+      "rrf_k": null
+    },
+    {
+      "id": "lexical_4000",
+      "method": "tfidf",
+      "return_top_k": 10,
+      "ranking_cutoffs": [
+        1,
+        3
+      ],
+      "context_budget_chars": 4000,
+      "max_searches": 2,
+      "max_model_decisions": 3,
+      "role": "method_2",
+      "rrf_k": null
+    },
+    {
+      "id": "hybrid_4000",
+      "method": "hybrid_rrf",
+      "return_top_k": 10,
+      "ranking_cutoffs": [
+        1,
+        3
+      ],
+      "context_budget_chars": 4000,
+      "max_searches": 2,
+      "max_model_decisions": 3,
+      "role": "method_3_and_improvement_1",
+      "rrf_k": 60
+    },
+    {
+      "id": "hybrid_6000",
+      "method": "hybrid_rrf",
+      "return_top_k": 10,
+      "ranking_cutoffs": [
+        1,
+        3
+      ],
+      "context_budget_chars": 6000,
+      "max_searches": 2,
+      "max_model_decisions": 3,
+      "role": "improvement_2_context_budget_only",
+      "rrf_k": 60
+    }
+  ],
+  "selection_order": [
+    "fewer_system_errors",
+    "higher_grounded_answer_mean_all_answerable_errors_zero",
+    "higher_abstention_rate_all_unanswerable_errors_fail",
+    "higher_supported_citation_rate_NA_last",
+    "higher_context_evidence_rate",
+    "higher_original_query_evidence_hit3",
+    "higher_original_query_hit1",
+    "lower_comparable_actual_usd_else_skip",
+    "lower_median_end_to_end_latency",
+    "smaller_context_budget",
+    "configuration_id_alphabetical"
+  ],
+  "error_policy": "Keep_full_case_coverage_report_success_only_agent_metrics_separately_errors_not_correct_abstention",
+  "selected_configuration": null,
+  "freeze_manifest_required_before_test": true,
+  "current_implementation_status": "Specification_only_existing_starter_does_not_auto_load_or_enforce_this_JSON"
+}

@@ -1,0 +1,47 @@
+{
+  "cases": 7,
+  "provider_errors": 0,
+  "tool_use": {
+    "n": 7,
+    "N": 7
+  },
+  "grounded_answer": {
+    "0": 0,
+    "1": 2,
+    "2": 3,
+    "N": 5,
+    "mean": 1.6
+  },
+  "citation_validity": {
+    "n": 4,
+    "N": 6
+  },
+  "answer_citation_coverage": {
+    "n": 5,
+    "N": 5
+  },
+  "abstention": {
+    "n": 2,
+    "N": 2
+  },
+  "false_abstention": {
+    "n": 0,
+    "N": 5
+  },
+  "profile": "dense_4000",
+  "split": "test",
+  "context_grade_counts": {
+    "0": 0,
+    "1": 0,
+    "2": 5
+  },
+  "context_grade_mean": 2.0,
+  "context_grade_N": 5,
+  "search_count_distribution": {
+    "0": 0,
+    "1": 7,
+    "2": 0
+  },
+  "trace_source": "artifacts/test_benchmark/20261114T095337524594Z",
+  "abstention_note": "Both missing-evidence cases truly refused without unsupported numeric claims; no failure counted as correct abstention."
+}

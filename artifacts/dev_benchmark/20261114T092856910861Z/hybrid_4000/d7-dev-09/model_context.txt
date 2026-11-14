@@ -1,0 +1,55 @@
+[8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018 | starter/data/Foundations_of_Information_Systems.pdf | page 55]
+There are some differences in how each framework approaches data management. DAMA-DMBOK focuses on
+the technical aspects of data management, while MIKE2.0 focuses on the business aspects of information
+management. The IBM Data Governance Council Maturity Model and the EDM Council Data Management
+Maturity Model are both designed to help organizations assess their current data management practices and
+identify areas for improvement. The best framework for an organization will depend on its specific needs and
+requirements. However, all five frameworks can be valuable tools for improving data management and
+information quality. The optimal framework for managing data is one that is continuously developing to
+address advancements in data storage and changes in organizational policy.
+CAREERS IN IS
+Data Architect
+A data architect is responsible for designing, creating, and managing an organization’s data architecture.
+
+
+[f465b7f8409a07fde37be3d48e524be29741df7a685a8892fd30d8c2890dc9cd | starter/data/Foundations_of_Information_Systems.pdf | page 55]
+Businesses that strive to ensure they follow these data management parameters can decide to follow any
+framework. A framework is a structured and organized approach that provides a set of guidelines, principles,
+or tools to address complex problems or tasks in a systematic manner. It serves as a foundation to build and
+manage processes, systems, or projects, ensuring consistency, efficiency, and effectiveness. Following are
+some common data management frameworks:
+• DAMA-DMBOK: The Data Management Body of Knowledge, developed by the Data Management
+Association (DAMA International), provides comprehensive guidelines across ten key knowledge areas,
+including data governance, data architecture, and data quality.
+• MIKE2.0 IMM: This framework offers a structured way to assess an organization’s information maturity
+level.
+• IBM Data Governance Council Maturity Model: This model provides a road map for implementing effective
+data governance processes and controls.
+
+
+[34daaddd4938cf6d81965ffba188cb7c79038ebae208ccd88d98f2361bc06085 | starter/data/Foundations_of_Information_Systems.pdf | page 54]
+Figure 2.2 Data governance plays a role in all data management areas. It ensures an organization’s data are of high quality and are
+managed and protected effectively so that the data can be used to make informed decisions. (attribution: Copyright Rice University,
+OpenStax, under CC BY 4.0 license)
+FUTURE TECHNOLOGY
+Data Management Technologies
+A new approach to data management, called a data mesh, is based on the principle of domain-driven
+design. In a data mesh, data are owned by the domain experts who create the data, and the data are made
+available to other users through a self-service model.
+
+
+[231c5917f6c4401541fcad5adfaa1153b37871a256c0c4c0eade57a6dfb3a2d4 | starter/data/Foundations_of_Information_Systems.pdf | page 57]
+Additionally, MDM facilitates efficient inventory management and product updates across various sales
+channels.
+2.1 • Practices and Frameworks for Data Management 47
+
+[fa2190de930dd9497d4bf9c17ae5d87a4e4ea018d76d0f89eeaa76ca4c34690d | starter/data/Foundations_of_Information_Systems.pdf | page 55]
+• Enterprise Data Management (EDM) Council Data Management Maturity Model: This comprehensive
+framework covers various aspects of data management, including data strategy, data operations, and data
+architecture.
+• Responsible Data Maturity Model: This model is an evolving concept that continues to gain importance as
+the role of data in our lives becomes more prominent.
+
+
+[7e5aeb9e42675f54450adc7c04582c9ec4d32c9d15fc29a5b28703e3b86079e9 | starter/data/Foundations_of_Information_Systems.pdf | page 58]
+drive continuous improvement and growth.

@@ -1,0 +1,125 @@
+[d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82 | starter/data/Foundations_of_Information_Systems.pdf | page 66]
+Business and IT alignment as an integral unit, not separate entities, is vital. It is important that organizations
+view IT as a strategic partner, not just a support function. By fostering collaboration and communication
+between business and IT stakeholders, organizations can ensure that technology solutions directly address
+business needs and objectives. To improve business-IT alignment, organizations can employ several
+measures:11
+• Prioritize organizational communication: Encouraging effective dialogue between different departments,
+fostering interdepartmental partnerships, and promoting mutual understanding between business and IT
+teams ensures sufficient knowledge sharing, well-informed decision-making, and seamless collaboration.
+
+
+[e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a | starter/data/Foundations_of_Information_Systems.pdf | page 65]
+organizations.
+Strategies to Improve the Value of Information Technology for
+Organizations
+Understanding the role of business processes within an organization is vital to measuring the specific value
+that IT can deliver and the mechanisms through which it achieves this. Information systems professionals
+know that technology alone is not the sole determinant of digital success, and that strategy is an important
+catalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of
+the IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly
+supports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure
+2.6):
+• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading
+to new revenue opportunities.
+
+
+[f053b5f872be3e01c702d2a1665ef6cd777f5b3e62084d965e39dff4fd11d74d | starter/data/Foundations_of_Information_Systems.pdf | page 65]
+• Internal and external customers, as well as customer service, hold paramount importance for these
+organizations.
+• Business and IT professionals are cross-trained and move across different departments and job roles.
+• Clear overarching goals are established and understood by both IT and business employees.
+• Information technology employees are informed about the company’s revenue generation and cost-
+saving mechanisms.
+• The organization fosters a vibrant and inclusive company culture.
+Figure 2.6 Successful strategic alignment occurs when information technology directly supports the business goals of the
+organization, guided by these six characteristics. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; credit
+2.2 • Strategies to Improve the Value of Information Technology Within Organizations 55
+
+[b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18 | starter/data/Foundations_of_Information_Systems.pdf | page 66]
+• Focus on strengthening governance: Organizations should involve IT in strategic planning to ensure
+technology initiatives align with overall business goals. Engaging IT in executive committees enhances the
+decision-making process. Implementing a structured reporting hierarchy establishes clear communication
+channels, and defining authorization for decision-making roles ensures efficient execution. Coordinated
+governance can help set criteria whereby IT projects are prioritized based on their alignment with
+business objectives.
+• Align scope and IT architecture: Evaluating IT solutions for their effectiveness and customizing them to
+suit specific scope and business needs can lead to better outcomes.
+• Emphasize the development of human skills: Cultivating readiness to embrace technological changes,
+adapting management styles to support successful IT implementation, and learning from previous
+experiences contribute to continuous improvement.
+
+
+[3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881 | starter/data/Foundations_of_Information_Systems.pdf | page 66]
+• Different objectives: Business managers focus on achieving business goals and generating revenue, while
+IT managers concentrate on technology implementation and maintenance.
+• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise
+and perspectives, leading to misunderstandings and misalignment.
+• Lack of communication: Inadequate communication between business and IT executives hinders the
+exchange of valuable insights and requirements.
+
+
+[07a863c983f9e4511e1150da4a44f19b77c6fed7b7d540e0df8c35c7a2691f7e | starter/data/Foundations_of_Information_Systems.pdf | page 65]
+Functional
+Area
+Strategic
+Information
+Systems
+Managerial
+Information
+Systems
+Operational
+Information
+Systems
+Overall Value
+Indicators for
+Information
+Technology Investment
+Information
+technology
+and
+technology
+management
+Alignment of
+information
+technology
+investments with
+business goals and
+strategy
+Information
+technology
+project progress
+monitoring and
+resource
+optimization
+Efficient
+information
+technology
+service delivery
+and asset
+management
+Optimized information
+technology spending,
+improved project
+outcomes, and reduced
+operational disruptions
+Business
+intelligence
+and analytics
+Utilization of data for
+advanced analytics
+Data
+visualization for
+insights and
+decision-making
+Interactive
+dashboards for
+real-time
+performance
+tracking
+Data-driven decision-
+making, actionable
+insights, and improved
+business performance
+Table 2.2 FAIS Values These indicators serve as metrics for evaluating information technology investments and demonstrate how
+technology can create value for 

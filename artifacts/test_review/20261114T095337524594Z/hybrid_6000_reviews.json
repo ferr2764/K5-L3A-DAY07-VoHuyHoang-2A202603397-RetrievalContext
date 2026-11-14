@@ -1,0 +1,286 @@
+[
+  {
+    "query_id": "d7-test-01",
+    "profile": "hybrid_6000",
+    "split": "test",
+    "answerable": true,
+    "question": "Trong mục 2.2, ba cách chính IT tạo giá trị cho tổ chức là gì?",
+    "expected_answer": "Tự động hóa hoạt động; tạo thông tin để quản lý con người và nguồn lực; chuyển đổi quy trình hoặc các tác vụ kết hợp (routines).",
+    "status": "answered",
+    "published_answer": "Ba cách chính mà công nghệ thông tin (IT) tạo giá trị cho tổ chức là: tự động hóa hoạt động (automation of operation), tạo ra thông tin để quản lý con người và nguồn lực (information generation for managing people and resources), và chuyển đổi các quy trình hiện có hoặc kết hợp các nhiệm vụ gọi là thói quen (transformation of existing processes or combined tasks called routines) [66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da].",
+    "stop_reason": "model_answered",
+    "context_grade": 2,
+    "context_reason": "Context cuối có đủ evidence và nguồn cho mọi điều kiện được hỏi; không suy chất lượng answer từ context.",
+    "context_evidence": [
+      {
+        "id": "66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da",
+        "source_id": "foundations-of-information-systems",
+        "page": 62,
+        "quote": "• automation of operation\n• information generation for managing people and resources\n• transformation of existing processes or combined tasks called routines\nFigure 2.5 Information technology creates value for organizations through automation, information generation, and transformation.\n"
+      }
+    ],
+    "answer_grade": 2,
+    "answer_reason": "Đáp án nêu đủ automation, information generation và transformation/routines; text trang PDF 62 và citation hỗ trợ đủ ba ý.",
+    "citation_reviews": [
+      {
+        "id": "66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 62,
+        "quote": "• automation of operation\n• information generation for managing people and resources\n• transformation of existing processes or combined tasks called routines\nFigure 2.5 Information technology creates value for organizations through automation, information generation, and transformation.\n",
+        "present_in_final_model_context": true,
+        "pdf_text_verified": true,
+        "support_level": "full",
+        "supports_main_expected_answer": true,
+        "supports_full_attached_claim_bundle": true,
+        "citation_support": true,
+        "reason": "Nguồn trong context hỗ trợ các khẳng định được gắn citation, đối chiếu đoạn PDF."
+      }
+    ],
+    "abstention_correct": null,
+    "tool_calls": 1,
+    "trace_path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-01/agent_trace.json",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "confirmed",
+      "method": "Read all 14 published answers, final model contexts, every published citation and corresponding PDF passages; inspect rejected answer separately, do not score it as published.",
+      "bias_risk": "Assistant also authored benchmark/code and saw metrics; not an independent or blinded human review.",
+      "citation_policy": "Binary full-support score for the attached claim bundle; partial support recorded explicitly, not counted as fully valid. Correct ID/source alone is insufficient."
+    }
+  },
+  {
+    "query_id": "d7-test-02",
+    "profile": "hybrid_6000",
+    "split": "test",
+    "answerable": true,
+    "question": "FAIS được thiết kế để hỗ trợ điều gì và cải thiện hiệu quả ở cấp nào trong tổ chức?",
+    "expected_answer": "Hỗ trợ các chức năng kinh doanh cụ thể, tăng hiệu quả và hiệu suất nội bộ của từng phòng ban.",
+    "status": "answered",
+    "published_answer": "FAIS (Functional Area Information System) được thiết kế để hỗ trợ các chức năng kinh doanh cụ thể trong tổ chức, nhằm nâng cao hiệu quả và hiệu suất nội bộ của từng phòng ban hoặc khu vực chức năng. Các hệ thống này cung cấp sự hỗ trợ có giá trị phù hợp với chức năng riêng của từng phòng ban như kế toán, tài chính, quản lý sản xuất và vận hành, marketing, và nhân sự. FAIS giúp cải thiện hiệu quả ở cấp độ phòng ban hoặc khu vực chức năng trong tổ chức bằng cách cung cấp các báo cáo đa dạng và hỗ trợ các hoạt động nội bộ một cách hiệu quả hơn [d8a4b9a9d9b5deb30efa4b712463ee0bd6b9956799ff5f67285b672dcfde945f].",
+    "stop_reason": "model_answered",
+    "context_grade": 2,
+    "context_reason": "Context cuối có đủ evidence và nguồn cho mọi điều kiện được hỏi; không suy chất lượng answer từ context.",
+    "context_evidence": [
+      {
+        "id": "d8a4b9a9d9b5deb30efa4b712463ee0bd6b9956799ff5f67285b672dcfde945f",
+        "source_id": "foundations-of-information-systems",
+        "page": 63,
+        "quote": "An individual department or functional area within a large organization may have its own specific IT\napplication program known as a functional area information system (FAIS), an information system designed\nto support specific business functions within the organization. These FAISs are designed to enhance the\ninternal efficiency and effectiveness of each department by providing valuable support tailored to each\nrespective department’s functions. These information systems often generate a diverse range of reports. Some\ncommon examples of functional areas for FAIS include accounting, finance, production and operations\nmanagement, marketing, and human resources. The indicators of value listed in Table 2.2 signify the positive\noutcomes and advantages that result from investing in IT within each functional area and system category.\n"
+      }
+    ],
+    "answer_grade": 2,
+    "answer_reason": "Đáp án đúng hỗ trợ chức năng kinh doanh cụ thể và tăng hiệu quả từng phòng ban; các ví dụ accounting/finance/operations/marketing/HR có ở trang 63.",
+    "citation_reviews": [
+      {
+        "id": "d8a4b9a9d9b5deb30efa4b712463ee0bd6b9956799ff5f67285b672dcfde945f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 63,
+        "quote": "An individual department or functional area within a large organization may have its own specific IT\napplication program known as a functional area information system (FAIS), an information system designed\nto support specific business functions within the organization. These FAISs are designed to enhance the\ninternal efficiency and effectiveness of each department by providing valuable support tailored to each\nrespective department’s functions. These information systems often generate a diverse range of reports. Some\ncommon examples of functional areas for FAIS include accounting, finance, production and operations\nmanagement, marketing, and human resources. The indicators of value listed in Table 2.2 signify the positive\noutcomes and advantages that result from investing in IT within each functional area and system category.\n",
+        "present_in_final_model_context": true,
+        "pdf_text_verified": true,
+        "support_level": "full",
+        "supports_main_expected_answer": true,
+        "supports_full_attached_claim_bundle": true,
+        "citation_support": true,
+        "reason": "Nguồn trong context hỗ trợ các khẳng định được gắn citation, đối chiếu đoạn PDF."
+      }
+    ],
+    "abstention_correct": null,
+    "tool_calls": 1,
+    "trace_path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-02/agent_trace.json",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "confirmed",
+      "method": "Read all 14 published answers, final model contexts, every published citation and corresponding PDF passages; inspect rejected answer separately, do not score it as published.",
+      "bias_risk": "Assistant also authored benchmark/code and saw metrics; not an independent or blinded human review.",
+      "citation_policy": "Binary full-support score for the attached claim bundle; partial support recorded explicitly, not counted as fully valid. Correct ID/source alone is insufficient."
+    }
+  },
+  {
+    "query_id": "d7-test-03",
+    "profile": "hybrid_6000",
+    "split": "test",
+    "answerable": true,
+    "question": "Trong mục 2.2, business-IT alignment hay strategic alignment được hiểu như thế nào?",
+    "expected_answer": "Tích hợp chặt chẽ chức năng IT với chiến lược, sứ mệnh và mục tiêu tổ chức; IT trực tiếp hỗ trợ mục tiêu kinh doanh.",
+    "status": "abstain",
+    "published_answer": "Không đủ bằng chứng có citation hợp lệ để trả lời.",
+    "stop_reason": "invalid_or_missing_citations",
+    "context_grade": 2,
+    "context_reason": "Context cuối có đủ evidence và nguồn cho mọi điều kiện được hỏi; không suy chất lượng answer từ context.",
+    "context_evidence": [
+      {
+        "id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+        "source_id": "foundations-of-information-systems",
+        "page": 65,
+        "quote": "organizations.\nStrategies to Improve the Value of Information Technology for\nOrganizations\nUnderstanding the role of business processes within an organization is vital to measuring the specific value\nthat IT can deliver and the mechanisms through which it achieves this. Information systems professionals\nknow that technology alone is not the sole determinant of digital success, and that strategy is an important\ncatalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of\nthe IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly\nsupports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure\n2.6):\n• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading\nto new revenue opportunities.\n"
+      }
+    ],
+    "answer_grade": 0,
+    "answer_reason": "Dense nêu đúng tích hợp IT với strategy/mission/objectives và vai trò đối tác chiến lược, giao tiếp; hai đoạn trang 65 và 66 hỗ trợ. Hybrid xuất bản lời từ chối vì citation nhóm [id1, id2] bị guard loại; chấm câu trả lời xuất bản 0 dù bản rejected có ý đúng.",
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "tool_calls": 1,
+    "trace_path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-03/agent_trace.json",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "confirmed",
+      "method": "Read all 14 published answers, final model contexts, every published citation and corresponding PDF passages; inspect rejected answer separately, do not score it as published.",
+      "bias_risk": "Assistant also authored benchmark/code and saw metrics; not an independent or blinded human review.",
+      "citation_policy": "Binary full-support score for the attached claim bundle; partial support recorded explicitly, not counted as fully valid. Correct ID/source alone is insufficient."
+    }
+  },
+  {
+    "query_id": "d7-test-04",
+    "profile": "hybrid_6000",
+    "split": "test",
+    "answerable": true,
+    "question": "Nếu business manager chú trọng doanh thu còn IT manager chỉ chú trọng triển khai và bảo trì công nghệ, đây là nguyên nhân lệch pha business–IT nào được sách mô tả?",
+    "expected_answer": "Different objectives: khác biệt mục tiêu giữa quản lý kinh doanh và quản lý IT.",
+    "status": "answered",
+    "published_answer": "Nguyên nhân lệch pha business–IT được sách mô tả là do các mục tiêu khác nhau giữa các nhà quản lý kinh doanh và quản lý IT. Cụ thể, các nhà quản lý kinh doanh tập trung vào việc đạt được các mục tiêu kinh doanh và tạo ra doanh thu, trong khi các nhà quản lý IT chỉ chú trọng vào việc triển khai và bảo trì công nghệ. Sự khác biệt này dẫn đến thiếu sự hiểu biết về chuyên môn và quan điểm của nhau, gây ra sự hiểu lầm và lệch pha trong phối hợp giữa business và IT [3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881].",
+    "stop_reason": "model_answered",
+    "context_grade": 2,
+    "context_reason": "Context cuối có đủ evidence và nguồn cho mọi điều kiện được hỏi; không suy chất lượng answer từ context.",
+    "context_evidence": [
+      {
+        "id": "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881",
+        "source_id": "foundations-of-information-systems",
+        "page": 66,
+        "quote": "• Different objectives: Business managers focus on achieving business goals and generating revenue, while\nIT managers concentrate on technology implementation and maintenance.\n• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise\nand perspectives, leading to misunderstandings and misalignment.\n• Lack of communication: Inadequate communication between business and IT executives hinders the\nexchange of valuable insights and requirements.\n"
+      }
+    ],
+    "answer_grade": 1,
+    "answer_reason": "Đúng ý chính Different objectives. Tuy nhiên đáp án thêm quan hệ nhân quả 'sự khác biệt này dẫn đến thiếu hiểu biết về chuyên môn'. Trang 66 liệt kê Different objectives và Lack of expertise awareness như các nguyên nhân riêng, không thiết lập quan hệ nhân quả đó; chấm đúng một phần 1/2.",
+    "citation_reviews": [
+      {
+        "id": "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "quote": "• Different objectives: Business managers focus on achieving business goals and generating revenue, while\nIT managers concentrate on technology implementation and maintenance.\n• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise\nand perspectives, leading to misunderstandings and misalignment.\n• Lack of communication: Inadequate communication between business and IT executives hinders the\nexchange of valuable insights and requirements.\n",
+        "present_in_final_model_context": true,
+        "pdf_text_verified": true,
+        "support_level": "partial",
+        "supports_main_expected_answer": true,
+        "supports_full_attached_claim_bundle": false,
+        "citation_support": false,
+        "reason": "Đúng ý chính Different objectives. Tuy nhiên đáp án thêm quan hệ nhân quả 'sự khác biệt này dẫn đến thiếu hiểu biết về chuyên môn'. Trang 66 liệt kê Different objectives và Lack of expertise awareness như các nguyên nhân riêng, không thiết lập quan hệ nhân quả đó; chấm đúng một phần 1/2."
+      }
+    ],
+    "abstention_correct": null,
+    "tool_calls": 1,
+    "trace_path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-04/agent_trace.json",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "confirmed",
+      "method": "Read all 14 published answers, final model contexts, every published citation and corresponding PDF passages; inspect rejected answer separately, do not score it as published.",
+      "bias_risk": "Assistant also authored benchmark/code and saw metrics; not an independent or blinded human review.",
+      "citation_policy": "Binary full-support score for the attached claim bundle; partial support recorded explicitly, not counted as fully valid. Correct ID/source alone is insufficient."
+    }
+  },
+  {
+    "query_id": "d7-test-05",
+    "profile": "hybrid_6000",
+    "split": "test",
+    "answerable": true,
+    "question": "Khi doanh nghiệp chỉ theo đuổi cost leadership, sách cảnh báo nguy cơ gì đối với nghiên cứu phát triển và đổi mới?",
+    "expected_answer": "Có thể thiếu nguồn lực cho nghiên cứu và phát triển, từ đó tụt hậu về đổi mới.",
+    "status": "answered",
+    "published_answer": "Khi doanh nghiệp chỉ theo đuổi chiến lược cost leadership, sách cảnh báo nguy cơ là doanh nghiệp có thể không có đủ nguồn lực cho nghiên cứu và phát triển, dẫn đến tụt hậu về đổi mới sáng tạo. Điều này có thể làm doanh nghiệp bị hạn chế trong việc phát triển các sản phẩm hoặc dịch vụ mới, từ đó mất lợi thế cạnh tranh trong dài hạn so với các đối thủ tập trung vào đổi mới và sáng tạo. Ví dụ, nếu một công ty chỉ tập trung vào sản phẩm phần mềm một kích cỡ phù hợp cho tất cả khách hàng mà không đầu tư vào tùy chỉnh và hỗ trợ cá nhân hóa, họ có thể bị tụt lại phía sau trong việc đáp ứng nhu cầu thay đổi của khách hàng [bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47].",
+    "stop_reason": "model_answered",
+    "context_grade": 2,
+    "context_reason": "Context cuối có đủ evidence và nguồn cho mọi điều kiện được hỏi; không suy chất lượng answer từ context.",
+    "context_evidence": [
+      {
+        "id": "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47",
+        "source_id": "foundations-of-information-systems",
+        "page": 67,
+        "quote": "Each of these strategies has its pros and cons. For example, if a company focuses only on pursuing a cost\nleadership strategy, it might not have enough resources for research and development, and so it might lag in\nterms of innovation. Let’s say a company traditionally sells a one-size-fits-all software product, and they decide\nto shift toward a customer-oriented strategy by offering customizable features and personalized support\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 57"
+      }
+    ],
+    "answer_grade": 1,
+    "answer_reason": "Đúng nguy cơ thiếu R&D và chậm đổi mới. Nhưng đáp án thêm suy luận mất lợi thế cạnh tranh dài hạn và ví dụ không đầu tư tùy chỉnh/hỗ trợ sẽ tụt hậu. Đoạn trích trang 67 chỉ mở tình huống chuyển sang customer orientation; phần nối trang 68 nói chi phí ban đầu/benefits, không chứng minh đầy đủ ví dụ kết luận của model; chấm 1/2.",
+    "citation_reviews": [
+      {
+        "id": "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "quote": "Each of these strategies has its pros and cons. For example, if a company focuses only on pursuing a cost\nleadership strategy, it might not have enough resources for research and development, and so it might lag in\nterms of innovation. Let’s say a company traditionally sells a one-size-fits-all software product, and they decide\nto shift toward a customer-oriented strategy by offering customizable features and personalized support\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 57",
+        "present_in_final_model_context": true,
+        "pdf_text_verified": true,
+        "support_level": "partial",
+        "supports_main_expected_answer": true,
+        "supports_full_attached_claim_bundle": false,
+        "citation_support": false,
+        "reason": "Đúng nguy cơ thiếu R&D và chậm đổi mới. Nhưng đáp án thêm suy luận mất lợi thế cạnh tranh dài hạn và ví dụ không đầu tư tùy chỉnh/hỗ trợ sẽ tụt hậu. Đoạn trích trang 67 chỉ mở tình huống chuyển sang customer orientation; phần nối trang 68 nói chi phí ban đầu/benefits, không chứng minh đầy đủ ví dụ kết luận của model; chấm 1/2."
+      }
+    ],
+    "abstention_correct": null,
+    "tool_calls": 1,
+    "trace_path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-05/agent_trace.json",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "confirmed",
+      "method": "Read all 14 published answers, final model contexts, every published citation and corresponding PDF passages; inspect rejected answer separately, do not score it as published.",
+      "bias_risk": "Assistant also authored benchmark/code and saw metrics; not an independent or blinded human review.",
+      "citation_policy": "Binary full-support score for the attached claim bundle; partial support recorded explicitly, not counted as fully valid. Correct ID/source alone is insufficient."
+    }
+  },
+  {
+    "query_id": "d7-test-06",
+    "profile": "hybrid_6000",
+    "split": "test",
+    "answerable": false,
+    "question": "Theo corpus này, giá thuê bao Cohealo + Clinical mỗi tháng năm 2025 là bao nhiêu USD?",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "status": "abstain",
+    "published_answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "stop_reason": "model_abstained",
+    "context_grade": null,
+    "context_reason": "Không tính vào mẫu context của câu có đáp án; đối chiếu phạm vi corpus để chấm abstention riêng.",
+    "context_evidence": [],
+    "answer_grade": null,
+    "answer_reason": "Corpus index chỉ có mô tả chức năng/case Cohealo (trang 70–71), không có giá thuê bao tháng Clinical năm 2025. Đáp án xuất bản thực sự từ chối, không thêm giá hay khẳng định suy đoán.",
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "tool_calls": 1,
+    "trace_path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-06/agent_trace.json",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "confirmed",
+      "method": "Read all 14 published answers, final model contexts, every published citation and corresponding PDF passages; inspect rejected answer separately, do not score it as published.",
+      "bias_risk": "Assistant also authored benchmark/code and saw metrics; not an independent or blinded human review.",
+      "citation_policy": "Binary full-support score for the attached claim bundle; partial support recorded explicitly, not counted as fully valid. Correct ID/source alone is insufficient."
+    }
+  },
+  {
+    "query_id": "d7-test-07",
+    "profile": "hybrid_6000",
+    "split": "test",
+    "answerable": false,
+    "question": "Theo corpus này, Walmart đã chi chính xác bao nhiêu USD cho IT trong năm 2025?",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "status": "abstain",
+    "published_answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "stop_reason": "model_abstained",
+    "context_grade": null,
+    "context_reason": "Không tính vào mẫu context của câu có đáp án; đối chiếu phạm vi corpus để chấm abstention riêng.",
+    "context_evidence": [],
+    "answer_grade": null,
+    "answer_reason": "Đoạn Walmart trang 67 minh họa cost leadership, không có ngân sách IT năm 2025. Đáp án xuất bản từ chối, không nêu con số ngoài nguồn.",
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "tool_calls": 1,
+    "trace_path": "artifacts/test_benchmark/20261114T095337524594Z/hybrid_6000/d7-test-07/agent_trace.json",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "confirmed",
+      "method": "Read all 14 published answers, final model contexts, every published citation and corresponding PDF passages; inspect rejected answer separately, do not score it as published.",
+      "bias_risk": "Assistant also authored benchmark/code and saw metrics; not an independent or blinded human review.",
+      "citation_policy": "Binary full-support score for the attached claim bundle; partial support recorded explicitly, not counted as fully valid. Correct ID/source alone is insufficient."
+    }
+  }
+]

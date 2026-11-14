@@ -1,0 +1,167 @@
+{
+  "context": "[f465b7f8409a07fde37be3d48e524be29741df7a685a8892fd30d8c2890dc9cd | starter/data/Foundations_of_Information_Systems.pdf | page 55]\nBusinesses that strive to ensure they follow these data management parameters can decide to follow any\nframework. A framework is a structured and organized approach that provides a set of guidelines, principles,\nor tools to address complex problems or tasks in a systematic manner. It serves as a foundation to build and\nmanage processes, systems, or projects, ensuring consistency, efficiency, and effectiveness. Following are\nsome common data management frameworks:\n• DAMA-DMBOK: The Data Management Body of Knowledge, developed by the Data Management\nAssociation (DAMA International), provides comprehensive guidelines across ten key knowledge areas,\nincluding data governance, data architecture, and data quality.\n• MIKE2.0 IMM: This framework offers a structured way to assess an organization’s information maturity\nlevel.\n• IBM Data Governance Council Maturity Model: This model provides a road map for implementing effective\ndata governance processes and controls.\n\n\n[8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018 | starter/data/Foundations_of_Information_Systems.pdf | page 55]\nThere are some differences in how each framework approaches data management. DAMA-DMBOK focuses on\nthe technical aspects of data management, while MIKE2.0 focuses on the business aspects of information\nmanagement. The IBM Data Governance Council Maturity Model and the EDM Council Data Management\nMaturity Model are both designed to help organizations assess their current data management practices and\nidentify areas for improvement. The best framework for an organization will depend on its specific needs and\nrequirements. However, all five frameworks can be valuable tools for improving data management and\ninformation quality. The optimal framework for managing data is one that is continuously developing to\naddress advancements in data storage and changes in organizational policy.\nCAREERS IN IS\nData Architect\nA data architect is responsible for designing, creating, and managing an organization’s data architecture.\n\n\n[6091d0dbdc9fb02ed1baf2aaa8b104d68f04e58b4559ad88b80a0b408ee72a44 | starter/data/Foundations_of_Information_Systems.pdf | page 58]\nFigure 2.3 Data processing for particular purposes generates information, and when applied with business acumen, information\ncreates knowledge. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; credit Data: modification of work\n“Project 365 #195: 140709 Let’s Get Jiggy With It” by Pete/Flickr, Public Domain; credit Knowledge: modification of work “Thick arrow\nmade from jigsaw puzzle pieces” by Old Photo Profile/Flickr, CC BY 2.0)\nConsider an example within the energy sector’s need for sustainable energy solutions. To plan information\nsystems for a company in this sector, the chief information officer (CIO) must first understand what decisions\nneed to be made and, correspondingly, what data these decisions require—strategic planning, management\ncontrol, and operational control. The CIO should assess the different types of data currently available. These\ndata can come from various sources across operations. The focus should be on ensuring existing data ",
+  "context_ids": [
+    "f465b7f8409a07fde37be3d48e524be29741df7a685a8892fd30d8c2890dc9cd",
+    "8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018",
+    "6091d0dbdc9fb02ed1baf2aaa8b104d68f04e58b4559ad88b80a0b408ee72a44"
+  ],
+  "context_chars": 3285,
+  "context_sha256": "9ea18f7ee08c55f19bda3bd05a676ba750371c3ad26edaafad0abb398cdc8cc0",
+  "budget_chars": 4000,
+  "remaining_chars": 715,
+  "unit": "Python len(str), Unicode codepoints including headers and separators",
+  "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+  "candidate_occurrences": 5,
+  "unique_candidates": 5,
+  "duplicates_removed": 0,
+  "selected_count": 3,
+  "skipped_count": 2,
+  "decisions": [
+    {
+      "id": "f465b7f8409a07fde37be3d48e524be29741df7a685a8892fd30d8c2890dc9cd",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 55,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 972,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.01639344262295082,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 1
+        }
+      ],
+      "text_characters": 972,
+      "block_characters": 1103,
+      "separator_characters": 0,
+      "remaining_before": 4000,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 55,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1344,
+        "end": 2269,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.016129032258064516,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 2
+        }
+      ],
+      "text_characters": 925,
+      "block_characters": 1056,
+      "separator_characters": 2,
+      "remaining_before": 2897,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "6091d0dbdc9fb02ed1baf2aaa8b104d68f04e58b4559ad88b80a0b408ee72a44",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 58,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1723,
+        "end": 2714,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015873015873015872,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 3
+        }
+      ],
+      "text_characters": 991,
+      "block_characters": 1122,
+      "separator_characters": 2,
+      "remaining_before": 1839,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "34daaddd4938cf6d81965ffba188cb7c79038ebae208ccd88d98f2361bc06085",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 54,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 603,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015625,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 4
+        }
+      ],
+      "text_characters": 603,
+      "block_characters": 734,
+      "separator_characters": 2,
+      "remaining_before": 715,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "03ab78ca941b8714f0b6e74b31f6af4da57bb8835c890eb93b5438f4ae48c610",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 60,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 997,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015384615384615385,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 5
+        }
+      ],
+      "text_characters": 997,
+      "block_characters": 1128,
+      "separator_characters": 2,
+      "remaining_before": 715,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    }
+  ],
+  "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+}

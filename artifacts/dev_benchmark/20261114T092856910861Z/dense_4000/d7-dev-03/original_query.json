@@ -1,0 +1,636 @@
+{
+  "query": "Trong mục 1.2, McKinsey 7-S phối hợp bảy yếu tố nào?",
+  "filter": {
+    "section": "1.2"
+  },
+  "results": [
+    {
+      "id": "ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "The McKinsey 7-S Framework can be used by following four steps:\n1. Identify the parts of the organization that are not aligned with shared values, including a shared mission,\ngoals, and objectives.\n2. Determine the design and structure that will enable the organization to achieve alignment and reach its\ngoals and objectives.\n3. Identify areas where changes are needed to update the organizational design.\n4. Implement the necessary changes.\nThis framework can help ensure organizations are in alignment and have an effective design, making it easier\nto develop and maintain the appropriate information systems to meet the organization’s needs.\n",
+      "metadata": {
+        "end": 2347,
+        "part": 0,
+        "year": 2025,
+        "start": 1701,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4979651820646136,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including\ntraining and incentive programs\n• Structure: how an organization is designed, including its hierarchy and chain of command\n• Strategy: the organization’s goals/objectives and the plans to achieve these\n• Skills: the skills, knowledge, and competencies held by the organization’s staff\n• Systems: the workflow processes used to achieve the organization’s goals and objectives\n• Style: the tone at the executive level established by the organization’s leaders and managers\n• Shared values: the organization’s mission and values that motivate its operations\nLINK TO LEARNING\nThe McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination\nwithin an organization across its structure. Review this interactive presentation about the framework’s\napplicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.\n",
+      "metadata": {
+        "end": 1701,
+        "part": 0,
+        "year": 2025,
+        "start": 731,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4738733758443875,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "discusses best practices for managing information technology. ITIL is managed and updated by AXELOS, a\ncompany that provides training and certifications to various technology professionals, including those in IS.\nITIL offers guidance, as well as professional certification, for carrying out twenty-six processes in the areas of\nservice strategy, design, transition, operation, and improvement.\nThe McKinsey 7-S Framework focuses on how an organization can be efficient and effective with interaction\nand coordination of its staff, structure, strategy, skills, systems, style, and shared values. The goal of the\nframework is to determine how an organization can be effective with interaction and coordination of the seven\nelements:\n",
+      "metadata": {
+        "end": 731,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.42966747420041385,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "text": "• Who? seeks to learn who the organizational members are, as well as gather details about the\norganization’s units and hierarchy.\n• When? seeks to learn the organization’s schedule of operations, including when processes are performed.\n• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk\nmanagement and information systems. This question also seeks to determine what motivates the\norganization to perform certain functions.\nAs shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of\nthe matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’\nperspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an\nimportant tool to understand what an organization’s information systems should entail and develop the\nappropriate enterprise architecture to support that system.\n",
+      "metadata": {
+        "end": 1950,
+        "part": 0,
+        "year": 2025,
+        "start": 986,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.31409932796231965,
+      "rank": 4,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 32,
+      "text": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+      "metadata": {
+        "end": 887,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.301475173938782,
+      "rank": 5,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "The Skills Framework for the Information Age (SFIA) provides a comprehensive skills and competency\nframework in a common language for the IT industry. It includes the steps listed in Figure 1.7. It was\ndeveloped and is overseen by the SFIA Foundation, a global organization committed to helping IS and other\ntechnology professionals acquire the skills and competencies needed to successfully develop and manage\ntechnology. Organizations around the world in both the public and private sectors use SFIA to map out the\nknowledge and expertise needed to fill each role in their organizations. This includes entry-level to advanced\npositions in the areas of technology development, strategy, architecture, and support.\n1.2 • Frameworks of Knowledge and Industry Standards 21",
+      "metadata": {
+        "end": 3117,
+        "part": 0,
+        "year": 2025,
+        "start": 2347,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.2853135817738093,
+      "rank": 6,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "text": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+      "metadata": {
+        "end": 3207,
+        "part": 0,
+        "year": 2025,
+        "start": 2568,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.2827393854050626,
+      "rank": 7,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "text": "Figure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By\nasking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs\nfrom the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification\n1.2 • Frameworks of Knowledge and Industry Standards 23",
+      "metadata": {
+        "end": 2394,
+        "part": 0,
+        "year": 2025,
+        "start": 1950,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.27674099000718777,
+      "rank": 8,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 32,
+      "text": "• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an\norganization’s objectives and assigning responsibilities to subordinates. These employees perform highly\ncomplex tasks and make decisions that directly impact an organization’s performance and achievement of\norganizational goals and objectives.\n• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top\nleaders and managers. These individuals establish an organization’s policy objectives and have oversight\nand accountability for all decisions made and actions taken throughout the organization.\nSFIA is an important framework used globally to promote success in the digital world. Its common language\nhelps technology professionals across the globe integrate the processes they must learn to successfully\nmanage technology.\n",
+      "metadata": {
+        "end": 2692,
+        "part": 0,
+        "year": 2025,
+        "start": 1802,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.2762944447755381,
+      "rank": 9,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "text": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+      "metadata": {
+        "end": 2568,
+        "part": 0,
+        "year": 2025,
+        "start": 1942,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.27544201381921063,
+      "rank": 10,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "top3": [
+    {
+      "id": "ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "The McKinsey 7-S Framework can be used by following four steps:\n1. Identify the parts of the organization that are not aligned with shared values, including a shared mission,\ngoals, and objectives.\n2. Determine the design and structure that will enable the organization to achieve alignment and reach its\ngoals and objectives.\n3. Identify areas where changes are needed to update the organizational design.\n4. Implement the necessary changes.\nThis framework can help ensure organizations are in alignment and have an effective design, making it easier\nto develop and maintain the appropriate information systems to meet the organization’s needs.\n",
+      "metadata": {
+        "end": 2347,
+        "part": 0,
+        "year": 2025,
+        "start": 1701,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4979651820646136,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including\ntraining and incentive programs\n• Structure: how an organization is designed, including its hierarchy and chain of command\n• Strategy: the organization’s goals/objectives and the plans to achieve these\n• Skills: the skills, knowledge, and competencies held by the organization’s staff\n• Systems: the workflow processes used to achieve the organization’s goals and objectives\n• Style: the tone at the executive level established by the organization’s leaders and managers\n• Shared values: the organization’s mission and values that motivate its operations\nLINK TO LEARNING\nThe McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination\nwithin an organization across its structure. Review this interactive presentation about the framework’s\napplicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.\n",
+      "metadata": {
+        "end": 1701,
+        "part": 0,
+        "year": 2025,
+        "start": 731,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4738733758443875,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "discusses best practices for managing information technology. ITIL is managed and updated by AXELOS, a\ncompany that provides training and certifications to various technology professionals, including those in IS.\nITIL offers guidance, as well as professional certification, for carrying out twenty-six processes in the areas of\nservice strategy, design, transition, operation, and improvement.\nThe McKinsey 7-S Framework focuses on how an organization can be efficient and effective with interaction\nand coordination of its staff, structure, strategy, skills, systems, style, and shared values. The goal of the\nframework is to determine how an organization can be effective with interaction and coordination of the seven\nelements:\n",
+      "metadata": {
+        "end": 731,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.42966747420041385,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "trace": {
+    "method": "dense",
+    "filter": {
+      "section": "1.2"
+    },
+    "returned": 10,
+    "elapsed_ms": 877.3613999983354,
+    "cache_hit": false,
+    "service_cost_usd": null,
+    "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+    "model": "openai/text-embedding-3-small",
+    "dimensions": 1536,
+    "strategy": "B",
+    "embedding_requests": [
+      {
+        "status": "ok",
+        "id": "gen-emb-1794648551-UdiOp5kziDsIBphCvhQB",
+        "elapsed_ms": 833.329799999774,
+        "usage": {
+          "prompt_tokens": 30,
+          "total_tokens": 30,
+          "cost": 6e-07,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6e-07,
+            "upstream_inference_prompt_cost": 6e-07,
+            "upstream_inference_completions_cost": 0
+          }
+        }
+      }
+    ],
+    "measured_embedding_cost": {
+      "request_count": 1,
+      "known_cost_usd": 6e-07,
+      "cost_usd": 6e-07,
+      "unknown_cost_request_count": 0,
+      "prompt_tokens_known": 30
+    }
+  },
+  "context_selection": {
+    "context": "[ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576 | starter/data/Foundations_of_Information_Systems.pdf | page 31]\nThe McKinsey 7-S Framework can be used by following four steps:\n1. Identify the parts of the organization that are not aligned with shared values, including a shared mission,\ngoals, and objectives.\n2. Determine the design and structure that will enable the organization to achieve alignment and reach its\ngoals and objectives.\n3. Identify areas where changes are needed to update the organizational design.\n4. Implement the necessary changes.\nThis framework can help ensure organizations are in alignment and have an effective design, making it easier\nto develop and maintain the appropriate information systems to meet the organization’s needs.\n\n\n[b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c | starter/data/Foundations_of_Information_Systems.pdf | page 31]\n• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including\ntraining and incentive programs\n• Structure: how an organization is designed, including its hierarchy and chain of command\n• Strategy: the organization’s goals/objectives and the plans to achieve these\n• Skills: the skills, knowledge, and competencies held by the organization’s staff\n• Systems: the workflow processes used to achieve the organization’s goals and objectives\n• Style: the tone at the executive level established by the organization’s leaders and managers\n• Shared values: the organization’s mission and values that motivate its operations\nLINK TO LEARNING\nThe McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination\nwithin an organization across its structure. Review this interactive presentation about the framework’s\napplicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.\n\n\n[57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9 | starter/data/Foundations_of_Information_Systems.pdf | page 31]\ndiscusses best practices for managing information technology. ITIL is managed and updated by AXELOS, a\ncompany that provides training and certifications to various technology professionals, including those in IS.\nITIL offers guidance, as well as professional certification, for carrying out twenty-six processes in the areas of\nservice strategy, design, transition, operation, and improvement.\nThe McKinsey 7-S Framework focuses on how an organization can be efficient and effective with interaction\nand coordination of its staff, structure, strategy, skills, systems, style, and shared values. The goal of the\nframework is to determine how an organization can be effective with interaction and coordination of the seven\nelements:\n\n\n[b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f | starter/data/Foundations_of_Information_Systems.pdf | page 33]\n• Who? seeks to learn who the organizational members are, as well as gather details about the\norganization’s units and hierarchy.\n• When? seeks to learn the organization’s schedule of operations, including when processes are performed.\n• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk\nmanagement and information systems. This question also seeks to determine what motivates the\norganization to perform certain functions.\nAs shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of\nthe matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’\nperspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an\nimportant tool to understand what an organization’s information systems should entail and develop the\nappropriate enterprise architecture to support that system.\n",
+    "context_ids": [
+      "ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576",
+      "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+      "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+      "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f"
+    ],
+    "context_chars": 3841,
+    "context_sha256": "bf1c4387acbef5bac9fda531816b74ed1333dc81842abac992fd7d96607b5bdb",
+    "budget_chars": 4000,
+    "remaining_chars": 159,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 4,
+    "skipped_count": 6,
+    "decisions": [
+      {
+        "id": "ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 31,
+        "metadata": {
+          "end": 2347,
+          "part": 0,
+          "year": 2025,
+          "start": 1701,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 646,
+        "block_characters": 777,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 31,
+        "metadata": {
+          "end": 1701,
+          "part": 0,
+          "year": 2025,
+          "start": 731,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 970,
+        "block_characters": 1101,
+        "separator_characters": 2,
+        "remaining_before": 3223,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 31,
+        "metadata": {
+          "end": 731,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 731,
+        "block_characters": 862,
+        "separator_characters": 2,
+        "remaining_before": 2120,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "metadata": {
+          "end": 1950,
+          "part": 0,
+          "year": 2025,
+          "start": 986,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 964,
+        "block_characters": 1095,
+        "separator_characters": 2,
+        "remaining_before": 1256,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 32,
+        "metadata": {
+          "end": 887,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 887,
+        "block_characters": 1018,
+        "separator_characters": 2,
+        "remaining_before": 159,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 31,
+        "metadata": {
+          "end": 3117,
+          "part": 0,
+          "year": 2025,
+          "start": 2347,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 770,
+        "block_characters": 901,
+        "separator_characters": 2,
+        "remaining_before": 159,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "end": 3207,
+          "part": 0,
+          "year": 2025,
+          "start": 2568,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 639,
+        "block_characters": 770,
+        "separator_characters": 2,
+        "remaining_before": 159,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "metadata": {
+          "end": 2394,
+          "part": 0,
+          "year": 2025,
+          "start": 1950,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 444,
+        "block_characters": 575,
+        "separator_characters": 2,
+        "remaining_before": 159,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 32,
+        "metadata": {
+          "end": 2692,
+          "part": 0,
+          "year": 2025,
+          "start": 1802,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 890,
+        "block_characters": 1021,
+        "separator_characters": 2,
+        "remaining_before": 159,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "end": 2568,
+          "part": 0,
+          "year": 2025,
+          "start": 1942,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 626,
+        "block_characters": 757,
+        "separator_characters": 2,
+        "remaining_before": 159,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 877.5999999998021
+}

@@ -1,0 +1,2756 @@
+[
+  {
+    "id": "54ae4774eabe416c417f167649b0c0756899d9885f9884f92715dbb89cc8ca45",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 30,
+    "text": "Use of Frameworks and Industry Standards in Information Systems\nWhen developing an information system, frameworks provide guidance to help IS professionals apply critical\nthinking as they identify the goals of the system and problems that can be resolved by the system.\nFrameworks promote proactive communication and help IS professionals organize their ideas and provide a\nfoundation for strategic planning to develop and maintain a system that meets an organization’s specific\nneeds. As part of this process, frameworks also provide IS professionals with resources such as continuing\neducation, best practices, and guidelines for systems operations.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 652,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 30,
+    "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 652,
+      "end": 1415,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 30,
+    "text": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1415,
+      "end": 1942,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 30,
+    "text": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1942,
+      "end": 2568,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 30,
+    "text": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2568,
+      "end": 3207,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 31,
+    "text": "discusses best practices for managing information technology. ITIL is managed and updated by AXELOS, a\ncompany that provides training and certifications to various technology professionals, including those in IS.\nITIL offers guidance, as well as professional certification, for carrying out twenty-six processes in the areas of\nservice strategy, design, transition, operation, and improvement.\nThe McKinsey 7-S Framework focuses on how an organization can be efficient and effective with interaction\nand coordination of its staff, structure, strategy, skills, systems, style, and shared values. The goal of the\nframework is to determine how an organization can be effective with interaction and coordination of the seven\nelements:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 731,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 31,
+    "text": "• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including\ntraining and incentive programs\n• Structure: how an organization is designed, including its hierarchy and chain of command\n• Strategy: the organization’s goals/objectives and the plans to achieve these\n• Skills: the skills, knowledge, and competencies held by the organization’s staff\n• Systems: the workflow processes used to achieve the organization’s goals and objectives\n• Style: the tone at the executive level established by the organization’s leaders and managers\n• Shared values: the organization’s mission and values that motivate its operations\nLINK TO LEARNING\nThe McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination\nwithin an organization across its structure. Review this interactive presentation about the framework’s\napplicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 731,
+      "end": 1701,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "ae8e7ce3416a4f4f852c962531a3a2a61e67bfafe2659ceb0c50b376b084e576",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 31,
+    "text": "The McKinsey 7-S Framework can be used by following four steps:\n1. Identify the parts of the organization that are not aligned with shared values, including a shared mission,\ngoals, and objectives.\n2. Determine the design and structure that will enable the organization to achieve alignment and reach its\ngoals and objectives.\n3. Identify areas where changes are needed to update the organizational design.\n4. Implement the necessary changes.\nThis framework can help ensure organizations are in alignment and have an effective design, making it easier\nto develop and maintain the appropriate information systems to meet the organization’s needs.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1701,
+      "end": 2347,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 31,
+    "text": "The Skills Framework for the Information Age (SFIA) provides a comprehensive skills and competency\nframework in a common language for the IT industry. It includes the steps listed in Figure 1.7. It was\ndeveloped and is overseen by the SFIA Foundation, a global organization committed to helping IS and other\ntechnology professionals acquire the skills and competencies needed to successfully develop and manage\ntechnology. Organizations around the world in both the public and private sectors use SFIA to map out the\nknowledge and expertise needed to fill each role in their organizations. This includes entry-level to advanced\npositions in the areas of technology development, strategy, architecture, and support.\n1.2 • Frameworks of Knowledge and Industry Standards 21",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2347,
+      "end": 3117,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 32,
+    "text": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 887,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 32,
+    "text": "• Level 2, Assist: These employees also work under close supervision, but their work is a bit more complex,\nand they have more influence with colleagues.\n• Level 3, Apply: At this level, employees receive more general supervision, and they have more autonomy.\nTheir work is more complex and may not be routine. They also may be allowed to make some decisions on\ntheir own and may oversee other employees.\n• Level 4, Enable: Employees at this level have much more complex work in a broader range of contexts.\nWhile they receive general direction, they have considerable autonomy, as well as personal responsibility\nfor work outcomes.\n• Level 5, Ensure and Advise: At this level, employees receive broad direction, giving them more autonomy,\nincluding the ability to self-initiate work that they think should be performed. Their tasks tend to be\ncomplex and are an integral part of an organization’s strategic plans.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 887,
+      "end": 1802,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 32,
+    "text": "• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an\norganization’s objectives and assigning responsibilities to subordinates. These employees perform highly\ncomplex tasks and make decisions that directly impact an organization’s performance and achievement of\norganizational goals and objectives.\n• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top\nleaders and managers. These individuals establish an organization’s policy objectives and have oversight\nand accountability for all decisions made and actions taken throughout the organization.\nSFIA is an important framework used globally to promote success in the digital world. Its common language\nhelps technology professionals across the globe integrate the processes they must learn to successfully\nmanage technology.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1802,
+      "end": 2692,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a08e48e88bc4a3fbc30127f2c684d01535c332db703cff02c3b5855ddbc7de1f",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 32,
+    "text": "Waterfall is a structured, linear framework used to guide project management. Generally, the steps of\n22 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2692,
+      "end": 2868,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 33,
+    "text": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 986,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 33,
+    "text": "• Who? seeks to learn who the organizational members are, as well as gather details about the\norganization’s units and hierarchy.\n• When? seeks to learn the organization’s schedule of operations, including when processes are performed.\n• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk\nmanagement and information systems. This question also seeks to determine what motivates the\norganization to perform certain functions.\nAs shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of\nthe matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’\nperspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an\nimportant tool to understand what an organization’s information systems should entail and develop the\nappropriate enterprise architecture to support that system.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 986,
+      "end": 1950,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 33,
+    "text": "Figure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By\nasking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs\nfrom the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification\n1.2 • Frameworks of Knowledge and Industry Standards 23",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1950,
+      "end": 2394,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 34,
+    "text": "of work “Zachman Framework (9026775815)” by National Institute of Standards and Technology/Wikimedia Commons, Public\nDomain)\nThe industry standards that are applicable in IS include the American Society for Industrial Security (ASIS), the\nFederal Information Security Modernization Act (FISMA), IS2020, ISO/IEC 27001, and the Open Group\nArchitecture Framework (TOGAF).\nThe American Society for Industrial Security (ASIS) is a global organization that provides training and\ncertification to help professionals in all industries provide security for people, property, and information. ASIS\nis a global organization that collaborates with public and private organizations throughout the world—such as\nthe Department of Homeland Security and the Federal Bureau of Investigation—to ensure that IS\nprofessionals and others involved in security have the resources needed to successfully handle security issues\nat every stage of their career.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 935,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "1553810c7b57686230d5860470bb0f130b8e7f160e12d976ab05a389994eb74d",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 34,
+    "text": "IS professionals who work for government agencies or private businesses that contract with the government\nshould be familiar with the Federal Information Security Modernization Act (FISMA), which sets the\nguidelines and standards for security that affected organizations are required to meet to minimize the\npossibility that data will be stolen, lost, or misused. Under FISMA, affected organizations must have a security\nstrategy that addresses issues such as system access control, risk assessment and management, information\nintegrity, audit and accountability, incident response, and staff’s continuing education.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 935,
+      "end": 1552,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 34,
+    "text": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1552,
+      "end": 2203,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "6b4f320ffea0272e4e09c1e7e4c563c01813339a1360c12df98066aea422af7b",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 34,
+    "text": "ISO/IEC 27001 is a worldwide standard established by the International Organization for Standardization that\ndefines the requirements information systems must satisfy to provide adequate security for any system. ISO/\nIEC 27001 applies to all sizes and types of organizations in both the public and private sectors. The standard\nfocuses on cybercrime but helps organizations guard against any threats to data availability, integrity, and\nconfidentiality.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2203,
+      "end": 2657,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "d7d0a1063f6c4c6193182787dbb263d2bf883083cb6ca2c56c38750d038402b0",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 34,
+    "text": "The Open Group Architecture Framework (TOGAF) is a trademarked standard in its tenth edition that\npromotes best practices for IS and other technology. TOGAF is used by organizations throughout the world in\nboth the public and private sectors to support requirements management for enterprise architecture. The\nareas covered by TOGAF include architecture vision, business architecture, information systems architectures,\ntechnology architecture opportunities and solutions, migration planning, implementation governance, and\narchitecture change management.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2657,
+      "end": 3213,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "50ac53820bf08fc3859da6c3a491cef810e1788d28816d7b50098c1df48c2628",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 34,
+    "text": "LINK TO LEARNING\nThe Open Group Architecture Framework (TOGAF) contains vision, requirements, business architecture,\ninformation systems architecture, technology, and architecture realization. TOGAF can be an important\nstandard to support organizations as they develop and manage the requirements for enterprise\narchitecture. As their Architecture Development Method (https://openstax.org/r/109ArchDevMethd) shows,\nTOGAF covers all aspects of enterprise architecture, including information systems. This framework\nprovides an essential structure for managing and aligning strategies with business goals.\n24 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3213,
+      "end": 3891,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a4d4d46911a75a576bdf523bcf491753361d068b5f7d0ae9f7038b577df9e88b",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 35,
+    "text": "Application of the Frameworks and Standards\nIS professionals should rely on the frameworks and standards applicable to their organization and specific role\nto guide their work. This helps ensure that the work meets the organization’s needs, while also following\nstandards important for maintaining IS compatibility with other organizations.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 341,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "d72da7195fa07a4c0a45da6a75528efd4626213e765947db1d78e946d03ae5de",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 35,
+    "text": "It is also beneficial to join one or more professional organizations such as the Association for Information\nSystems (https://aisnet.org/), International Association for Computer Information Systems\n(https://www.iacis.org/), or Information Systems Audit and Control Association (https://www.isaca.org/). Such\norganizations provide members with important resources, including training, as well as news and updates\nabout events and changes important to IS professionals. Joining such organizations and taking advantage of\nlearning opportunities helps ensure that you obtain the appropriate continuing education to stay abreast of\nchanges and new requirements in the field of IS. In addition, members of such organizations gain access to\ncolleagues around the world who can become an important networking resource for information sharing and\ncollaboration.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 341,
+      "end": 1195,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "61032f4b260e73fc2c8ec5bf483d538c49a9f412100a88604560c1e2baae967a",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 35,
+    "text": "GLOBAL CONNECTIONS\nA Symbiotic Relationship: IS and Globalization\nInformation systems have allowed companies to increase their business operations globally. As more\norganizations develop an international presence, these systems become a vital tool to promote and sustain\norganizational successes in the global marketplace. To be effective, IS professionals must understand\nglobalization and how it relates to IS. Organizations such as the Association of Information Systems (AIS),\nAssociation of Computing Machinery (ACM), and Information Systems Audit and Control Association (ISACA)\ncan provide information to stay abreast of the developments and opportunities (such as career, networking\nwith IS professionals) related to the theory and practice of IS in the global environment. Establishing and\nmaintaining global connections provides IS professionals with invaluable resources to accomplish IS goals.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1195,
+      "end": 2101,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "172d9a61bd02e5b36e6cfc0d6fc41fd082db5ff07aa2d51bef2dd51392267aea",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 35,
+    "text": "Characteristics and Roles of Information Systems Professionals\nPeople working in IS may be involved with new technologies applicable to information systems, how\ninformation systems are used globally, and the ethical requirements necessary to ensure a system is managed\nsecurely with integrity. IS professionals hold a variety of important roles and responsibilities in an\norganization. These include the following:\n• A chief information officer (CIO) establishes and maintains an organization’s overall information systems.\nThe CIO’s responsibilities include ensuring that the systems comply with legal requirements and that\nothers involved in an organization’s information systems do their jobs competently.\n• Data information systems management manages the people, technology, and procedures needed to\nconvert data into information. This includes cleaning, extracting, integrating, categorizing, labeling, and\norganizing data.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2101,
+      "end": 3030,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "270aaada1df2ec4f839842f6a2eaf0dfc983608ad7763c1b1fba6ba7e745d7c6",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 35,
+    "text": "• Database management develops procedures to organize, manipulate, and retrieve data that are stored on\ncomputer databases.\n• Systems analysis, design, and development examines an organization’s system needs, and designs and\ndevelops a system to meet those needs.\n• IS security risk management manages the risks that threaten an organization’s information system.\n• Enterprise security, data privacy, and risk management focuses on threats, such as data breaches,\ncyberattacks, and risks to data privacy, that can compromise an organization’s data and information\nsystems.\n• Cloud computing focuses on how an organization uses information systems in the cloud for purposes\nsuch as storing and processing data.\n1.2 • Frameworks of Knowledge and Industry Standards 25",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3030,
+      "end": 3795,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a6044eff72070ff45c313cd38e1f0b48e194eede70cd7089e3da8c613709e7b1",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 36,
+    "text": "• Data analytics and modeling transforms raw data into useful information and analyzes that data to\nprovide information useful in organizational decision-making and other operations.\n• IS project management uses the project management steps of initiation, planning, execution, monitoring,\ncontrol, and closure to handle IS projects.\nIn addition to the benefit of working in a role aligned with an individual’s experience and interest, IS positions\ntend to pay competitive salaries, and the field’s outlook remains promising.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 525,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "6469a4bc2678d65f43799db4b5fce016b2c54284b536613e838267e86434ff57",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 36,
+    "text": "ETHICS IN IS\nEthics as Integral to IS\nAny IS professional will likely have to manage sensitive data, and mishandling it can negatively impact the\noperations of organizations, as well as the lives of individuals. Cybersecurity is a priority because,\nworldwide, hackers are constantly working to find organizations with vulnerable systems that can be\nexploited for financial gain and other criminal uses. IS professionals must understand IS risks and practice\nethical behavior to manage those risks. Keep in mind that every part of IS must be managed with an ethical\nmindset, understanding its importance and recognizing that IS professionals have an obligation to do\neverything they can to help safeguard data.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 525,
+      "end": 1235,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a3e8c0ddec46e7a3e4b36f2b74ecaba0a60e1c5c4a3cdfeba8d7558b0de9eb62",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 36,
+    "text": "1.3 Connections between Information Systems and Information Technology\nLearning Objectives\nBy the end of this section, you will be able to:\n• Explain competencies in IS and IT\n• Describe the connections between IS and IT\n• Discuss training and education requirements for IS fields\nAs you have learned, organizations must have robust information systems managed by qualified\nprofessionals. To help ensure that IS professionals and organizations have the required expertise, the U.S.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 482,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 36,
+    "text": "Department of Labor has developed the Information Technology Competency Model, a framework that defines\nthe knowledge, skills, and abilities that are essential for IS professionals. It is important for IS professionals to\nunderstand the relationship between IS and IT, as these two disciplines work in tandem to support\norganizational objectives and foster innovation. Further, many of the training and education requirements for\nprofessionals in the IS field use the Information Technology Competency Model to prepare individuals to\nnavigate the complexities of this dynamic and rapidly changing industry.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 482,
+      "end": 1089,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 36,
+    "text": "Competencies in IS\nFor all occupations, including IS positions, the U.S. Department of Labor (DOL) recommends competency-\nbased approaches for hiring employees and for providing the education and training that employees need to\ndo their jobs well. A competency is the ability to apply specific skills, experience, and personal characteristics\nto do a job in an effective and efficient manner. Someone’s personal characteristics are the traits that are\nappropriate for the job or task being done based on the individual’s interests, strengths, background,\neducation, and training. In addition, an individual’s talents, motivations, and personal perceptions of their\nwork influence competency.\nA competency model is a framework that identifies the competencies required for employees to effectively\nperform their job. Generally, for all industries, the competencies that are important include the following\nelements:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1089,
+      "end": 2004,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a33a8629b5d669a360748f30fcf204b1cbf03eeb189d60d6c9985895b5a206c3",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 36,
+    "text": "• Personal effectiveness: competencies such as interpersonal skills, integrity, professionalism, initiative,\n26 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2004,
+      "end": 2187,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "615963ed2d8ec580b29ead6827aafd1eec7c86578d66cffd14290b69873cb754",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 37,
+    "text": "dependability, reliability, and willingness to learn\n• Academic: competencies such as reading, writing, and mathematics\n• Workplace: competencies used in the workplace such as teamwork, creative thinking, problem-solving,\nand decision-making\n• Industry-wide technical: general competencies needed in a specific industry; for example, database\nmanagement and network administration are competencies necessary to succeed in IS\n• Industry-sector technical: competencies directly related to specific positions within an industry; for\nexample, in IS, professionals who focus on cybersecurity must be competent about data security and risk\nmanagement\n• Management: leadership, direction setting, team oversight, conflict resolution, delegation\nTo be successful in the workplace, IS professionals need personal effectiveness, academic, and workplace\ncompetencies. In addition, they need competencies specific to technology and information systems. These\ninclude knowledge and skills in the principles of ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 997,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "0a0f9ce82d58fe33ea6324b610d744a6e36836dd06bea33c140a29663a4687e4",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 37,
+    "text": "information technology, databases and applications,\ntechnological networks, telecom, wireless and mobility, software development and management, user and\ncustomer support, digital media and visualization, compliance, risk management, security, and information\nassurance. IS professionals also need competencies specific to the role they fill in IS. Table 1.1 outlines both\ngeneral and IS-specific professional competencies.\nCompetency Description Examples\nPersonal\neffectiveness\nPersonal characteristics or traits\nrelated to working\nGeneral:\n• interpersonal skills\n• initiative\n• dependability\n• reliability\nIS-specific:\n• integrity\n• willingness to learn\n• professionalism\nAcademic Essential education\nGeneral:\n• reading\n• writing\n• mathematics\nIS-specific:\n• business\n• technology\nTable 1.1 Professional Competencies No matter what field you go into, certain personal, academic, and workplace skills are needed\nto be successful as you grow in your career.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 997,
+      "end": 1955,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "f872974bdfce914c34624f0b149a54a5bc619f1bd7d8b7ba52903770b053c757",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 37,
+    "text": "1.3 • Connections between Information Systems and Information Technology 27",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1955,
+      "end": 2030,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 38,
+    "text": "Competency Description Examples\nWorkplace Competencies used in the workplace\nGeneral:\n• teamwork\n• creative thinking\n• decision-making\nIS-specific:\n• business fundamentals\n• problem-solving\n• listening\nTechnical General competencies needed in a specific industry\nIS-specific:\n• IS principles and concepts\n• IS standards and IS regulations\n• databases management\n• network administration\n• risk management\nOccupation-\nspecific\nCompetencies directly related to\nspecific positions within an\nindustry\nIS specific:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 510,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "6528b6855557df45feb001dc95197679ae37da5be6ef945a91a57b59f79eadb4",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 38,
+    "text": "• cloud computing: networking, programming,\nmachine learning, virtualization, cloud security,\nbusiness concepts, and project management\n• systems analysis: system design, data analysis,\nbusiness analysis, problem-solving, critical\nthinking, creativity, and systems administration\n• cybersecurity: threat detection systems, digital\nforensics, penetration testing, auditing, data\nsecurity, data privacy\nManagement\nCompetencies regarding\nleadership, conflict resolution,\ndelegation, and team dynamics\nGeneral:\n• team management\n• conflict management\n• delegation\n• leadership\nIS-specific:\n• risk assessment\n• policy development\n• regulatory compliance\n• incident response planning\nTable 1.1 Professional Competencies No matter what field you go into, certain personal, academic, and workplace skills are needed\nto be successful as you grow in your career.\n28 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 510,
+      "end": 1437,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "104728651e548a2f2d3e171d4403e5a5f771865f4ed1e0e33aeb69c47e50a8f9",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 39,
+    "text": "LINK TO LEARNING\nAs a student, you can use the Department of Labor’s (DOL’s) Information Technology Competency Model\n(https://openstax.org/r/109DoLInfo) to understand the knowledge you should gain and the skills you\nshould develop to have a successful career in IS.\nConnections between Information Systems and Information Technology\nAs an IS professional, you likely will work closely with professionals in IT. Although the terms IS and IT are\nsometimes used interchangeably and the fields are connected, they are not the same. While IS focuses on an\norganization’s goals and developing an information system to meet organizational needs, IT is concerned with\nthe technological operations. IT professionals design and build an organization’s technological infrastructure,\nincluding the computer hardware, software, and networks required to support the information system. IT\nprofessionals also provide user support to maintain technology and ensure that it functions appropriately.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 982,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "580b8806c315217747c62fdcc8a4b7c1aac92249be88be3177a2d3e32d97aa36",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 39,
+    "text": "IS and IT professionals typically work together to ensure that an organization’s technological needs are met.\nFor example, IT professionals use IS requirements to guide their work as they design and develop an\norganization’s technological infrastructure.\nLINK TO LEARNING\nYou will likely work with IT professionals at some point during your career, and it will be helpful to\nunderstand how IT roles differ from IS roles. This geeksforgeeks.org blog provides more details\n(https://openstax.org/r/109ITvsIS) about the differences, including a table that compares the two fields.\nCareer Focus: Training and Education Requirements for Information\nSystems Fields\nIf you are interested in becoming an IS professional, or just want a better understanding of the impact of IS on\norganizations, you will benefit from learning about a variety of topics important in business and technology.\nSome of the key topics include the following:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 982,
+      "end": 1909,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a3873bb7177cad0eb2ef90a3d4b563131380a6d5b419a09422eb24b2ffb25a90",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 39,
+    "text": "• business analysis, which reviews an organization’s operations to determine needs and how these can be\naddressed by IS\n• cybersecurity, which identifies an organization’s cybersecurity risks and implements measures for risk\nmanagement\n• enterprise system, which is a software package that organizations use to automate and coordinate\noperations, solve an organization’s problems, and monitor organizational performance\n• information system design, which develops the framework and structure for IS that enables IS to meet an\norganization’s specific needs\n• information technology (IT), which reviews how computers and other technology can be used to\nprocess, store, retrieve, and share information\n• networks, which explores the processes to connect computers and other technology to enable\ninformation sharing\n• programming, which delves into the processes to develop and write computer code that enables hardware\nand software to function appropriately\nIf you want to pursue a degree in IS or ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1909,
+      "end": 2904,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "bbaa96e300ab6afb45dd208a6154b701b7c6f0707be7e547180065990e40b46c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 39,
+    "text": "learn more about specific topics, you can take additional courses\ndevoted to covering these subjects in depth.\nDepending on the role, future IS professionals may qualify for a job by earning a degree or certification(s) in IS,\n1.3 • Connections between Information Systems and Information Technology 29",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2904,
+      "end": 3206,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "1aeb311178cf061e7062eb175da3dab64976125c2c9bf90cb5a1299f22dbe2a2",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 40,
+    "text": "or both. Even if an IS professional has a degree, earning certifications can provide additional knowledge and\ntraining in areas such as security, database management, and data analytics. With certifications, IS\nprofessionals are required to complete continuing education credits each year, and holding one or more\ncertifications signals that an IS professional is dedicated to their work. The certifications held by IS\nprofessionals include Associate Computing Professional (ACP), Business Data Management Professional\n(BDMP), Certified Business Intelligence Professional (CBIP), Certified Data Professional (CDP), and Information\nSystems Analyst (ISA). Typically, IS professionals earn the certification(s) related to the IS role(s) that they\nperform. To learn more, refer to 5.4 Career Focus: Key Certifications.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 815,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "ee0c0ff0a509d1b05f273a1f0b8e21433d3c722ce3a59ec0d339746ca9637e76",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 40,
+    "text": "1.4 The Global Importance of Information Systems\nLearning Objectives\nBy the end of this section, you will be able to:\n• Describe why information systems should be global\n• Discuss global innovation and its importance\n• Describe global initiatives in IS\nThe field of IS is and has been an important component in globalization, or the process of businesses and\nother organizations operating around the world. This includes the international sales of goods and services, as\nwell as the exchange of ideas across international borders.\nWhy Information Systems Should Be Global\nThe global marketplace is an important resource worldwide. Countries trade goods and services, offering\nbusinesses around the world opportunities for growth and profit maximization. Organizations of all types in\nboth the private and public sectors use globalization as a means to share information and resources, including\ntechnological knowledge.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 920,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "4d69befce8b49fd7cfae28a54f28a516e6c53fe31cf36303007f068a5d8ee110",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 40,
+    "text": "IS supports globalization by providing the resources that organizations need to achieve success in the global\nmarketplace. This includes enabling global communication and information sharing, as well as supporting the\nprocesses to manage data compiled from sources throughout the world. IS also gives organizations the tools\nto function at any time of day, eliminating the need for different time zones to be an obstacle in global\noperations. In addition, IS helps organizations develop the frameworks they need for strategic planning and\ndecision-making on a global scale.\nYou will learn more about globalization and the role of IS in promoting global operations in Chapter 11 Global\nInformation Systems which covers strategic and global information systems. This will include a look at the role\nof culture in IS, as well as IT, and the risks associated with the use of global data and systems sharing. For now,\nit is important to recognize IS as a vital tool for globalization.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 920,
+      "end": 1900,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e8022fc2e0986162ba36fac485f1da58df946ba67087e414e44f0b436b248ebe",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 40,
+    "text": "Global Innovations\nOne role of IS is to support and promote global innovation, which refers to the processes used to collaborate\nacross international borders in designing and developing new goods and services for the global marketplace.\nGlobal innovation also focuses on international collaboration to develop solutions for global problems and\nchallenges, such as climate change. For example, the World Meteorological Organization (WMO) helps\ngovernments and other organizations throughout the world track climate change and gather the information\nneeded to make decisions, set policies, and take action to combat the impacts of climate change.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1900,
+      "end": 2545,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "321518e63e2dc320404e1d071576cab2bf1bf1e6a487b3ad49496c726761a80b",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 40,
+    "text": "Organizations use processes such as business analysis, problem-solving, and decision-making for global\ninnovation, and these same processes are used for internal and local issues. With global innovation, these\norganizational processes have a broader scope as they are applied to the global marketplace and this is\ncovered in-depth in Chapter 11 Global Information Systems. In addition, Chapter 10 Emerging Technologies\nand Frontiers of Information Systems explores topics relevant to global innovation including emerging\n30 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2545,
+      "end": 3140,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "b1267b5f90b9175e3c256f250e6a9f097f3d6fe7aa49c9c60cb3d0b50a789029",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 41,
+    "text": "technology, the evolving frontiers of IS, and the future of technology and its impacts on IS.\nFUTURE TECHNOLOGY\nArtificial Intelligence: Theory in Action\nTechnology changes rapidly, and IS professionals must stay abreast of technological advances,\nunderstanding the impact that these have on IS. For example, consider artificial intelligence. AI has many\npotential benefits for IS, including improvements in efficiency for the processes to gather, store, and\nmanage data. AI also presents a number of serious challenges such as privacy concerns as AI often gathers\ndata without the individual’s consent. AI is rapidly evolving and will be an important part of the future of IS.\nThe advent of AI also provides an example of why continuing education is so important. With continuing\neducation, IS professionals can ensure that they are prepared to handle the future, regardless of what\ntechnological changes and challenges face them.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 932,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "84a1f7302b8b4df8dd5f156d6b57caa3a45571968719b0100ea2dd0c42233b0c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 41,
+    "text": "Global Initiatives in Information Systems\nAs technology advances throughout the world, IS must continue to evolve. The key topics IS professionals are\nfollowing include artificial intelligence, machine learning, 5G and the Internet of Things, edge computing, and\nblockchain.\n• The ability of machines and computers to act, reason, and learn, continuing to develop and evolve, is\ncalled artificial intelligence. AI has various applications for IS. For example, AI can help process and\nmanage data, making IS more efficient. This includes automating processes and reducing errors, ensuring\nthat organizations have more accurate and reliable data for decision-making and other purposes. AI also\ncan help organizations detect security threats and identify security issues more quickly, making it easier to\nprotect an organization’s information.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 932,
+      "end": 1773,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "f638d1625fb4ffa8fb73652449f9d354f786c0d497c1f68a1a67f2e0fdffe8d6",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 41,
+    "text": "• The type of AI that allows machines to imitate human thought by improving and learning from\nexperiences without explicit instructions or programming is called machine learning. ML also is evolving\nand changing the way IS is managed. For example, ML promotes more efficient and accurate processing\nof the data analytics and documentation needed in IS. As with AI, ML also can help with cybersecurity.\n• During the advancement of 5G, the fifth generation of cellular network technology, and the Internet of\nThings (IoT), the network that connects everyday physical objects to the internet, enabling them to collect\nand share data with other devices or systems, IS is experiencing changes, such as the faster exchange of\ninformation and greater network connectivity. IoT also helps with real-time data collection and\nautomation, which can improve the information available for IS.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1773,
+      "end": 2653,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "18f321c9ce235c50ef15374100fc5bae75d37aa5cf5326568ca57f1040e8b1f6",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 41,
+    "text": "• The distributed computing framework that allows data storage closer to the source of data, rather than a\ncentralized cloud or server, is called edge computing. It is continually advancing, giving IS greater options\nfor storing and processing data.\n• The shared ledger that records transactions and is maintained through linked computers in a peer-to-peer\nnetwork is called blockchain. Originally developed in 2008 for Bitcoin, it allows information systems more\nways to store and share data with increased efficiency and security.\nAs technology advances, IS faces more risks, and this creates additional challenges to cybersecurity.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2653,
+      "end": 3288,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "b7f6b96281977aa9dd9274df536af83f4780e2af28aea85439564327dc615a8c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 41,
+    "text": "Cybercriminals and cyberattacks are on the rise. According to the Federal Bureau of Investigation, 2023 saw a\nrecord number of complaints about cybercrimes, with over 880,000 complaints and financial losses exceeding\n$12.5 billion. This was a 10 percent increase in complaints and a 22 percent increase in financial losses\ncompared to the previous year.4 Fighting cybercrime and developing better cybersecurity to handle\ntechnological advances is an important global initiative for IS professionals throughout the world.\n4 Internet Crime Complaint Center, Internet Crime Report (Federal Bureau of Investigation, 2023), https://www.ic3.gov/Media/PDF/\nAnnualReport/2023_IC3Report.pdf\n1.4 • The Global Importance of Information Systems 31",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3288,
+      "end": 4023,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "8c1031957ccb478fa3b8db1cdbf49ed59027773f7cd338bd1e915cc2c3a701c2",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 42,
+    "text": "LINK TO LEARNING\nOne way to learn more about IS in cybersecurity and understand its importance is to play security\nawareness games. You can give this a try by exploring the Security Awareness Games (https://openstax.org/\nr/109SecurtyGames) from the Center for Development of Security Excellence. The website also offers\ngames, word searches, and crossword puzzles that can help you learn more about cybersecurity.\n32 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "1.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 488,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "34ae13eb3b7d2da93bf3b9ebda039cdcbeafdac8cf7caf683df65dc370f40e7f",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 52,
+    "text": "Organizations typically use digital technology to analyze data to get the information they need to run their\nbusinesses. With the exponential increase in computing capacity and the development of artificial intelligence\n(AI) and large-language models, businesses today rely heavily on efficient managers using sophisticated data\nstorage and data analytics technologies. How can you align your organization’s data management and\ninformation strategies to deliver optimal results for the greatest number of stakeholders? Future data\nmanagers will have an obligation not only to understand information and data management but also to\npossess the ability to extract valuable insights from data, apply these insights strategically, and align them\nwith the organization’s goals.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 773,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 52,
+    "text": "In Chapter 1 Fundamentals of Information Systems, you learned that the term data refers to raw facts and\nfigures that are processed and turned into meaningful information. Data represent discrete elements without\ncontext or meaning on their own, and data come in various forms—such as numbers, text, images, or audio.\nFor example, a list of numbers or a collection of customer names and addresses is considered data.\nInformation is the result of processing data through organization, analysis, and contextualization to derive\nmeaning. If the data are a list of numbers, then the related information may be the trend of increasing sales of\na product. This information can be used to make decisions, understand relationships, and gain insights.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 773,
+      "end": 1516,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 52,
+    "text": "For any organization, information is an invaluable resource, hence data and data management have become\ncritical. Effective data management aligns with data analytics capabilities, facilitating the automated discovery\nof trends, patterns, and anomalies through techniques like data mining and analysis. In today’s data-driven\nworld, there’s increasing attention to the relevance of big data, highly complex and large datasets that require\nspecialized processing techniques to extract valuable insights and make informed decisions. Managing any\ndata involves activities such as cleaning, extracting, integrating, categorizing, labeling, and organizing. All\nthese activities should be executed in a manner that ensures that the quality of the data is preserved, and the\ndata remain secure but also easily retrievable. Organizations need people to manage data and control data\naccessibility, and they need to define roles and responsibilities for all the people working with and extracting\ninformation ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1516,
+      "end": 2515,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 52,
+    "text": "from their data. Decisions about data management have long-lasting impacts, so it is important\nfor organizations to select suitable frameworks for managing data.\nIdentifying Practices and Frameworks That Assist Data Management\nAnalysts report that by 2025 the global volume of data is expected to reach 200 zettabytes.1 A zettabyte is a\nmeasure of digital storage capacity equal to a thousand exabytes, a billion terabytes, or a trillion gigabytes.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2515,
+      "end": 2964,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 52,
+    "text": "Notably, most of these data are underutilized. For most enterprises, only about one-third of data is used for\ndecision-making, while the remaining two-thirds is simply stored.2 When analysts are unable to find the\nappropriate and available data for decision-making, it can cost organizations billions of dollars each year. On\nthe other hand, data archives are often required for regulatory reasons to ensure compliance with laws\ngoverning data retention, privacy, and security. For instance, industries like health care and finance have strict\nregulations regarding the retention of patient records and financial transactions data.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2964,
+      "end": 3596,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "21e8a8c1113cbe2c94b65e4d88fe521d8ffef740c3afde41261b7d20211ebe4c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 52,
+    "text": "Another important aspect of dealing with data is data governance, which involves the policies, procedures,\nand standards how an organization manages the availability, usability, integrity, and security of its data\nthroughout the data life cycle. You probably have noticed that every time you use the internet, an app on your\nphone, or buy something online, websites and apps track what you do, and may track your location and other\ndata. The world is full of sensors, electronic payments, tracking data, biometric information like fingerprints,\nand smart home devices that collect data. This kind of information is valuable, and this creates challenges for\nmaking sure data are handled well. Data governance is like a rulebook for how data are managed and making\nsure the right people are responsible for decisions about data.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3596,
+      "end": 4423,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 52,
+    "text": "1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,\nhttps://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/\n2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,\nhttps://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-\nunused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D\n42 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 4423,
+      "end": 5009,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 53,
+    "text": "Appropriate data management is crucial to an organization’s reputation and success. Data management\nparameters establish practices that organizations can use to ensure that their data are managed, protected¸\nand of high quality so they can be utilized to make informed decisions. The essential areas for managing data\neffectively are as follows (Figure 2.2)3 :\n• Data governance establishes policies, processes, standards, roles, and responsibilities to manage data\nas a valuable asset.\n• Data quality ensures that data are accurate, complete, and consistent. This is achieved through\nactivities such as validation, cleansing, matching, and monitoring via metrics and reporting.\n• Data integration combines data from different systems and applications. It includes tasks such as\nmapping data elements, transforming data, and ensuring seamless integration using tools and best\npractices.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 887,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "2151c1e84cec54daf291d767f17ce38bc38ec4701bb2b4acb5c908849eadaa73",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 53,
+    "text": "• Data security protects data from unauthorized access, use, disclosure, disruption, modification, or\ndestruction. It is achieved through measures like encryption, access controls, and adherence to\nsecurity best practices.\n• Data privacy, like data security, safeguards personal data from unauthorized access, use, disclosure,\ndisruption, modification, or destruction. It relies on the use of encryption, access controls, and privacy\nbest practices.\n• Data retention involves storing data for a defined period based on legal, regulatory, and business\nrequirements. It includes activities like archiving, purging, and the development of data retention\npolicies.\n• Data architecture focuses on designing data models and database structures that align with business\nneeds.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 887,
+      "end": 1657,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "caf9bd84583a437e124b8501c4259ee5a254647f1bc54aeff716fcd093857656",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 53,
+    "text": "• Data analytics involves analyzing data to extract insights and support decision-making. It includes\nimplementing activities like data warehousing, mining, and visualization to achieve meaningful\ninformation extraction. These tools, techniques, and insights can be used in AI and machine learning\napplications. (George Firican, ”Data Management Framework 101”)\n3 George Firican, “Data Management Framework 101,” LightsOnData, https://www.lightsondata.com/data-management-\nframework/\n2.1 • Practices and Frameworks for Data Management 43",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1657,
+      "end": 2194,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "34daaddd4938cf6d81965ffba188cb7c79038ebae208ccd88d98f2361bc06085",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 54,
+    "text": "Figure 2.2 Data governance plays a role in all data management areas. It ensures an organization’s data are of high quality and are\nmanaged and protected effectively so that the data can be used to make informed decisions. (attribution: Copyright Rice University,\nOpenStax, under CC BY 4.0 license)\nFUTURE TECHNOLOGY\nData Management Technologies\nA new approach to data management, called a data mesh, is based on the principle of domain-driven\ndesign. In a data mesh, data are owned by the domain experts who create the data, and the data are made\navailable to other users through a self-service model.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 603,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "058e707e90e69d97482759b6c97a414e18280e5e7530747cc27bfe8d2b4066f8",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 54,
+    "text": "Another powerful technique for data management is called data fabric. It involves a move toward data\ndemocratization, which means that data are made available to more people in the organization, not just\nthose in information technology (IT) or data science roles. Through this approach, data can be accessed and\nconsumed by anyone as long as they have proper security credentials for the level of data they desire.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 603,
+      "end": 1018,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "6a7d0aa7cec7d41abaf567b534e15604146a91a3992da6a6beadff06a3555564",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 54,
+    "text": "Another technology is federated analytics. Federated analytics allows users to analyze data without having\nto move it to a central repository. This can help to improve data security and privacy, and it can also make it\neasier to analyze data that reside in different locations. These three techniques address the growing\ncomplexity and scale of data management in modern organizations, especially as data becomes more\ndistributed, diverse, and decentralized. These technologies provide innovative ways to manage, integrate,\nand analyze data at scale, which is necessary in the age of big data and advanced analytics.\n44 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1018,
+      "end": 1733,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "f465b7f8409a07fde37be3d48e524be29741df7a685a8892fd30d8c2890dc9cd",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 55,
+    "text": "Businesses that strive to ensure they follow these data management parameters can decide to follow any\nframework. A framework is a structured and organized approach that provides a set of guidelines, principles,\nor tools to address complex problems or tasks in a systematic manner. It serves as a foundation to build and\nmanage processes, systems, or projects, ensuring consistency, efficiency, and effectiveness. Following are\nsome common data management frameworks:\n• DAMA-DMBOK: The Data Management Body of Knowledge, developed by the Data Management\nAssociation (DAMA International), provides comprehensive guidelines across ten key knowledge areas,\nincluding data governance, data architecture, and data quality.\n• MIKE2.0 IMM: This framework offers a structured way to assess an organization’s information maturity\nlevel.\n• IBM Data Governance Council Maturity Model: This model provides a road map for implementing effective\ndata governance processes and controls.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 972,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "fa2190de930dd9497d4bf9c17ae5d87a4e4ea018d76d0f89eeaa76ca4c34690d",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 55,
+    "text": "• Enterprise Data Management (EDM) Council Data Management Maturity Model: This comprehensive\nframework covers various aspects of data management, including data strategy, data operations, and data\narchitecture.\n• Responsible Data Maturity Model: This model is an evolving concept that continues to gain importance as\nthe role of data in our lives becomes more prominent.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 972,
+      "end": 1344,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 55,
+    "text": "There are some differences in how each framework approaches data management. DAMA-DMBOK focuses on\nthe technical aspects of data management, while MIKE2.0 focuses on the business aspects of information\nmanagement. The IBM Data Governance Council Maturity Model and the EDM Council Data Management\nMaturity Model are both designed to help organizations assess their current data management practices and\nidentify areas for improvement. The best framework for an organization will depend on its specific needs and\nrequirements. However, all five frameworks can be valuable tools for improving data management and\ninformation quality. The optimal framework for managing data is one that is continuously developing to\naddress advancements in data storage and changes in organizational policy.\nCAREERS IN IS\nData Architect\nA data architect is responsible for designing, creating, and managing an organization’s data architecture.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1344,
+      "end": 2269,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "510065945487652c5065c489fc7f5182cfb9095393d345f7275195a128db72d6",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 55,
+    "text": "This includes creating frameworks and structures for collecting, storing, processing, and accessing data in a\nway that aligns with business goals, compliance requirements, and performance needs. In addition to\ndesigning traditional data architectures, many modern data architects now also focus on frameworks like\ndata mesh, data fabric, and federated analytics as part of their responsibilities. A data architect needs\nstrong knowledge of database technologies, data modeling, cloud platforms, and big data tools. They must\nalso understand data governance practices, security protocols, and compliance regulations and be familiar\nwith data pipelines, integration tools, and extract, transform, and tools. Having strong problem-solving\nskills will allow a data architect to design complex systems and solve integration challenges, ensuring data\nflows smoothly across different parts of the organization.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2269,
+      "end": 3173,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "cca68b49e5473de9b8070f9c2a6a6329398d591dcae2d97b9973515aa9ab4248",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 55,
+    "text": "Most data architects have a bachelor’s degree in computer science, information systems, business analytics,\nor a related field. Some also have a master’s degree, which can help give candidates a competitive edge or\nallow for a smoother transition from another field. There are also numerous certificates available for a data\narchitect. Different organizations may require different certifications, but the Certified Data Management\nProfessional certificate is one that many organizations prefer.\nTo become a data architect, you typically need a combination of a strong educational foundation, hands-on\nexperience working with data systems, and certifications in specialized tools and platforms. Ongoing\nlearning and keeping up with industry trends are also helpful in this rapidly evolving field.\n2.1 • Practices and Frameworks for Data Management 45",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3173,
+      "end": 4023,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 56,
+    "text": "Dimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 701,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 56,
+    "text": "• Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity. Particularly evident during high-traffic events, such as online flash\nsales, the constant influx of clickstream data necessitates swift analysis to enable the system to offer\ntailored recommendations and insights to users navigating a dynamic digital landscape.\n• Veracity: The veracity dimension refers to the reliability, accuracy, and trustworthiness of the data,\nconsidering factors like data quality and consistency. As data originate from a multitude of sources and\nare influenced by user behaviors and tracking nuances, ensuring the quality of the data is imperative to\navoiding misinterpretations of metrics like bounce rates and session durations.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 701,
+      "end": 1502,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 56,
+    "text": "Different types of data are required for generating suitable information, and different types of data require\ndifferent management approaches. There are two main categories of data—structured and unstructured. The\nfirst, structured data, exist in organized, fixed fields in a data repository. Structured data are typically defined\nin terms of field name and type (such as numeric or alphabetical). Structured data can be further categorized\nas follows:\n• Associated with operational or real-time applications, operational data include transactional data\ngenerated by day-to-day business operations. Operational data often require high availability, real-time\nprocessing, and quick access for operational decision-making. When managing operational data, the focus\nis on ensuring data integrity, availability, and performance to support critical business processes.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1502,
+      "end": 2366,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "7ffd5de2be32e43e9fb63d3947950460cdca48553612b9476be9372146499afb",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 56,
+    "text": "• Serving as a system of record or reference for enterprise-wide use, master data represent core entities\nsuch as customers, products, or employees, and reference data include codes, classifications, or\nstandards used across the organization. Maintaining data accuracy, consistency, and synchronization\nacross multiple systems for these data types is necessary to ensure reliable and consistent information\nacross the organization.\n• Used for data warehousing, business intelligence, and analysis-oriented applications, analytic data\ninclude aggregated and summarized data from various sources and enable in-depth analysis, reporting,\nand decision support. Analytic data require data integration, transformation, and optimization to provide a\nconsolidated view and support complex analytics.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2366,
+      "end": 3158,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "528c1781aa1fc4c4a233601321934d7c000171c5f06584cb3fd341aa51e7f5e2",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 56,
+    "text": "The other data type, unstructured data, do not reside in a traditional relational database; examples of\nunstructured data generated within organizations are emails, documents, media (videos, images, audio), slide\npresentations, social media activity (such as posts, images, ratings, and recommendations), and web pages.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3158,
+      "end": 3478,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "22c455cba413208a327c6b12bbfd85644ad675fe16d552084d999444a183b9bb",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 56,
+    "text": "There are several challenges associated with managing unstructured data. Their large volume can make them\ndifficult to store and manage. Unstructured data also come in a variety of formats from multiple sources,\nincluding internal sources, personal sources, and external sources. Data can also come from the web in the\nform of blogs, podcasts, tweets, social media posts, online videos, texts, and radio-frequency identification\ntags and other wireless sensors. These technologies generate data that must be managed but are difficult to\nprocess and analyze. Unstructured data are often generated at high velocity. This can make it difficult to keep\nup with and make sense of the data.\nDespite the challenges, managing unstructured data can be valuable. Unstructured data can provide insights\n46 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3478,
+      "end": 4368,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "433626d36d910cd167a1ba5bb0fd6acc7a2f8b91b6cfb4140dc5ba5cd4386c1e",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 57,
+    "text": "into customer behavior, identify trends, and improve decision-making. The management of unstructured data\ninvolves organizing, storing, and retrieving such content effectively. Techniques like content indexing, search,\nand metadata management are employed to enable efficient discovery and retrieval of relevant information.\nWhen managing unstructured data, it is also important to understand the decision-making priorities of an\norganization (which decisions require data and, consequently, necessitate data-driven information and\nknowledge processing). Also, it is often possible to convert unstructured data into structured data.\nGood data management strategies require the following:\n• Updating outdated data: A data management process should involve incorporating the latest information\nand revisions into the dataset, thereby ensuring it remains relevant and accurate.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 875,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 57,
+    "text": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 875,
+      "end": 1840,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 57,
+    "text": "• Resolving discrepancies in redundant data sources: When multiple sources provide similar data, it is\nimportant to reconcile any inconsistencies or differences to establish a reliable and accurate\nrepresentation of the information.\n• Managing variations in opinions, forecasting techniques, or simulation models: Recognizing and\naddressing divergent viewpoints, methodologies, or models used for forecasting or simulation ensures\ntransparency and reliability in the data analysis process.\nFUTURE TECHNOLOGY\nMaster Data Management\nMaster data management (MDM) ensures the creation and maintenance of a single, accurate source of\ntruth for crucial data points within an organization. This centralized data repository eliminates\ninconsistencies and fosters seamless information exchange across different systems and applications. Let’s\nexplore the importance of MDM in two specific contexts: health care and e-commerce retail.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1840,
+      "end": 2765,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a3a33c126c094427cee9131c76c7cb083e3383f50b09a5a25f7959dd50b1e11d",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 57,
+    "text": "• In the health-care sector, creating a unified, digital infrastructure for health-care services facilitates the\nseamless exchange of health-related information among patients, health-care providers, and\ngovernment agencies. Efficient MDM ensures that patient data, such as medical history, medications,\nand allergies, are organized, stored securely, and readily accessible by authorized personnel. This both\nimproves the efficiency of health-care delivery and reduces the risk of errors and delays in treatment.\n• In the e-commerce sector, consider a large online retailer managing millions of product listings.\nWithout MDM, product information like descriptions, specifications, and prices might be scattered\nacross different data sources, potentially leading to inconsistencies. Master data management\nestablishes a centralized repository for product data to ensure that customers see accurate and\nconsistent information across all interfaces: web, mobile, on-site, and in marketing materials.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2765,
+      "end": 3762,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "231c5917f6c4401541fcad5adfaa1153b37871a256c0c4c0eade57a6dfb3a2d4",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 57,
+    "text": "Additionally, MDM facilitates efficient inventory management and product updates across various sales\nchannels.\n2.1 • Practices and Frameworks for Data Management 47",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3762,
+      "end": 3927,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "b0b04690a04fbb87528e3b6669b6a26d448e7bed46505c25a3bad0360aa0da54",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 58,
+    "text": "Information System Planning and Management\nInformation systems play an important role in data management by transforming raw data into a strategic\nasset. Information system planning and management involve selecting and implementing the right\ntechnology infrastructure for data storage, processing, analysis, and governance. Information technologies\nand systems play a vital role in facilitating data management within organizations, as they encompass\nactivities such as data acquisition, organization, storage, access, analysis, and interpretation. In the current\nlandscape, characterized by advanced information systems, quick and seamless access to information has\nbecome the norm.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 684,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 58,
+    "text": "There is a distinction between information used for strategic planning and information used for management\ncontrol. An organization’s strategic planning is its process of defining the organization’s mission, vision, goals,\nand objectives, and developing strategies to achieve them, often with the support of information systems,\ntypically done by senior-level managers. In contrast, management control ensures efficient day-to-day\noperations and adherence to those strategic plans. The information required for each level serves a distinct\npurpose; hence, the data required also differ. The data need to be in user-friendly formats, enabling managers\nand analysts to easily comprehend and utilize the information according to their specific requirements (Figure\n2.3). Managers, drawing on their expertise and experience while analyzing data, can effectively leverage these\ninsights to address complex business problems. This fosters a dynamic and adaptive approach of leveraging\ncollective data to ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 684,
+      "end": 1682,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "7e5aeb9e42675f54450adc7c04582c9ec4d32c9d15fc29a5b28703e3b86079e9",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 58,
+    "text": "drive continuous improvement and growth.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1682,
+      "end": 1723,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "6091d0dbdc9fb02ed1baf2aaa8b104d68f04e58b4559ad88b80a0b408ee72a44",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 58,
+    "text": "Figure 2.3 Data processing for particular purposes generates information, and when applied with business acumen, information\ncreates knowledge. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; credit Data: modification of work\n“Project 365 #195: 140709 Let’s Get Jiggy With It” by Pete/Flickr, Public Domain; credit Knowledge: modification of work “Thick arrow\nmade from jigsaw puzzle pieces” by Old Photo Profile/Flickr, CC BY 2.0)\nConsider an example within the energy sector’s need for sustainable energy solutions. To plan information\nsystems for a company in this sector, the chief information officer (CIO) must first understand what decisions\nneed to be made and, correspondingly, what data these decisions require—strategic planning, management\ncontrol, and operational control. The CIO should assess the different types of data currently available. These\ndata can come from various sources across operations. The focus should be on ensuring existing data ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1723,
+      "end": 2714,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "bd400488a026421d5b80c7a50b876dd81ffb25888e2c8b0de78e61922b6bf616",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 58,
+    "text": "capture\npractices faithfully reflect what’s happening in the organization. Additionally, the CIO should consider how\nthese data can be processed and transformed into actionable information that supports the identified decision\nneeds. Finally, the CIO must assess how the different levels of planning and the different types of information\nfit together.\nLINK TO LEARNING\nListen to this podcast about digital transformation at the energy company Shell (https://openstax.org/r/\n109DigitalTrans) across three levels: operational, management, and strategic.\n48 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2714,
+      "end": 3365,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "116c25de4202a412a7f923b4a589b9322efa40833cf6fe1e1e013e31b23adf08",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 59,
+    "text": "Frameworks for Data Management Practices and Processes\nIn the realm of information systems, the Robert Anthony framework, named for the management accounting\npioneer who developed it in 1964, helps in understanding information needs across different organizational\nlevels. This framework categorizes decisions based on the level of certainty surrounding the problem and the\nsolution. The Robert Anthony framework divides a problem, and by extension the data needed to resolve this\nproblem, into three domains: operational control, management control, and strategic planning4 :\n• Operational control is the process of ensuring that the organization’s day-to-day operations are running\nsmoothly. It involves setting production schedules, managing inventory levels, and processing customer\norders. Operational control is typically done by frontline managers and employees.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 870,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 59,
+    "text": "• Management control is the process of ensuring that the organization is meeting its strategic goals. It\ninvolves setting budgets, monitoring expenses, and tracking sales. Management control is typically done\nby middle management.\n• Strategic planning is the process of setting long-term goals for an organization. It involves identifying the\norganization’s mission, vision, and values, as well as its strategic objectives. Strategic planning is typically\ndone by the organization’s top management team.\nBy classifying information into these categories, Anthony’s framework provides a structured approach to\ngathering, analyzing, and utilizing information for effective planning and control within an organization. Table\n2.1 features data characteristics for the three types of domains.\nDomain Data Use Data Characteristics\nOperational Track and control day-to-day activities. Data are typically detailed and time sensitive.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 870,
+      "end": 1795,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 59,
+    "text": "Management Make decisions about how to allocate resources and achieve goals. Data are typically summarized and less time sensitive than operational data.\nStrategic Set long-term goals and make strategic decisions. Data are typically aggregated and less time sensitive than management data.\nTable 2.1 Three Domains of the Robert Anthony Framework The three domains of the Robert Anthony framework—operational\ncontrol, management control, and strategic planning—each work with different types of data for different purposes.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1795,
+      "end": 2318,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "d8ccb9c31d034b5d4def78ae7b7dfe1ebffb45c90f4eb4742ca41b6f12177c12",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 59,
+    "text": "Another data management framework developed by data scientist Herbert A. Simon in 1977, the decision-\nmaking framework breaks down decisions into two types: programmed decisions with clear procedures or\nnonprogrammed decisions requiring more judgment. Programmed decisions are also called structured\ndecisions as they are routine and can be made based on preestablished rules and procedures. They often\ninvolve repetitive tasks that can be automated within the information system. Nonprogrammed decisions, on\nthe other hand, are not structured as they are unique and complex, requiring judgment, analysis, and\ncreativity. These decisions often arise when there are no predefined guidelines or precedents available. A\nthree-step process determines which activities are programmable and nonprogrammable (Figure 2.4):\n1. Intelligence: Gather relevant information and assess the situation to understand the nature and\nrequirements of the activities.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2318,
+      "end": 3264,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "2ca84f1e38106e0ef1ff42c86ab21c0be63468ffaf676c988a70b7f78a89aaa8",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 59,
+    "text": "2. Design: Analyze the collected information to make informed judgments about whether an activity can be\neffectively automated or requires human intervention.\n3. Choice: Based on the decisions made, select the appropriate approach for each activity—either\nprogramming it for automation or handling it through human involvement.\n4 Robert N. Anthony, “Framework for Analysis,” Management Services: A Magazine of Planning, Systems, and Controls 1, no. 1\n(1964): 6, https://egrove.olemiss.edu/mgmtservices/vol1/iss1/6\n2.1 • Practices and Frameworks for Data Management 49",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3264,
+      "end": 3831,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "03ab78ca941b8714f0b6e74b31f6af4da57bb8835c890eb93b5438f4ae48c610",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 60,
+    "text": "Figure 2.4 To identify whether an activity is programmable or nonprogrammable, a three-step process is followed in order to come\nto a decision. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nAnother framework, developed by Gorry and Scott Morton, combines elements of both the Robert Anthony\nand decision-making frameworks.5 Gorry and Scott Morton introduced the concept of IT into their framework,\nacknowledging the influence of technology on decision-making and information management. They\nhighlighted the importance of aligning IT strategic planning with an organization’s decision-making needs and\nthe potential benefits that technology can bring to the decision-making process. Gorry and Scott Morton\nsuggest that for each business problem that involves information systems, data managers must first\ndetermine whether the problem is strategic, managerial, or operational in nature and then see whether the\ndecision-makers and the intelligence required should be ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 997,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "580259a3f4761925e489cf9601d7ca908349f0cdc74b81f6a6029959e3857f83",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 60,
+    "text": "internal or external. If both the decision-makers\n(stakeholders) and intelligence needed can be found internally, as in the case of order entry and budgeting,\nthen the problem qualifies as being structured. But if both the intelligence needed and the decision-makers\nare external to the organization, then the problem qualifies as being unstructured, for instance, in the case of\nsystems for cash management or personnel management.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 997,
+      "end": 1430,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "6331e6b053c42ed34ae04041ea9fbc4362590f512a35b08b5574df838b6c972a",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 60,
+    "text": "When applying the Gorry and Scott Morton framework to review existing systems or to propose new systems\nthat cater to user needs, an information systems designer or reviewer often investigates how available\ntechnology can support decision-making. This framework emphasizes both applications and decisions,\nnecessitating input from a diverse range of users to understand the benefits of existing systems or\nexpectations for new ones. It is important to gather user feedback through structured interviews and\nquestionnaires as they can be utilized to collect user data and gauge user reactions to each system under\nconsideration. Key inquiries may include the following:\n• In which directions should the development of new systems be oriented?\n• Are there specific demands for enhanced strategic planning applications or managerial and operational\nsystems?\n• Do users want a system to support them with decisions that are less structured compared to those\nhandled by existing systems?\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1430,
+      "end": 2413,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "c75977191d95d1fc393d0c8d7c20d0a8bf9c62a70aec38d9beeebad3866867e3",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 60,
+    "text": "Furthermore, an analysis of previous systems developed in analogous situations could offer valuable insights\ninto the potential benefits of a novel system.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2413,
+      "end": 2569,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "5753737545aba6557803791fb2267f4b8315124b220975dd0757cf8f9255922c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 60,
+    "text": "According to the Gorry and Scott Morton framework, management control primarily deals with overseeing and\nguiding people, while operational control focuses on the performance of designated activities or tasks, such as\nmanufacturing a particular part. Typically, operational control systems have a limited ability to provide\nmanagerial control reports or data that are helpful for strategic decision-making. For example, an online retail\nsystem primarily focused on operational control can generate sales reports that may provide valuable data for\nboth managerial and strategic decision-making. Similarly, an online retail system primarily focused on\noperational control can generate reports, such as a sales analysis report. While intended for operational\npurposes, such reports can also provide valuable data for both managerial and strategic decision-making. For\ninstance, Zara has been able to use online retail system data for its supply chain management system to beat\ncompetitors in the time ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2569,
+      "end": 3567,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "b030f4e15514acc0a2c552c35cc890ae690a3765197c99ac5436c206ca3efc97",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 60,
+    "text": "to market by offering new fashions to its customer base.6 These data can be leveraged\nto identify sales trends in specific regions, or product categories can inform decisions on marketing expansion,\ninventory management, and product diversification to drive future growth.\n5 George A. Gorry and Michael S. Scott Morton, “A Framework for Management Information Systems,” Working Paper No. 510-71,\nAlfred P. Sloan School of Management, Massachusetts Institute of Technology, February 1971.\n6 “Zara Supply Chain Analysis—The Secret Behind Zara’s Retail Success,” QuickBooks Blog, Intuit Quickbooks, June 25, 2018,\n50 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3567,
+      "end": 4276,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e84e8d9ab654d4d80822ba619a3bf35c20901eabd3f871593f330af37e700be8",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 61,
+    "text": "To conduct a thorough examination of the information systems within an organization, a simplified Robert\nAnthony framework can be employed. First, classify each system requirement based on the user and the type\nof decision it supports—whether it pertains to operational control, managerial control, or strategic planning.\nThen, for existing systems, consider factors such as data availability and the governance policies that regulate\naccess by decision-makers. This analysis should help identify whether the existing data align with the intended\npurpose of the information systems and if any modifications or enhancements are needed. This process may\ninvolve reviving outdated systems or proposing new systems.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 712,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "04c6e73a78e90aeb120eac9acf5f441f2503b40120ff666e5d82ad395b8e36cb",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 61,
+    "text": "LINK TO LEARNING\nImplementing responsible data management requires an understanding of the legal and social\nresponsibilities associated with processing data across its life cycle.7 To learn more, read about the\nResponsible Data Maturity Model (https://openstax.org/r/109RespDataMod) as it recommends how data\nshould be managed to ensure privacy, transparency, sharing, and acquisition of data.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.1",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 712,
+      "end": 1106,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "273d65280b725344788030bb823968620895ba4128dcbb65189ac389e45146d3",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 61,
+    "text": "2.2 Strategies to Improve the Value of Information Technology Within Organizations\nLearning Objectives\nBy the end of this section, you will be able to:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 152,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "7df360bf8612a536c27df34d76894d7d54375815c052dba432fab96e4b4f6434",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 61,
+    "text": "• Evaluate and compare different methods to define the value of information technology\n• Analyze specific strategies to improve the value of information technology\n• Identify real-world strategies organizations use to generate value using information technology\nFounded over half a century ago, Domino’s Pizza has grown to establish itself as the world’s largest pizza\ncompany. By 2023, it boasted a global network exceeding 20,000 stores across ninety markets, solidifying its\nposition as a top public restaurant brand. Beyond its impressive scale, Domino’s has emerged as a pioneer in\nleveraging technology to enhance customer experience, developing innovative delivery options like “drop-a-\npin” ordering, facilitated by Google Maps Platform mobility services.8 Domino’s adopted NVIDIA’s ReOpt tool, a\nreal-time logistics solution that analyzes vast datasets to calculate billions of potential routes, ensuring the\nfastest and most efficient pizza delivery for each customer.9 Domino’s has ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 152,
+      "end": 1145,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 61,
+    "text": "quantified the value of their IT\ninvestment by measuring improvements in delivery times, a key performance indicator directly linked to\ncustomer satisfaction.\nIn today’s ever-evolving business landscape, organizations have come to recognize the immense potential of\nIT to enhance the value of their products and services. Leveraging IT has become a key factor in staying\ncompetitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face\nan essential question: How can they effectively assess the value IT adds to their organization?\nDefining the Value of Information Technology Within Organizations\nOver the past decades, businesses and managers have focused on understanding how to employ IT systems\nto achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have\nbeen ushered in with the emergence of a new generation of IT, including elements such as:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1145,
+      "end": 2094,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "5c73687c1a3343e5e8dc704b79fb700cd4fda792639dfc5424e0118d871b631d",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 61,
+    "text": "• crowdsourcing platforms: online marketplaces where businesses or individuals can outsource tasks or\nproblems to a large, dispersed group of people\nhttps://quickbooks.intuit.com/r/supply-chain/zara-supply-chain-its-secret-to-retail-success/\n7 Rashik Parmar, Marc Peters, and Llewellyn D.W. Thomas, “What Is Responsible Computing?” Harvard Business Review, July 7, 2023,\nhttps://hbr.org/2023/07/what-is-responsible-computing\n8 “Domino’s: Taking the Guesswork Out of Pizza Delivery with Google Maps Platform,” Google Cloud, accessed January 19, 2025,\nhttps://cloud.google.com/customers/dominos-maps\n9 Jacob Roach, “How Nvidia Is Using A.I. to Help Domino’s Deliver Pizzas Faster,” Digital Trends, November 9, 2021,\nhttps://www.digitaltrends.com/computing/nvidia-using-ai-to-help-dominos-deliver-pizzas-faster/\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 51",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2094,
+      "end": 2990,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e6af45acfda124269b6698755b5ae356198d755357660b4973b7cf81461311a7",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 62,
+    "text": "• cloud computing: on-demand access to computing resources like storage and processing power\n• big data infrastructure: systems and technologies needed to manage and analyze massive datasets\n• AI: empowering machines to learn and make intelligent decisions\n• the Internet of Things: connecting everyday objects to the internet, enabling them to collect and share\ndata\nToday’s IT systems have evolved and are used in handling tasks that involve high degrees of uncertainty and\ntake place in dynamic and unstructured situations. Some examples of these situations include cars driving\nautonomously, chatbots supplanting customer service representatives, and email applications suggesting\nwriting improvements. This paradigm shift demands that we explore novel relationships between the strategic\nvalue of IT systems and the performance of organizations.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 851,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 62,
+    "text": "The most common means of understanding the value of information systems in a business is to measure the\nrelationship between IT investments and output measures of revenue and human productivity. This evaluation\ncan be conducted at both the industry level and organizational level. However, the business value of IT goes\nbeyond direct output or revenue measures because IT often supports organizational redesign efforts, such as\nthe traditional taxi services being disrupted by new ride services like Uber or Lyft. This type of business model\ninnovation leverages IT to create entirely new business models, not just enhance existing ones.\nManagers should consider which of the following three primary methods of value IT brings to their\norganization (Figure 2.5):\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 851,
+      "end": 1614,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 62,
+    "text": "• automation of operation\n• information generation for managing people and resources\n• transformation of existing processes or combined tasks called routines\nFigure 2.5 Information technology creates value for organizations through automation, information generation, and transformation.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1614,
+      "end": 1902,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "b43143e1fb1f9c1cddeec293adae557b3560dd0c02490097131813bfa3a9b48e",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 62,
+    "text": "(credit: modification of work “Tiling 6 simple” by T. Piesk/Wikimedia Commons, CC BY 4.0)\nThe automation of repetitive and mundane tasks via IT enables organizations to increase efficiency and reduce\nhuman error. For example, automating inventory management processes can streamline supply chain\noperations, leading to cost savings and improved inventory control. Automation can also enhance customer\nservice through the deployment of chatbots or virtual assistants that can handle routine inquiries and thereby\nfree up human agents to focus on more complex customer needs. For instance, Domino’s leverages IT to\nautomate tasks associated with delivery route planning, finding the most efficient delivery routes, reducing the\nneed for manual planning, and saving valuable time for employees.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1902,
+      "end": 2694,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "30a2e63dbd1793fe971d5880c1670963c381479b515e9a765cdcbdc2fa61ad4f",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 62,
+    "text": "Information generation through IT can also empower organizations to make strategic choices based on real-\ntime and accurate data, which can lead to better decision-making and increased competitiveness. Information\ntechnology systems capture vast amounts of data from various sources, including customer interactions,\n52 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2694,
+      "end": 3109,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "27506676695997b3742f8ee9b06d42a3929e692de5ca516b0fbefdceb85ced6c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 63,
+    "text": "market trends, and internal operations. Through advanced data analytics and business intelligence tools,\norganizations can derive valuable insights and make data-driven decisions. For instance, understanding\ncustomer preferences based on data analysis allows businesses to tailor their products and services to meet\nspecific demands, improving customer satisfaction and loyalty. Domino’s utilizes various IT systems to\ngenerate real-time data on traffic conditions, delivery times, and customer locations. By analyzing this data,\nDomino’s gains valuable insights that inform decision-making. For instance, they can identify areas for\nimprovement in delivery routes or optimize staffing levels based on anticipated demand.\nThrough IT, organizations can transform and reimagine their products, services, and customer experiences.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 828,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "121592e8fc8ad7c0498762caeaaf5c02af016fd91bbf901dfaedef08b82eedd4",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 63,
+    "text": "The rise of e-commerce transformed the retail industry, allowing companies to reach an international audience\nand provide personalized shopping experiences. Embracing cloud computing, AI, and data analytics can lead\nto innovation and new revenue streams, ultimately enhancing an organization’s overall value proposition. For\nexample, Under Armour attempted to transform itself from a sports apparel brand into a holistic fitness and\nwellness company through the acquisition of MyFitnessPal and the development of its own fitness app. It\nplanned for IT and its management to leverage data and technology to move beyond selling clothes and\nbecome a central hub for athletes and fitness enthusiasts.10\nLINK TO LEARNING\nRead more about Under Armour’s transformation strategy (https://openstax.org/r/109UnderArmour) and\nlearn how it fared (https://openstax.org/r/109UASuccess) and how the company adapted their strategy\nmoving forward.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 828,
+      "end": 1759,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "d8a4b9a9d9b5deb30efa4b712463ee0bd6b9956799ff5f67285b672dcfde945f",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 63,
+    "text": "An individual department or functional area within a large organization may have its own specific IT\napplication program known as a functional area information system (FAIS), an information system designed\nto support specific business functions within the organization. These FAISs are designed to enhance the\ninternal efficiency and effectiveness of each department by providing valuable support tailored to each\nrespective department’s functions. These information systems often generate a diverse range of reports. Some\ncommon examples of functional areas for FAIS include accounting, finance, production and operations\nmanagement, marketing, and human resources. The indicators of value listed in Table 2.2 signify the positive\noutcomes and advantages that result from investing in IT within each functional area and system category.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1759,
+      "end": 2597,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "00f8596499f471efc2f2274a7093a3d38f1e87fb996d4c1fe9bcf283d3da32e2",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 63,
+    "text": "10 Parmy Olson, “Under Armour Buys Health-Tracking App MyFitnessPal for $475 Million,” Forbes, February 4, 2015,\nhttps://www.forbes.com/sites/parmyolson/2015/02/04/myfitnesspal-acquisition-under-armour/\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 53",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2597,
+      "end": 2887,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "821b2ddad02a0d60a03c778c5eef55549ef52bb87bf663d810fac88d8b56a1a9",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 64,
+    "text": "Functional\nArea\nStrategic\nInformation\nSystems\nManagerial\nInformation\nSystems\nOperational\nInformation\nSystems\nOverall Value\nIndicators for\nInformation\nTechnology Investment\nHuman\nresources\nWorkforce\noptimization\nData-driven\nhuman\nresources\ndecision-making\nand analytics\nEfficient\nemployee data\nmanagement\nand self-\nservice options\nImproved talent\nacquisition and\nretention, reduced\nhuman resources\noperational costs\nFinance and\naccounting\nEffectiveness of real-\ntime financial insights\nand predictive\nanalysis\nStreamlined\nbudgeting and\nfinancial\nforecasting\nAutomated\naccounting\nprocesses and\npayroll\nmanagement\nBetter financial decision-\nmaking, cost savings,\nminimized errors\nSales and\nmarketing\nAcquisition and\nretention of customer\nwith data analysis for\nmarket trends and\ndemand forecasting\nSales\nperformance\ntracking and\nsales pipeline\nmanagement\nTarget\nmarketing\ncampaigns and\ncustomer\nengagement\nIncreased sales,\nenhanced customer\nsatisfaction, improved\nmarketing return ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 978,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 64,
+    "text": "on\ninvestment\nManufacturing\nand\noperations\nProduct life-cycle\noptimization and risk\nassessment\nEfficient\nmaterials and\nproduction\nplanning\nReal-time shop\nfloor\nmonitoring\nand quality\ncontrol\nImproved product\nquality, reduced\nproduction downtime,\nstreamlined processes\nSupply chain\nmanagement\nSupply chain visibility\nand demand\nforecasting\nInventory\noptimization and\nsupplier\nperformance\ntracking\nEfficient order\nprocessing and\nshipment\ntracking\nReduced inventory costs,\nimproved supply chain\nefficiency\nCustomer\nservice\nAcquisition and\nretention of\ncustomers; customer\nfeedback and\nsentiment analysis\nHelp desk\nperformance\nanalytics and\nticket tracking\nCustomer self-\nhelp\nknowledge\nbase and issue\nresolution\nEnhanced customer\nsatisfaction, reduced\nresponse time, and\nsupport costs\nResearch and\ndevelopment\nRate of collaborative\ninnovation and new\nidea generation\nProject resource\nallocation and\ninnovation\ntracking\nIdea evaluation\nand research\nand\ndevelopment\nprocess\noptimization\nAccelerated ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 978,
+      "end": 1972,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "c762720e9ae557feb11d2be993c0f445120defeffbe8d7adbbb93972587bd1d0",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 64,
+    "text": "innovation,\nstreamlined research\nand development\nprocesses, and\nsuccessful product\ndevelopment\nTable 2.2 FAIS Values These indicators serve as metrics for evaluating information technology investments and demonstrate how\ntechnology can create value for organizations.\n54 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1972,
+      "end": 2338,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "07a863c983f9e4511e1150da4a44f19b77c6fed7b7d540e0df8c35c7a2691f7e",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 65,
+    "text": "Functional\nArea\nStrategic\nInformation\nSystems\nManagerial\nInformation\nSystems\nOperational\nInformation\nSystems\nOverall Value\nIndicators for\nInformation\nTechnology Investment\nInformation\ntechnology\nand\ntechnology\nmanagement\nAlignment of\ninformation\ntechnology\ninvestments with\nbusiness goals and\nstrategy\nInformation\ntechnology\nproject progress\nmonitoring and\nresource\noptimization\nEfficient\ninformation\ntechnology\nservice delivery\nand asset\nmanagement\nOptimized information\ntechnology spending,\nimproved project\noutcomes, and reduced\noperational disruptions\nBusiness\nintelligence\nand analytics\nUtilization of data for\nadvanced analytics\nData\nvisualization for\ninsights and\ndecision-making\nInteractive\ndashboards for\nreal-time\nperformance\ntracking\nData-driven decision-\nmaking, actionable\ninsights, and improved\nbusiness performance\nTable 2.2 FAIS Values These indicators serve as metrics for evaluating information technology investments and demonstrate how\ntechnology can create value for ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 988,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 65,
+    "text": "organizations.\nStrategies to Improve the Value of Information Technology for\nOrganizations\nUnderstanding the role of business processes within an organization is vital to measuring the specific value\nthat IT can deliver and the mechanisms through which it achieves this. Information systems professionals\nknow that technology alone is not the sole determinant of digital success, and that strategy is an important\ncatalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of\nthe IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly\nsupports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure\n2.6):\n• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading\nto new revenue opportunities.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 988,
+      "end": 1881,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "f053b5f872be3e01c702d2a1665ef6cd777f5b3e62084d965e39dff4fd11d74d",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 65,
+    "text": "• Internal and external customers, as well as customer service, hold paramount importance for these\norganizations.\n• Business and IT professionals are cross-trained and move across different departments and job roles.\n• Clear overarching goals are established and understood by both IT and business employees.\n• Information technology employees are informed about the company’s revenue generation and cost-\nsaving mechanisms.\n• The organization fosters a vibrant and inclusive company culture.\nFigure 2.6 Successful strategic alignment occurs when information technology directly supports the business goals of the\norganization, guided by these six characteristics. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; credit\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 55",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1881,
+      "end": 2717,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "01ec090a761e56c89f0eed5d490ca01eef33bab72c35a20c8232f30d61640847",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 66,
+    "text": "Innovation: modification of work “Idea (89054) - The Noun Project” by “Nice and Serious”/Wikimedia Commons, CC0 1.0; credit\nCustomers: modification of work “Noun Project people icon 3376085” by Anhar Ismail, ID/Wikimedia Commons, CC BY 3.0; credit\nCollaboration: modification of work “Handshake, by David“ by David/Wikimedia Commons, CC BY 3.0; credit Goals: modification of\nwork “Checklist Noun project 5166” by Aaron Dodson/Wikimedia Commons, CC BY 3.0; credit Financials: modification of work\n“Analysis (1510724) - The Noun Project” by Anwer Hossain/Wikimedia Commons, CC0 1.0; credit Culture: modification of work “Ethics\nof Open Sharing icon - Organizational culture” by Julius Uusikylä, KRUT Collective/Wikimedia Commons, CC0 1.0)\nUnfortunately, many organizations struggle to achieve such close alignment. The primary reasons for the gap\nbetween business and IT departments can usually be attributed to the following:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 925,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 66,
+    "text": "• Different objectives: Business managers focus on achieving business goals and generating revenue, while\nIT managers concentrate on technology implementation and maintenance.\n• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise\nand perspectives, leading to misunderstandings and misalignment.\n• Lack of communication: Inadequate communication between business and IT executives hinders the\nexchange of valuable insights and requirements.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 925,
+      "end": 1417,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 66,
+    "text": "Business and IT alignment as an integral unit, not separate entities, is vital. It is important that organizations\nview IT as a strategic partner, not just a support function. By fostering collaboration and communication\nbetween business and IT stakeholders, organizations can ensure that technology solutions directly address\nbusiness needs and objectives. To improve business-IT alignment, organizations can employ several\nmeasures:11\n• Prioritize organizational communication: Encouraging effective dialogue between different departments,\nfostering interdepartmental partnerships, and promoting mutual understanding between business and IT\nteams ensures sufficient knowledge sharing, well-informed decision-making, and seamless collaboration.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1417,
+      "end": 2163,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 66,
+    "text": "• Focus on strengthening governance: Organizations should involve IT in strategic planning to ensure\ntechnology initiatives align with overall business goals. Engaging IT in executive committees enhances the\ndecision-making process. Implementing a structured reporting hierarchy establishes clear communication\nchannels, and defining authorization for decision-making roles ensures efficient execution. Coordinated\ngovernance can help set criteria whereby IT projects are prioritized based on their alignment with\nbusiness objectives.\n• Align scope and IT architecture: Evaluating IT solutions for their effectiveness and customizing them to\nsuit specific scope and business needs can lead to better outcomes.\n• Emphasize the development of human skills: Cultivating readiness to embrace technological changes,\nadapting management styles to support successful IT implementation, and learning from previous\nexperiences contribute to continuous improvement.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2163,
+      "end": 3119,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "5483d2a8d4e2f5722e7e3897a3900b6c925355e8bd8d6738bde4290943a078c4",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 66,
+    "text": "Case Study: High-Tech Stumble of UK Identity Cards\nIn the early 2000s, the UK government aimed to enhance national security, combat identity fraud, and improve\npublic services through the introduction of a comprehensive identity card. These cards would store biometric\ndata and personal details, providing a centralized system for identification. However, the plan faced fierce\nopposition from civil liberties groups, privacy advocates, and political parties. Critics argued that the identity\ncards would compromise individual privacy rights and lead to excessive surveillance of citizens. Concerns were\nraised about data misuse, potential breaches, and the vulnerability of a centralized database to hacking.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3119,
+      "end": 3829,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "34209b5a79826b2a9efa9446c75445f872e4e566d03a38cf62469a2daf9a1490",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 66,
+    "text": "Despite efforts to emphasize the benefits of the identity cards, the opposition prevailed, and the proposal was\neventually abandoned. The incoming coalition government decided that the proposal was too costly and\nlacked significant advantages for national security, underscoring the misalignment between business and IT\nstrategies. Although the national identity card plan was discontinued, specific ID cards, like the biometric\nresidence permit for non–European Union nationals, were introduced as documentation of a person’s\nimmigration status.\n11 Sahar Alsharif, Nabila Benslimane, Mohamed Khalifa, and Colin Price, “Healthcare IT Strategic Alignment: Challenges and\nRecommendations,” Studies in Health Technology and Informatics 251 (2018): 207–210, https://doi.org/10.3233/\n978-1-61499-880-8-207\n56 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3829,
+      "end": 4728,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 67,
+    "text": "The details of this case reveal a significant misalignment between IT and business perspectives concerning the\ntechnological aspect of identity cards. Overall, the disparity between the UK’s simple, traditional ID cards and\nthe envisioned technological sophistication of the new cards highlighted the disconnect between IT and\nbusiness perspectives: the clash between a simple, efficient approach and the pursuit of advanced technology.\nThis case emphasizes the importance of fostering collaboration and understanding between IT and\nstakeholders to develop practical and effective solutions for many different business scenarios.\nStrategies to Generate Value Using Information Technology\nIn today’s business landscape, there are five key strategies usually pursued by organizations when seeking to\ngenerate value using IT: cost leadership, differentiation, focus/innovation, operational effectiveness, and\ncustomer orientation.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 928,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "23031c1bceec4e799a38b9f4c020dec0b0ed2d31995e173edd627c4e0864c737",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 67,
+    "text": "Cost leadership strategy is a business approach wherein a company aims to become the lowest-cost producer\nin its industry or market. The primary goal of this strategy is to offer products or services at the lowest possible\nprice while maintaining acceptable quality levels. Walmart’s focus on cost leadership has allowed it to maintain\na dominant position in the retail industry. It consistently outperforms competitors by offering lower prices and\nattracting a broad customer base, including price-sensitive shoppers. Despite its low-margin business,\nWalmart’s sheer scale and operational efficiency allow it to generate massive revenue while maintaining\nprofitability.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 928,
+      "end": 1599,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "424324a147a449b12519d1cb062faa8cda86a0120ed5e26018ed1b47b7f467e1",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 67,
+    "text": "Differentiation strategy is a business approach wherein a company seeks to distinguish its products or services\nfrom those of its competitors in the industry. The primary goal of this strategy is to create a unique and\ndesirable offering that customers perceive as superior and are willing to pay a premium for. Apple exemplifies\nthe differentiation strategy in the marketplace. By designing sleek and user-friendly products, Apple sets itself\napart from competitors. The company’s focus on design, seamless integration of hardware and software, and\nemphasis on creating a unique user experience differentiates its products in the market.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1599,
+      "end": 2238,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "31c6f10f23a0445ceb0f9bf61884bae3fb9c6ef8e81f25bb411ffe33c1838d4f",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 67,
+    "text": "Focus/innovation strategy is a business approach wherein a company focuses on introducing new products,\nservices, or processes—or enhancing existing ones—to stay ahead of the competition and meet evolving\ncustomer needs. The primary goal of this strategy is to drive growth and create a competitive advantage by\nbeing at the forefront of innovation in the industry. Google is a prime example. Continuously introducing new\nproducts and features, such as Google Search, Gmail, and Google Maps, the company revolutionized the way\npeople access and interact with information online.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2238,
+      "end": 2817,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "bb2431ac2b66b1c758bfc18d96088d1a1f3d9b515fd2205d1e69a99a977dd5fc",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 67,
+    "text": "Operational effectiveness strategy is a business approach wherein a company focuses on improving the\nefficiency and effectiveness of its internal business processes to outperform competitors. The primary goal of\nthis strategy is to achieve higher productivity, quality, and customer satisfaction while reducing operational\ncosts and time to market. Amazon’s success is attributed to its operational effectiveness strategy. By\noptimizing its e-commerce platform, warehouse management, and delivery network, Amazon ensures efficient\norder processing and swift delivery of products to customers.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2817,
+      "end": 3410,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "3b2363dd109510b21ad94e4701b9b69387ff7466a6a151926d232e5943936098",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 67,
+    "text": "Customer-oriented strategy is a business approach wherein a company places a strong emphasis on\nunderstanding and meeting the needs, preferences, and expectations of its customers. Also known as the\ncustomer-centric strategy, the primary goal of this strategy is to build long-lasting and loyal customer\nrelationships by providing personalized and exceptional experiences. Netflix thrives on a customer-oriented\nstrategy. Utilizing sophisticated algorithms and user data, Netflix offers personalized content\nrecommendations to each subscriber, tailoring their streaming experience based on their individual\npreferences.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3410,
+      "end": 4030,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 67,
+    "text": "Each of these strategies has its pros and cons. For example, if a company focuses only on pursuing a cost\nleadership strategy, it might not have enough resources for research and development, and so it might lag in\nterms of innovation. Let’s say a company traditionally sells a one-size-fits-all software product, and they decide\nto shift toward a customer-oriented strategy by offering customizable features and personalized support\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 57",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 4030,
+      "end": 4551,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "6b02d6af6b3f1b530418d3a2eb658ee02f9675cb09a342e80bc88d94401260eb",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 68,
+    "text": "options. A customer-oriented strategy impacts the scope, cost, schedule, risk, and quality dimensions of a\nproject. While a customer-oriented approach can lead to higher initial costs, it can also bring significant\nbenefits.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.2",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 225,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a55119b978763f36a6444e78b34e14507d9c46a8fa24b3966c17747ff7ab5d97",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 68,
+    "text": "2.3 Digital Business Models\nLearning Objectives\nBy the end of this section, you will be able to:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 97,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e6b22fa9ced500d35dcf48fd4dba507b1900ba8f4a279c62a3ab1866c3fb0b2f",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 68,
+    "text": "• Compare digital business models and their design and integration components\n• Critique digital business models\nThe use of IT offers businesses numerous opportunities to generate value. Since most businesses adopt IT,\nundergo digital transformation, or fundamentally change how the business operates and delivers value using\ndigital technologies, the digital field is crowded with apps, services, platforms, and digital devices. Some\nbusinesses undergoing digital transformations thrive initially but then go bankrupt, and others pivot and\nsurvive. Many established companies like retailers, banks, travel agencies, and print media have struggled to\nsurvive in the face of digital disruption. Organizations confront a common challenge—the necessity to develop\ndigital business models that deliver value to customers or users. Thus, business models act as the vital\nconnector between technology and the strategic goals of an organization (Figure 2.7).\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 97,
+      "end": 1049,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 68,
+    "text": "Figure 2.7 The business model is the key to bridging the gap between technological potential and business success, paving the way\nfor companies to thrive in the competitive landscape. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license;\ncredit gears: modification of work “Noun project 1063” by Jeremy Minnick/Wikimedia Commons, CC0 1.0; credit people with laptops:\nmodification of work “Noun project - Meeting with laptops” by Slava Strizh/Wikimedia Commons, CC BY 3.0; credit target:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1049,
+      "end": 1558,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "93a3984ba2d3e85cda456bb55aef6d3e41afc6ac8b9365927d26cc8e09f89b38",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 68,
+    "text": "modification of work “Noun 108494 cc” by Dima Lagunov/Wikimedia Commons, CC BY 3.0)\nDefining Digital Business Models\nA successful digital business model provides a logical framework that unlocks the value of a technology,\nallowing businesses to benefit economically. The business model serves as a blueprint for how a company\ngenerates and captures value from new products, services, or innovations. It is not solely IT that determines\nsuccess, but the business model behind it that plays a key role in enabling high-tech companies to achieve\ntheir strategic goals and objectives. There are several common digital business models, each of which has\nspecific information technology strategies.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1558,
+      "end": 2251,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "23284296b1f6f8f2148e7e3031879d9cf6f4f0c31846a4af224b03f820a50eab",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 68,
+    "text": "The e-commerce model involves buying and selling goods or services online through websites or apps, and\noffers convenient shopping experience for various customer segments. Notable examples of companies using\nthis model are Amazon, Alibaba, and Shopify. In terms of IT strategy, a company using this model should\ndevelop robust and secure e-commerce platforms to align with business objectives, such as providing a\nseamless customer journey, implementing secure payment gateways, and optimizing logistics for efficient\norder fulfillment. The organization should also align IT with marketing strategies to enable personalized\nproduct recommendations and targeted promotions, ultimately driving customer engagement and loyalty.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2251,
+      "end": 2977,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "822190af9e803e0694b74bba57378cdff2f7f9f77dd12c660f7ad416dc97a442",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 68,
+    "text": "The subscription model provides continuous value through recurring subscriptions that provide customers\nwith ongoing premium content or services. The IT strategy for this model is to develop products and/or\nservices, such as entertainment and transportation, that customers need routinely and are willing to make\nrecurring payments for to have continued access to the products and/or services. Amazon Prime and YouTube\nare subscription models.\nThe freemium model provides a free basic service, with the option to upgrade to a premium version for\nenhanced features or benefits, such as with the services offered by LinkedIn, DropBox, and MailChimp.\n58 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 1,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2977,
+      "end": 3723,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "bf9a54938c247718430c6beaf0cdfadb03e423cb0bab25bd5c3fd8720597e939",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 69,
+    "text": "Integrating IT should involve designing services that showcase the value of the basic offering to entice users to\nupgrade to premium features, such as a seamless onboarding process and data-driven user engagement\ntactics. Companies should also optimize the platform to manage both free and paying users effectively.\nEffective data analytics and user segmentation are necessary to identify potential premium users.\nCollaboration with marketing and sales teams can be used to design targeted conversion strategies, monitor\nuser behavior to optimize premium feature adoption, and continuously improve the platform to increase\nconversion rates and drive revenue growth.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 666,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "0693687b3a276c576c1e26a1b43c312159929fca528afd182d2a27d49c61d86f",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 69,
+    "text": "In an affiliate model, one company earns commissions by promoting and selling other companies’ products\nor services through websites or social media channels. They help drive traffic and sales, receiving a percentage\nof the revenue from the companies they promote. Amazon Associates, ClickBank, and Commission Junction\nuse this model. These organizations should work with IT to build effective tracking and reporting systems to\naccurately attribute sales to affiliates by implementing affiliate tracking software, optimizing landing pages for\nconversion, and ensuring a seamless user journey from the affiliate’s site to the merchant’s platform. Providing\nreal-time data and performance insights to affiliates enables them to optimize their promotional strategies.\nAmazon, eBay, and Airbnb demonstrate the marketplace model, which brings buyers and sellers together on\na single platform, with the enterprise acting as an intermediary that facilitates transactions between parties.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 666,
+      "end": 1647,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "81b4f9f04edabe1aa7ef23e160650382a3ee74ca607ca7655bb8bac1b5b808be",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 69,
+    "text": "This approach fosters a diverse range of goods and services offered by different sellers, making it a convenient\nhub for buyers. Effective IT strategy for this digital business model includes providing efficient search and\nfiltering options for users, securing payment gateways, personalizing recommendations, and offering robust\ncustomer support systems that ensure smooth transactions and build trust between buyers and sellers.\nOrganizations using this model should also enable a user-friendly interface, smooth transaction processes,\nand personalized product recommendations based on user behavior and preferences.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1647,
+      "end": 2266,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a205c17755ad789f92cc8291b24fb07896c3dff14fe678580ca69a198eb2b3cb",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 69,
+    "text": "The advertising model generates revenue through targeted ads purchased by other businesses. Ads are\npresented to customers when they view content, and since the content is supported by advertising revenue\npaid by other businesses, customers view the content free of charge. This is the model for Facebook and\nPeopleFun. IT strategy for this approach includes developing content that includes space for advertisements\nthat can be presented to users as they browse content, and selling this space to other businesses to run their\nads for an allotted time, based on the fees paid for the ads. Ads should be programmed and presented to\nattract users’ attention while also providing minimal disruption to users’ interaction with content.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2266,
+      "end": 2999,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "342355593a0c41ffb21d5b806266ddc70aeb951ac9b5897dd4f872d58380d515",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 69,
+    "text": "Kickstarter, Indiegogo, and GoFundMe operate through a crowdfunding model, which raises funds for a\nproduct, project, or idea through an online platform, leveraging the collective support of the public. In this\nscenario, contributors pledge funds to support initiatives and receive rewards or early access to products in\nreturn. Entities utilizing this model should ensure their IT strategy is designed to build secure payment\ngateways, provide real-time updates on fundraising progress, offer personalized backer rewards, and\nimplement social sharing features to enhance campaign visibility and engagement. They should also ensure a\nuser-friendly platform for both project creators and contributors, enabling easy navigation and smooth\ncommunication channels.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2999,
+      "end": 3760,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "bb7cb8c3e086df6b9d3d910b17ad6a1f79497abf38bc228b9b8cb64ec788f2eb",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 69,
+    "text": "A sharing economy model involves individuals sharing resources or services through a peer-to-peer network,\nenabling efficient utilization of underused assets. This fosters collaboration and convenience among users\nseeking specific services or goods. Uber, Airbnb, and TaskRabbit are examples of companies using this model.\nIn terms of IT strategy, those with a sharing economy model should build robust peer-to-peer communication\nsystems that implement secure payment processing, real-time tracking features, and rating and review\nsystems to build trust among users. It is also important to prioritize user safety and enable efficient\ncommunication between providers and consumers.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3760,
+      "end": 4442,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "5c3f43baed00373b27c3fcbd59adb2337322d3413bb7d688c4d56fa9561f127b",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 69,
+    "text": "Finally, the digital product model offers downloadable digital assets that may include actual products, such as\ne-books, or may be used to provide information such as education, assembly instructions, or details about a\nproduct’s components. The offerings seen from TurboTax and Apple’s iTunes Store are digital products that are\n2.3 • Digital Business Models 59",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 4442,
+      "end": 4804,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "a04945c3214762723f8a48159a3cccd150f66e57f42699ae028fbbea4594541c",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 70,
+    "text": "downloaded. IT strategy focuses on developing products and services that can be delivered and used in an\nelectronic format. Companies should provide customers with a seamless process that enables them to\ndownload products, such as software or music, or access services, such as an online class, on any device,\nincluding computers, tablets, and cell phones. They should also enable real-time access, provide prompt user\nsupport, and implement security protocols that ensure user safety when users download material or interact\nonline.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 534,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "3a4883bad9d408ff7a57b875dddf96cd1fa77f609fb13da321ec935353e17210",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 70,
+    "text": "Today’s business environment has undergone significant transformations. Unlike the traditional stable and\nlow-competition business world, the digital business realm is marked by complexity, dynamism, and high\nlevels of uncertainty and competition. Consequently, in this intricate digital business setting, the business\nmodel must be explicit and highly flexible to adapt effectively. Embracing change is important for effectively\nnavigating today’s business landscape.\nLINK TO LEARNING\nLearn about AI-generated music (https://openstax.org/r/109AIMusic) and how AI is disrupting the music\nindustry as well as freemium and subscription business models.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 534,
+      "end": 1185,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 70,
+    "text": "Case Study: Transforming Health Care Through the Sharing Economy Model\nThe U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1185,
+      "end": 1906,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 70,
+    "text": "1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the\nutilization of their most critical technology investments. By spreading out costs and consumption, Cohealo\nenables new efficiencies, faster capital redeployment cycles, and improved return on investment.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1906,
+      "end": 2580,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 70,
+    "text": "3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical\nequipment across the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the\nemergence of disruptive business models.\nSeveral factors influence the success of the sharing economy model in the health-care sector, as observed in\nCohealo’s case12 :\n• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered\nsuitable for sharing.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2580,
+      "end": 3525,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 70,
+    "text": "• Clustering of resources: The concentration of interconnected health-care companies and institutions in\n12 Ayushi Tandon, “Cohealo! Sharing Economy Determinants in Healthcare Industry,” SSRN, December 2017, http://dx.doi.org/\n10.2139/ssrn.3677462\n60 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3525,
+      "end": 3871,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 71,
+    "text": "specific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 358,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "3bab907aa53d189344eea4afaee9bf270eb8254b439b29dff1a239182811b3c6",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 71,
+    "text": "• Institutional support: Factors like supply chain and logistics support, as well as governance considerations,\nenhance the feasibility of sharing resources within the health-care industry.13\nDigital Business Model Critiques\nThe emergence of digital business models has created the space for a workforce through online\nplatform–based work. While this has brought about innovative solutions for economic interactions between\npeople seeking jobs and employers, it has opened new challenges. With the sharing economy business model,\nalgorithmic reputation features play a central role in fostering trust and accountability. These reputation\nsystems, based on customer feedback and ratings, have been hailed as a valuable trust mechanism resulting\nin efficient matches for a distributed workforce. Some criticism and challenges faced by digital business\nmodels include14 :\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 358,
+      "end": 1227,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "2dac6c5d6f65eecb2e4b2cbc87135446d9d8f7e40c5d3271ac289447ac9ea12d",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 71,
+    "text": "• Unequal distribution of opportunities: Research has shed light on a concerning phenomenon observed in\ngig work platforms—the “rich get richer” effect. Workers with higher reputation scores and greater\nexperience tend to receive more work, as clients prefer to engage with those perceived as more reliable.\nConsequently, this phenomenon results in an unequal distribution of opportunities, disadvantaging\nworkers with lower scores and less experience.\n• System of control: Algorithmic systems, though designed to foster trust, inadvertently create a “system of\ncontrol.” By standardizing metrics and homogenizing worker identities, platforms such as Uber or\nDoorDash wield significant power. Platforms can manipulate scoring and matching algorithms to influence\njob allocation decisions without involving the people using their platforms.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1227,
+      "end": 2067,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "0aa254b1c743b0818053e7d6afa5b44bd85e6c7aae8cbf0add08493f232c9de9",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 71,
+    "text": "• Opacity and lack of transparency: One of the most troubling aspects of algorithmic digital systems is their\nopacity. Proprietary algorithms protected by trade secrecy laws prevent external scrutiny, leaving users in\nthe dark about the factors influencing their reputation scores or how changes to algorithms may impact\ntheir job opportunities. In digital platforms such as Upwork, there is electronic monitoring of user actions\nthat affects their perceived autonomy.15\nETHICS IN IS\nIBM’s Artificial Intelligence Ethics Initiatives\nIBM provides a notable example of IS ethics in AI decision-making. IBM has been actively working on ethical\nAI initiatives, emphasizing fairness, transparency, and accountability in algorithmic decision-making across\nvarious domains such as hiring, lending, and law enforcement. IBM’s approach involves developing AI\nsystems that mitigate biases, ensuring inclusivity, and safeguarding privacy through responsible data\npractices. Their efforts include implementing ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2067,
+      "end": 3065,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "b99a899c8d2fd86887dfa77a8850c95f526b8556871d4b6750ceef5e646ba532",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 71,
+    "text": "ethical AI frameworks, promoting diverse datasets, and\nadvocating for AI transparency and explainability to address societal concerns regarding algorithmic\nfairness and discrimination.16\n13 Vijaya Sunder M and Sowmya Shashidhara, “Next Step in Healthcare: Sharing Economy to Overcome Resource Crisis,” Forbes\nIndia, October 8, 2021, https://www.forbesindia.com/article/isbinsight/next-step-in-healthcare-sharing-economy-to-overcome-\nresource-crisis/70893/1\n14 Zhi Ming Tan, Nikita Aggarwal, Josh Cowls, Jessica Morley, Mariarosaria Taddeo, and Luciano Floridi, “The Ethical Debate About\nthe Gig Economy: A Review and Critical Analysis,” Technology in Society 65 (May 2021): 101594, https://doi.org/10.1016/\nj.techsoc.2021.101594\n15 Kristine M. Kuhn and Amir Maleki, “Micro-Entrepreneurs, Dependent Contractors, and Instaserfs: Understanding Online Labor\nPlatform Workforces,” Academy of Management Perspectives 31, no. 3 (2017): 183–200, https://doi.org/10.5465/amp.2015.0111\n16 “What Is AI Ethics,” ",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 3065,
+      "end": 4065,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "9f877c459dc337dcfd5279a5866efe0799edd3aecf798ba3ea168d84d62c15d3",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 71,
+    "text": "IBM, September 17, 2024, https://www.ibm.com/topics/ai-ethics\n2.3 • Digital Business Models 61",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.3",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 4065,
+      "end": 4159,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 72,
+    "text": "2.4 Business Process Management\nLearning Objectives\nBy the end of this section, you will be able to:\n• Describe a business process\n• Differentiate business process reengineering, improvement, and management\n• Discuss ways in which information systems enable business processes\nTo promote success, businesses and other organizations need robust business processes that are well\nmanaged. Business processes help organizations be more efficient and effective—providing higher-quality\nproducts and services, and improving customer service and satisfaction. Business processes can be tailored to\nmeet an organization’s specific needs, and information systems can be important tools to enhance business\nprocesses.\nBusiness Process\nA business process represents a continuous series of interconnected activities aimed at producing a valuable\nproduct or service for an organization, its business partners, and its customers. This process relies on three\nessential components:\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 0,
+      "end": 967,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "bb0470f7b1da6d8bc76b553afba1553aef251b3e287034465374c53ead89abe3",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 72,
+    "text": "• Inputs: These encompass the materials, services, and information that flow through the process and\nundergo transformations as a consequence of the activities within the process.\n• Resources: People and other resources form the backbone of process activities, performing various tasks\nto facilitate the progression of the process.\n• Outputs: Outputs are the ultimate result of the process, ending in the creation of a specific product or\nservice that is ready to be delivered to the intended recipient.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 967,
+      "end": 1471,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "ea92b2e767bff6bc6ca3aaeb64dabca5c1a56296f78edf1b771802bbd01d9566",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 72,
+    "text": "Consider the design of an information system for booking a COVID-19/flu/RSV test online. As shown in Figure\n2.8, this business process includes procedures such as user registration, test availability search, appointment\nbooking, secure payment, test result reporting, and verification. The information system may prioritize data\nprivacy and offer reliable customer support to enhance user experience. Regular updates and maintenance\nensure efficiency and compliance with evolving guidelines. In general, efficient and well-designed business\nprocesses are crucial for gaining a competitive advantage and ensuring organizational success. Such\nprocesses must enable the information system to function innovatively and with enhanced effectiveness and\nefficiency compared to its competitors. Conversely, poorly designed processes could become liabilities,\nhindering the information system’s responsiveness and productivity.\n",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 1471,
+      "end": 2390,
+      "method": "paragraph-1000"
+    }
+  },
+  {
+    "id": "d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3",
+    "source_id": "foundations-of-information-systems",
+    "source": "starter/data/Foundations_of_Information_Systems.pdf",
+    "page": 72,
+    "text": "62 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "metadata": {
+      "language": "en",
+      "year": 2025,
+      "section": "2.4",
+      "part": 0,
+      "attribution": "Access for free at openstax.org.",
+      "start": 2390,
+      "end": 2488,
+      "method": "paragraph-1000"
+    }
+  }
+]

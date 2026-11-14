@@ -1,0 +1,632 @@
+{
+  "query": "Master data management tạo và duy trì điều gì cho dữ liệu quan trọng của tổ chức?",
+  "filter": null,
+  "results": [
+    {
+      "id": "1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 53,
+      "text": "Appropriate data management is crucial to an organization’s reputation and success. Data management\nparameters establish practices that organizations can use to ensure that their data are managed, protected¸\nand of high quality so they can be utilized to make informed decisions. The essential areas for managing data\neffectively are as follows (Figure 2.2)3 :\n• Data governance establishes policies, processes, standards, roles, and responsibilities to manage data\nas a valuable asset.\n• Data quality ensures that data are accurate, complete, and consistent. This is achieved through\nactivities such as validation, cleansing, matching, and monitoring via metrics and reporting.\n• Data integration combines data from different systems and applications. It includes tasks such as\nmapping data elements, transforming data, and ensuring seamless integration using tools and best\npractices.\n",
+      "metadata": {
+        "end": 887,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.5604988506129139,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "For any organization, information is an invaluable resource, hence data and data management have become\ncritical. Effective data management aligns with data analytics capabilities, facilitating the automated discovery\nof trends, patterns, and anomalies through techniques like data mining and analysis. In today’s data-driven\nworld, there’s increasing attention to the relevance of big data, highly complex and large datasets that require\nspecialized processing techniques to extract valuable insights and make informed decisions. Managing any\ndata involves activities such as cleaning, extracting, integrating, categorizing, labeling, and organizing. All\nthese activities should be executed in a manner that ensures that the quality of the data is preserved, and the\ndata remain secure but also easily retrievable. Organizations need people to manage data and control data\naccessibility, and they need to define roles and responsibilities for all the people working with and extracting\ninformation ",
+      "metadata": {
+        "end": 2515,
+        "part": 0,
+        "year": 2025,
+        "start": 1516,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.5463485014039671,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 57,
+      "text": "• Resolving discrepancies in redundant data sources: When multiple sources provide similar data, it is\nimportant to reconcile any inconsistencies or differences to establish a reliable and accurate\nrepresentation of the information.\n• Managing variations in opinions, forecasting techniques, or simulation models: Recognizing and\naddressing divergent viewpoints, methodologies, or models used for forecasting or simulation ensures\ntransparency and reliability in the data analysis process.\nFUTURE TECHNOLOGY\nMaster Data Management\nMaster data management (MDM) ensures the creation and maintenance of a single, accurate source of\ntruth for crucial data points within an organization. This centralized data repository eliminates\ninconsistencies and fosters seamless information exchange across different systems and applications. Let’s\nexplore the importance of MDM in two specific contexts: health care and e-commerce retail.\n",
+      "metadata": {
+        "end": 2765,
+        "part": 0,
+        "year": 2025,
+        "start": 1840,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.5430125189222761,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "7ffd5de2be32e43e9fb63d3947950460cdca48553612b9476be9372146499afb",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "text": "• Serving as a system of record or reference for enterprise-wide use, master data represent core entities\nsuch as customers, products, or employees, and reference data include codes, classifications, or\nstandards used across the organization. Maintaining data accuracy, consistency, and synchronization\nacross multiple systems for these data types is necessary to ensure reliable and consistent information\nacross the organization.\n• Used for data warehousing, business intelligence, and analysis-oriented applications, analytic data\ninclude aggregated and summarized data from various sources and enable in-depth analysis, reporting,\nand decision support. Analytic data require data integration, transformation, and optimization to provide a\nconsolidated view and support complex analytics.\n",
+      "metadata": {
+        "end": 3158,
+        "part": 0,
+        "year": 2025,
+        "start": 2366,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.5116618226652021,
+      "rank": 4,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "a3a33c126c094427cee9131c76c7cb083e3383f50b09a5a25f7959dd50b1e11d",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 57,
+      "text": "• In the health-care sector, creating a unified, digital infrastructure for health-care services facilitates the\nseamless exchange of health-related information among patients, health-care providers, and\ngovernment agencies. Efficient MDM ensures that patient data, such as medical history, medications,\nand allergies, are organized, stored securely, and readily accessible by authorized personnel. This both\nimproves the efficiency of health-care delivery and reduces the risk of errors and delays in treatment.\n• In the e-commerce sector, consider a large online retailer managing millions of product listings.\nWithout MDM, product information like descriptions, specifications, and prices might be scattered\nacross different data sources, potentially leading to inconsistencies. Master data management\nestablishes a centralized repository for product data to ensure that customers see accurate and\nconsistent information across all interfaces: web, mobile, on-site, and in marketing materials.\n",
+      "metadata": {
+        "end": 3762,
+        "part": 0,
+        "year": 2025,
+        "start": 2765,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.48855559303940777,
+      "rank": 5,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "433626d36d910cd167a1ba5bb0fd6acc7a2f8b91b6cfb4140dc5ba5cd4386c1e",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 57,
+      "text": "into customer behavior, identify trends, and improve decision-making. The management of unstructured data\ninvolves organizing, storing, and retrieving such content effectively. Techniques like content indexing, search,\nand metadata management are employed to enable efficient discovery and retrieval of relevant information.\nWhen managing unstructured data, it is also important to understand the decision-making priorities of an\norganization (which decisions require data and, consequently, necessitate data-driven information and\nknowledge processing). Also, it is often possible to convert unstructured data into structured data.\nGood data management strategies require the following:\n• Updating outdated data: A data management process should involve incorporating the latest information\nand revisions into the dataset, thereby ensuring it remains relevant and accurate.\n",
+      "metadata": {
+        "end": 875,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.48183296318701196,
+      "rank": 6,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "f465b7f8409a07fde37be3d48e524be29741df7a685a8892fd30d8c2890dc9cd",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 55,
+      "text": "Businesses that strive to ensure they follow these data management parameters can decide to follow any\nframework. A framework is a structured and organized approach that provides a set of guidelines, principles,\nor tools to address complex problems or tasks in a systematic manner. It serves as a foundation to build and\nmanage processes, systems, or projects, ensuring consistency, efficiency, and effectiveness. Following are\nsome common data management frameworks:\n• DAMA-DMBOK: The Data Management Body of Knowledge, developed by the Data Management\nAssociation (DAMA International), provides comprehensive guidelines across ten key knowledge areas,\nincluding data governance, data architecture, and data quality.\n• MIKE2.0 IMM: This framework offers a structured way to assess an organization’s information maturity\nlevel.\n• IBM Data Governance Council Maturity Model: This model provides a road map for implementing effective\ndata governance processes and controls.\n",
+      "metadata": {
+        "end": 972,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4706038580812244,
+      "rank": 7,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "fa2190de930dd9497d4bf9c17ae5d87a4e4ea018d76d0f89eeaa76ca4c34690d",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 55,
+      "text": "• Enterprise Data Management (EDM) Council Data Management Maturity Model: This comprehensive\nframework covers various aspects of data management, including data strategy, data operations, and data\narchitecture.\n• Responsible Data Maturity Model: This model is an evolving concept that continues to gain importance as\nthe role of data in our lives becomes more prominent.\n",
+      "metadata": {
+        "end": 1344,
+        "part": 0,
+        "year": 2025,
+        "start": 972,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4671445428319698,
+      "rank": 8,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 57,
+      "text": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+      "metadata": {
+        "end": 1840,
+        "part": 0,
+        "year": 2025,
+        "start": 875,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.45191092378951847,
+      "rank": 9,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "34daaddd4938cf6d81965ffba188cb7c79038ebae208ccd88d98f2361bc06085",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 54,
+      "text": "Figure 2.2 Data governance plays a role in all data management areas. It ensures an organization’s data are of high quality and are\nmanaged and protected effectively so that the data can be used to make informed decisions. (attribution: Copyright Rice University,\nOpenStax, under CC BY 4.0 license)\nFUTURE TECHNOLOGY\nData Management Technologies\nA new approach to data management, called a data mesh, is based on the principle of domain-driven\ndesign. In a data mesh, data are owned by the domain experts who create the data, and the data are made\navailable to other users through a self-service model.\n",
+      "metadata": {
+        "end": 603,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4514095430157672,
+      "rank": 10,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "top3": [
+    {
+      "id": "1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 53,
+      "text": "Appropriate data management is crucial to an organization’s reputation and success. Data management\nparameters establish practices that organizations can use to ensure that their data are managed, protected¸\nand of high quality so they can be utilized to make informed decisions. The essential areas for managing data\neffectively are as follows (Figure 2.2)3 :\n• Data governance establishes policies, processes, standards, roles, and responsibilities to manage data\nas a valuable asset.\n• Data quality ensures that data are accurate, complete, and consistent. This is achieved through\nactivities such as validation, cleansing, matching, and monitoring via metrics and reporting.\n• Data integration combines data from different systems and applications. It includes tasks such as\nmapping data elements, transforming data, and ensuring seamless integration using tools and best\npractices.\n",
+      "metadata": {
+        "end": 887,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.5604988506129139,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "For any organization, information is an invaluable resource, hence data and data management have become\ncritical. Effective data management aligns with data analytics capabilities, facilitating the automated discovery\nof trends, patterns, and anomalies through techniques like data mining and analysis. In today’s data-driven\nworld, there’s increasing attention to the relevance of big data, highly complex and large datasets that require\nspecialized processing techniques to extract valuable insights and make informed decisions. Managing any\ndata involves activities such as cleaning, extracting, integrating, categorizing, labeling, and organizing. All\nthese activities should be executed in a manner that ensures that the quality of the data is preserved, and the\ndata remain secure but also easily retrievable. Organizations need people to manage data and control data\naccessibility, and they need to define roles and responsibilities for all the people working with and extracting\ninformation ",
+      "metadata": {
+        "end": 2515,
+        "part": 0,
+        "year": 2025,
+        "start": 1516,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.5463485014039671,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 57,
+      "text": "• Resolving discrepancies in redundant data sources: When multiple sources provide similar data, it is\nimportant to reconcile any inconsistencies or differences to establish a reliable and accurate\nrepresentation of the information.\n• Managing variations in opinions, forecasting techniques, or simulation models: Recognizing and\naddressing divergent viewpoints, methodologies, or models used for forecasting or simulation ensures\ntransparency and reliability in the data analysis process.\nFUTURE TECHNOLOGY\nMaster Data Management\nMaster data management (MDM) ensures the creation and maintenance of a single, accurate source of\ntruth for crucial data points within an organization. This centralized data repository eliminates\ninconsistencies and fosters seamless information exchange across different systems and applications. Let’s\nexplore the importance of MDM in two specific contexts: health care and e-commerce retail.\n",
+      "metadata": {
+        "end": 2765,
+        "part": 0,
+        "year": 2025,
+        "start": 1840,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.5430125189222761,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "trace": {
+    "method": "dense",
+    "filter": {},
+    "returned": 10,
+    "elapsed_ms": 889.9298999986058,
+    "cache_hit": false,
+    "service_cost_usd": null,
+    "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+    "model": "openai/text-embedding-3-small",
+    "dimensions": 1536,
+    "strategy": "B",
+    "embedding_requests": [
+      {
+        "status": "ok",
+        "id": "gen-emb-1794649140-aLUozEY7Jo4Sr6olikWj",
+        "elapsed_ms": 861.7358000010427,
+        "usage": {
+          "prompt_tokens": 30,
+          "total_tokens": 30,
+          "cost": 6e-07,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6e-07,
+            "upstream_inference_prompt_cost": 6e-07,
+            "upstream_inference_completions_cost": 0
+          }
+        }
+      }
+    ],
+    "measured_embedding_cost": {
+      "request_count": 1,
+      "known_cost_usd": 6e-07,
+      "cost_usd": 6e-07,
+      "unknown_cost_request_count": 0,
+      "prompt_tokens_known": 30
+    }
+  },
+  "context_selection": {
+    "context": "[1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd | starter/data/Foundations_of_Information_Systems.pdf | page 53]\nAppropriate data management is crucial to an organization’s reputation and success. Data management\nparameters establish practices that organizations can use to ensure that their data are managed, protected¸\nand of high quality so they can be utilized to make informed decisions. The essential areas for managing data\neffectively are as follows (Figure 2.2)3 :\n• Data governance establishes policies, processes, standards, roles, and responsibilities to manage data\nas a valuable asset.\n• Data quality ensures that data are accurate, complete, and consistent. This is achieved through\nactivities such as validation, cleansing, matching, and monitoring via metrics and reporting.\n• Data integration combines data from different systems and applications. It includes tasks such as\nmapping data elements, transforming data, and ensuring seamless integration using tools and best\npractices.\n\n\n[e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc | starter/data/Foundations_of_Information_Systems.pdf | page 52]\nFor any organization, information is an invaluable resource, hence data and data management have become\ncritical. Effective data management aligns with data analytics capabilities, facilitating the automated discovery\nof trends, patterns, and anomalies through techniques like data mining and analysis. In today’s data-driven\nworld, there’s increasing attention to the relevance of big data, highly complex and large datasets that require\nspecialized processing techniques to extract valuable insights and make informed decisions. Managing any\ndata involves activities such as cleaning, extracting, integrating, categorizing, labeling, and organizing. All\nthese activities should be executed in a manner that ensures that the quality of the data is preserved, and the\ndata remain secure but also easily retrievable. Organizations need people to manage data and control data\naccessibility, and they need to define roles and responsibilities for all the people working with and extracting\ninformation \n\n[513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44 | starter/data/Foundations_of_Information_Systems.pdf | page 57]\n• Resolving discrepancies in redundant data sources: When multiple sources provide similar data, it is\nimportant to reconcile any inconsistencies or differences to establish a reliable and accurate\nrepresentation of the information.\n• Managing variations in opinions, forecasting techniques, or simulation models: Recognizing and\naddressing divergent viewpoints, methodologies, or models used for forecasting or simulation ensures\ntransparency and reliability in the data analysis process.\nFUTURE TECHNOLOGY\nMaster Data Management\nMaster data management (MDM) ensures the creation and maintenance of a single, accurate source of\ntruth for crucial data points within an organization. This centralized data repository eliminates\ninconsistencies and fosters seamless information exchange across different systems and applications. Let’s\nexplore the importance of MDM in two specific contexts: health care and e-commerce retail.\n\n\n[fa2190de930dd9497d4bf9c17ae5d87a4e4ea018d76d0f89eeaa76ca4c34690d | starter/data/Foundations_of_Information_Systems.pdf | page 55]\n• Enterprise Data Management (EDM) Council Data Management Maturity Model: This comprehensive\nframework covers various aspects of data management, including data strategy, data operations, and data\narchitecture.\n• Responsible Data Maturity Model: This model is an evolving concept that continues to gain importance as\nthe role of data in our lives becomes more prominent.\n",
+    "context_ids": [
+      "1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd",
+      "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+      "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44",
+      "fa2190de930dd9497d4bf9c17ae5d87a4e4ea018d76d0f89eeaa76ca4c34690d"
+    ],
+    "context_chars": 3713,
+    "context_sha256": "22ce44dc28217cf2f865c4ce30f80c8aa10eae5d217a0f9c64a27343c818b312",
+    "budget_chars": 4000,
+    "remaining_chars": 287,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 4,
+    "skipped_count": 6,
+    "decisions": [
+      {
+        "id": "1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 53,
+        "metadata": {
+          "end": 887,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 887,
+        "block_characters": 1018,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 2515,
+          "part": 0,
+          "year": 2025,
+          "start": 1516,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 999,
+        "block_characters": 1130,
+        "separator_characters": 2,
+        "remaining_before": 2982,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 57,
+        "metadata": {
+          "end": 2765,
+          "part": 0,
+          "year": 2025,
+          "start": 1840,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 925,
+        "block_characters": 1056,
+        "separator_characters": 2,
+        "remaining_before": 1850,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "7ffd5de2be32e43e9fb63d3947950460cdca48553612b9476be9372146499afb",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 56,
+        "metadata": {
+          "end": 3158,
+          "part": 0,
+          "year": 2025,
+          "start": 2366,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 792,
+        "block_characters": 923,
+        "separator_characters": 2,
+        "remaining_before": 792,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "a3a33c126c094427cee9131c76c7cb083e3383f50b09a5a25f7959dd50b1e11d",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 57,
+        "metadata": {
+          "end": 3762,
+          "part": 0,
+          "year": 2025,
+          "start": 2765,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 997,
+        "block_characters": 1128,
+        "separator_characters": 2,
+        "remaining_before": 792,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "433626d36d910cd167a1ba5bb0fd6acc7a2f8b91b6cfb4140dc5ba5cd4386c1e",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 57,
+        "metadata": {
+          "end": 875,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 875,
+        "block_characters": 1006,
+        "separator_characters": 2,
+        "remaining_before": 792,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "f465b7f8409a07fde37be3d48e524be29741df7a685a8892fd30d8c2890dc9cd",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 55,
+        "metadata": {
+          "end": 972,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 972,
+        "block_characters": 1103,
+        "separator_characters": 2,
+        "remaining_before": 792,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "fa2190de930dd9497d4bf9c17ae5d87a4e4ea018d76d0f89eeaa76ca4c34690d",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 55,
+        "metadata": {
+          "end": 1344,
+          "part": 0,
+          "year": 2025,
+          "start": 972,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 372,
+        "block_characters": 503,
+        "separator_characters": 2,
+        "remaining_before": 792,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 57,
+        "metadata": {
+          "end": 1840,
+          "part": 0,
+          "year": 2025,
+          "start": 875,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 965,
+        "block_characters": 1096,
+        "separator_characters": 2,
+        "remaining_before": 287,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "34daaddd4938cf6d81965ffba188cb7c79038ebae208ccd88d98f2361bc06085",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 54,
+        "metadata": {
+          "end": 603,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 603,
+        "block_characters": 734,
+        "separator_characters": 2,
+        "remaining_before": 287,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 890.1770000011311
+}

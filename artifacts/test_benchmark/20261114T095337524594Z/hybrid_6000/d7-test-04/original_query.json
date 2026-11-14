@@ -1,0 +1,1212 @@
+{
+  "query": "Nếu business manager chú trọng doanh thu còn IT manager chỉ chú trọng triển khai và bảo trì công nghệ, đây là nguyên nhân lệch pha business–IT nào được sách mô tả?",
+  "filter": null,
+  "results": [
+    {
+      "id": "d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82",
+      "text": "Business and IT alignment as an integral unit, not separate entities, is vital. It is important that organizations\nview IT as a strategic partner, not just a support function. By fostering collaboration and communication\nbetween business and IT stakeholders, organizations can ensure that technology solutions directly address\nbusiness needs and objectives. To improve business-IT alignment, organizations can employ several\nmeasures:11\n• Prioritize organizational communication: Encouraging effective dialogue between different departments,\nfostering interdepartmental partnerships, and promoting mutual understanding between business and IT\nteams ensures sufficient knowledge sharing, well-informed decision-making, and seamless collaboration.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 66,
+      "metadata": {
+        "end": 2163,
+        "part": 0,
+        "year": 2025,
+        "start": 1417,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03252247488101534,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.4224609407239598,
+          "rrf_contribution": 0.016129032258064516
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.36687113743974736,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881",
+      "text": "• Different objectives: Business managers focus on achieving business goals and generating revenue, while\nIT managers concentrate on technology implementation and maintenance.\n• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise\nand perspectives, leading to misunderstandings and misalignment.\n• Lack of communication: Inadequate communication between business and IT executives hinders the\nexchange of valuable insights and requirements.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 66,
+      "metadata": {
+        "end": 1417,
+        "part": 0,
+        "year": 2025,
+        "start": 925,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.031544957774465976,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.48270563318096504,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 6,
+          "raw_score": 0.27488631590859935,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81",
+      "text": "quantified the value of their IT\ninvestment by measuring improvements in delivery times, a key performance indicator directly linked to\ncustomer satisfaction.\nIn today’s ever-evolving business landscape, organizations have come to recognize the immense potential of\nIT to enhance the value of their products and services. Leveraging IT has become a key factor in staying\ncompetitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face\nan essential question: How can they effectively assess the value IT adds to their organization?\nDefining the Value of Information Technology Within Organizations\nOver the past decades, businesses and managers have focused on understanding how to employ IT systems\nto achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have\nbeen ushered in with the emergence of a new generation of IT, including elements such as:\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 61,
+      "metadata": {
+        "end": 2094,
+        "part": 1,
+        "year": 2025,
+        "start": 1145,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.029910714285714284,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 4,
+          "raw_score": 0.4018024586239124,
+          "rrf_contribution": 0.015625
+        },
+        "lexical": {
+          "rank": 10,
+          "raw_score": 0.21245025403407727,
+          "rrf_contribution": 0.014285714285714285
+        }
+      },
+      "rank": 3
+    },
+    {
+      "id": "9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e",
+      "text": "The most common means of understanding the value of information systems in a business is to measure the\nrelationship between IT investments and output measures of revenue and human productivity. This evaluation\ncan be conducted at both the industry level and organizational level. However, the business value of IT goes\nbeyond direct output or revenue measures because IT often supports organizational redesign efforts, such as\nthe traditional taxi services being disrupted by new ride services like Uber or Lyft. This type of business model\ninnovation leverages IT to create entirely new business models, not just enhance existing ones.\nManagers should consider which of the following three primary methods of value IT brings to their\norganization (Figure 2.5):\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 62,
+      "metadata": {
+        "end": 1614,
+        "part": 0,
+        "year": 2025,
+        "start": 851,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.02967032967032967,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 10,
+          "raw_score": 0.3711013528336964,
+          "rrf_contribution": 0.014285714285714285
+        },
+        "lexical": {
+          "rank": 5,
+          "raw_score": 0.27670783336498916,
+          "rrf_contribution": 0.015384615384615385
+        }
+      },
+      "rank": 4
+    },
+    {
+      "id": "b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18",
+      "text": "• Focus on strengthening governance: Organizations should involve IT in strategic planning to ensure\ntechnology initiatives align with overall business goals. Engaging IT in executive committees enhances the\ndecision-making process. Implementing a structured reporting hierarchy establishes clear communication\nchannels, and defining authorization for decision-making roles ensures efficient execution. Coordinated\ngovernance can help set criteria whereby IT projects are prioritized based on their alignment with\nbusiness objectives.\n• Align scope and IT architecture: Evaluating IT solutions for their effectiveness and customizing them to\nsuit specific scope and business needs can lead to better outcomes.\n• Emphasize the development of human skills: Cultivating readiness to embrace technological changes,\nadapting management styles to support successful IT implementation, and learning from previous\nexperiences contribute to continuous improvement.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 66,
+      "metadata": {
+        "end": 3119,
+        "part": 0,
+        "year": 2025,
+        "start": 2163,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.029631255487269532,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 8,
+          "raw_score": 0.37719809722187836,
+          "rrf_contribution": 0.014705882352941176
+        },
+        "lexical": {
+          "rank": 7,
+          "raw_score": 0.2690512700864312,
+          "rrf_contribution": 0.014925373134328358
+        }
+      },
+      "rank": 5
+    },
+    {
+      "id": "d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4",
+      "text": "The details of this case reveal a significant misalignment between IT and business perspectives concerning the\ntechnological aspect of identity cards. Overall, the disparity between the UK’s simple, traditional ID cards and\nthe envisioned technological sophistication of the new cards highlighted the disconnect between IT and\nbusiness perspectives: the clash between a simple, efficient approach and the pursuit of advanced technology.\nThis case emphasizes the importance of fostering collaboration and understanding between IT and\nstakeholders to develop practical and effective solutions for many different business scenarios.\nStrategies to Generate Value Using Information Technology\nIn today’s business landscape, there are five key strategies usually pursued by organizations when seeking to\ngenerate value using IT: cost leadership, differentiation, focus/innovation, operational effectiveness, and\ncustomer orientation.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 67,
+      "metadata": {
+        "end": 928,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.029418126757516764,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 7,
+          "raw_score": 0.384741912557407,
+          "rrf_contribution": 0.014925373134328358
+        },
+        "lexical": {
+          "rank": 9,
+          "raw_score": 0.22065520405314176,
+          "rrf_contribution": 0.014492753623188406
+        }
+      },
+      "rank": 6
+    },
+    {
+      "id": "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+      "text": "2.4 Business Process Management\nLearning Objectives\nBy the end of this section, you will be able to:\n• Describe a business process\n• Differentiate business process reengineering, improvement, and management\n• Discuss ways in which information systems enable business processes\nTo promote success, businesses and other organizations need robust business processes that are well\nmanaged. Business processes help organizations be more efficient and effective—providing higher-quality\nproducts and services, and improving customer service and satisfaction. Business processes can be tailored to\nmeet an organization’s specific needs, and information systems can be important tools to enhance business\nprocesses.\nBusiness Process\nA business process represents a continuous series of interconnected activities aimed at producing a valuable\nproduct or service for an organization, its business partners, and its customers. This process relies on three\nessential components:\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 72,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.4",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 967,
+        "method": "paragraph-1000"
+      },
+      "score": 0.016129032258064516,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.3289406974087627,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 7
+    },
+    {
+      "id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+      "text": "organizations.\nStrategies to Improve the Value of Information Technology for\nOrganizations\nUnderstanding the role of business processes within an organization is vital to measuring the specific value\nthat IT can deliver and the mechanisms through which it achieves this. Information systems professionals\nknow that technology alone is not the sole determinant of digital success, and that strategy is an important\ncatalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of\nthe IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly\nsupports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure\n2.6):\n• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading\nto new revenue opportunities.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 65,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 988,
+        "end": 1881,
+        "method": "paragraph-1000"
+      },
+      "score": 0.015873015873015872,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 3,
+          "raw_score": 0.3110812632993377,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 8
+    },
+    {
+      "id": "e6b22fa9ced500d35dcf48fd4dba507b1900ba8f4a279c62a3ab1866c3fb0b2f",
+      "text": "• Compare digital business models and their design and integration components\n• Critique digital business models\nThe use of IT offers businesses numerous opportunities to generate value. Since most businesses adopt IT,\nundergo digital transformation, or fundamentally change how the business operates and delivers value using\ndigital technologies, the digital field is crowded with apps, services, platforms, and digital devices. Some\nbusinesses undergoing digital transformations thrive initially but then go bankrupt, and others pivot and\nsurvive. Many established companies like retailers, banks, travel agencies, and print media have struggled to\nsurvive in the face of digital disruption. Organizations confront a common challenge—the necessity to develop\ndigital business models that deliver value to customers or users. Thus, business models act as the vital\nconnector between technology and the strategic goals of an organization (Figure 2.7).\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 68,
+      "metadata": {
+        "end": 1049,
+        "part": 1,
+        "year": 2025,
+        "start": 97,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015873015873015872,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 3,
+          "raw_score": 0.40745981023235334,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 9
+    },
+    {
+      "id": "93a3984ba2d3e85cda456bb55aef6d3e41afc6ac8b9365927d26cc8e09f89b38",
+      "text": "modification of work “Noun 108494 cc” by Dima Lagunov/Wikimedia Commons, CC BY 3.0)\nDefining Digital Business Models\nA successful digital business model provides a logical framework that unlocks the value of a technology,\nallowing businesses to benefit economically. The business model serves as a blueprint for how a company\ngenerates and captures value from new products, services, or innovations. It is not solely IT that determines\nsuccess, but the business model behind it that plays a key role in enabling high-tech companies to achieve\ntheir strategic goals and objectives. There are several common digital business models, each of which has\nspecific information technology strategies.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 68,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.3",
+        "part": 1,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1558,
+        "end": 2251,
+        "method": "paragraph-1000"
+      },
+      "score": 0.015625,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 4,
+          "raw_score": 0.2795731135156985,
+          "rrf_contribution": 0.015625
+        }
+      },
+      "rank": 10
+    }
+  ],
+  "top3": [
+    {
+      "id": "d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82",
+      "text": "Business and IT alignment as an integral unit, not separate entities, is vital. It is important that organizations\nview IT as a strategic partner, not just a support function. By fostering collaboration and communication\nbetween business and IT stakeholders, organizations can ensure that technology solutions directly address\nbusiness needs and objectives. To improve business-IT alignment, organizations can employ several\nmeasures:11\n• Prioritize organizational communication: Encouraging effective dialogue between different departments,\nfostering interdepartmental partnerships, and promoting mutual understanding between business and IT\nteams ensures sufficient knowledge sharing, well-informed decision-making, and seamless collaboration.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 66,
+      "metadata": {
+        "end": 2163,
+        "part": 0,
+        "year": 2025,
+        "start": 1417,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03252247488101534,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.4224609407239598,
+          "rrf_contribution": 0.016129032258064516
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.36687113743974736,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881",
+      "text": "• Different objectives: Business managers focus on achieving business goals and generating revenue, while\nIT managers concentrate on technology implementation and maintenance.\n• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise\nand perspectives, leading to misunderstandings and misalignment.\n• Lack of communication: Inadequate communication between business and IT executives hinders the\nexchange of valuable insights and requirements.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 66,
+      "metadata": {
+        "end": 1417,
+        "part": 0,
+        "year": 2025,
+        "start": 925,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.031544957774465976,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.48270563318096504,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 6,
+          "raw_score": 0.27488631590859935,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81",
+      "text": "quantified the value of their IT\ninvestment by measuring improvements in delivery times, a key performance indicator directly linked to\ncustomer satisfaction.\nIn today’s ever-evolving business landscape, organizations have come to recognize the immense potential of\nIT to enhance the value of their products and services. Leveraging IT has become a key factor in staying\ncompetitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face\nan essential question: How can they effectively assess the value IT adds to their organization?\nDefining the Value of Information Technology Within Organizations\nOver the past decades, businesses and managers have focused on understanding how to employ IT systems\nto achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have\nbeen ushered in with the emergence of a new generation of IT, including elements such as:\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 61,
+      "metadata": {
+        "end": 2094,
+        "part": 1,
+        "year": 2025,
+        "start": 1145,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.029910714285714284,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 4,
+          "raw_score": 0.4018024586239124,
+          "rrf_contribution": 0.015625
+        },
+        "lexical": {
+          "rank": 10,
+          "raw_score": 0.21245025403407727,
+          "rrf_contribution": 0.014285714285714285
+        }
+      },
+      "rank": 3
+    }
+  ],
+  "trace": {
+    "method": "hybrid_rrf",
+    "filter": {},
+    "candidate_k_per_branch": 10,
+    "rrf_k": 60,
+    "dense_results": [
+      {
+        "id": "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "text": "• Different objectives: Business managers focus on achieving business goals and generating revenue, while\nIT managers concentrate on technology implementation and maintenance.\n• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise\nand perspectives, leading to misunderstandings and misalignment.\n• Lack of communication: Inadequate communication between business and IT executives hinders the\nexchange of valuable insights and requirements.\n",
+        "metadata": {
+          "end": 1417,
+          "part": 0,
+          "year": 2025,
+          "start": 925,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.48270563318096504,
+        "rank": 1,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "text": "Business and IT alignment as an integral unit, not separate entities, is vital. It is important that organizations\nview IT as a strategic partner, not just a support function. By fostering collaboration and communication\nbetween business and IT stakeholders, organizations can ensure that technology solutions directly address\nbusiness needs and objectives. To improve business-IT alignment, organizations can employ several\nmeasures:11\n• Prioritize organizational communication: Encouraging effective dialogue between different departments,\nfostering interdepartmental partnerships, and promoting mutual understanding between business and IT\nteams ensures sufficient knowledge sharing, well-informed decision-making, and seamless collaboration.\n",
+        "metadata": {
+          "end": 2163,
+          "part": 0,
+          "year": 2025,
+          "start": 1417,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4224609407239598,
+        "rank": 2,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "e6b22fa9ced500d35dcf48fd4dba507b1900ba8f4a279c62a3ab1866c3fb0b2f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "• Compare digital business models and their design and integration components\n• Critique digital business models\nThe use of IT offers businesses numerous opportunities to generate value. Since most businesses adopt IT,\nundergo digital transformation, or fundamentally change how the business operates and delivers value using\ndigital technologies, the digital field is crowded with apps, services, platforms, and digital devices. Some\nbusinesses undergoing digital transformations thrive initially but then go bankrupt, and others pivot and\nsurvive. Many established companies like retailers, banks, travel agencies, and print media have struggled to\nsurvive in the face of digital disruption. Organizations confront a common challenge—the necessity to develop\ndigital business models that deliver value to customers or users. Thus, business models act as the vital\nconnector between technology and the strategic goals of an organization (Figure 2.7).\n",
+        "metadata": {
+          "end": 1049,
+          "part": 1,
+          "year": 2025,
+          "start": 97,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.40745981023235334,
+        "rank": 3,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "text": "quantified the value of their IT\ninvestment by measuring improvements in delivery times, a key performance indicator directly linked to\ncustomer satisfaction.\nIn today’s ever-evolving business landscape, organizations have come to recognize the immense potential of\nIT to enhance the value of their products and services. Leveraging IT has become a key factor in staying\ncompetitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face\nan essential question: How can they effectively assess the value IT adds to their organization?\nDefining the Value of Information Technology Within Organizations\nOver the past decades, businesses and managers have focused on understanding how to employ IT systems\nto achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have\nbeen ushered in with the emergence of a new generation of IT, including elements such as:\n",
+        "metadata": {
+          "end": 2094,
+          "part": 1,
+          "year": 2025,
+          "start": 1145,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4018024586239124,
+        "rank": 4,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "Figure 2.7 The business model is the key to bridging the gap between technological potential and business success, paving the way\nfor companies to thrive in the competitive landscape. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license;\ncredit gears: modification of work “Noun project 1063” by Jeremy Minnick/Wikimedia Commons, CC0 1.0; credit people with laptops:\nmodification of work “Noun project - Meeting with laptops” by Slava Strizh/Wikimedia Commons, CC BY 3.0; credit target:\n",
+        "metadata": {
+          "end": 1558,
+          "part": 1,
+          "year": 2025,
+          "start": 1049,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.40015168193323647,
+        "rank": 5,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "f053b5f872be3e01c702d2a1665ef6cd777f5b3e62084d965e39dff4fd11d74d",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 65,
+        "text": "• Internal and external customers, as well as customer service, hold paramount importance for these\norganizations.\n• Business and IT professionals are cross-trained and move across different departments and job roles.\n• Clear overarching goals are established and understood by both IT and business employees.\n• Information technology employees are informed about the company’s revenue generation and cost-\nsaving mechanisms.\n• The organization fosters a vibrant and inclusive company culture.\nFigure 2.6 Successful strategic alignment occurs when information technology directly supports the business goals of the\norganization, guided by these six characteristics. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; credit\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 55",
+        "metadata": {
+          "end": 2717,
+          "part": 0,
+          "year": 2025,
+          "start": 1881,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3968134527423114,
+        "rank": 6,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "text": "The details of this case reveal a significant misalignment between IT and business perspectives concerning the\ntechnological aspect of identity cards. Overall, the disparity between the UK’s simple, traditional ID cards and\nthe envisioned technological sophistication of the new cards highlighted the disconnect between IT and\nbusiness perspectives: the clash between a simple, efficient approach and the pursuit of advanced technology.\nThis case emphasizes the importance of fostering collaboration and understanding between IT and\nstakeholders to develop practical and effective solutions for many different business scenarios.\nStrategies to Generate Value Using Information Technology\nIn today’s business landscape, there are five key strategies usually pursued by organizations when seeking to\ngenerate value using IT: cost leadership, differentiation, focus/innovation, operational effectiveness, and\ncustomer orientation.\n",
+        "metadata": {
+          "end": 928,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.384741912557407,
+        "rank": 7,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "text": "• Focus on strengthening governance: Organizations should involve IT in strategic planning to ensure\ntechnology initiatives align with overall business goals. Engaging IT in executive committees enhances the\ndecision-making process. Implementing a structured reporting hierarchy establishes clear communication\nchannels, and defining authorization for decision-making roles ensures efficient execution. Coordinated\ngovernance can help set criteria whereby IT projects are prioritized based on their alignment with\nbusiness objectives.\n• Align scope and IT architecture: Evaluating IT solutions for their effectiveness and customizing them to\nsuit specific scope and business needs can lead to better outcomes.\n• Emphasize the development of human skills: Cultivating readiness to embrace technological changes,\nadapting management styles to support successful IT implementation, and learning from previous\nexperiences contribute to continuous improvement.\n",
+        "metadata": {
+          "end": 3119,
+          "part": 0,
+          "year": 2025,
+          "start": 2163,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.37719809722187836,
+        "rank": 8,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 31,
+        "text": "discusses best practices for managing information technology. ITIL is managed and updated by AXELOS, a\ncompany that provides training and certifications to various technology professionals, including those in IS.\nITIL offers guidance, as well as professional certification, for carrying out twenty-six processes in the areas of\nservice strategy, design, transition, operation, and improvement.\nThe McKinsey 7-S Framework focuses on how an organization can be efficient and effective with interaction\nand coordination of its staff, structure, strategy, skills, systems, style, and shared values. The goal of the\nframework is to determine how an organization can be effective with interaction and coordination of the seven\nelements:\n",
+        "metadata": {
+          "end": 731,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.37483633690600837,
+        "rank": 9,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 62,
+        "text": "The most common means of understanding the value of information systems in a business is to measure the\nrelationship between IT investments and output measures of revenue and human productivity. This evaluation\ncan be conducted at both the industry level and organizational level. However, the business value of IT goes\nbeyond direct output or revenue measures because IT often supports organizational redesign efforts, such as\nthe traditional taxi services being disrupted by new ride services like Uber or Lyft. This type of business model\ninnovation leverages IT to create entirely new business models, not just enhance existing ones.\nManagers should consider which of the following three primary methods of value IT brings to their\norganization (Figure 2.5):\n",
+        "metadata": {
+          "end": 1614,
+          "part": 0,
+          "year": 2025,
+          "start": 851,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3711013528336964,
+        "rank": 10,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      }
+    ],
+    "lexical_results": [
+      {
+        "id": "d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82",
+        "text": "Business and IT alignment as an integral unit, not separate entities, is vital. It is important that organizations\nview IT as a strategic partner, not just a support function. By fostering collaboration and communication\nbetween business and IT stakeholders, organizations can ensure that technology solutions directly address\nbusiness needs and objectives. To improve business-IT alignment, organizations can employ several\nmeasures:11\n• Prioritize organizational communication: Encouraging effective dialogue between different departments,\nfostering interdepartmental partnerships, and promoting mutual understanding between business and IT\nteams ensures sufficient knowledge sharing, well-informed decision-making, and seamless collaboration.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1417,
+          "end": 2163,
+          "method": "paragraph-1000"
+        },
+        "score": 0.36687113743974736,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 1
+      },
+      {
+        "id": "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+        "text": "2.4 Business Process Management\nLearning Objectives\nBy the end of this section, you will be able to:\n• Describe a business process\n• Differentiate business process reengineering, improvement, and management\n• Discuss ways in which information systems enable business processes\nTo promote success, businesses and other organizations need robust business processes that are well\nmanaged. Business processes help organizations be more efficient and effective—providing higher-quality\nproducts and services, and improving customer service and satisfaction. Business processes can be tailored to\nmeet an organization’s specific needs, and information systems can be important tools to enhance business\nprocesses.\nBusiness Process\nA business process represents a continuous series of interconnected activities aimed at producing a valuable\nproduct or service for an organization, its business partners, and its customers. This process relies on three\nessential components:\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.4",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 967,
+          "method": "paragraph-1000"
+        },
+        "score": 0.3289406974087627,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 2
+      },
+      {
+        "id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+        "text": "organizations.\nStrategies to Improve the Value of Information Technology for\nOrganizations\nUnderstanding the role of business processes within an organization is vital to measuring the specific value\nthat IT can deliver and the mechanisms through which it achieves this. Information systems professionals\nknow that technology alone is not the sole determinant of digital success, and that strategy is an important\ncatalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of\nthe IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly\nsupports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure\n2.6):\n• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading\nto new revenue opportunities.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 65,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 988,
+          "end": 1881,
+          "method": "paragraph-1000"
+        },
+        "score": 0.3110812632993377,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 3
+      },
+      {
+        "id": "93a3984ba2d3e85cda456bb55aef6d3e41afc6ac8b9365927d26cc8e09f89b38",
+        "text": "modification of work “Noun 108494 cc” by Dima Lagunov/Wikimedia Commons, CC BY 3.0)\nDefining Digital Business Models\nA successful digital business model provides a logical framework that unlocks the value of a technology,\nallowing businesses to benefit economically. The business model serves as a blueprint for how a company\ngenerates and captures value from new products, services, or innovations. It is not solely IT that determines\nsuccess, but the business model behind it that plays a key role in enabling high-tech companies to achieve\ntheir strategic goals and objectives. There are several common digital business models, each of which has\nspecific information technology strategies.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 1,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1558,
+          "end": 2251,
+          "method": "paragraph-1000"
+        },
+        "score": 0.2795731135156985,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 4
+      },
+      {
+        "id": "9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e",
+        "text": "The most common means of understanding the value of information systems in a business is to measure the\nrelationship between IT investments and output measures of revenue and human productivity. This evaluation\ncan be conducted at both the industry level and organizational level. However, the business value of IT goes\nbeyond direct output or revenue measures because IT often supports organizational redesign efforts, such as\nthe traditional taxi services being disrupted by new ride services like Uber or Lyft. This type of business model\ninnovation leverages IT to create entirely new business models, not just enhance existing ones.\nManagers should consider which of the following three primary methods of value IT brings to their\norganization (Figure 2.5):\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 62,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 851,
+          "end": 1614,
+          "method": "paragraph-1000"
+        },
+        "score": 0.27670783336498916,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 5
+      },
+      {
+        "id": "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881",
+        "text": "• Different objectives: Business managers focus on achieving business goals and generating revenue, while\nIT managers concentrate on technology implementation and maintenance.\n• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise\nand perspectives, leading to misunderstandings and misalignment.\n• Lack of communication: Inadequate communication between business and IT executives hinders the\nexchange of valuable insights and requirements.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 925,
+          "end": 1417,
+          "method": "paragraph-1000"
+        },
+        "score": 0.27488631590859935,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 6
+      },
+      {
+        "id": "b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18",
+        "text": "• Focus on strengthening governance: Organizations should involve IT in strategic planning to ensure\ntechnology initiatives align with overall business goals. Engaging IT in executive committees enhances the\ndecision-making process. Implementing a structured reporting hierarchy establishes clear communication\nchannels, and defining authorization for decision-making roles ensures efficient execution. Coordinated\ngovernance can help set criteria whereby IT projects are prioritized based on their alignment with\nbusiness objectives.\n• Align scope and IT architecture: Evaluating IT solutions for their effectiveness and customizing them to\nsuit specific scope and business needs can lead to better outcomes.\n• Emphasize the development of human skills: Cultivating readiness to embrace technological changes,\nadapting management styles to support successful IT implementation, and learning from previous\nexperiences contribute to continuous improvement.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 2163,
+          "end": 3119,
+          "method": "paragraph-1000"
+        },
+        "score": 0.2690512700864312,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 7
+      },
+      {
+        "id": "3a4883bad9d408ff7a57b875dddf96cd1fa77f609fb13da321ec935353e17210",
+        "text": "Today’s business environment has undergone significant transformations. Unlike the traditional stable and\nlow-competition business world, the digital business realm is marked by complexity, dynamism, and high\nlevels of uncertainty and competition. Consequently, in this intricate digital business setting, the business\nmodel must be explicit and highly flexible to adapt effectively. Embracing change is important for effectively\nnavigating today’s business landscape.\nLINK TO LEARNING\nLearn about AI-generated music (https://openstax.org/r/109AIMusic) and how AI is disrupting the music\nindustry as well as freemium and subscription business models.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 534,
+          "end": 1185,
+          "method": "paragraph-1000"
+        },
+        "score": 0.24945140690477272,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 8
+      },
+      {
+        "id": "d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4",
+        "text": "The details of this case reveal a significant misalignment between IT and business perspectives concerning the\ntechnological aspect of identity cards. Overall, the disparity between the UK’s simple, traditional ID cards and\nthe envisioned technological sophistication of the new cards highlighted the disconnect between IT and\nbusiness perspectives: the clash between a simple, efficient approach and the pursuit of advanced technology.\nThis case emphasizes the importance of fostering collaboration and understanding between IT and\nstakeholders to develop practical and effective solutions for many different business scenarios.\nStrategies to Generate Value Using Information Technology\nIn today’s business landscape, there are five key strategies usually pursued by organizations when seeking to\ngenerate value using IT: cost leadership, differentiation, focus/innovation, operational effectiveness, and\ncustomer orientation.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 928,
+          "method": "paragraph-1000"
+        },
+        "score": 0.22065520405314176,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 9
+      },
+      {
+        "id": "92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81",
+        "text": "quantified the value of their IT\ninvestment by measuring improvements in delivery times, a key performance indicator directly linked to\ncustomer satisfaction.\nIn today’s ever-evolving business landscape, organizations have come to recognize the immense potential of\nIT to enhance the value of their products and services. Leveraging IT has become a key factor in staying\ncompetitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face\nan essential question: How can they effectively assess the value IT adds to their organization?\nDefining the Value of Information Technology Within Organizations\nOver the past decades, businesses and managers have focused on understanding how to employ IT systems\nto achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have\nbeen ushered in with the emergence of a new generation of IT, including elements such as:\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 1,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1145,
+          "end": 2094,
+          "method": "paragraph-1000"
+        },
+        "score": 0.21245025403407727,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 10
+      }
+    ],
+    "dense_call": {
+      "method": "dense",
+      "filter": {},
+      "returned": 10,
+      "elapsed_ms": 984.9267999998119,
+      "cache_hit": false,
+      "service_cost_usd": null,
+      "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+      "model": "openai/text-embedding-3-small",
+      "dimensions": 1536,
+      "strategy": "B",
+      "embedding_requests": [
+        {
+          "status": "ok",
+          "id": "gen-emb-1794650035-IW5AGOUCJ8qpmGyWVclY",
+          "elapsed_ms": 927.7777999996033,
+          "usage": {
+            "prompt_tokens": 65,
+            "total_tokens": 65,
+            "cost": 1.3e-06,
+            "is_byok": false,
+            "cost_details": {
+              "upstream_inference_cost": 1.3e-06,
+              "upstream_inference_prompt_cost": 1.3e-06,
+              "upstream_inference_completions_cost": 0
+            }
+          }
+        }
+      ],
+      "measured_embedding_cost": {
+        "request_count": 1,
+        "known_cost_usd": 1.3e-06,
+        "cost_usd": 1.3e-06,
+        "unknown_cost_request_count": 0,
+        "prompt_tokens_known": 65
+      }
+    },
+    "lexical_call": {
+      "method": "tfidf",
+      "filter": {},
+      "eligible_count": 162,
+      "returned": 10,
+      "elapsed_ms": 0.3096000000368804,
+      "service_cost_usd": 0,
+      "tokenization": "NFC_casefold_word_regex",
+      "idf_scope": "entire_fixed_snapshot"
+    },
+    "returned": 10,
+    "elapsed_ms": 985.4730000006384
+  },
+  "context_selection": {
+    "context": "[d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82 | starter/data/Foundations_of_Information_Systems.pdf | page 66]\nBusiness and IT alignment as an integral unit, not separate entities, is vital. It is important that organizations\nview IT as a strategic partner, not just a support function. By fostering collaboration and communication\nbetween business and IT stakeholders, organizations can ensure that technology solutions directly address\nbusiness needs and objectives. To improve business-IT alignment, organizations can employ several\nmeasures:11\n• Prioritize organizational communication: Encouraging effective dialogue between different departments,\nfostering interdepartmental partnerships, and promoting mutual understanding between business and IT\nteams ensures sufficient knowledge sharing, well-informed decision-making, and seamless collaboration.\n\n\n[3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881 | starter/data/Foundations_of_Information_Systems.pdf | page 66]\n• Different objectives: Business managers focus on achieving business goals and generating revenue, while\nIT managers concentrate on technology implementation and maintenance.\n• Lack of expertise awareness: Business and IT departments often lack awareness of each other’s expertise\nand perspectives, leading to misunderstandings and misalignment.\n• Lack of communication: Inadequate communication between business and IT executives hinders the\nexchange of valuable insights and requirements.\n\n\n[92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81 | starter/data/Foundations_of_Information_Systems.pdf | page 61]\nquantified the value of their IT\ninvestment by measuring improvements in delivery times, a key performance indicator directly linked to\ncustomer satisfaction.\nIn today’s ever-evolving business landscape, organizations have come to recognize the immense potential of\nIT to enhance the value of their products and services. Leveraging IT has become a key factor in staying\ncompetitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face\nan essential question: How can they effectively assess the value IT adds to their organization?\nDefining the Value of Information Technology Within Organizations\nOver the past decades, businesses and managers have focused on understanding how to employ IT systems\nto achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have\nbeen ushered in with the emergence of a new generation of IT, including elements such as:\n\n\n[9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e | starter/data/Foundations_of_Information_Systems.pdf | page 62]\nThe most common means of understanding the value of information systems in a business is to measure the\nrelationship between IT investments and output measures of revenue and human productivity. This evaluation\ncan be conducted at both the industry level and organizational level. However, the business value of IT goes\nbeyond direct output or revenue measures because IT often supports organizational redesign efforts, such as\nthe traditional taxi services being disrupted by new ride services like Uber or Lyft. This type of business model\ninnovation leverages IT to create entirely new business models, not just enhance existing ones.\nManagers should consider which of the following three primary methods of value IT brings to their\norganization (Figure 2.5):\n\n\n[b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18 | starter/data/Foundations_of_Information_Systems.pdf | page 66]\n• Focus on strengthening governance: Organizations should involve IT in strategic planning to ensure\ntechnology initiatives align with overall business goals. Engaging IT in executive committees enhances the\ndecision-making process. Implementing a structured reporting hierarchy establishes clear communication\nchannels, and defining authorization for decision-making roles ensures efficient execution. Coordinated\ngovernance can help set criteria whereby IT projects are prioritized based on their alignment with\nbusiness objectives.\n• Align scope and IT architecture: Evaluating IT solutions for their effectiveness and customizing them to\nsuit specific scope and business needs can lead to better outcomes.\n• Emphasize the development of human skills: Cultivating readiness to embrace technological changes,\nadapting management styles to support successful IT implementation, and learning from previous\nexperiences contribute to continuous improvement.\n\n\n[d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4 | starter/data/Foundations_of_Information_Systems.pdf | page 67]\nThe details of this case reveal a significant misalignment between IT and business perspectives concerning the\ntechnological aspect of identity cards. Overall, the disparity between the UK’s simple, traditional ID cards and\nthe envisioned technological sophistication of the new cards highlighted the disconnect between IT and\nbusiness perspectives: the clash between a simple, efficient approach and the pursuit of advanced technology.\nThis case emphasizes the importance of fostering collaboration and understanding between IT and\nstakeholders to develop practical and effective solutions for many different business scenarios.\nStrategies to Generate Value Using Information Technology\nIn today’s business landscape, there are five key strategies usually pursued by organizations when seeking to\ngenerate value using IT: cost leadership, differentiation, focus/innovation, operational effectiveness, and\ncustomer orientation.\n",
+    "context_ids": [
+      "d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82",
+      "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881",
+      "92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81",
+      "9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e",
+      "b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18",
+      "d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4"
+    ],
+    "context_chars": 5630,
+    "context_sha256": "2e27485830d713135fae7f0573fe0edc2251e9264c814e8b38e7dfbb806cbe25",
+    "budget_chars": 6000,
+    "remaining_chars": 370,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 6,
+    "skipped_count": 4,
+    "decisions": [
+      {
+        "id": "d311c78ef2bc08c159b1d20b5813042010a41121c3a2a98282c248fa4006ed82",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "metadata": {
+          "end": 2163,
+          "part": 0,
+          "year": 2025,
+          "start": 1417,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 746,
+        "block_characters": 877,
+        "separator_characters": 0,
+        "remaining_before": 6000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "metadata": {
+          "end": 1417,
+          "part": 0,
+          "year": 2025,
+          "start": 925,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 492,
+        "block_characters": 623,
+        "separator_characters": 2,
+        "remaining_before": 5123,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "metadata": {
+          "end": 2094,
+          "part": 1,
+          "year": 2025,
+          "start": 1145,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 949,
+        "block_characters": 1080,
+        "separator_characters": 2,
+        "remaining_before": 4498,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 62,
+        "metadata": {
+          "end": 1614,
+          "part": 0,
+          "year": 2025,
+          "start": 851,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 763,
+        "block_characters": 894,
+        "separator_characters": 2,
+        "remaining_before": 3416,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "metadata": {
+          "end": 3119,
+          "part": 0,
+          "year": 2025,
+          "start": 2163,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 956,
+        "block_characters": 1087,
+        "separator_characters": 2,
+        "remaining_before": 2520,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "d42362a5042d910c2d2ddde72144c725450303c2088b0a07aedf7bf864271ef4",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 67,
+        "metadata": {
+          "end": 928,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 928,
+        "block_characters": 1059,
+        "separator_characters": 2,
+        "remaining_before": 1431,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.4",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 967,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 967,
+        "block_characters": 1098,
+        "separator_characters": 2,
+        "remaining_before": 370,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 65,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 988,
+          "end": 1881,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 893,
+        "block_characters": 1024,
+        "separator_characters": 2,
+        "remaining_before": 370,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "e6b22fa9ced500d35dcf48fd4dba507b1900ba8f4a279c62a3ab1866c3fb0b2f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "metadata": {
+          "end": 1049,
+          "part": 1,
+          "year": 2025,
+          "start": 97,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 952,
+        "block_characters": 1083,
+        "separator_characters": 2,
+        "remaining_before": 370,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "93a3984ba2d3e85cda456bb55aef6d3e41afc6ac8b9365927d26cc8e09f89b38",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 1,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1558,
+          "end": 2251,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 693,
+        "block_characters": 824,
+        "separator_characters": 2,
+        "remaining_before": 370,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 985.7988999992813
+}

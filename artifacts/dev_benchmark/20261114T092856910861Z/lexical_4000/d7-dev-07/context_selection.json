@@ -1,0 +1,79 @@
+{
+  "context": "[ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c | starter/data/Foundations_of_Information_Systems.pdf | page 34]\nIS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n\n\n[06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c | starter/data/Foundations_of_Information_Systems.pdf | page 34]\nof work “Zachman Framework (9026775815)” by National Institute of Standards and Technology/Wikimedia Commons, Public\nDomain)\nThe industry standards that are applicable in IS include the American Society for Industrial Security (ASIS), the\nFederal Information Security Modernization Act (FISMA), IS2020, ISO/IEC 27001, and the Open Group\nArchitecture Framework (TOGAF).\nThe American Society for Industrial Security (ASIS) is a global organization that provides training and\ncertification to help professionals in all industries provide security for people, property, and information. ASIS\nis a global organization that collaborates with public and private organizations throughout the world—such as\nthe Department of Homeland Security and the Federal Bureau of Investigation—to ensure that IS\nprofessionals and others involved in security have the resources needed to successfully handle security issues\nat every stage of their career.\n",
+  "context_ids": [
+    "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+    "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c"
+  ],
+  "context_chars": 1850,
+  "context_sha256": "64b1068fa50eb31552999adeed3ccc56af71dab094785e3e46b5cdc0eb86b777",
+  "budget_chars": 4000,
+  "remaining_chars": 2150,
+  "unit": "Python len(str), Unicode codepoints including headers and separators",
+  "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+  "candidate_occurrences": 2,
+  "unique_candidates": 2,
+  "duplicates_removed": 0,
+  "selected_count": 2,
+  "skipped_count": 0,
+  "decisions": [
+    {
+      "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1552,
+        "end": 2203,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.01639344262295082,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 1
+        }
+      ],
+      "text_characters": 651,
+      "block_characters": 782,
+      "separator_characters": 0,
+      "remaining_before": 4000,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 935,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.016129032258064516,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 2
+        }
+      ],
+      "text_characters": 935,
+      "block_characters": 1066,
+      "separator_characters": 2,
+      "remaining_before": 3218,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    }
+  ],
+  "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+}

@@ -1,0 +1,17 @@
+[e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09 | starter/data/Foundations_of_Information_Systems.pdf | page 30]
+Agile methodology is a framework used to guide project management, primarily by dividing projects into
+phases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and
+reviewing. After each sprint, the project team examines their progress and adjusts before moving to the next
+sprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several
+versions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.
+
+
+[5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc | starter/data/Foundations_of_Information_Systems.pdf | page 30]
+Industry standards help IS professionals ensure that the system they develop has the appropriate
+infrastructure and technological components required to function efficiently. This includes ensuring the
+system is compatible with information systems used in other organizations. After all, an important objective of
+IS to enable information sharing internally and externally as organizations interact in the marketplace.
+Specific Frameworks and Standards in Information Systems
+Starting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for
+Information and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills
+Framework for the Information Age (SFIA), Waterfall, and Zachman.

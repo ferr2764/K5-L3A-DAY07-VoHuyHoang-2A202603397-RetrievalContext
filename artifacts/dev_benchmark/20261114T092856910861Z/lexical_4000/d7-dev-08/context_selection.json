@@ -1,0 +1,226 @@
+{
+  "context": "[1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25 | starter/data/Foundations_of_Information_Systems.pdf | page 36]\nCompetencies in IS\nFor all occupations, including IS positions, the U.S. Department of Labor (DOL) recommends competency-\nbased approaches for hiring employees and for providing the education and training that employees need to\ndo their jobs well. A competency is the ability to apply specific skills, experience, and personal characteristics\nto do a job in an effective and efficient manner. Someone’s personal characteristics are the traits that are\nappropriate for the job or task being done based on the individual’s interests, strengths, background,\neducation, and training. In addition, an individual’s talents, motivations, and personal perceptions of their\nwork influence competency.\nA competency model is a framework that identifies the competencies required for employees to effectively\nperform their job. Generally, for all industries, the competencies that are important include the following\nelements:\n\n\n[5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727 | starter/data/Foundations_of_Information_Systems.pdf | page 36]\nDepartment of Labor has developed the Information Technology Competency Model, a framework that defines\nthe knowledge, skills, and abilities that are essential for IS professionals. It is important for IS professionals to\nunderstand the relationship between IS and IT, as these two disciplines work in tandem to support\norganizational objectives and foster innovation. Further, many of the training and education requirements for\nprofessionals in the IS field use the Information Technology Competency Model to prepare individuals to\nnavigate the complexities of this dynamic and rapidly changing industry.\n\n\n[08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b | starter/data/Foundations_of_Information_Systems.pdf | page 38]\nCompetency Description Examples\nWorkplace Competencies used in the workplace\nGeneral:\n• teamwork\n• creative thinking\n• decision-making\nIS-specific:\n• business fundamentals\n• problem-solving\n• listening\nTechnical General competencies needed in a specific industry\nIS-specific:\n• IS principles and concepts\n• IS standards and IS regulations\n• databases management\n• network administration\n• risk management\nOccupation-\nspecific\nCompetencies directly related to\nspecific positions within an\nindustry\nIS specific:\n\n\n[71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6 | starter/data/Foundations_of_Information_Systems.pdf | page 31]\nThe Skills Framework for the Information Age (SFIA) provides a comprehensive skills and competency\nframework in a common language for the IT industry. It includes the steps listed in Figure 1.7. It was\ndeveloped and is overseen by the SFIA Foundation, a global organization committed to helping IS and other\ntechnology professionals acquire the skills and competencies needed to successfully develop and manage\ntechnology. Organizations around the world in both the public and private sectors use SFIA to map out the\nknowledge and expertise needed to fill each role in their organizations. This includes entry-level to advanced\npositions in the areas of technology development, strategy, architecture, and support.\n1.2 • Frameworks of Knowledge and Industry Standards 21",
+  "context_ids": [
+    "1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25",
+    "5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727",
+    "08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b",
+    "71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6"
+  ],
+  "context_chars": 3332,
+  "context_sha256": "e64a8858d33a58018a2a63969a1e22dc342f4624a918fc76245939da033e5eb2",
+  "budget_chars": 4000,
+  "remaining_chars": 668,
+  "unit": "Python len(str), Unicode codepoints including headers and separators",
+  "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+  "candidate_occurrences": 7,
+  "unique_candidates": 7,
+  "duplicates_removed": 0,
+  "selected_count": 4,
+  "skipped_count": 3,
+  "decisions": [
+    {
+      "id": "1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 36,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.3",
+        "part": 1,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1089,
+        "end": 2004,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.01639344262295082,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 1
+        }
+      ],
+      "text_characters": 915,
+      "block_characters": 1046,
+      "separator_characters": 0,
+      "remaining_before": 4000,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 36,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.3",
+        "part": 1,
+        "attribution": "Access for free at openstax.org.",
+        "start": 482,
+        "end": 1089,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.016129032258064516,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 2
+        }
+      ],
+      "text_characters": 607,
+      "block_characters": 738,
+      "separator_characters": 2,
+      "remaining_before": 2954,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 38,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.3",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 510,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015873015873015872,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 3
+        }
+      ],
+      "text_characters": 510,
+      "block_characters": 641,
+      "separator_characters": 2,
+      "remaining_before": 2214,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 2347,
+        "end": 3117,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015625,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 4
+        }
+      ],
+      "text_characters": 770,
+      "block_characters": 901,
+      "separator_characters": 2,
+      "remaining_before": 1571,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "104728651e548a2f2d3e171d4403e5a5f771865f4ed1e0e33aeb69c47e50a8f9",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 39,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.3",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 982,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015384615384615385,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 5
+        }
+      ],
+      "text_characters": 982,
+      "block_characters": 1113,
+      "separator_characters": 2,
+      "remaining_before": 668,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1552,
+        "end": 2203,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015151515151515152,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 6
+        }
+      ],
+      "text_characters": 651,
+      "block_characters": 782,
+      "separator_characters": 2,
+      "remaining_before": 668,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "0a0f9ce82d58fe33ea6324b610d744a6e36836dd06bea33c140a29663a4687e4",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 37,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.3",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 997,
+        "end": 1955,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014925373134328358,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 7
+        }
+      ],
+      "text_characters": 958,
+      "block_characters": 1089,
+      "separator_characters": 2,
+      "remaining_before": 668,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    }
+  ],
+  "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+}

@@ -1,0 +1,605 @@
+{
+  "query": "Strategic planning khác management control về mục tiêu như thế nào?",
+  "filter": null,
+  "results": [
+    {
+      "id": "1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea",
+      "text": "• Management control is the process of ensuring that the organization is meeting its strategic goals. It\ninvolves setting budgets, monitoring expenses, and tracking sales. Management control is typically done\nby middle management.\n• Strategic planning is the process of setting long-term goals for an organization. It involves identifying the\norganization’s mission, vision, and values, as well as its strategic objectives. Strategic planning is typically\ndone by the organization’s top management team.\nBy classifying information into these categories, Anthony’s framework provides a structured approach to\ngathering, analyzing, and utilizing information for effective planning and control within an organization. Table\n2.1 features data characteristics for the three types of domains.\nDomain Data Use Data Characteristics\nOperational Track and control day-to-day activities. Data are typically detailed and time sensitive.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 59,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 870,
+        "end": 1795,
+        "method": "paragraph-1000"
+      },
+      "score": 0.4379761505542392,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 1
+    },
+    {
+      "id": "2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf",
+      "text": "Management Make decisions about how to allocate resources and achieve goals. Data are typically summarized and less time sensitive than operational data.\nStrategic Set long-term goals and make strategic decisions. Data are typically aggregated and less time sensitive than management data.\nTable 2.1 Three Domains of the Robert Anthony Framework The three domains of the Robert Anthony framework—operational\ncontrol, management control, and strategic planning—each work with different types of data for different purposes.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 59,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1795,
+        "end": 2318,
+        "method": "paragraph-1000"
+      },
+      "score": 0.31032966875056783,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 2
+    },
+    {
+      "id": "f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506",
+      "text": "There is a distinction between information used for strategic planning and information used for management\ncontrol. An organization’s strategic planning is its process of defining the organization’s mission, vision, goals,\nand objectives, and developing strategies to achieve them, often with the support of information systems,\ntypically done by senior-level managers. In contrast, management control ensures efficient day-to-day\noperations and adherence to those strategic plans. The information required for each level serves a distinct\npurpose; hence, the data required also differ. The data need to be in user-friendly formats, enabling managers\nand analysts to easily comprehend and utilize the information according to their specific requirements (Figure\n2.3). Managers, drawing on their expertise and experience while analyzing data, can effectively leverage these\ninsights to address complex business problems. This fosters a dynamic and adaptive approach of leveraging\ncollective data to ",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 58,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 684,
+        "end": 1682,
+        "method": "paragraph-1000"
+      },
+      "score": 0.2783778451590685,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 3
+    },
+    {
+      "id": "5753737545aba6557803791fb2267f4b8315124b220975dd0757cf8f9255922c",
+      "text": "According to the Gorry and Scott Morton framework, management control primarily deals with overseeing and\nguiding people, while operational control focuses on the performance of designated activities or tasks, such as\nmanufacturing a particular part. Typically, operational control systems have a limited ability to provide\nmanagerial control reports or data that are helpful for strategic decision-making. For example, an online retail\nsystem primarily focused on operational control can generate sales reports that may provide valuable data for\nboth managerial and strategic decision-making. Similarly, an online retail system primarily focused on\noperational control can generate reports, such as a sales analysis report. While intended for operational\npurposes, such reports can also provide valuable data for both managerial and strategic decision-making. For\ninstance, Zara has been able to use online retail system data for its supply chain management system to beat\ncompetitors in the time ",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 60,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 2569,
+        "end": 3567,
+        "method": "paragraph-1000"
+      },
+      "score": 0.2774198557821906,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 4
+    },
+    {
+      "id": "116c25de4202a412a7f923b4a589b9322efa40833cf6fe1e1e013e31b23adf08",
+      "text": "Frameworks for Data Management Practices and Processes\nIn the realm of information systems, the Robert Anthony framework, named for the management accounting\npioneer who developed it in 1964, helps in understanding information needs across different organizational\nlevels. This framework categorizes decisions based on the level of certainty surrounding the problem and the\nsolution. The Robert Anthony framework divides a problem, and by extension the data needed to resolve this\nproblem, into three domains: operational control, management control, and strategic planning4 :\n• Operational control is the process of ensuring that the organization’s day-to-day operations are running\nsmoothly. It involves setting production schedules, managing inventory levels, and processing customer\norders. Operational control is typically done by frontline managers and employees.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 59,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 870,
+        "method": "paragraph-1000"
+      },
+      "score": 0.24111476820586486,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 5
+    },
+    {
+      "id": "b0b04690a04fbb87528e3b6669b6a26d448e7bed46505c25a3bad0360aa0da54",
+      "text": "Information System Planning and Management\nInformation systems play an important role in data management by transforming raw data into a strategic\nasset. Information system planning and management involve selecting and implementing the right\ntechnology infrastructure for data storage, processing, analysis, and governance. Information technologies\nand systems play a vital role in facilitating data management within organizations, as they encompass\nactivities such as data acquisition, organization, storage, access, analysis, and interpretation. In the current\nlandscape, characterized by advanced information systems, quick and seamless access to information has\nbecome the norm.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 58,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 684,
+        "method": "paragraph-1000"
+      },
+      "score": 0.20856383623202512,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 6
+    },
+    {
+      "id": "e84e8d9ab654d4d80822ba619a3bf35c20901eabd3f871593f330af37e700be8",
+      "text": "To conduct a thorough examination of the information systems within an organization, a simplified Robert\nAnthony framework can be employed. First, classify each system requirement based on the user and the type\nof decision it supports—whether it pertains to operational control, managerial control, or strategic planning.\nThen, for existing systems, consider factors such as data availability and the governance policies that regulate\naccess by decision-makers. This analysis should help identify whether the existing data align with the intended\npurpose of the information systems and if any modifications or enhancements are needed. This process may\ninvolve reviving outdated systems or proposing new systems.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 61,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 712,
+        "method": "paragraph-1000"
+      },
+      "score": 0.1787150598060921,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 7
+    },
+    {
+      "id": "a6044eff72070ff45c313cd38e1f0b48e194eede70cd7089e3da8c613709e7b1",
+      "text": "• Data analytics and modeling transforms raw data into useful information and analyzes that data to\nprovide information useful in organizational decision-making and other operations.\n• IS project management uses the project management steps of initiation, planning, execution, monitoring,\ncontrol, and closure to handle IS projects.\nIn addition to the benefit of working in a role aligned with an individual’s experience and interest, IS positions\ntend to pay competitive salaries, and the field’s outlook remains promising.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 36,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 525,
+        "method": "paragraph-1000"
+      },
+      "score": 0.1468366902638598,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 8
+    },
+    {
+      "id": "6091d0dbdc9fb02ed1baf2aaa8b104d68f04e58b4559ad88b80a0b408ee72a44",
+      "text": "Figure 2.3 Data processing for particular purposes generates information, and when applied with business acumen, information\ncreates knowledge. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; credit Data: modification of work\n“Project 365 #195: 140709 Let’s Get Jiggy With It” by Pete/Flickr, Public Domain; credit Knowledge: modification of work “Thick arrow\nmade from jigsaw puzzle pieces” by Old Photo Profile/Flickr, CC BY 2.0)\nConsider an example within the energy sector’s need for sustainable energy solutions. To plan information\nsystems for a company in this sector, the chief information officer (CIO) must first understand what decisions\nneed to be made and, correspondingly, what data these decisions require—strategic planning, management\ncontrol, and operational control. The CIO should assess the different types of data currently available. These\ndata can come from various sources across operations. The focus should be on ensuring existing data ",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 58,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1723,
+        "end": 2714,
+        "method": "paragraph-1000"
+      },
+      "score": 0.14569886395400045,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 9
+    },
+    {
+      "id": "b43143e1fb1f9c1cddeec293adae557b3560dd0c02490097131813bfa3a9b48e",
+      "text": "(credit: modification of work “Tiling 6 simple” by T. Piesk/Wikimedia Commons, CC BY 4.0)\nThe automation of repetitive and mundane tasks via IT enables organizations to increase efficiency and reduce\nhuman error. For example, automating inventory management processes can streamline supply chain\noperations, leading to cost savings and improved inventory control. Automation can also enhance customer\nservice through the deployment of chatbots or virtual assistants that can handle routine inquiries and thereby\nfree up human agents to focus on more complex customer needs. For instance, Domino’s leverages IT to\nautomate tasks associated with delivery route planning, finding the most efficient delivery routes, reducing the\nneed for manual planning, and saving valuable time for employees.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 62,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1902,
+        "end": 2694,
+        "method": "paragraph-1000"
+      },
+      "score": 0.134055938308297,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 10
+    }
+  ],
+  "top3": [
+    {
+      "id": "1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea",
+      "text": "• Management control is the process of ensuring that the organization is meeting its strategic goals. It\ninvolves setting budgets, monitoring expenses, and tracking sales. Management control is typically done\nby middle management.\n• Strategic planning is the process of setting long-term goals for an organization. It involves identifying the\norganization’s mission, vision, and values, as well as its strategic objectives. Strategic planning is typically\ndone by the organization’s top management team.\nBy classifying information into these categories, Anthony’s framework provides a structured approach to\ngathering, analyzing, and utilizing information for effective planning and control within an organization. Table\n2.1 features data characteristics for the three types of domains.\nDomain Data Use Data Characteristics\nOperational Track and control day-to-day activities. Data are typically detailed and time sensitive.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 59,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 870,
+        "end": 1795,
+        "method": "paragraph-1000"
+      },
+      "score": 0.4379761505542392,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 1
+    },
+    {
+      "id": "2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf",
+      "text": "Management Make decisions about how to allocate resources and achieve goals. Data are typically summarized and less time sensitive than operational data.\nStrategic Set long-term goals and make strategic decisions. Data are typically aggregated and less time sensitive than management data.\nTable 2.1 Three Domains of the Robert Anthony Framework The three domains of the Robert Anthony framework—operational\ncontrol, management control, and strategic planning—each work with different types of data for different purposes.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 59,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1795,
+        "end": 2318,
+        "method": "paragraph-1000"
+      },
+      "score": 0.31032966875056783,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 2
+    },
+    {
+      "id": "f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506",
+      "text": "There is a distinction between information used for strategic planning and information used for management\ncontrol. An organization’s strategic planning is its process of defining the organization’s mission, vision, goals,\nand objectives, and developing strategies to achieve them, often with the support of information systems,\ntypically done by senior-level managers. In contrast, management control ensures efficient day-to-day\noperations and adherence to those strategic plans. The information required for each level serves a distinct\npurpose; hence, the data required also differ. The data need to be in user-friendly formats, enabling managers\nand analysts to easily comprehend and utilize the information according to their specific requirements (Figure\n2.3). Managers, drawing on their expertise and experience while analyzing data, can effectively leverage these\ninsights to address complex business problems. This fosters a dynamic and adaptive approach of leveraging\ncollective data to ",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 58,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 684,
+        "end": 1682,
+        "method": "paragraph-1000"
+      },
+      "score": 0.2783778451590685,
+      "method": "tfidf",
+      "score_type": "tfidf_cosine",
+      "rank": 3
+    }
+  ],
+  "trace": {
+    "method": "tfidf",
+    "filter": {},
+    "eligible_count": 162,
+    "returned": 10,
+    "elapsed_ms": 0.3362000006745802,
+    "service_cost_usd": 0,
+    "tokenization": "NFC_casefold_word_regex",
+    "idf_scope": "entire_fixed_snapshot"
+  },
+  "context_selection": {
+    "context": "[1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea | starter/data/Foundations_of_Information_Systems.pdf | page 59]\n• Management control is the process of ensuring that the organization is meeting its strategic goals. It\ninvolves setting budgets, monitoring expenses, and tracking sales. Management control is typically done\nby middle management.\n• Strategic planning is the process of setting long-term goals for an organization. It involves identifying the\norganization’s mission, vision, and values, as well as its strategic objectives. Strategic planning is typically\ndone by the organization’s top management team.\nBy classifying information into these categories, Anthony’s framework provides a structured approach to\ngathering, analyzing, and utilizing information for effective planning and control within an organization. Table\n2.1 features data characteristics for the three types of domains.\nDomain Data Use Data Characteristics\nOperational Track and control day-to-day activities. Data are typically detailed and time sensitive.\n\n\n[2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf | starter/data/Foundations_of_Information_Systems.pdf | page 59]\nManagement Make decisions about how to allocate resources and achieve goals. Data are typically summarized and less time sensitive than operational data.\nStrategic Set long-term goals and make strategic decisions. Data are typically aggregated and less time sensitive than management data.\nTable 2.1 Three Domains of the Robert Anthony Framework The three domains of the Robert Anthony framework—operational\ncontrol, management control, and strategic planning—each work with different types of data for different purposes.\n\n\n[f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506 | starter/data/Foundations_of_Information_Systems.pdf | page 58]\nThere is a distinction between information used for strategic planning and information used for management\ncontrol. An organization’s strategic planning is its process of defining the organization’s mission, vision, goals,\nand objectives, and developing strategies to achieve them, often with the support of information systems,\ntypically done by senior-level managers. In contrast, management control ensures efficient day-to-day\noperations and adherence to those strategic plans. The information required for each level serves a distinct\npurpose; hence, the data required also differ. The data need to be in user-friendly formats, enabling managers\nand analysts to easily comprehend and utilize the information according to their specific requirements (Figure\n2.3). Managers, drawing on their expertise and experience while analyzing data, can effectively leverage these\ninsights to address complex business problems. This fosters a dynamic and adaptive approach of leveraging\ncollective data to \n\n[5753737545aba6557803791fb2267f4b8315124b220975dd0757cf8f9255922c | starter/data/Foundations_of_Information_Systems.pdf | page 60]\nAccording to the Gorry and Scott Morton framework, management control primarily deals with overseeing and\nguiding people, while operational control focuses on the performance of designated activities or tasks, such as\nmanufacturing a particular part. Typically, operational control systems have a limited ability to provide\nmanagerial control reports or data that are helpful for strategic decision-making. For example, an online retail\nsystem primarily focused on operational control can generate sales reports that may provide valuable data for\nboth managerial and strategic decision-making. Similarly, an online retail system primarily focused on\noperational control can generate reports, such as a sales analysis report. While intended for operational\npurposes, such reports can also provide valuable data for both managerial and strategic decision-making. For\ninstance, Zara has been able to use online retail system data for its supply chain management system to beat\ncompetitors in the time ",
+    "context_ids": [
+      "1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea",
+      "2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf",
+      "f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506",
+      "5753737545aba6557803791fb2267f4b8315124b220975dd0757cf8f9255922c"
+    ],
+    "context_chars": 3974,
+    "context_sha256": "1ea13c0fa8756d039dc3f189375521c9935413f8e6578e2b8f67854b02a75bfa",
+    "budget_chars": 4000,
+    "remaining_chars": 26,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 4,
+    "skipped_count": 6,
+    "decisions": [
+      {
+        "id": "1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 59,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 870,
+          "end": 1795,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 925,
+        "block_characters": 1056,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 59,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1795,
+          "end": 2318,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 523,
+        "block_characters": 654,
+        "separator_characters": 2,
+        "remaining_before": 2944,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 58,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 684,
+          "end": 1682,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 998,
+        "block_characters": 1129,
+        "separator_characters": 2,
+        "remaining_before": 2288,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "5753737545aba6557803791fb2267f4b8315124b220975dd0757cf8f9255922c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 60,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 2569,
+          "end": 3567,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 998,
+        "block_characters": 1129,
+        "separator_characters": 2,
+        "remaining_before": 1157,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "116c25de4202a412a7f923b4a589b9322efa40833cf6fe1e1e013e31b23adf08",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 59,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 870,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 870,
+        "block_characters": 1001,
+        "separator_characters": 2,
+        "remaining_before": 26,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "b0b04690a04fbb87528e3b6669b6a26d448e7bed46505c25a3bad0360aa0da54",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 58,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 684,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 684,
+        "block_characters": 815,
+        "separator_characters": 2,
+        "remaining_before": 26,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "e84e8d9ab654d4d80822ba619a3bf35c20901eabd3f871593f330af37e700be8",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 712,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 712,
+        "block_characters": 843,
+        "separator_characters": 2,
+        "remaining_before": 26,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "a6044eff72070ff45c313cd38e1f0b48e194eede70cd7089e3da8c613709e7b1",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 36,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 525,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 525,
+        "block_characters": 656,
+        "separator_characters": 2,
+        "remaining_before": 26,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "6091d0dbdc9fb02ed1baf2aaa8b104d68f04e58b4559ad88b80a0b408ee72a44",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 58,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1723,
+          "end": 2714,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 991,
+        "block_characters": 1122,
+        "separator_characters": 2,
+        "remaining_before": 26,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "b43143e1fb1f9c1cddeec293adae557b3560dd0c02490097131813bfa3a9b48e",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 62,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1902,
+          "end": 2694,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 792,
+        "block_characters": 923,
+        "separator_characters": 2,
+        "remaining_before": 26,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 0.5605999995168531
+}

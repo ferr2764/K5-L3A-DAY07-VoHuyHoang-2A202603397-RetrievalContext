@@ -1,0 +1,76 @@
+{
+  "created_at_utc": "20261114T095320637430Z",
+  "scope": "Freeze BEFORE test API calls",
+  "baseline": {
+    "id": "dense_4000",
+    "method": "dense",
+    "return_top_k": 10,
+    "ranking_cutoffs": [
+      1,
+      3
+    ],
+    "context_budget_chars": 4000,
+    "max_searches": 2,
+    "max_model_decisions": 3,
+    "role": "baseline",
+    "rrf_k": null
+  },
+  "selected": {
+    "id": "hybrid_6000",
+    "method": "hybrid_rrf",
+    "return_top_k": 10,
+    "ranking_cutoffs": [
+      1,
+      3
+    ],
+    "context_budget_chars": 6000,
+    "max_searches": 2,
+    "max_model_decisions": 3,
+    "role": "improvement_2_context_budget_only",
+    "rrf_k": 60
+  },
+  "controller": {
+    "model": "openai/gpt-4.1-mini",
+    "prompt_sha256": "9ad421ed8535924986ed172ece09faaf9b2cb00c112cd72d078dd6bc42165ad7",
+    "tools_sha256": "727b080c7961699d1df1256d604f351473431031b3556aa6a46bba19d42dfd85",
+    "generation_settings": {
+      "temperature": 0,
+      "max_tokens": 800,
+      "parallel_tool_calls": false,
+      "tool_choice": "required",
+      "max_retries": 2,
+      "timeout_seconds": 60
+    },
+    "provider": "OpenRouter",
+    "context_transport": "latest repacked cumulative context via paired assistant/tool messages"
+  },
+  "selection_rule": [
+    "fewer_system_errors",
+    "higher_grounded_answer_mean_all_answerable_errors_zero",
+    "higher_abstention_rate_all_unanswerable_errors_fail",
+    "higher_supported_citation_rate_NA_last",
+    "higher_context_evidence_rate",
+    "higher_original_query_evidence_hit3",
+    "higher_original_query_hit1",
+    "lower_comparable_actual_usd_else_skip",
+    "lower_median_end_to_end_latency",
+    "smaller_context_budget",
+    "configuration_id_alphabetical"
+  ],
+  "dev_run": "artifacts/dev_retries/20261114T093849461754Z",
+  "dev_reviews_sha256": "00ca9eec03c2778d6979b663995bc6e95c0d6c9e75490f02502f6f4e4d3b67d6",
+  "dev_selection_sha256": "01956fa25cb27c95ad9070536f18ce145454bd922233f4cc80a3cc93895790e8",
+  "file_hashes": {
+    "src/agent_runtime.py": "4e6c789e7c236e9581182dbf57d62cce3222f2137534db484c5fa49c4c988ca6",
+    "src/context_builder.py": "fd015b4741555c5ac808ba7d8ee054e5d28c77b96ea937609ee5db21b1469d61",
+    "src/retrieval.py": "6214a0921dc4e2b4c8899165456226bcdd3ea152d78c1caae5dd96681c5b3a80",
+    "src/dev_evaluation.py": "d1e96b91c236e0bd05e77ccd21646dc91daa3b4a73feac87708b2b08e738d646",
+    "starter/dense_retriever.py": "f7f0d2f6c4c20ca1080d031bcd0e9e0b555d8e96d5410251dfdf1b20a37e60f9",
+    "src/prompts/agent_system.txt": "02c28d048779e9626597bc15e5f1225d8246326e9b04800b9526c1ce2889a222",
+    "data/benchmark/evaluation_protocol.json": "2d2ff50bd6407fffcfa0a13ecff2fb265e6037a5c2297135936393bd034d2f0b",
+    "starter/data/day6/chunks.json": "1c7f0683495b7d53a55a510fc541d472d8d905f83709b83c17c8def82c12dbb4",
+    "data/benchmark/questions.json": "aa58d6b0d688eb053bffb7d4726cbe489829cbe5204c805d80f48ca984b8d61a"
+  },
+  "review_provenance": "Codex source/content review; student confirmation pending",
+  "no_test_tuning": true
+}

@@ -1,0 +1,1049 @@
+{
+  "query": "Năm quy trình của COBIT là gì?",
+  "filter": null,
+  "results": [
+    {
+      "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+      "text": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 2568,
+        "part": 0,
+        "year": 2025,
+        "start": 1942,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03278688524590164,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.6845285510628226,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.25449443235735847,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+      "text": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 3207,
+        "part": 0,
+        "year": 2025,
+        "start": 2568,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03225806451612903,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.5868190075318586,
+          "rrf_contribution": 0.016129032258064516
+        },
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.13463202026125196,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 1415,
+        "part": 0,
+        "year": 2025,
+        "start": 652,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.031746031746031744,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 3,
+          "raw_score": 0.39233598478666276,
+          "rrf_contribution": 0.015873015873015872
+        },
+        "lexical": {
+          "rank": 3,
+          "raw_score": 0.13122542736159368,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 3
+    },
+    {
+      "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+      "text": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "metadata": {
+        "end": 2203,
+        "part": 0,
+        "year": 2025,
+        "start": 1552,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015625,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 4,
+          "raw_score": 0.37723455650579507,
+          "rrf_contribution": 0.015625
+        }
+      },
+      "rank": 4
+    },
+    {
+      "id": "6b4f320ffea0272e4e09c1e7e4c563c01813339a1360c12df98066aea422af7b",
+      "text": "ISO/IEC 27001 is a worldwide standard established by the International Organization for Standardization that\ndefines the requirements information systems must satisfy to provide adequate security for any system. ISO/\nIEC 27001 applies to all sizes and types of organizations in both the public and private sectors. The standard\nfocuses on cybercrime but helps organizations guard against any threats to data availability, integrity, and\nconfidentiality.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "metadata": {
+        "end": 2657,
+        "part": 0,
+        "year": 2025,
+        "start": 2203,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015384615384615385,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 5,
+          "raw_score": 0.36475949889174486,
+          "rrf_contribution": 0.015384615384615385
+        }
+      },
+      "rank": 5
+    },
+    {
+      "id": "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+      "text": "discusses best practices for managing information technology. ITIL is managed and updated by AXELOS, a\ncompany that provides training and certifications to various technology professionals, including those in IS.\nITIL offers guidance, as well as professional certification, for carrying out twenty-six processes in the areas of\nservice strategy, design, transition, operation, and improvement.\nThe McKinsey 7-S Framework focuses on how an organization can be efficient and effective with interaction\nand coordination of its staff, structure, strategy, skills, systems, style, and shared values. The goal of the\nframework is to determine how an organization can be effective with interaction and coordination of the seven\nelements:\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "metadata": {
+        "end": 731,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015151515151515152,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 6,
+          "raw_score": 0.3441561860385629,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 6
+    },
+    {
+      "id": "5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727",
+      "text": "Department of Labor has developed the Information Technology Competency Model, a framework that defines\nthe knowledge, skills, and abilities that are essential for IS professionals. It is important for IS professionals to\nunderstand the relationship between IS and IT, as these two disciplines work in tandem to support\norganizational objectives and foster innovation. Further, many of the training and education requirements for\nprofessionals in the IS field use the Information Technology Competency Model to prepare individuals to\nnavigate the complexities of this dynamic and rapidly changing industry.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 36,
+      "metadata": {
+        "end": 1089,
+        "part": 1,
+        "year": 2025,
+        "start": 482,
+        "method": "paragraph-1000",
+        "section": "1.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.014925373134328358,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 7,
+          "raw_score": 0.3348160079607928,
+          "rrf_contribution": 0.014925373134328358
+        }
+      },
+      "rank": 7
+    },
+    {
+      "id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+      "text": "organizations.\nStrategies to Improve the Value of Information Technology for\nOrganizations\nUnderstanding the role of business processes within an organization is vital to measuring the specific value\nthat IT can deliver and the mechanisms through which it achieves this. Information systems professionals\nknow that technology alone is not the sole determinant of digital success, and that strategy is an important\ncatalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of\nthe IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly\nsupports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure\n2.6):\n• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading\nto new revenue opportunities.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 65,
+      "metadata": {
+        "end": 1881,
+        "part": 0,
+        "year": 2025,
+        "start": 988,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.014705882352941176,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 8,
+          "raw_score": 0.33036072146928275,
+          "rrf_contribution": 0.014705882352941176
+        }
+      },
+      "rank": 8
+    },
+    {
+      "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+      "text": "of work “Zachman Framework (9026775815)” by National Institute of Standards and Technology/Wikimedia Commons, Public\nDomain)\nThe industry standards that are applicable in IS include the American Society for Industrial Security (ASIS), the\nFederal Information Security Modernization Act (FISMA), IS2020, ISO/IEC 27001, and the Open Group\nArchitecture Framework (TOGAF).\nThe American Society for Industrial Security (ASIS) is a global organization that provides training and\ncertification to help professionals in all industries provide security for people, property, and information. ASIS\nis a global organization that collaborates with public and private organizations throughout the world—such as\nthe Department of Homeland Security and the Federal Bureau of Investigation—to ensure that IS\nprofessionals and others involved in security have the resources needed to successfully handle security issues\nat every stage of their career.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "metadata": {
+        "end": 935,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.014492753623188406,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 9,
+          "raw_score": 0.3283787084762665,
+          "rrf_contribution": 0.014492753623188406
+        }
+      },
+      "rank": 9
+    },
+    {
+      "id": "b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18",
+      "text": "• Focus on strengthening governance: Organizations should involve IT in strategic planning to ensure\ntechnology initiatives align with overall business goals. Engaging IT in executive committees enhances the\ndecision-making process. Implementing a structured reporting hierarchy establishes clear communication\nchannels, and defining authorization for decision-making roles ensures efficient execution. Coordinated\ngovernance can help set criteria whereby IT projects are prioritized based on their alignment with\nbusiness objectives.\n• Align scope and IT architecture: Evaluating IT solutions for their effectiveness and customizing them to\nsuit specific scope and business needs can lead to better outcomes.\n• Emphasize the development of human skills: Cultivating readiness to embrace technological changes,\nadapting management styles to support successful IT implementation, and learning from previous\nexperiences contribute to continuous improvement.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 66,
+      "metadata": {
+        "end": 3119,
+        "part": 0,
+        "year": 2025,
+        "start": 2163,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.014285714285714285,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 10,
+          "raw_score": 0.3251185258501239,
+          "rrf_contribution": 0.014285714285714285
+        }
+      },
+      "rank": 10
+    }
+  ],
+  "top3": [
+    {
+      "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+      "text": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 2568,
+        "part": 0,
+        "year": 2025,
+        "start": 1942,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03278688524590164,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.6845285510628226,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.25449443235735847,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+      "text": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 3207,
+        "part": 0,
+        "year": 2025,
+        "start": 2568,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03225806451612903,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.5868190075318586,
+          "rrf_contribution": 0.016129032258064516
+        },
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.13463202026125196,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 1415,
+        "part": 0,
+        "year": 2025,
+        "start": 652,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.031746031746031744,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 3,
+          "raw_score": 0.39233598478666276,
+          "rrf_contribution": 0.015873015873015872
+        },
+        "lexical": {
+          "rank": 3,
+          "raw_score": 0.13122542736159368,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 3
+    }
+  ],
+  "trace": {
+    "method": "hybrid_rrf",
+    "filter": {},
+    "candidate_k_per_branch": 10,
+    "rrf_k": 60,
+    "dense_results": [
+      {
+        "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "text": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+        "metadata": {
+          "end": 2568,
+          "part": 0,
+          "year": 2025,
+          "start": 1942,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.6845285510628226,
+        "rank": 1,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "text": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 3207,
+          "part": 0,
+          "year": 2025,
+          "start": 2568,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.5868190075318586,
+        "rank": 2,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+        "metadata": {
+          "end": 1415,
+          "part": 0,
+          "year": 2025,
+          "start": 652,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.39233598478666276,
+        "rank": 3,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "text": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n",
+        "metadata": {
+          "end": 2203,
+          "part": 0,
+          "year": 2025,
+          "start": 1552,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.37723455650579507,
+        "rank": 4,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "6b4f320ffea0272e4e09c1e7e4c563c01813339a1360c12df98066aea422af7b",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "text": "ISO/IEC 27001 is a worldwide standard established by the International Organization for Standardization that\ndefines the requirements information systems must satisfy to provide adequate security for any system. ISO/\nIEC 27001 applies to all sizes and types of organizations in both the public and private sectors. The standard\nfocuses on cybercrime but helps organizations guard against any threats to data availability, integrity, and\nconfidentiality.\n",
+        "metadata": {
+          "end": 2657,
+          "part": 0,
+          "year": 2025,
+          "start": 2203,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.36475949889174486,
+        "rank": 5,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 31,
+        "text": "discusses best practices for managing information technology. ITIL is managed and updated by AXELOS, a\ncompany that provides training and certifications to various technology professionals, including those in IS.\nITIL offers guidance, as well as professional certification, for carrying out twenty-six processes in the areas of\nservice strategy, design, transition, operation, and improvement.\nThe McKinsey 7-S Framework focuses on how an organization can be efficient and effective with interaction\nand coordination of its staff, structure, strategy, skills, systems, style, and shared values. The goal of the\nframework is to determine how an organization can be effective with interaction and coordination of the seven\nelements:\n",
+        "metadata": {
+          "end": 731,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3441561860385629,
+        "rank": 6,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 36,
+        "text": "Department of Labor has developed the Information Technology Competency Model, a framework that defines\nthe knowledge, skills, and abilities that are essential for IS professionals. It is important for IS professionals to\nunderstand the relationship between IS and IT, as these two disciplines work in tandem to support\norganizational objectives and foster innovation. Further, many of the training and education requirements for\nprofessionals in the IS field use the Information Technology Competency Model to prepare individuals to\nnavigate the complexities of this dynamic and rapidly changing industry.\n",
+        "metadata": {
+          "end": 1089,
+          "part": 1,
+          "year": 2025,
+          "start": 482,
+          "method": "paragraph-1000",
+          "section": "1.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3348160079607928,
+        "rank": 7,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 65,
+        "text": "organizations.\nStrategies to Improve the Value of Information Technology for\nOrganizations\nUnderstanding the role of business processes within an organization is vital to measuring the specific value\nthat IT can deliver and the mechanisms through which it achieves this. Information systems professionals\nknow that technology alone is not the sole determinant of digital success, and that strategy is an important\ncatalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of\nthe IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly\nsupports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure\n2.6):\n• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading\nto new revenue opportunities.\n",
+        "metadata": {
+          "end": 1881,
+          "part": 0,
+          "year": 2025,
+          "start": 988,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.33036072146928275,
+        "rank": 8,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "text": "of work “Zachman Framework (9026775815)” by National Institute of Standards and Technology/Wikimedia Commons, Public\nDomain)\nThe industry standards that are applicable in IS include the American Society for Industrial Security (ASIS), the\nFederal Information Security Modernization Act (FISMA), IS2020, ISO/IEC 27001, and the Open Group\nArchitecture Framework (TOGAF).\nThe American Society for Industrial Security (ASIS) is a global organization that provides training and\ncertification to help professionals in all industries provide security for people, property, and information. ASIS\nis a global organization that collaborates with public and private organizations throughout the world—such as\nthe Department of Homeland Security and the Federal Bureau of Investigation—to ensure that IS\nprofessionals and others involved in security have the resources needed to successfully handle security issues\nat every stage of their career.\n",
+        "metadata": {
+          "end": 935,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3283787084762665,
+        "rank": 9,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "text": "• Focus on strengthening governance: Organizations should involve IT in strategic planning to ensure\ntechnology initiatives align with overall business goals. Engaging IT in executive committees enhances the\ndecision-making process. Implementing a structured reporting hierarchy establishes clear communication\nchannels, and defining authorization for decision-making roles ensures efficient execution. Coordinated\ngovernance can help set criteria whereby IT projects are prioritized based on their alignment with\nbusiness objectives.\n• Align scope and IT architecture: Evaluating IT solutions for their effectiveness and customizing them to\nsuit specific scope and business needs can lead to better outcomes.\n• Emphasize the development of human skills: Cultivating readiness to embrace technological changes,\nadapting management styles to support successful IT implementation, and learning from previous\nexperiences contribute to continuous improvement.\n",
+        "metadata": {
+          "end": 3119,
+          "part": 0,
+          "year": 2025,
+          "start": 2163,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3251185258501239,
+        "rank": 10,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      }
+    ],
+    "lexical_results": [
+      {
+        "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+        "text": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1942,
+          "end": 2568,
+          "method": "paragraph-1000"
+        },
+        "score": 0.25449443235735847,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 1
+      },
+      {
+        "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+        "text": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 2568,
+          "end": 3207,
+          "method": "paragraph-1000"
+        },
+        "score": 0.13463202026125196,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 2
+      },
+      {
+        "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+        "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 652,
+          "end": 1415,
+          "method": "paragraph-1000"
+        },
+        "score": 0.13122542736159368,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 3
+      }
+    ],
+    "dense_call": {
+      "method": "dense",
+      "filter": {},
+      "returned": 10,
+      "elapsed_ms": 845.3554000006989,
+      "cache_hit": false,
+      "service_cost_usd": null,
+      "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+      "model": "openai/text-embedding-3-small",
+      "dimensions": 1536,
+      "strategy": "B",
+      "embedding_requests": [
+        {
+          "status": "ok",
+          "id": "gen-emb-1794648543-XN6AygPxUJsi30UHoz0I",
+          "elapsed_ms": 785.1861999988614,
+          "usage": {
+            "prompt_tokens": 13,
+            "total_tokens": 13,
+            "cost": 2.6e-07,
+            "is_byok": false,
+            "cost_details": {
+              "upstream_inference_cost": 2.6e-07,
+              "upstream_inference_prompt_cost": 2.6e-07,
+              "upstream_inference_completions_cost": 0
+            }
+          }
+        }
+      ],
+      "measured_embedding_cost": {
+        "request_count": 1,
+        "known_cost_usd": 2.6e-07,
+        "cost_usd": 2.6e-07,
+        "unknown_cost_request_count": 0,
+        "prompt_tokens_known": 13
+      }
+    },
+    "lexical_call": {
+      "method": "tfidf",
+      "filter": {},
+      "eligible_count": 162,
+      "returned": 3,
+      "elapsed_ms": 0.23949999922479037,
+      "service_cost_usd": 0,
+      "tokenization": "NFC_casefold_word_regex",
+      "idf_scope": "entire_fixed_snapshot"
+    },
+    "returned": 10,
+    "elapsed_ms": 845.8658999988984
+  },
+  "context_selection": {
+    "context": "[e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nControl Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n\n\n[05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2 | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nFigure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org\n\n[5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nIndustry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n\n\n[ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c | starter/data/Foundations_of_Information_Systems.pdf | page 34]\nIS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n\n\n[6b4f320ffea0272e4e09c1e7e4c563c01813339a1360c12df98066aea422af7b | starter/data/Foundations_of_Information_Systems.pdf | page 34]\nISO/IEC 27001 is a worldwide standard established by the International Organization for Standardization that\ndefines the requirements information systems must satisfy to provide adequate security for any system. ISO/\nIEC 27001 applies to all sizes and types of organizations in both the public and private sectors. The standard\nfocuses on cybercrime but helps organizations guard against any threats to data availability, integrity, and\nconfidentiality.\n",
+    "context_ids": [
+      "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+      "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+      "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+      "6b4f320ffea0272e4e09c1e7e4c563c01813339a1360c12df98066aea422af7b"
+    ],
+    "context_chars": 3796,
+    "context_sha256": "ee103aaf447c10b4551494f7136d2e816d8f7b3bcd756bf51a8b27729bce29aa",
+    "budget_chars": 4000,
+    "remaining_chars": 204,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 5,
+    "skipped_count": 5,
+    "decisions": [
+      {
+        "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "end": 2568,
+          "part": 0,
+          "year": 2025,
+          "start": 1942,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 626,
+        "block_characters": 757,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "end": 3207,
+          "part": 0,
+          "year": 2025,
+          "start": 2568,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 639,
+        "block_characters": 770,
+        "separator_characters": 2,
+        "remaining_before": 3243,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "end": 1415,
+          "part": 0,
+          "year": 2025,
+          "start": 652,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 763,
+        "block_characters": 894,
+        "separator_characters": 2,
+        "remaining_before": 2471,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "metadata": {
+          "end": 2203,
+          "part": 0,
+          "year": 2025,
+          "start": 1552,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 651,
+        "block_characters": 782,
+        "separator_characters": 2,
+        "remaining_before": 1575,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "6b4f320ffea0272e4e09c1e7e4c563c01813339a1360c12df98066aea422af7b",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "metadata": {
+          "end": 2657,
+          "part": 0,
+          "year": 2025,
+          "start": 2203,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 454,
+        "block_characters": 585,
+        "separator_characters": 2,
+        "remaining_before": 791,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 31,
+        "metadata": {
+          "end": 731,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 731,
+        "block_characters": 862,
+        "separator_characters": 2,
+        "remaining_before": 204,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 36,
+        "metadata": {
+          "end": 1089,
+          "part": 1,
+          "year": 2025,
+          "start": 482,
+          "method": "paragraph-1000",
+          "section": "1.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 607,
+        "block_characters": 738,
+        "separator_characters": 2,
+        "remaining_before": 204,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 65,
+        "metadata": {
+          "end": 1881,
+          "part": 0,
+          "year": 2025,
+          "start": 988,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 893,
+        "block_characters": 1024,
+        "separator_characters": 2,
+        "remaining_before": 204,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "metadata": {
+          "end": 935,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 935,
+        "block_characters": 1066,
+        "separator_characters": 2,
+        "remaining_before": 204,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "b6e7c19d6931e7943e6792828a8cbbd9cc41a4ece3d612acfb0322ebdf5eab18",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "metadata": {
+          "end": 3119,
+          "part": 0,
+          "year": 2025,
+          "start": 2163,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 956,
+        "block_characters": 1087,
+        "separator_characters": 2,
+        "remaining_before": 204,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 846.4317999987543
+}

@@ -1,0 +1,1173 @@
+{
+  "query": "Theo corpus này, giá thuê bao Cohealo + Clinical mỗi tháng năm 2025 là bao nhiêu USD?",
+  "filter": null,
+  "results": [
+    {
+      "id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+      "text": "1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the\nutilization of their most critical technology investments. By spreading out costs and consumption, Cohealo\nenables new efficiencies, faster capital redeployment cycles, and improved return on investment.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 2580,
+        "part": 0,
+        "year": 2025,
+        "start": 1906,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03252247488101534,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.39421671739046094,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.16922253572792084,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+      "text": "3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical\nequipment across the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the\nemergence of disruptive business models.\nSeveral factors influence the success of the sharing economy model in the health-care sector, as observed in\nCohealo’s case12 :\n• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered\nsuitable for sharing.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 3525,
+        "part": 0,
+        "year": 2025,
+        "start": 2580,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03252247488101534,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.3704321774898689,
+          "rrf_contribution": 0.016129032258064516
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.2608820720876565,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+      "text": "Case Study: Transforming Health Care Through the Sharing Economy Model\nThe U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 1906,
+        "part": 0,
+        "year": 2025,
+        "start": 1185,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.031746031746031744,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 3,
+          "raw_score": 0.3365083354171561,
+          "rrf_contribution": 0.015873015873015872
+        },
+        "lexical": {
+          "rank": 3,
+          "raw_score": 0.14549206295326106,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 3
+    },
+    {
+      "id": "aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f",
+      "text": "• Clustering of resources: The concentration of interconnected health-care companies and institutions in\n12 Ayushi Tandon, “Cohealo! Sharing Economy Determinants in Healthcare Industry,” SSRN, December 2017, http://dx.doi.org/\n10.2139/ssrn.3677462\n60 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 3871,
+        "part": 0,
+        "year": 2025,
+        "start": 3525,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.030776515151515152,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 4,
+          "raw_score": 0.2743796880552054,
+          "rrf_contribution": 0.015625
+        },
+        "lexical": {
+          "rank": 6,
+          "raw_score": 0.07763336261108567,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 4
+    },
+    {
+      "id": "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+      "text": "1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,\nhttps://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/\n2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,\nhttps://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-\nunused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D\n42 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "metadata": {
+        "end": 5009,
+        "part": 0,
+        "year": 2025,
+        "start": 4423,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03055037313432836,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 7,
+          "raw_score": 0.19133086878184757,
+          "rrf_contribution": 0.014925373134328358
+        },
+        "lexical": {
+          "rank": 4,
+          "raw_score": 0.10959368460966673,
+          "rrf_contribution": 0.015625
+        }
+      },
+      "rank": 5
+    },
+    {
+      "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+      "text": "specific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 71,
+      "metadata": {
+        "end": 358,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.030309988518943745,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 5,
+          "raw_score": 0.24104507445142087,
+          "rrf_contribution": 0.015384615384615385
+        },
+        "lexical": {
+          "rank": 7,
+          "raw_score": 0.07333826796637671,
+          "rrf_contribution": 0.014925373134328358
+        }
+      },
+      "rank": 6
+    },
+    {
+      "id": "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92",
+      "text": "from their data. Decisions about data management have long-lasting impacts, so it is important\nfor organizations to select suitable frameworks for managing data.\nIdentifying Practices and Frameworks That Assist Data Management\nAnalysts report that by 2025 the global volume of data is expected to reach 200 zettabytes.1 A zettabyte is a\nmeasure of digital storage capacity equal to a thousand exabytes, a billion terabytes, or a trillion gigabytes.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 2515,
+        "end": 2964,
+        "method": "paragraph-1000"
+      },
+      "score": 0.015384615384615385,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 5,
+          "raw_score": 0.08383789104125831,
+          "rrf_contribution": 0.015384615384615385
+        }
+      },
+      "rank": 7
+    },
+    {
+      "id": "00f8596499f471efc2f2274a7093a3d38f1e87fb996d4c1fe9bcf283d3da32e2",
+      "text": "10 Parmy Olson, “Under Armour Buys Health-Tracking App MyFitnessPal for $475 Million,” Forbes, February 4, 2015,\nhttps://www.forbes.com/sites/parmyolson/2015/02/04/myfitnesspal-acquisition-under-armour/\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 53",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 63,
+      "metadata": {
+        "end": 2887,
+        "part": 0,
+        "year": 2025,
+        "start": 2597,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015151515151515152,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 6,
+          "raw_score": 0.2015942463651459,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 8
+    },
+    {
+      "id": "5c73687c1a3343e5e8dc704b79fb700cd4fda792639dfc5424e0118d871b631d",
+      "text": "• crowdsourcing platforms: online marketplaces where businesses or individuals can outsource tasks or\nproblems to a large, dispersed group of people\nhttps://quickbooks.intuit.com/r/supply-chain/zara-supply-chain-its-secret-to-retail-success/\n7 Rashik Parmar, Marc Peters, and Llewellyn D.W. Thomas, “What Is Responsible Computing?” Harvard Business Review, July 7, 2023,\nhttps://hbr.org/2023/07/what-is-responsible-computing\n8 “Domino’s: Taking the Guesswork Out of Pizza Delivery with Google Maps Platform,” Google Cloud, accessed January 19, 2025,\nhttps://cloud.google.com/customers/dominos-maps\n9 Jacob Roach, “How Nvidia Is Using A.I. to Help Domino’s Deliver Pizzas Faster,” Digital Trends, November 9, 2021,\nhttps://www.digitaltrends.com/computing/nvidia-using-ai-to-help-dominos-deliver-pizzas-faster/\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 51",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 61,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.2",
+        "part": 1,
+        "attribution": "Access for free at openstax.org.",
+        "start": 2094,
+        "end": 2990,
+        "method": "paragraph-1000"
+      },
+      "score": 0.014705882352941176,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 8,
+          "raw_score": 0.04537138451094368,
+          "rrf_contribution": 0.014705882352941176
+        }
+      },
+      "rank": 9
+    },
+    {
+      "id": "d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3",
+      "text": "62 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 72,
+      "metadata": {
+        "end": 2488,
+        "part": 0,
+        "year": 2025,
+        "start": 2390,
+        "method": "paragraph-1000",
+        "section": "2.4",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.014705882352941176,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 8,
+          "raw_score": 0.14985896861522408,
+          "rrf_contribution": 0.014705882352941176
+        }
+      },
+      "rank": 10
+    }
+  ],
+  "top3": [
+    {
+      "id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+      "text": "1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the\nutilization of their most critical technology investments. By spreading out costs and consumption, Cohealo\nenables new efficiencies, faster capital redeployment cycles, and improved return on investment.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 2580,
+        "part": 0,
+        "year": 2025,
+        "start": 1906,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03252247488101534,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.39421671739046094,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.16922253572792084,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+      "text": "3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical\nequipment across the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the\nemergence of disruptive business models.\nSeveral factors influence the success of the sharing economy model in the health-care sector, as observed in\nCohealo’s case12 :\n• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered\nsuitable for sharing.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 3525,
+        "part": 0,
+        "year": 2025,
+        "start": 2580,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03252247488101534,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.3704321774898689,
+          "rrf_contribution": 0.016129032258064516
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.2608820720876565,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+      "text": "Case Study: Transforming Health Care Through the Sharing Economy Model\nThe U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 1906,
+        "part": 0,
+        "year": 2025,
+        "start": 1185,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.031746031746031744,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 3,
+          "raw_score": 0.3365083354171561,
+          "rrf_contribution": 0.015873015873015872
+        },
+        "lexical": {
+          "rank": 3,
+          "raw_score": 0.14549206295326106,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 3
+    }
+  ],
+  "trace": {
+    "method": "hybrid_rrf",
+    "filter": {},
+    "candidate_k_per_branch": 10,
+    "rrf_k": 60,
+    "dense_results": [
+      {
+        "id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the\nutilization of their most critical technology investments. By spreading out costs and consumption, Cohealo\nenables new efficiencies, faster capital redeployment cycles, and improved return on investment.\n",
+        "metadata": {
+          "end": 2580,
+          "part": 0,
+          "year": 2025,
+          "start": 1906,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.39421671739046094,
+        "rank": 1,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical\nequipment across the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the\nemergence of disruptive business models.\nSeveral factors influence the success of the sharing economy model in the health-care sector, as observed in\nCohealo’s case12 :\n• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered\nsuitable for sharing.\n",
+        "metadata": {
+          "end": 3525,
+          "part": 0,
+          "year": 2025,
+          "start": 2580,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3704321774898689,
+        "rank": 2,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "Case Study: Transforming Health Care Through the Sharing Economy Model\nThe U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n",
+        "metadata": {
+          "end": 1906,
+          "part": 0,
+          "year": 2025,
+          "start": 1185,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3365083354171561,
+        "rank": 3,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "• Clustering of resources: The concentration of interconnected health-care companies and institutions in\n12 Ayushi Tandon, “Cohealo! Sharing Economy Determinants in Healthcare Industry,” SSRN, December 2017, http://dx.doi.org/\n10.2139/ssrn.3677462\n60 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 3871,
+          "part": 0,
+          "year": 2025,
+          "start": 3525,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2743796880552054,
+        "rank": 4,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "specific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n",
+        "metadata": {
+          "end": 358,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.24104507445142087,
+        "rank": 5,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "00f8596499f471efc2f2274a7093a3d38f1e87fb996d4c1fe9bcf283d3da32e2",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 63,
+        "text": "10 Parmy Olson, “Under Armour Buys Health-Tracking App MyFitnessPal for $475 Million,” Forbes, February 4, 2015,\nhttps://www.forbes.com/sites/parmyolson/2015/02/04/myfitnesspal-acquisition-under-armour/\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 53",
+        "metadata": {
+          "end": 2887,
+          "part": 0,
+          "year": 2025,
+          "start": 2597,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2015942463651459,
+        "rank": 6,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "text": "1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,\nhttps://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/\n2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,\nhttps://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-\nunused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D\n42 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 5009,
+          "part": 0,
+          "year": 2025,
+          "start": 4423,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.19133086878184757,
+        "rank": 7,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "text": "62 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 2488,
+          "part": 0,
+          "year": 2025,
+          "start": 2390,
+          "method": "paragraph-1000",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.14985896861522408,
+        "rank": 8,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "9f877c459dc337dcfd5279a5866efe0799edd3aecf798ba3ea168d84d62c15d3",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "IBM, September 17, 2024, https://www.ibm.com/topics/ai-ethics\n2.3 • Digital Business Models 61",
+        "metadata": {
+          "end": 4159,
+          "part": 0,
+          "year": 2025,
+          "start": 4065,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.149474967308879,
+        "rank": 9,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "822190af9e803e0694b74bba57378cdff2f7f9f77dd12c660f7ad416dc97a442",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "The subscription model provides continuous value through recurring subscriptions that provide customers\nwith ongoing premium content or services. The IT strategy for this model is to develop products and/or\nservices, such as entertainment and transportation, that customers need routinely and are willing to make\nrecurring payments for to have continued access to the products and/or services. Amazon Prime and YouTube\nare subscription models.\nThe freemium model provides a free basic service, with the option to upgrade to a premium version for\nenhanced features or benefits, such as with the services offered by LinkedIn, DropBox, and MailChimp.\n58 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 3723,
+          "part": 1,
+          "year": 2025,
+          "start": 2977,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.1449089970551385,
+        "rank": 10,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      }
+    ],
+    "lexical_results": [
+      {
+        "id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+        "text": "3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical\nequipment across the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the\nemergence of disruptive business models.\nSeveral factors influence the success of the sharing economy model in the health-care sector, as observed in\nCohealo’s case12 :\n• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered\nsuitable for sharing.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 2580,
+          "end": 3525,
+          "method": "paragraph-1000"
+        },
+        "score": 0.2608820720876565,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 1
+      },
+      {
+        "id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+        "text": "1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the\nutilization of their most critical technology investments. By spreading out costs and consumption, Cohealo\nenables new efficiencies, faster capital redeployment cycles, and improved return on investment.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1906,
+          "end": 2580,
+          "method": "paragraph-1000"
+        },
+        "score": 0.16922253572792084,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 2
+      },
+      {
+        "id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+        "text": "Case Study: Transforming Health Care Through the Sharing Economy Model\nThe U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1185,
+          "end": 1906,
+          "method": "paragraph-1000"
+        },
+        "score": 0.14549206295326106,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 3
+      },
+      {
+        "id": "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+        "text": "1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,\nhttps://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/\n2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,\nhttps://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-\nunused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D\n42 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 4423,
+          "end": 5009,
+          "method": "paragraph-1000"
+        },
+        "score": 0.10959368460966673,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 4
+      },
+      {
+        "id": "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92",
+        "text": "from their data. Decisions about data management have long-lasting impacts, so it is important\nfor organizations to select suitable frameworks for managing data.\nIdentifying Practices and Frameworks That Assist Data Management\nAnalysts report that by 2025 the global volume of data is expected to reach 200 zettabytes.1 A zettabyte is a\nmeasure of digital storage capacity equal to a thousand exabytes, a billion terabytes, or a trillion gigabytes.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 2515,
+          "end": 2964,
+          "method": "paragraph-1000"
+        },
+        "score": 0.08383789104125831,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 5
+      },
+      {
+        "id": "aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f",
+        "text": "• Clustering of resources: The concentration of interconnected health-care companies and institutions in\n12 Ayushi Tandon, “Cohealo! Sharing Economy Determinants in Healthcare Industry,” SSRN, December 2017, http://dx.doi.org/\n10.2139/ssrn.3677462\n60 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 3525,
+          "end": 3871,
+          "method": "paragraph-1000"
+        },
+        "score": 0.07763336261108567,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 6
+      },
+      {
+        "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+        "text": "specific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 358,
+          "method": "paragraph-1000"
+        },
+        "score": 0.07333826796637671,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 7
+      },
+      {
+        "id": "5c73687c1a3343e5e8dc704b79fb700cd4fda792639dfc5424e0118d871b631d",
+        "text": "• crowdsourcing platforms: online marketplaces where businesses or individuals can outsource tasks or\nproblems to a large, dispersed group of people\nhttps://quickbooks.intuit.com/r/supply-chain/zara-supply-chain-its-secret-to-retail-success/\n7 Rashik Parmar, Marc Peters, and Llewellyn D.W. Thomas, “What Is Responsible Computing?” Harvard Business Review, July 7, 2023,\nhttps://hbr.org/2023/07/what-is-responsible-computing\n8 “Domino’s: Taking the Guesswork Out of Pizza Delivery with Google Maps Platform,” Google Cloud, accessed January 19, 2025,\nhttps://cloud.google.com/customers/dominos-maps\n9 Jacob Roach, “How Nvidia Is Using A.I. to Help Domino’s Deliver Pizzas Faster,” Digital Trends, November 9, 2021,\nhttps://www.digitaltrends.com/computing/nvidia-using-ai-to-help-dominos-deliver-pizzas-faster/\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 51",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 1,
+          "attribution": "Access for free at openstax.org.",
+          "start": 2094,
+          "end": 2990,
+          "method": "paragraph-1000"
+        },
+        "score": 0.04537138451094368,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 8
+      }
+    ],
+    "dense_call": {
+      "method": "dense",
+      "filter": {},
+      "returned": 10,
+      "elapsed_ms": 846.911500000715,
+      "cache_hit": false,
+      "service_cost_usd": null,
+      "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+      "model": "openai/text-embedding-3-small",
+      "dimensions": 1536,
+      "strategy": "B",
+      "embedding_requests": [
+        {
+          "status": "ok",
+          "id": "gen-emb-1794650046-Sez8n4JDCF9etFZ0JlMy",
+          "elapsed_ms": 776.5934000017296,
+          "usage": {
+            "prompt_tokens": 35,
+            "total_tokens": 35,
+            "cost": 7e-07,
+            "is_byok": false,
+            "cost_details": {
+              "upstream_inference_cost": 7e-07,
+              "upstream_inference_prompt_cost": 7e-07,
+              "upstream_inference_completions_cost": 0
+            }
+          }
+        }
+      ],
+      "measured_embedding_cost": {
+        "request_count": 1,
+        "known_cost_usd": 7e-07,
+        "cost_usd": 7e-07,
+        "unknown_cost_request_count": 0,
+        "prompt_tokens_known": 35
+      }
+    },
+    "lexical_call": {
+      "method": "tfidf",
+      "filter": {},
+      "eligible_count": 162,
+      "returned": 8,
+      "elapsed_ms": 0.216500000533415,
+      "service_cost_usd": 0,
+      "tokenization": "NFC_casefold_word_regex",
+      "idf_scope": "entire_fixed_snapshot"
+    },
+    "returned": 10,
+    "elapsed_ms": 847.3660999989079
+  },
+  "context_selection": {
+    "context": "[8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77 | starter/data/Foundations_of_Information_Systems.pdf | page 70]\n1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the\nutilization of their most critical technology investments. By spreading out costs and consumption, Cohealo\nenables new efficiencies, faster capital redeployment cycles, and improved return on investment.\n\n\n[e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394 | starter/data/Foundations_of_Information_Systems.pdf | page 70]\n3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical\nequipment across the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the\nemergence of disruptive business models.\nSeveral factors influence the success of the sharing economy model in the health-care sector, as observed in\nCohealo’s case12 :\n• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered\nsuitable for sharing.\n\n\n[2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0 | starter/data/Foundations_of_Information_Systems.pdf | page 70]\nCase Study: Transforming Health Care Through the Sharing Economy Model\nThe U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n\n\n[aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f | starter/data/Foundations_of_Information_Systems.pdf | page 70]\n• Clustering of resources: The concentration of interconnected health-care companies and institutions in\n12 Ayushi Tandon, “Cohealo! Sharing Economy Determinants in Healthcare Industry,” SSRN, December 2017, http://dx.doi.org/\n10.2139/ssrn.3677462\n60 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org\n\n[91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076 | starter/data/Foundations_of_Information_Systems.pdf | page 52]\n1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,\nhttps://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/\n2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,\nhttps://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-\nunused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D\n42 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org\n\n[09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae | starter/data/Foundations_of_Information_Systems.pdf | page 71]\nspecific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n\n\n[f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92 | starter/data/Foundations_of_Information_Systems.pdf | page 52]\nfrom their data. Decisions about data management have long-lasting impacts, so it is important\nfor organizations to select suitable frameworks for managing data.\nIdentifying Practices and Frameworks That Assist Data Management\nAnalysts report that by 2025 the global volume of data is expected to reach 200 zettabytes.1 A zettabyte is a\nmeasure of digital storage capacity equal to a thousand exabytes, a billion terabytes, or a trillion gigabytes.\n\n\n[00f8596499f471efc2f2274a7093a3d38f1e87fb996d4c1fe9bcf283d3da32e2 | starter/data/Foundations_of_Information_Systems.pdf | page 63]\n10 Parmy Olson, “Under Armour Buys Health-Tracking App MyFitnessPal for $475 Million,” Forbes, February 4, 2015,\nhttps://www.forbes.com/sites/parmyolson/2015/02/04/myfitnesspal-acquisition-under-armour/\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 53\n\n[d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3 | starter/data/Foundations_of_Information_Systems.pdf | page 72]\n62 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+    "context_ids": [
+      "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+      "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+      "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+      "aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f",
+      "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+      "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+      "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92",
+      "00f8596499f471efc2f2274a7093a3d38f1e87fb996d4c1fe9bcf283d3da32e2",
+      "d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3"
+    ],
+    "context_chars": 5662,
+    "context_sha256": "2e0a708ff57ed7ea8ef89a16a7596b06df1f8376b3e3a4e982fc4174e35c9504",
+    "budget_chars": 6000,
+    "remaining_chars": 338,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 9,
+    "skipped_count": 1,
+    "decisions": [
+      {
+        "id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "end": 2580,
+          "part": 0,
+          "year": 2025,
+          "start": 1906,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 674,
+        "block_characters": 805,
+        "separator_characters": 0,
+        "remaining_before": 6000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "end": 3525,
+          "part": 0,
+          "year": 2025,
+          "start": 2580,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 945,
+        "block_characters": 1076,
+        "separator_characters": 2,
+        "remaining_before": 5195,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "end": 1906,
+          "part": 0,
+          "year": 2025,
+          "start": 1185,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 721,
+        "block_characters": 852,
+        "separator_characters": 2,
+        "remaining_before": 4117,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "metadata": {
+          "end": 3871,
+          "part": 0,
+          "year": 2025,
+          "start": 3525,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 346,
+        "block_characters": 477,
+        "separator_characters": 2,
+        "remaining_before": 3263,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 5009,
+          "part": 0,
+          "year": 2025,
+          "start": 4423,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 586,
+        "block_characters": 717,
+        "separator_characters": 2,
+        "remaining_before": 2784,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "metadata": {
+          "end": 358,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 358,
+        "block_characters": 489,
+        "separator_characters": 2,
+        "remaining_before": 2065,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 2515,
+          "end": 2964,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 449,
+        "block_characters": 580,
+        "separator_characters": 2,
+        "remaining_before": 1574,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "00f8596499f471efc2f2274a7093a3d38f1e87fb996d4c1fe9bcf283d3da32e2",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 63,
+        "metadata": {
+          "end": 2887,
+          "part": 0,
+          "year": 2025,
+          "start": 2597,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 290,
+        "block_characters": 421,
+        "separator_characters": 2,
+        "remaining_before": 992,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "5c73687c1a3343e5e8dc704b79fb700cd4fda792639dfc5424e0118d871b631d",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 1,
+          "attribution": "Access for free at openstax.org.",
+          "start": 2094,
+          "end": 2990,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 896,
+        "block_characters": 1027,
+        "separator_characters": 2,
+        "remaining_before": 569,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "metadata": {
+          "end": 2488,
+          "part": 0,
+          "year": 2025,
+          "start": 2390,
+          "method": "paragraph-1000",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 98,
+        "block_characters": 229,
+        "separator_characters": 2,
+        "remaining_before": 569,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 847.7014000000054
+}

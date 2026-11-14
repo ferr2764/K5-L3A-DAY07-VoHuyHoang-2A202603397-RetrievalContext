@@ -1,0 +1,58 @@
+[1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25 | starter/data/Foundations_of_Information_Systems.pdf | page 36]
+Competencies in IS
+For all occupations, including IS positions, the U.S. Department of Labor (DOL) recommends competency-
+based approaches for hiring employees and for providing the education and training that employees need to
+do their jobs well. A competency is the ability to apply specific skills, experience, and personal characteristics
+to do a job in an effective and efficient manner. Someone’s personal characteristics are the traits that are
+appropriate for the job or task being done based on the individual’s interests, strengths, background,
+education, and training. In addition, an individual’s talents, motivations, and personal perceptions of their
+work influence competency.
+A competency model is a framework that identifies the competencies required for employees to effectively
+perform their job. Generally, for all industries, the competencies that are important include the following
+elements:
+
+
+[5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727 | starter/data/Foundations_of_Information_Systems.pdf | page 36]
+Department of Labor has developed the Information Technology Competency Model, a framework that defines
+the knowledge, skills, and abilities that are essential for IS professionals. It is important for IS professionals to
+understand the relationship between IS and IT, as these two disciplines work in tandem to support
+organizational objectives and foster innovation. Further, many of the training and education requirements for
+professionals in the IS field use the Information Technology Competency Model to prepare individuals to
+navigate the complexities of this dynamic and rapidly changing industry.
+
+
+[08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b | starter/data/Foundations_of_Information_Systems.pdf | page 38]
+Competency Description Examples
+Workplace Competencies used in the workplace
+General:
+• teamwork
+• creative thinking
+• decision-making
+IS-specific:
+• business fundamentals
+• problem-solving
+• listening
+Technical General competencies needed in a specific industry
+IS-specific:
+• IS principles and concepts
+• IS standards and IS regulations
+• databases management
+• network administration
+• risk management
+Occupation-
+specific
+Competencies directly related to
+specific positions within an
+industry
+IS specific:
+
+
+[71d7641c264c525958b4fe629af0519dacccf9aa3bf942acd6df880935535fe6 | starter/data/Foundations_of_Information_Systems.pdf | page 31]
+The Skills Framework for the Information Age (SFIA) provides a comprehensive skills and competency
+framework in a common language for the IT industry. It includes the steps listed in Figure 1.7. It was
+developed and is overseen by the SFIA Foundation, a global organization committed to helping IS and other
+technology professionals acquire the skills and competencies needed to successfully develop and manage
+technology. Organizations around the world in both the public and private sectors use SFIA to map out the
+knowledge and expertise needed to fill each role in their organizations. This includes entry-level to advanced
+positions in the areas of technology development, strategy, architecture, and support.
+1.2 • Frameworks of Knowledge and Industry Standards 21

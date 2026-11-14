@@ -1,0 +1,1185 @@
+{
+  "query": "Nếu hai phòng ban dùng Date of Birth và Birth Date cho cùng ngày sinh, định nghĩa dữ liệu cần bảo đảm điều gì?",
+  "filter": null,
+  "results": [
+    {
+      "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+      "text": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 57,
+      "metadata": {
+        "end": 1840,
+        "part": 0,
+        "year": 2025,
+        "start": 875,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03278688524590164,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.4036734135572,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.45602112928299543,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b",
+      "text": "In Chapter 1 Fundamentals of Information Systems, you learned that the term data refers to raw facts and\nfigures that are processed and turned into meaningful information. Data represent discrete elements without\ncontext or meaning on their own, and data come in various forms—such as numbers, text, images, or audio.\nFor example, a list of numbers or a collection of customer names and addresses is considered data.\nInformation is the result of processing data through organization, analysis, and contextualization to derive\nmeaning. If the data are a list of numbers, then the related information may be the trend of increasing sales of\na product. This information can be used to make decisions, understand relationships, and gain insights.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "metadata": {
+        "end": 1516,
+        "part": 0,
+        "year": 2025,
+        "start": 773,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.030303030303030304,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 6,
+          "raw_score": 0.23864824844057486,
+          "rrf_contribution": 0.015151515151515152
+        },
+        "lexical": {
+          "rank": 6,
+          "raw_score": 0.013508537418183423,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+      "text": "specific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 71,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.3",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 358,
+        "method": "paragraph-1000"
+      },
+      "score": 0.016129032258064516,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.01679626114771601,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 3
+    },
+    {
+      "id": "2151c1e84cec54daf291d767f17ce38bc38ec4701bb2b4acb5c908849eadaa73",
+      "text": "• Data security protects data from unauthorized access, use, disclosure, disruption, modification, or\ndestruction. It is achieved through measures like encryption, access controls, and adherence to\nsecurity best practices.\n• Data privacy, like data security, safeguards personal data from unauthorized access, use, disclosure,\ndisruption, modification, or destruction. It relies on the use of encryption, access controls, and privacy\nbest practices.\n• Data retention involves storing data for a defined period based on legal, regulatory, and business\nrequirements. It includes activities like archiving, purging, and the development of data retention\npolicies.\n• Data architecture focuses on designing data models and database structures that align with business\nneeds.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 53,
+      "metadata": {
+        "end": 1657,
+        "part": 0,
+        "year": 2025,
+        "start": 887,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.016129032258064516,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.271803862567902,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 4
+    },
+    {
+      "id": "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44",
+      "text": "• Resolving discrepancies in redundant data sources: When multiple sources provide similar data, it is\nimportant to reconcile any inconsistencies or differences to establish a reliable and accurate\nrepresentation of the information.\n• Managing variations in opinions, forecasting techniques, or simulation models: Recognizing and\naddressing divergent viewpoints, methodologies, or models used for forecasting or simulation ensures\ntransparency and reliability in the data analysis process.\nFUTURE TECHNOLOGY\nMaster Data Management\nMaster data management (MDM) ensures the creation and maintenance of a single, accurate source of\ntruth for crucial data points within an organization. This centralized data repository eliminates\ninconsistencies and fosters seamless information exchange across different systems and applications. Let’s\nexplore the importance of MDM in two specific contexts: health care and e-commerce retail.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 57,
+      "metadata": {
+        "end": 2765,
+        "part": 0,
+        "year": 2025,
+        "start": 1840,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015873015873015872,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 3,
+          "raw_score": 0.25058203656589095,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 5
+    },
+    {
+      "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+      "text": "Dimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 701,
+        "method": "paragraph-1000"
+      },
+      "score": 0.015873015873015872,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 3,
+          "raw_score": 0.014818445691528051,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 6
+    },
+    {
+      "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+      "text": "Different types of data are required for generating suitable information, and different types of data require\ndifferent management approaches. There are two main categories of data—structured and unstructured. The\nfirst, structured data, exist in organized, fixed fields in a data repository. Structured data are typically defined\nin terms of field name and type (such as numeric or alphabetical). Structured data can be further categorized\nas follows:\n• Associated with operational or real-time applications, operational data include transactional data\ngenerated by day-to-day business operations. Operational data often require high availability, real-time\nprocessing, and quick access for operational decision-making. When managing operational data, the focus\nis on ensuring data integrity, availability, and performance to support critical business processes.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "metadata": {
+        "end": 2366,
+        "part": 0,
+        "year": 2025,
+        "start": 1502,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015625,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 4,
+          "raw_score": 0.24079896945227752,
+          "rrf_contribution": 0.015625
+        }
+      },
+      "rank": 7
+    },
+    {
+      "id": "b1267b5f90b9175e3c256f250e6a9f097f3d6fe7aa49c9c60cb3d0b50a789029",
+      "text": "technology, the evolving frontiers of IS, and the future of technology and its impacts on IS.\nFUTURE TECHNOLOGY\nArtificial Intelligence: Theory in Action\nTechnology changes rapidly, and IS professionals must stay abreast of technological advances,\nunderstanding the impact that these have on IS. For example, consider artificial intelligence. AI has many\npotential benefits for IS, including improvements in efficiency for the processes to gather, store, and\nmanage data. AI also presents a number of serious challenges such as privacy concerns as AI often gathers\ndata without the individual’s consent. AI is rapidly evolving and will be an important part of the future of IS.\nThe advent of AI also provides an example of why continuing education is so important. With continuing\neducation, IS professionals can ensure that they are prepared to handle the future, regardless of what\ntechnological changes and challenges face them.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 41,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.4",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 932,
+        "method": "paragraph-1000"
+      },
+      "score": 0.015625,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 4,
+          "raw_score": 0.014515069739147499,
+          "rrf_contribution": 0.015625
+        }
+      },
+      "rank": 8
+    },
+    {
+      "id": "21e8a8c1113cbe2c94b65e4d88fe521d8ffef740c3afde41261b7d20211ebe4c",
+      "text": "Another important aspect of dealing with data is data governance, which involves the policies, procedures,\nand standards how an organization manages the availability, usability, integrity, and security of its data\nthroughout the data life cycle. You probably have noticed that every time you use the internet, an app on your\nphone, or buy something online, websites and apps track what you do, and may track your location and other\ndata. The world is full of sensors, electronic payments, tracking data, biometric information like fingerprints,\nand smart home devices that collect data. This kind of information is valuable, and this creates challenges for\nmaking sure data are handled well. Data governance is like a rulebook for how data are managed and making\nsure the right people are responsible for decisions about data.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "metadata": {
+        "end": 4423,
+        "part": 0,
+        "year": 2025,
+        "start": 3596,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015384615384615385,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 5,
+          "raw_score": 0.23984747023408326,
+          "rrf_contribution": 0.015384615384615385
+        }
+      },
+      "rank": 9
+    },
+    {
+      "id": "9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e",
+      "text": "The most common means of understanding the value of information systems in a business is to measure the\nrelationship between IT investments and output measures of revenue and human productivity. This evaluation\ncan be conducted at both the industry level and organizational level. However, the business value of IT goes\nbeyond direct output or revenue measures because IT often supports organizational redesign efforts, such as\nthe traditional taxi services being disrupted by new ride services like Uber or Lyft. This type of business model\ninnovation leverages IT to create entirely new business models, not just enhance existing ones.\nManagers should consider which of the following three primary methods of value IT brings to their\norganization (Figure 2.5):\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 62,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 851,
+        "end": 1614,
+        "method": "paragraph-1000"
+      },
+      "score": 0.015384615384615385,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 5,
+          "raw_score": 0.013649516316852555,
+          "rrf_contribution": 0.015384615384615385
+        }
+      },
+      "rank": 10
+    }
+  ],
+  "top3": [
+    {
+      "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+      "text": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 57,
+      "metadata": {
+        "end": 1840,
+        "part": 0,
+        "year": 2025,
+        "start": 875,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03278688524590164,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.4036734135572,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.45602112928299543,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b",
+      "text": "In Chapter 1 Fundamentals of Information Systems, you learned that the term data refers to raw facts and\nfigures that are processed and turned into meaningful information. Data represent discrete elements without\ncontext or meaning on their own, and data come in various forms—such as numbers, text, images, or audio.\nFor example, a list of numbers or a collection of customer names and addresses is considered data.\nInformation is the result of processing data through organization, analysis, and contextualization to derive\nmeaning. If the data are a list of numbers, then the related information may be the trend of increasing sales of\na product. This information can be used to make decisions, understand relationships, and gain insights.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "metadata": {
+        "end": 1516,
+        "part": 0,
+        "year": 2025,
+        "start": 773,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.030303030303030304,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 6,
+          "raw_score": 0.23864824844057486,
+          "rrf_contribution": 0.015151515151515152
+        },
+        "lexical": {
+          "rank": 6,
+          "raw_score": 0.013508537418183423,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+      "text": "specific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 71,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.3",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 358,
+        "method": "paragraph-1000"
+      },
+      "score": 0.016129032258064516,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.01679626114771601,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 3
+    }
+  ],
+  "trace": {
+    "method": "hybrid_rrf",
+    "filter": {},
+    "candidate_k_per_branch": 10,
+    "rrf_k": 60,
+    "dense_results": [
+      {
+        "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 57,
+        "text": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+        "metadata": {
+          "end": 1840,
+          "part": 0,
+          "year": 2025,
+          "start": 875,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4036734135572,
+        "rank": 1,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "2151c1e84cec54daf291d767f17ce38bc38ec4701bb2b4acb5c908849eadaa73",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 53,
+        "text": "• Data security protects data from unauthorized access, use, disclosure, disruption, modification, or\ndestruction. It is achieved through measures like encryption, access controls, and adherence to\nsecurity best practices.\n• Data privacy, like data security, safeguards personal data from unauthorized access, use, disclosure,\ndisruption, modification, or destruction. It relies on the use of encryption, access controls, and privacy\nbest practices.\n• Data retention involves storing data for a defined period based on legal, regulatory, and business\nrequirements. It includes activities like archiving, purging, and the development of data retention\npolicies.\n• Data architecture focuses on designing data models and database structures that align with business\nneeds.\n",
+        "metadata": {
+          "end": 1657,
+          "part": 0,
+          "year": 2025,
+          "start": 887,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.271803862567902,
+        "rank": 2,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 57,
+        "text": "• Resolving discrepancies in redundant data sources: When multiple sources provide similar data, it is\nimportant to reconcile any inconsistencies or differences to establish a reliable and accurate\nrepresentation of the information.\n• Managing variations in opinions, forecasting techniques, or simulation models: Recognizing and\naddressing divergent viewpoints, methodologies, or models used for forecasting or simulation ensures\ntransparency and reliability in the data analysis process.\nFUTURE TECHNOLOGY\nMaster Data Management\nMaster data management (MDM) ensures the creation and maintenance of a single, accurate source of\ntruth for crucial data points within an organization. This centralized data repository eliminates\ninconsistencies and fosters seamless information exchange across different systems and applications. Let’s\nexplore the importance of MDM in two specific contexts: health care and e-commerce retail.\n",
+        "metadata": {
+          "end": 2765,
+          "part": 0,
+          "year": 2025,
+          "start": 1840,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.25058203656589095,
+        "rank": 3,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 56,
+        "text": "Different types of data are required for generating suitable information, and different types of data require\ndifferent management approaches. There are two main categories of data—structured and unstructured. The\nfirst, structured data, exist in organized, fixed fields in a data repository. Structured data are typically defined\nin terms of field name and type (such as numeric or alphabetical). Structured data can be further categorized\nas follows:\n• Associated with operational or real-time applications, operational data include transactional data\ngenerated by day-to-day business operations. Operational data often require high availability, real-time\nprocessing, and quick access for operational decision-making. When managing operational data, the focus\nis on ensuring data integrity, availability, and performance to support critical business processes.\n",
+        "metadata": {
+          "end": 2366,
+          "part": 0,
+          "year": 2025,
+          "start": 1502,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.24079896945227752,
+        "rank": 4,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "21e8a8c1113cbe2c94b65e4d88fe521d8ffef740c3afde41261b7d20211ebe4c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "text": "Another important aspect of dealing with data is data governance, which involves the policies, procedures,\nand standards how an organization manages the availability, usability, integrity, and security of its data\nthroughout the data life cycle. You probably have noticed that every time you use the internet, an app on your\nphone, or buy something online, websites and apps track what you do, and may track your location and other\ndata. The world is full of sensors, electronic payments, tracking data, biometric information like fingerprints,\nand smart home devices that collect data. This kind of information is valuable, and this creates challenges for\nmaking sure data are handled well. Data governance is like a rulebook for how data are managed and making\nsure the right people are responsible for decisions about data.\n",
+        "metadata": {
+          "end": 4423,
+          "part": 0,
+          "year": 2025,
+          "start": 3596,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.23984747023408326,
+        "rank": 5,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "text": "In Chapter 1 Fundamentals of Information Systems, you learned that the term data refers to raw facts and\nfigures that are processed and turned into meaningful information. Data represent discrete elements without\ncontext or meaning on their own, and data come in various forms—such as numbers, text, images, or audio.\nFor example, a list of numbers or a collection of customer names and addresses is considered data.\nInformation is the result of processing data through organization, analysis, and contextualization to derive\nmeaning. If the data are a list of numbers, then the related information may be the trend of increasing sales of\na product. This information can be used to make decisions, understand relationships, and gain insights.\n",
+        "metadata": {
+          "end": 1516,
+          "part": 0,
+          "year": 2025,
+          "start": 773,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.23864824844057486,
+        "rank": 6,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 53,
+        "text": "Appropriate data management is crucial to an organization’s reputation and success. Data management\nparameters establish practices that organizations can use to ensure that their data are managed, protected¸\nand of high quality so they can be utilized to make informed decisions. The essential areas for managing data\neffectively are as follows (Figure 2.2)3 :\n• Data governance establishes policies, processes, standards, roles, and responsibilities to manage data\nas a valuable asset.\n• Data quality ensures that data are accurate, complete, and consistent. This is achieved through\nactivities such as validation, cleansing, matching, and monitoring via metrics and reporting.\n• Data integration combines data from different systems and applications. It includes tasks such as\nmapping data elements, transforming data, and ensuring seamless integration using tools and best\npractices.\n",
+        "metadata": {
+          "end": 887,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.23799238709801174,
+        "rank": 7,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "04c6e73a78e90aeb120eac9acf5f441f2503b40120ff666e5d82ad395b8e36cb",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "text": "LINK TO LEARNING\nImplementing responsible data management requires an understanding of the legal and social\nresponsibilities associated with processing data across its life cycle.7 To learn more, read about the\nResponsible Data Maturity Model (https://openstax.org/r/109RespDataMod) as it recommends how data\nshould be managed to ensure privacy, transparency, sharing, and acquisition of data.\n",
+        "metadata": {
+          "end": 1106,
+          "part": 0,
+          "year": 2025,
+          "start": 712,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2371910185575885,
+        "rank": 8,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "text": "Notably, most of these data are underutilized. For most enterprises, only about one-third of data is used for\ndecision-making, while the remaining two-thirds is simply stored.2 When analysts are unable to find the\nappropriate and available data for decision-making, it can cost organizations billions of dollars each year. On\nthe other hand, data archives are often required for regulatory reasons to ensure compliance with laws\ngoverning data retention, privacy, and security. For instance, industries like health care and finance have strict\nregulations regarding the retention of patient records and financial transactions data.\n",
+        "metadata": {
+          "end": 3596,
+          "part": 0,
+          "year": 2025,
+          "start": 2964,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.23200591146338845,
+        "rank": 9,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "34209b5a79826b2a9efa9446c75445f872e4e566d03a38cf62469a2daf9a1490",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "text": "Despite efforts to emphasize the benefits of the identity cards, the opposition prevailed, and the proposal was\neventually abandoned. The incoming coalition government decided that the proposal was too costly and\nlacked significant advantages for national security, underscoring the misalignment between business and IT\nstrategies. Although the national identity card plan was discontinued, specific ID cards, like the biometric\nresidence permit for non–European Union nationals, were introduced as documentation of a person’s\nimmigration status.\n11 Sahar Alsharif, Nabila Benslimane, Mohamed Khalifa, and Colin Price, “Healthcare IT Strategic Alignment: Challenges and\nRecommendations,” Studies in Health Technology and Informatics 251 (2018): 207–210, https://doi.org/10.3233/\n978-1-61499-880-8-207\n56 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 4728,
+          "part": 0,
+          "year": 2025,
+          "start": 3829,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.23199999963939388,
+        "rank": 10,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      }
+    ],
+    "lexical_results": [
+      {
+        "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+        "text": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 57,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 875,
+          "end": 1840,
+          "method": "paragraph-1000"
+        },
+        "score": 0.45602112928299543,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 1
+      },
+      {
+        "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+        "text": "specific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 358,
+          "method": "paragraph-1000"
+        },
+        "score": 0.01679626114771601,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 2
+      },
+      {
+        "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+        "text": "Dimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 56,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 701,
+          "method": "paragraph-1000"
+        },
+        "score": 0.014818445691528051,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 3
+      },
+      {
+        "id": "b1267b5f90b9175e3c256f250e6a9f097f3d6fe7aa49c9c60cb3d0b50a789029",
+        "text": "technology, the evolving frontiers of IS, and the future of technology and its impacts on IS.\nFUTURE TECHNOLOGY\nArtificial Intelligence: Theory in Action\nTechnology changes rapidly, and IS professionals must stay abreast of technological advances,\nunderstanding the impact that these have on IS. For example, consider artificial intelligence. AI has many\npotential benefits for IS, including improvements in efficiency for the processes to gather, store, and\nmanage data. AI also presents a number of serious challenges such as privacy concerns as AI often gathers\ndata without the individual’s consent. AI is rapidly evolving and will be an important part of the future of IS.\nThe advent of AI also provides an example of why continuing education is so important. With continuing\neducation, IS professionals can ensure that they are prepared to handle the future, regardless of what\ntechnological changes and challenges face them.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 41,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.4",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 932,
+          "method": "paragraph-1000"
+        },
+        "score": 0.014515069739147499,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 4
+      },
+      {
+        "id": "9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e",
+        "text": "The most common means of understanding the value of information systems in a business is to measure the\nrelationship between IT investments and output measures of revenue and human productivity. This evaluation\ncan be conducted at both the industry level and organizational level. However, the business value of IT goes\nbeyond direct output or revenue measures because IT often supports organizational redesign efforts, such as\nthe traditional taxi services being disrupted by new ride services like Uber or Lyft. This type of business model\ninnovation leverages IT to create entirely new business models, not just enhance existing ones.\nManagers should consider which of the following three primary methods of value IT brings to their\norganization (Figure 2.5):\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 62,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 851,
+          "end": 1614,
+          "method": "paragraph-1000"
+        },
+        "score": 0.013649516316852555,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 5
+      },
+      {
+        "id": "e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b",
+        "text": "In Chapter 1 Fundamentals of Information Systems, you learned that the term data refers to raw facts and\nfigures that are processed and turned into meaningful information. Data represent discrete elements without\ncontext or meaning on their own, and data come in various forms—such as numbers, text, images, or audio.\nFor example, a list of numbers or a collection of customer names and addresses is considered data.\nInformation is the result of processing data through organization, analysis, and contextualization to derive\nmeaning. If the data are a list of numbers, then the related information may be the trend of increasing sales of\na product. This information can be used to make decisions, understand relationships, and gain insights.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 773,
+          "end": 1516,
+          "method": "paragraph-1000"
+        },
+        "score": 0.013508537418183423,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 6
+      },
+      {
+        "id": "92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81",
+        "text": "quantified the value of their IT\ninvestment by measuring improvements in delivery times, a key performance indicator directly linked to\ncustomer satisfaction.\nIn today’s ever-evolving business landscape, organizations have come to recognize the immense potential of\nIT to enhance the value of their products and services. Leveraging IT has become a key factor in staying\ncompetitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face\nan essential question: How can they effectively assess the value IT adds to their organization?\nDefining the Value of Information Technology Within Organizations\nOver the past decades, businesses and managers have focused on understanding how to employ IT systems\nto achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have\nbeen ushered in with the emergence of a new generation of IT, including elements such as:\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 1,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1145,
+          "end": 2094,
+          "method": "paragraph-1000"
+        },
+        "score": 0.012357111524733011,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 7
+      },
+      {
+        "id": "273d65280b725344788030bb823968620895ba4128dcbb65189ac389e45146d3",
+        "text": "2.2 Strategies to Improve the Value of Information Technology Within Organizations\nLearning Objectives\nBy the end of this section, you will be able to:\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 1,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 152,
+          "method": "paragraph-1000"
+        },
+        "score": 0.012334506512882747,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 8
+      },
+      {
+        "id": "ee0c0ff0a509d1b05f273a1f0b8e21433d3c722ce3a59ec0d339746ca9637e76",
+        "text": "1.4 The Global Importance of Information Systems\nLearning Objectives\nBy the end of this section, you will be able to:\n• Describe why information systems should be global\n• Discuss global innovation and its importance\n• Describe global initiatives in IS\nThe field of IS is and has been an important component in globalization, or the process of businesses and\nother organizations operating around the world. This includes the international sales of goods and services, as\nwell as the exchange of ideas across international borders.\nWhy Information Systems Should Be Global\nThe global marketplace is an important resource worldwide. Countries trade goods and services, offering\nbusinesses around the world opportunities for growth and profit maximization. Organizations of all types in\nboth the private and public sectors use globalization as a means to share information and resources, including\ntechnological knowledge.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 40,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.4",
+          "part": 1,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 920,
+          "method": "paragraph-1000"
+        },
+        "score": 0.011946321043392862,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 9
+      },
+      {
+        "id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+        "text": "organizations.\nStrategies to Improve the Value of Information Technology for\nOrganizations\nUnderstanding the role of business processes within an organization is vital to measuring the specific value\nthat IT can deliver and the mechanisms through which it achieves this. Information systems professionals\nknow that technology alone is not the sole determinant of digital success, and that strategy is an important\ncatalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of\nthe IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly\nsupports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure\n2.6):\n• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading\nto new revenue opportunities.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 65,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 988,
+          "end": 1881,
+          "method": "paragraph-1000"
+        },
+        "score": 0.011913748362179349,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 10
+      }
+    ],
+    "dense_call": {
+      "method": "dense",
+      "filter": {},
+      "returned": 10,
+      "elapsed_ms": 793.482999999469,
+      "cache_hit": false,
+      "service_cost_usd": null,
+      "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+      "model": "openai/text-embedding-3-small",
+      "dimensions": 1536,
+      "strategy": "B",
+      "embedding_requests": [
+        {
+          "status": "ok",
+          "id": "gen-emb-1794648605-56vrFdU7U2RW1sez4CKp",
+          "elapsed_ms": 751.979399999982,
+          "usage": {
+            "prompt_tokens": 46,
+            "total_tokens": 46,
+            "cost": 9.2e-07,
+            "is_byok": false,
+            "cost_details": {
+              "upstream_inference_cost": 9.2e-07,
+              "upstream_inference_prompt_cost": 9.2e-07,
+              "upstream_inference_completions_cost": 0
+            }
+          }
+        }
+      ],
+      "measured_embedding_cost": {
+        "request_count": 1,
+        "known_cost_usd": 9.2e-07,
+        "cost_usd": 9.2e-07,
+        "unknown_cost_request_count": 0,
+        "prompt_tokens_known": 46
+      }
+    },
+    "lexical_call": {
+      "method": "tfidf",
+      "filter": {},
+      "eligible_count": 162,
+      "returned": 10,
+      "elapsed_ms": 0.49819999912870117,
+      "service_cost_usd": 0,
+      "tokenization": "NFC_casefold_word_regex",
+      "idf_scope": "entire_fixed_snapshot"
+    },
+    "returned": 10,
+    "elapsed_ms": 794.2578999991383
+  },
+  "context_selection": {
+    "context": "[1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444 | starter/data/Foundations_of_Information_Systems.pdf | page 57]\n• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n\n\n[e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b | starter/data/Foundations_of_Information_Systems.pdf | page 52]\nIn Chapter 1 Fundamentals of Information Systems, you learned that the term data refers to raw facts and\nfigures that are processed and turned into meaningful information. Data represent discrete elements without\ncontext or meaning on their own, and data come in various forms—such as numbers, text, images, or audio.\nFor example, a list of numbers or a collection of customer names and addresses is considered data.\nInformation is the result of processing data through organization, analysis, and contextualization to derive\nmeaning. If the data are a list of numbers, then the related information may be the trend of increasing sales of\na product. This information can be used to make decisions, understand relationships, and gain insights.\n\n\n[09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae | starter/data/Foundations_of_Information_Systems.pdf | page 71]\nspecific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n\n\n[2151c1e84cec54daf291d767f17ce38bc38ec4701bb2b4acb5c908849eadaa73 | starter/data/Foundations_of_Information_Systems.pdf | page 53]\n• Data security protects data from unauthorized access, use, disclosure, disruption, modification, or\ndestruction. It is achieved through measures like encryption, access controls, and adherence to\nsecurity best practices.\n• Data privacy, like data security, safeguards personal data from unauthorized access, use, disclosure,\ndisruption, modification, or destruction. It relies on the use of encryption, access controls, and privacy\nbest practices.\n• Data retention involves storing data for a defined period based on legal, regulatory, and business\nrequirements. It includes activities like archiving, purging, and the development of data retention\npolicies.\n• Data architecture focuses on designing data models and database structures that align with business\nneeds.\n",
+    "context_ids": [
+      "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+      "e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b",
+      "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+      "2151c1e84cec54daf291d767f17ce38bc38ec4701bb2b4acb5c908849eadaa73"
+    ],
+    "context_chars": 3366,
+    "context_sha256": "222e5e32bf417c2e4ea0208a3c616204e33d0c44c8cabf68229f143d8b4bc72d",
+    "budget_chars": 4000,
+    "remaining_chars": 634,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 4,
+    "skipped_count": 6,
+    "decisions": [
+      {
+        "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 57,
+        "metadata": {
+          "end": 1840,
+          "part": 0,
+          "year": 2025,
+          "start": 875,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 965,
+        "block_characters": 1096,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 1516,
+          "part": 0,
+          "year": 2025,
+          "start": 773,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 743,
+        "block_characters": 874,
+        "separator_characters": 2,
+        "remaining_before": 2904,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.3",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 358,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 358,
+        "block_characters": 489,
+        "separator_characters": 2,
+        "remaining_before": 2028,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "2151c1e84cec54daf291d767f17ce38bc38ec4701bb2b4acb5c908849eadaa73",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 53,
+        "metadata": {
+          "end": 1657,
+          "part": 0,
+          "year": 2025,
+          "start": 887,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 770,
+        "block_characters": 901,
+        "separator_characters": 2,
+        "remaining_before": 1537,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 57,
+        "metadata": {
+          "end": 2765,
+          "part": 0,
+          "year": 2025,
+          "start": 1840,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 925,
+        "block_characters": 1056,
+        "separator_characters": 2,
+        "remaining_before": 634,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 56,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.1",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 701,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 701,
+        "block_characters": 832,
+        "separator_characters": 2,
+        "remaining_before": 634,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 56,
+        "metadata": {
+          "end": 2366,
+          "part": 0,
+          "year": 2025,
+          "start": 1502,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 864,
+        "block_characters": 995,
+        "separator_characters": 2,
+        "remaining_before": 634,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "b1267b5f90b9175e3c256f250e6a9f097f3d6fe7aa49c9c60cb3d0b50a789029",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 41,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.4",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 0,
+          "end": 932,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 932,
+        "block_characters": 1063,
+        "separator_characters": 2,
+        "remaining_before": 634,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "21e8a8c1113cbe2c94b65e4d88fe521d8ffef740c3afde41261b7d20211ebe4c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 4423,
+          "part": 0,
+          "year": 2025,
+          "start": 3596,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 827,
+        "block_characters": 958,
+        "separator_characters": 2,
+        "remaining_before": 634,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 62,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "2.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 851,
+          "end": 1614,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 763,
+        "block_characters": 894,
+        "separator_characters": 2,
+        "remaining_before": 634,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 794.583099999727
+}

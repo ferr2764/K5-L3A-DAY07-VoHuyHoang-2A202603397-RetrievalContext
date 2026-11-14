@@ -1,0 +1,632 @@
+{
+  "query": "Trong Zachman, câu hỏi Where? nhằm tìm hiểu thông tin gì về tổ chức?",
+  "filter": null,
+  "results": [
+    {
+      "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "text": "Figure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By\nasking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs\nfrom the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification\n1.2 • Frameworks of Knowledge and Industry Standards 23",
+      "metadata": {
+        "end": 2394,
+        "part": 0,
+        "year": 2025,
+        "start": 1950,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4579408598785175,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "text": "• Who? seeks to learn who the organizational members are, as well as gather details about the\norganization’s units and hierarchy.\n• When? seeks to learn the organization’s schedule of operations, including when processes are performed.\n• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk\nmanagement and information systems. This question also seeks to determine what motivates the\norganization to perform certain functions.\nAs shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of\nthe matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’\nperspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an\nimportant tool to understand what an organization’s information systems should entail and develop the\nappropriate enterprise architecture to support that system.\n",
+      "metadata": {
+        "end": 1950,
+        "part": 0,
+        "year": 2025,
+        "start": 986,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4423179116485296,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "text": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+      "metadata": {
+        "end": 986,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3874791802333518,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "text": "of work “Zachman Framework (9026775815)” by National Institute of Standards and Technology/Wikimedia Commons, Public\nDomain)\nThe industry standards that are applicable in IS include the American Society for Industrial Security (ASIS), the\nFederal Information Security Modernization Act (FISMA), IS2020, ISO/IEC 27001, and the Open Group\nArchitecture Framework (TOGAF).\nThe American Society for Industrial Security (ASIS) is a global organization that provides training and\ncertification to help professionals in all industries provide security for people, property, and information. ASIS\nis a global organization that collaborates with public and private organizations throughout the world—such as\nthe Department of Homeland Security and the Federal Bureau of Investigation—to ensure that IS\nprofessionals and others involved in security have the resources needed to successfully handle security issues\nat every stage of their career.\n",
+      "metadata": {
+        "end": 935,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3212557900039179,
+      "rank": 4,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "50ac53820bf08fc3859da6c3a491cef810e1788d28816d7b50098c1df48c2628",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "text": "LINK TO LEARNING\nThe Open Group Architecture Framework (TOGAF) contains vision, requirements, business architecture,\ninformation systems architecture, technology, and architecture realization. TOGAF can be an important\nstandard to support organizations as they develop and manage the requirements for enterprise\narchitecture. As their Architecture Development Method (https://openstax.org/r/109ArchDevMethd) shows,\nTOGAF covers all aspects of enterprise architecture, including information systems. This framework\nprovides an essential structure for managing and aligning strategies with business goals.\n24 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+      "metadata": {
+        "end": 3891,
+        "part": 0,
+        "year": 2025,
+        "start": 3213,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.2906147529865605,
+      "rank": 5,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "d7d0a1063f6c4c6193182787dbb263d2bf883083cb6ca2c56c38750d038402b0",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 34,
+      "text": "The Open Group Architecture Framework (TOGAF) is a trademarked standard in its tenth edition that\npromotes best practices for IS and other technology. TOGAF is used by organizations throughout the world in\nboth the public and private sectors to support requirements management for enterprise architecture. The\nareas covered by TOGAF include architecture vision, business architecture, information systems architectures,\ntechnology architecture opportunities and solutions, migration planning, implementation governance, and\narchitecture change management.\n",
+      "metadata": {
+        "end": 3213,
+        "part": 0,
+        "year": 2025,
+        "start": 2657,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.254695260067082,
+      "rank": 6,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "from their data. Decisions about data management have long-lasting impacts, so it is important\nfor organizations to select suitable frameworks for managing data.\nIdentifying Practices and Frameworks That Assist Data Management\nAnalysts report that by 2025 the global volume of data is expected to reach 200 zettabytes.1 A zettabyte is a\nmeasure of digital storage capacity equal to a thousand exabytes, a billion terabytes, or a trillion gigabytes.\n",
+      "metadata": {
+        "end": 2964,
+        "part": 0,
+        "year": 2025,
+        "start": 2515,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.24875567793621134,
+      "rank": 7,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 59,
+      "text": "• Management control is the process of ensuring that the organization is meeting its strategic goals. It\ninvolves setting budgets, monitoring expenses, and tracking sales. Management control is typically done\nby middle management.\n• Strategic planning is the process of setting long-term goals for an organization. It involves identifying the\norganization’s mission, vision, and values, as well as its strategic objectives. Strategic planning is typically\ndone by the organization’s top management team.\nBy classifying information into these categories, Anthony’s framework provides a structured approach to\ngathering, analyzing, and utilizing information for effective planning and control within an organization. Table\n2.1 features data characteristics for the three types of domains.\nDomain Data Use Data Characteristics\nOperational Track and control day-to-day activities. Data are typically detailed and time sensitive.\n",
+      "metadata": {
+        "end": 1795,
+        "part": 0,
+        "year": 2025,
+        "start": 870,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.2407659927375485,
+      "rank": 8,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "a08e48e88bc4a3fbc30127f2c684d01535c332db703cff02c3b5855ddbc7de1f",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 32,
+      "text": "Waterfall is a structured, linear framework used to guide project management. Generally, the steps of\n22 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+      "metadata": {
+        "end": 2868,
+        "part": 0,
+        "year": 2025,
+        "start": 2692,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.2336749609874612,
+      "rank": 9,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "text": "• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including\ntraining and incentive programs\n• Structure: how an organization is designed, including its hierarchy and chain of command\n• Strategy: the organization’s goals/objectives and the plans to achieve these\n• Skills: the skills, knowledge, and competencies held by the organization’s staff\n• Systems: the workflow processes used to achieve the organization’s goals and objectives\n• Style: the tone at the executive level established by the organization’s leaders and managers\n• Shared values: the organization’s mission and values that motivate its operations\nLINK TO LEARNING\nThe McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination\nwithin an organization across its structure. Review this interactive presentation about the framework’s\napplicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.\n",
+      "metadata": {
+        "end": 1701,
+        "part": 0,
+        "year": 2025,
+        "start": 731,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.22722513328188554,
+      "rank": 10,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "top3": [
+    {
+      "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "text": "Figure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By\nasking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs\nfrom the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification\n1.2 • Frameworks of Knowledge and Industry Standards 23",
+      "metadata": {
+        "end": 2394,
+        "part": 0,
+        "year": 2025,
+        "start": 1950,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4579408598785175,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "text": "• Who? seeks to learn who the organizational members are, as well as gather details about the\norganization’s units and hierarchy.\n• When? seeks to learn the organization’s schedule of operations, including when processes are performed.\n• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk\nmanagement and information systems. This question also seeks to determine what motivates the\norganization to perform certain functions.\nAs shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of\nthe matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’\nperspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an\nimportant tool to understand what an organization’s information systems should entail and develop the\nappropriate enterprise architecture to support that system.\n",
+      "metadata": {
+        "end": 1950,
+        "part": 0,
+        "year": 2025,
+        "start": 986,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.4423179116485296,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "text": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+      "metadata": {
+        "end": 986,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3874791802333518,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "trace": {
+    "method": "dense",
+    "filter": {},
+    "returned": 10,
+    "elapsed_ms": 950.8073999986664,
+    "cache_hit": false,
+    "service_cost_usd": null,
+    "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+    "model": "openai/text-embedding-3-small",
+    "dimensions": 1536,
+    "strategy": "B",
+    "embedding_requests": [
+      {
+        "status": "ok",
+        "id": "gen-emb-1794648567-w0nwCZrGzzDOzU5g59eR",
+        "elapsed_ms": 901.5381999997771,
+        "usage": {
+          "prompt_tokens": 33,
+          "total_tokens": 33,
+          "cost": 6.6e-07,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6.6e-07,
+            "upstream_inference_prompt_cost": 6.6e-07,
+            "upstream_inference_completions_cost": 0
+          }
+        }
+      }
+    ],
+    "measured_embedding_cost": {
+      "request_count": 1,
+      "known_cost_usd": 6.6e-07,
+      "cost_usd": 6.6e-07,
+      "unknown_cost_request_count": 0,
+      "prompt_tokens_known": 33
+    }
+  },
+  "context_selection": {
+    "context": "[0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91 | starter/data/Foundations_of_Information_Systems.pdf | page 33]\nFigure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By\nasking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs\nfrom the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification\n1.2 • Frameworks of Knowledge and Industry Standards 23\n\n[b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f | starter/data/Foundations_of_Information_Systems.pdf | page 33]\n• Who? seeks to learn who the organizational members are, as well as gather details about the\norganization’s units and hierarchy.\n• When? seeks to learn the organization’s schedule of operations, including when processes are performed.\n• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk\nmanagement and information systems. This question also seeks to determine what motivates the\norganization to perform certain functions.\nAs shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of\nthe matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’\nperspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an\nimportant tool to understand what an organization’s information systems should entail and develop the\nappropriate enterprise architecture to support that system.\n\n\n[56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae | starter/data/Foundations_of_Information_Systems.pdf | page 33]\nWaterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n\n\n[06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c | starter/data/Foundations_of_Information_Systems.pdf | page 34]\nof work “Zachman Framework (9026775815)” by National Institute of Standards and Technology/Wikimedia Commons, Public\nDomain)\nThe industry standards that are applicable in IS include the American Society for Industrial Security (ASIS), the\nFederal Information Security Modernization Act (FISMA), IS2020, ISO/IEC 27001, and the Open Group\nArchitecture Framework (TOGAF).\nThe American Society for Industrial Security (ASIS) is a global organization that provides training and\ncertification to help professionals in all industries provide security for people, property, and information. ASIS\nis a global organization that collaborates with public and private organizations throughout the world—such as\nthe Department of Homeland Security and the Federal Bureau of Investigation—to ensure that IS\nprofessionals and others involved in security have the resources needed to successfully handle security issues\nat every stage of their career.\n",
+    "context_ids": [
+      "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+      "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+      "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+      "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c"
+    ],
+    "context_chars": 3859,
+    "context_sha256": "04be3d59c9d570811699127cced30ee08739378d779c8816dc710e0b115f816c",
+    "budget_chars": 4000,
+    "remaining_chars": 141,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 4,
+    "skipped_count": 6,
+    "decisions": [
+      {
+        "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "metadata": {
+          "end": 2394,
+          "part": 0,
+          "year": 2025,
+          "start": 1950,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 444,
+        "block_characters": 575,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "metadata": {
+          "end": 1950,
+          "part": 0,
+          "year": 2025,
+          "start": 986,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 964,
+        "block_characters": 1095,
+        "separator_characters": 2,
+        "remaining_before": 3425,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "metadata": {
+          "end": 986,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 986,
+        "block_characters": 1117,
+        "separator_characters": 2,
+        "remaining_before": 2328,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "06ed731768bf1b1014671ca7c15505774a22ba123bbb77787258d2b623f7bb3c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "metadata": {
+          "end": 935,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 935,
+        "block_characters": 1066,
+        "separator_characters": 2,
+        "remaining_before": 1209,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "50ac53820bf08fc3859da6c3a491cef810e1788d28816d7b50098c1df48c2628",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "metadata": {
+          "end": 3891,
+          "part": 0,
+          "year": 2025,
+          "start": 3213,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 678,
+        "block_characters": 809,
+        "separator_characters": 2,
+        "remaining_before": 141,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "d7d0a1063f6c4c6193182787dbb263d2bf883083cb6ca2c56c38750d038402b0",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 34,
+        "metadata": {
+          "end": 3213,
+          "part": 0,
+          "year": 2025,
+          "start": 2657,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 556,
+        "block_characters": 687,
+        "separator_characters": 2,
+        "remaining_before": 141,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 2964,
+          "part": 0,
+          "year": 2025,
+          "start": 2515,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 449,
+        "block_characters": 580,
+        "separator_characters": 2,
+        "remaining_before": 141,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 59,
+        "metadata": {
+          "end": 1795,
+          "part": 0,
+          "year": 2025,
+          "start": 870,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 925,
+        "block_characters": 1056,
+        "separator_characters": 2,
+        "remaining_before": 141,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "a08e48e88bc4a3fbc30127f2c684d01535c332db703cff02c3b5855ddbc7de1f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 32,
+        "metadata": {
+          "end": 2868,
+          "part": 0,
+          "year": 2025,
+          "start": 2692,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 176,
+        "block_characters": 307,
+        "separator_characters": 2,
+        "remaining_before": 141,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 31,
+        "metadata": {
+          "end": 1701,
+          "part": 0,
+          "year": 2025,
+          "start": 731,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 970,
+        "block_characters": 1101,
+        "separator_characters": 2,
+        "remaining_before": 141,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 951.0565000000497
+}

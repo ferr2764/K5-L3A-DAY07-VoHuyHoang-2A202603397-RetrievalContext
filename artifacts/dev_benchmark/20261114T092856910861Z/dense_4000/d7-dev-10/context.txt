@@ -1,0 +1,51 @@
+[dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c | starter/data/Foundations_of_Information_Systems.pdf | page 56]
+• Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time
+processing, is characterized by velocity. Particularly evident during high-traffic events, such as online flash
+sales, the constant influx of clickstream data necessitates swift analysis to enable the system to offer
+tailored recommendations and insights to users navigating a dynamic digital landscape.
+• Veracity: The veracity dimension refers to the reliability, accuracy, and trustworthiness of the data,
+considering factors like data quality and consistency. As data originate from a multitude of sources and
+are influenced by user behaviors and tracking nuances, ensuring the quality of the data is imperative to
+avoiding misinterpretations of metrics like bounce rates and session durations.
+
+
+[91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076 | starter/data/Foundations_of_Information_Systems.pdf | page 52]
+1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,
+https://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/
+2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,
+https://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-
+unused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D
+42 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[34daaddd4938cf6d81965ffba188cb7c79038ebae208ccd88d98f2361bc06085 | starter/data/Foundations_of_Information_Systems.pdf | page 54]
+Figure 2.2 Data governance plays a role in all data management areas. It ensures an organization’s data are of high quality and are
+managed and protected effectively so that the data can be used to make informed decisions. (attribution: Copyright Rice University,
+OpenStax, under CC BY 4.0 license)
+FUTURE TECHNOLOGY
+Data Management Technologies
+A new approach to data management, called a data mesh, is based on the principle of domain-driven
+design. In a data mesh, data are owned by the domain experts who create the data, and the data are made
+available to other users through a self-service model.
+
+
+[eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245 | starter/data/Foundations_of_Information_Systems.pdf | page 56]
+Dimensions and Characteristics of Data to Inform Data Management
+Decisions
+For each type of data, an organization needs to define rules and policies to measure the quality of the data
+and the effectiveness of the data’s management. There are four key dimensions of big data known as the four
+Vs:
+• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data
+datasets are incredibly large and can grow exponentially.
+• Variety: The variety dimension encompasses the diverse array of data types and formats, which might
+include structured elements like user IDs, time stamps, and actions taken, as well as unstructured
+components such as user comments and feedback.
+
+
+[787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a | starter/data/Foundations_of_Information_Systems.pdf | page 52]
+Notably, most of these data are underutilized. For most enterprises, only about one-third of data is used for
+decision-making, while the remaining two-thirds is simply stored.2 When analysts are unable to find the
+appropriate and available data for decision-making, it can cost organizations billions of dollars each year. On
+the other hand, data archives are often required for regulatory reasons to ensure compliance with laws
+governing data retention, privacy, and security. For instance, industries like health care and finance have strict
+regulations regarding the retention of patient records and financial transactions data.

@@ -1,0 +1,19 @@
+{
+  "query_id": "d7-dev-15",
+  "split": "dev",
+  "answerable": true,
+  "raw_hit_at_1_literal": true,
+  "raw_hit_at_3_literal": true,
+  "final_model_context_evidence_literal": true,
+  "status": "abstain",
+  "search_count": 1,
+  "model_call_count": 2,
+  "manual_review": {
+    "grounded_answer_0_2": null,
+    "context_0_2": null,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": null
+  },
+  "scoring": "literal source/page/complete-evidence; equivalence/content grading pending"
+}

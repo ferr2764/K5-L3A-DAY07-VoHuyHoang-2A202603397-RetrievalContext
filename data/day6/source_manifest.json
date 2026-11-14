@@ -1,0 +1,487 @@
+{
+  "schema_version": "1.0",
+  "path_base": "repository root",
+  "sources": [
+    {
+      "source_id": "foundations-of-information-systems",
+      "document_id": "foundations-of-information-systems",
+      "title": "Foundations of Information Systems",
+      "senior_contributing_author": "Dr. Mahesh S. Raisinghani",
+      "publisher": "OpenStax, Rice University",
+      "publication_year": 2025,
+      "language": "en",
+      "source_path_or_url": "starter/data/Foundations_of_Information_Systems.pdf",
+      "publisher_url": "https://openstax.org/details/books/foundations-information-systems",
+      "accessed_at": "2026-11-13",
+      "accessed_at_note": "Date the existing local PDF was inspected for this manifest; original download date is unknown.",
+      "license_or_permission": {
+        "identifier": "CC-BY-NC-SA-4.0",
+        "verified_from": "Physical PDF page 4, copyright and licensing notice",
+        "scope": "Textbook content produced by OpenStax. Third-party items may have separate credits; trademarks, logos and covers are excluded from the textbook license.",
+        "conditions": [
+          "Noncommercial use only",
+          "Provide proper attribution",
+          "Share adaptations under the same license type",
+          "Retain the required attribution on every redistributed digital page view or printed page"
+        ],
+        "required_attribution": "Access for free at openstax.org.",
+        "citation": "Raisinghani, Mahesh S. Foundations of Information Systems. OpenStax, Rice University, 2025. https://openstax.org/details/books/foundations-information-systems",
+        "intended_use": "Noncommercial individual coursework: extraction, chunking and retrieval evaluation."
+      },
+      "acquisition": {
+        "status": "PDF already present locally; original download URL was not recorded.",
+        "instructions": [
+          "Open publisher_url.",
+          "Download the PDF from the official book page.",
+          "Save as starter/data/Foundations_of_Information_Systems.pdf relative to repository root.",
+          "Compare SHA-256 with this manifest; a changed edition may change page numbering and requires rechecking the benchmark."
+        ],
+        "requires_authentication_for_local_copy": false
+      },
+      "snapshot": {
+        "sha256": "496dd5f206da66e0334514df9c22a22fa58267851c349619f35c2d3aeba69306",
+        "file_size_bytes": 25619781,
+        "pdf_creation_date": "D:20260420121241-05'00'",
+        "digital_isbn_13": "978-1-961584-63-1",
+        "edition": "Not explicitly established; identify this snapshot by SHA-256."
+      },
+      "page_numbering": {
+        "convention": "Physical PDF pages, 1-based, inclusive endpoints",
+        "selected_start": 30,
+        "selected_end": 72,
+        "selected_page_count": 43,
+        "physical_page_count": 497,
+        "printed_page_mapping": "For selected pages, printed page = physical PDF page - 10."
+      },
+      "content_page_counting": {
+        "rule": "Count instructional text and instructional figures/tables; conservatively exclude key terms, chapter summaries, review/application questions, nearly blank pages and chapter-opening pages. Count pages once only.",
+        "counted_pdf_pages": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72
+        ],
+        "excluded_pdf_pages": [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        "counted_content_pages": 34,
+        "minimum_required": 30,
+        "meets_minimum": true,
+        "note": "Selected scope remains PDF 30-72. The 34-page content count is separate from the 43-page selection; excluded pages must not inflate the minimum."
+      },
+      "text_measurement": {
+        "tool": "pypdf",
+        "version": "6.21.4",
+        "normalization": "Unicode NFC, then collapse all whitespace with split/join",
+        "character_count_includes": "All extracted page text including headers, footers and captions; counts are not a cleaned pipeline output.",
+        "selected_normalized_characters": 136750,
+        "counted_content_normalized_characters": 114255,
+        "empty_selected_pages": [],
+        "ocr_used": false
+      },
+      "metadata_filter": {
+        "field": "section",
+        "type": "string",
+        "value_source": "Actual numbered headings in the PDF; retain section boundaries when creating chunks.",
+        "example_values": [
+          "1.2",
+          "1.3",
+          "1.4",
+          "2.1",
+          "2.2",
+          "2.3",
+          "2.4"
+        ],
+        "boundary_notes": [
+          "PDF page 36 transitions from section 1.2 to 1.3.",
+          "PDF page 68 transitions from section 2.2 to 2.3.",
+          "Do not assign one section to an entire mixed-section page or infer section from benchmark gold."
+        ]
+      },
+      "pages": [
+        {
+          "page_id": "pdf-030",
+          "pdf_page": 30,
+          "printed_page": 20,
+          "normalized_character_count": 3207,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-031",
+          "pdf_page": 31,
+          "printed_page": 21,
+          "normalized_character_count": 3117,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-032",
+          "pdf_page": 32,
+          "printed_page": 22,
+          "normalized_character_count": 2868,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-033",
+          "pdf_page": 33,
+          "printed_page": 23,
+          "normalized_character_count": 2394,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-034",
+          "pdf_page": 34,
+          "printed_page": 24,
+          "normalized_character_count": 3891,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-035",
+          "pdf_page": 35,
+          "printed_page": 25,
+          "normalized_character_count": 3795,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-036",
+          "pdf_page": 36,
+          "printed_page": 26,
+          "normalized_character_count": 3422,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-037",
+          "pdf_page": 37,
+          "printed_page": 27,
+          "normalized_character_count": 2030,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-038",
+          "pdf_page": 38,
+          "printed_page": 28,
+          "normalized_character_count": 1437,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-039",
+          "pdf_page": 39,
+          "printed_page": 29,
+          "normalized_character_count": 3206,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-040",
+          "pdf_page": 40,
+          "printed_page": 30,
+          "normalized_character_count": 3955,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-041",
+          "pdf_page": 41,
+          "printed_page": 31,
+          "normalized_character_count": 4023,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-042",
+          "pdf_page": 42,
+          "printed_page": 32,
+          "normalized_character_count": 488,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-043",
+          "pdf_page": 43,
+          "printed_page": 33,
+          "normalized_character_count": 3758,
+          "counted_as_content": false,
+          "exclusion_reason": "Chapter 1 key terms"
+        },
+        {
+          "page_id": "pdf-044",
+          "pdf_page": 44,
+          "printed_page": 34,
+          "normalized_character_count": 3666,
+          "counted_as_content": false,
+          "exclusion_reason": "Chapter 1 key terms"
+        },
+        {
+          "page_id": "pdf-045",
+          "pdf_page": 45,
+          "printed_page": 35,
+          "normalized_character_count": 3726,
+          "counted_as_content": false,
+          "exclusion_reason": "Chapter summary/review/application questions"
+        },
+        {
+          "page_id": "pdf-046",
+          "pdf_page": 46,
+          "printed_page": 36,
+          "normalized_character_count": 3109,
+          "counted_as_content": false,
+          "exclusion_reason": "Chapter summary/review/application questions"
+        },
+        {
+          "page_id": "pdf-047",
+          "pdf_page": 47,
+          "printed_page": 37,
+          "normalized_character_count": 1886,
+          "counted_as_content": false,
+          "exclusion_reason": "Chapter summary/review/application questions"
+        },
+        {
+          "page_id": "pdf-048",
+          "pdf_page": 48,
+          "printed_page": 38,
+          "normalized_character_count": 1918,
+          "counted_as_content": false,
+          "exclusion_reason": "Chapter summary/review/application questions"
+        },
+        {
+          "page_id": "pdf-049",
+          "pdf_page": 49,
+          "printed_page": 39,
+          "normalized_character_count": 2520,
+          "counted_as_content": false,
+          "exclusion_reason": "Chapter summary/review/application questions"
+        },
+        {
+          "page_id": "pdf-050",
+          "pdf_page": 50,
+          "printed_page": 40,
+          "normalized_character_count": 60,
+          "counted_as_content": false,
+          "exclusion_reason": "Chapter summary/review/application questions"
+        },
+        {
+          "page_id": "pdf-051",
+          "pdf_page": 51,
+          "printed_page": 41,
+          "normalized_character_count": 1852,
+          "counted_as_content": false,
+          "exclusion_reason": "Chapter 2 opening and learning objectives"
+        },
+        {
+          "page_id": "pdf-052",
+          "pdf_page": 52,
+          "printed_page": 42,
+          "normalized_character_count": 5009,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-053",
+          "pdf_page": 53,
+          "printed_page": 43,
+          "normalized_character_count": 2194,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-054",
+          "pdf_page": 54,
+          "printed_page": 44,
+          "normalized_character_count": 1733,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-055",
+          "pdf_page": 55,
+          "printed_page": 45,
+          "normalized_character_count": 4023,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-056",
+          "pdf_page": 56,
+          "printed_page": 46,
+          "normalized_character_count": 4368,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-057",
+          "pdf_page": 57,
+          "printed_page": 47,
+          "normalized_character_count": 3927,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-058",
+          "pdf_page": 58,
+          "printed_page": 48,
+          "normalized_character_count": 3365,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-059",
+          "pdf_page": 59,
+          "printed_page": 49,
+          "normalized_character_count": 3831,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-060",
+          "pdf_page": 60,
+          "printed_page": 50,
+          "normalized_character_count": 4276,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-061",
+          "pdf_page": 61,
+          "printed_page": 51,
+          "normalized_character_count": 4096,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-062",
+          "pdf_page": 62,
+          "printed_page": 52,
+          "normalized_character_count": 3109,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-063",
+          "pdf_page": 63,
+          "printed_page": 53,
+          "normalized_character_count": 2887,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-064",
+          "pdf_page": 64,
+          "printed_page": 54,
+          "normalized_character_count": 2338,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-065",
+          "pdf_page": 65,
+          "printed_page": 55,
+          "normalized_character_count": 2717,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-066",
+          "pdf_page": 66,
+          "printed_page": 56,
+          "normalized_character_count": 4728,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-067",
+          "pdf_page": 67,
+          "printed_page": 57,
+          "normalized_character_count": 4551,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-068",
+          "pdf_page": 68,
+          "printed_page": 58,
+          "normalized_character_count": 3948,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-069",
+          "pdf_page": 69,
+          "printed_page": 59,
+          "normalized_character_count": 4804,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-070",
+          "pdf_page": 70,
+          "printed_page": 60,
+          "normalized_character_count": 3871,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-071",
+          "pdf_page": 71,
+          "printed_page": 61,
+          "normalized_character_count": 4159,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        },
+        {
+          "page_id": "pdf-072",
+          "pdf_page": 72,
+          "printed_page": 62,
+          "normalized_character_count": 2488,
+          "counted_as_content": true,
+          "exclusion_reason": null
+        }
+      ]
+    }
+  ]
+}

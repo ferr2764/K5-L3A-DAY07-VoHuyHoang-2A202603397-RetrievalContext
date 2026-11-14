@@ -1,0 +1,34 @@
+[
+  {
+    "status": "ok",
+    "id": "gen-emb-1794648595-M22rBxSRkHilPjfCqTwf",
+    "elapsed_ms": 807.2441000003892,
+    "usage": {
+      "prompt_tokens": 45,
+      "total_tokens": 45,
+      "cost": 9e-07,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 9e-07,
+        "upstream_inference_prompt_cost": 9e-07,
+        "upstream_inference_completions_cost": 0
+      }
+    }
+  },
+  {
+    "status": "ok",
+    "id": "gen-emb-1794648597-EQrCd5lGOPSXT7wsQrVG",
+    "elapsed_ms": 811.047300001519,
+    "usage": {
+      "prompt_tokens": 7,
+      "total_tokens": 7,
+      "cost": 1.4e-07,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 1.4e-07,
+        "upstream_inference_prompt_cost": 1.4e-07,
+        "upstream_inference_completions_cost": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "query": "Theo corpus này, VinUni quy định phải lưu log truy cập hệ thống sinh viên trong chính xác bao nhiêu ngày?",
+  "filter": null,
+  "results": [],
+  "top3": [],
+  "trace": {
+    "method": "tfidf",
+    "filter": {},
+    "eligible_count": 162,
+    "returned": 0,
+    "elapsed_ms": 0.10780000047816429,
+    "service_cost_usd": 0,
+    "tokenization": "NFC_casefold_word_regex",
+    "idf_scope": "entire_fixed_snapshot"
+  },
+  "context_selection": {
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "context_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "budget_chars": 4000,
+    "remaining_chars": 4000,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 0,
+    "unique_candidates": 0,
+    "duplicates_removed": 0,
+    "selected_count": 0,
+    "skipped_count": 0,
+    "decisions": [],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 0.13789999866276048
+}

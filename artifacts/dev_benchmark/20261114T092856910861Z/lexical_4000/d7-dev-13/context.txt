@@ -1,0 +1,50 @@
+[1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444 | starter/data/Foundations_of_Information_Systems.pdf | page 57]
+• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial
+to maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over
+their entire life cycle.
+• Addressing varied definitions: Dealing with diverse definitions across different data sources requires
+establishing a clear and standardized data definition, which is the instruction for how to organize
+information. These definitions tell a computer system what kind of data to expect (text, numbers, dates)
+and how the data should be formatted mapped to ensure consistency. For example, when the underlying
+data point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth
+Date”) might differ based on the department using the data. However, the definition of the data point (the
+actual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.
+
+
+[1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd | starter/data/Foundations_of_Information_Systems.pdf | page 53]
+Appropriate data management is crucial to an organization’s reputation and success. Data management
+parameters establish practices that organizations can use to ensure that their data are managed, protected¸
+and of high quality so they can be utilized to make informed decisions. The essential areas for managing data
+effectively are as follows (Figure 2.2)3 :
+• Data governance establishes policies, processes, standards, roles, and responsibilities to manage data
+as a valuable asset.
+• Data quality ensures that data are accurate, complete, and consistent. This is achieved through
+activities such as validation, cleansing, matching, and monitoring via metrics and reporting.
+• Data integration combines data from different systems and applications. It includes tasks such as
+mapping data elements, transforming data, and ensuring seamless integration using tools and best
+practices.
+
+
+[510065945487652c5065c489fc7f5182cfb9095393d345f7275195a128db72d6 | starter/data/Foundations_of_Information_Systems.pdf | page 55]
+This includes creating frameworks and structures for collecting, storing, processing, and accessing data in a
+way that aligns with business goals, compliance requirements, and performance needs. In addition to
+designing traditional data architectures, many modern data architects now also focus on frameworks like
+data mesh, data fabric, and federated analytics as part of their responsibilities. A data architect needs
+strong knowledge of database technologies, data modeling, cloud platforms, and big data tools. They must
+also understand data governance practices, security protocols, and compliance regulations and be familiar
+with data pipelines, integration tools, and extract, transform, and tools. Having strong problem-solving
+skills will allow a data architect to design complex systems and solve integration challenges, ensuring data
+flows smoothly across different parts of the organization.
+
+
+[eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245 | starter/data/Foundations_of_Information_Systems.pdf | page 56]
+Dimensions and Characteristics of Data to Inform Data Management
+Decisions
+For each type of data, an organization needs to define rules and policies to measure the quality of the data
+and the effectiveness of the data’s management. There are four key dimensions of big data known as the four
+Vs:
+• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data
+datasets are incredibly large and can grow exponentially.
+• Variety: The variety dimension encompasses the diverse array of data types and formats, which might
+include structured elements like user IDs, time stamps, and actions taken, as well as unstructured
+components such as user comments and feedback.

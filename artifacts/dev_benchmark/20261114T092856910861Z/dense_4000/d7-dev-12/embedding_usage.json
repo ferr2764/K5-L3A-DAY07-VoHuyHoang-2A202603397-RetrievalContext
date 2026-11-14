@@ -1,0 +1,18 @@
+[
+  {
+    "status": "ok",
+    "id": "gen-emb-1794648601-NmhSwu7hTIP1ocRjcvZi",
+    "elapsed_ms": 867.1530999999959,
+    "usage": {
+      "prompt_tokens": 35,
+      "total_tokens": 35,
+      "cost": 7e-07,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 7e-07,
+        "upstream_inference_prompt_cost": 7e-07,
+        "upstream_inference_completions_cost": 0
+      }
+    }
+  }
+]

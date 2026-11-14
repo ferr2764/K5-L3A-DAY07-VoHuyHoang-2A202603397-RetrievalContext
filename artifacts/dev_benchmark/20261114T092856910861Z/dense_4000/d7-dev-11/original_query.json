@@ -1,0 +1,632 @@
+{
+  "query": "Nếu dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực, đó là chiều nào của big data?",
+  "filter": null,
+  "results": [
+    {
+      "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "text": "Dimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n",
+      "metadata": {
+        "end": 701,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3822355965345108,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "Notably, most of these data are underutilized. For most enterprises, only about one-third of data is used for\ndecision-making, while the remaining two-thirds is simply stored.2 When analysts are unable to find the\nappropriate and available data for decision-making, it can cost organizations billions of dollars each year. On\nthe other hand, data archives are often required for regulatory reasons to ensure compliance with laws\ngoverning data retention, privacy, and security. For instance, industries like health care and finance have strict\nregulations regarding the retention of patient records and financial transactions data.\n",
+      "metadata": {
+        "end": 3596,
+        "part": 0,
+        "year": 2025,
+        "start": 2964,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.36404516082927296,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "For any organization, information is an invaluable resource, hence data and data management have become\ncritical. Effective data management aligns with data analytics capabilities, facilitating the automated discovery\nof trends, patterns, and anomalies through techniques like data mining and analysis. In today’s data-driven\nworld, there’s increasing attention to the relevance of big data, highly complex and large datasets that require\nspecialized processing techniques to extract valuable insights and make informed decisions. Managing any\ndata involves activities such as cleaning, extracting, integrating, categorizing, labeling, and organizing. All\nthese activities should be executed in a manner that ensures that the quality of the data is preserved, and the\ndata remain secure but also easily retrievable. Organizations need people to manage data and control data\naccessibility, and they need to define roles and responsibilities for all the people working with and extracting\ninformation ",
+      "metadata": {
+        "end": 2515,
+        "part": 0,
+        "year": 2025,
+        "start": 1516,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3569311026837354,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "from their data. Decisions about data management have long-lasting impacts, so it is important\nfor organizations to select suitable frameworks for managing data.\nIdentifying Practices and Frameworks That Assist Data Management\nAnalysts report that by 2025 the global volume of data is expected to reach 200 zettabytes.1 A zettabyte is a\nmeasure of digital storage capacity equal to a thousand exabytes, a billion terabytes, or a trillion gigabytes.\n",
+      "metadata": {
+        "end": 2964,
+        "part": 0,
+        "year": 2025,
+        "start": 2515,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3460710872554189,
+      "rank": 4,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "text": "Different types of data are required for generating suitable information, and different types of data require\ndifferent management approaches. There are two main categories of data—structured and unstructured. The\nfirst, structured data, exist in organized, fixed fields in a data repository. Structured data are typically defined\nin terms of field name and type (such as numeric or alphabetical). Structured data can be further categorized\nas follows:\n• Associated with operational or real-time applications, operational data include transactional data\ngenerated by day-to-day business operations. Operational data often require high availability, real-time\nprocessing, and quick access for operational decision-making. When managing operational data, the focus\nis on ensuring data integrity, availability, and performance to support critical business processes.\n",
+      "metadata": {
+        "end": 2366,
+        "part": 0,
+        "year": 2025,
+        "start": 1502,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.34488515515961526,
+      "rank": 5,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,\nhttps://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/\n2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,\nhttps://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-\nunused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D\n42 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+      "metadata": {
+        "end": 5009,
+        "part": 0,
+        "year": 2025,
+        "start": 4423,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3348775628490792,
+      "rank": 6,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "22c455cba413208a327c6b12bbfd85644ad675fe16d552084d999444a183b9bb",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "text": "There are several challenges associated with managing unstructured data. Their large volume can make them\ndifficult to store and manage. Unstructured data also come in a variety of formats from multiple sources,\nincluding internal sources, personal sources, and external sources. Data can also come from the web in the\nform of blogs, podcasts, tweets, social media posts, online videos, texts, and radio-frequency identification\ntags and other wireless sensors. These technologies generate data that must be managed but are difficult to\nprocess and analyze. Unstructured data are often generated at high velocity. This can make it difficult to keep\nup with and make sense of the data.\nDespite the challenges, managing unstructured data can be valuable. Unstructured data can provide insights\n46 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+      "metadata": {
+        "end": 4368,
+        "part": 0,
+        "year": 2025,
+        "start": 3478,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3341690329135345,
+      "rank": 7,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "21e8a8c1113cbe2c94b65e4d88fe521d8ffef740c3afde41261b7d20211ebe4c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "Another important aspect of dealing with data is data governance, which involves the policies, procedures,\nand standards how an organization manages the availability, usability, integrity, and security of its data\nthroughout the data life cycle. You probably have noticed that every time you use the internet, an app on your\nphone, or buy something online, websites and apps track what you do, and may track your location and other\ndata. The world is full of sensors, electronic payments, tracking data, biometric information like fingerprints,\nand smart home devices that collect data. This kind of information is valuable, and this creates challenges for\nmaking sure data are handled well. Data governance is like a rulebook for how data are managed and making\nsure the right people are responsible for decisions about data.\n",
+      "metadata": {
+        "end": 4423,
+        "part": 0,
+        "year": 2025,
+        "start": 3596,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3157268086721452,
+      "rank": 8,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "34ae13eb3b7d2da93bf3b9ebda039cdcbeafdac8cf7caf683df65dc370f40e7f",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "Organizations typically use digital technology to analyze data to get the information they need to run their\nbusinesses. With the exponential increase in computing capacity and the development of artificial intelligence\n(AI) and large-language models, businesses today rely heavily on efficient managers using sophisticated data\nstorage and data analytics technologies. How can you align your organization’s data management and\ninformation strategies to deliver optimal results for the greatest number of stakeholders? Future data\nmanagers will have an obligation not only to understand information and data management but also to\npossess the ability to extract valuable insights from data, apply these insights strategically, and align them\nwith the organization’s goals.\n",
+      "metadata": {
+        "end": 773,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.31375646183620476,
+      "rank": 9,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "In Chapter 1 Fundamentals of Information Systems, you learned that the term data refers to raw facts and\nfigures that are processed and turned into meaningful information. Data represent discrete elements without\ncontext or meaning on their own, and data come in various forms—such as numbers, text, images, or audio.\nFor example, a list of numbers or a collection of customer names and addresses is considered data.\nInformation is the result of processing data through organization, analysis, and contextualization to derive\nmeaning. If the data are a list of numbers, then the related information may be the trend of increasing sales of\na product. This information can be used to make decisions, understand relationships, and gain insights.\n",
+      "metadata": {
+        "end": 1516,
+        "part": 0,
+        "year": 2025,
+        "start": 773,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3099127555617076,
+      "rank": 10,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "top3": [
+    {
+      "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "text": "Dimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n",
+      "metadata": {
+        "end": 701,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3822355965345108,
+      "rank": 1,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "Notably, most of these data are underutilized. For most enterprises, only about one-third of data is used for\ndecision-making, while the remaining two-thirds is simply stored.2 When analysts are unable to find the\nappropriate and available data for decision-making, it can cost organizations billions of dollars each year. On\nthe other hand, data archives are often required for regulatory reasons to ensure compliance with laws\ngoverning data retention, privacy, and security. For instance, industries like health care and finance have strict\nregulations regarding the retention of patient records and financial transactions data.\n",
+      "metadata": {
+        "end": 3596,
+        "part": 0,
+        "year": 2025,
+        "start": 2964,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.36404516082927296,
+      "rank": 2,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    },
+    {
+      "id": "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "text": "For any organization, information is an invaluable resource, hence data and data management have become\ncritical. Effective data management aligns with data analytics capabilities, facilitating the automated discovery\nof trends, patterns, and anomalies through techniques like data mining and analysis. In today’s data-driven\nworld, there’s increasing attention to the relevance of big data, highly complex and large datasets that require\nspecialized processing techniques to extract valuable insights and make informed decisions. Managing any\ndata involves activities such as cleaning, extracting, integrating, categorizing, labeling, and organizing. All\nthese activities should be executed in a manner that ensures that the quality of the data is preserved, and the\ndata remain secure but also easily retrievable. Organizations need people to manage data and control data\naccessibility, and they need to define roles and responsibilities for all the people working with and extracting\ninformation ",
+      "metadata": {
+        "end": 2515,
+        "part": 0,
+        "year": 2025,
+        "start": 1516,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.3569311026837354,
+      "rank": 3,
+      "method": "dense",
+      "score_type": "cosine_similarity"
+    }
+  ],
+  "trace": {
+    "method": "dense",
+    "filter": {},
+    "returned": 10,
+    "elapsed_ms": 850.3479999999399,
+    "cache_hit": false,
+    "service_cost_usd": null,
+    "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+    "model": "openai/text-embedding-3-small",
+    "dimensions": 1536,
+    "strategy": "B",
+    "embedding_requests": [
+      {
+        "status": "ok",
+        "id": "gen-emb-1794648596-nJ8Ph04ZoQwTW3JSR4zg",
+        "elapsed_ms": 798.2089000015549,
+        "usage": {
+          "prompt_tokens": 45,
+          "total_tokens": 45,
+          "cost": 9e-07,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 9e-07,
+            "upstream_inference_prompt_cost": 9e-07,
+            "upstream_inference_completions_cost": 0
+          }
+        }
+      }
+    ],
+    "measured_embedding_cost": {
+      "request_count": 1,
+      "known_cost_usd": 9e-07,
+      "cost_usd": 9e-07,
+      "unknown_cost_request_count": 0,
+      "prompt_tokens_known": 45
+    }
+  },
+  "context_selection": {
+    "context": "[eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245 | starter/data/Foundations_of_Information_Systems.pdf | page 56]\nDimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n\n\n[787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a | starter/data/Foundations_of_Information_Systems.pdf | page 52]\nNotably, most of these data are underutilized. For most enterprises, only about one-third of data is used for\ndecision-making, while the remaining two-thirds is simply stored.2 When analysts are unable to find the\nappropriate and available data for decision-making, it can cost organizations billions of dollars each year. On\nthe other hand, data archives are often required for regulatory reasons to ensure compliance with laws\ngoverning data retention, privacy, and security. For instance, industries like health care and finance have strict\nregulations regarding the retention of patient records and financial transactions data.\n\n\n[e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc | starter/data/Foundations_of_Information_Systems.pdf | page 52]\nFor any organization, information is an invaluable resource, hence data and data management have become\ncritical. Effective data management aligns with data analytics capabilities, facilitating the automated discovery\nof trends, patterns, and anomalies through techniques like data mining and analysis. In today’s data-driven\nworld, there’s increasing attention to the relevance of big data, highly complex and large datasets that require\nspecialized processing techniques to extract valuable insights and make informed decisions. Managing any\ndata involves activities such as cleaning, extracting, integrating, categorizing, labeling, and organizing. All\nthese activities should be executed in a manner that ensures that the quality of the data is preserved, and the\ndata remain secure but also easily retrievable. Organizations need people to manage data and control data\naccessibility, and they need to define roles and responsibilities for all the people working with and extracting\ninformation \n\n[f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92 | starter/data/Foundations_of_Information_Systems.pdf | page 52]\nfrom their data. Decisions about data management have long-lasting impacts, so it is important\nfor organizations to select suitable frameworks for managing data.\nIdentifying Practices and Frameworks That Assist Data Management\nAnalysts report that by 2025 the global volume of data is expected to reach 200 zettabytes.1 A zettabyte is a\nmeasure of digital storage capacity equal to a thousand exabytes, a billion terabytes, or a trillion gigabytes.\n",
+    "context_ids": [
+      "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+      "787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a",
+      "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+      "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92"
+    ],
+    "context_chars": 3311,
+    "context_sha256": "c97a098646e04c7d31b3af40464a9e5d3e40f09032348c8667ce835c2314005f",
+    "budget_chars": 4000,
+    "remaining_chars": 689,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 4,
+    "skipped_count": 6,
+    "decisions": [
+      {
+        "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 56,
+        "metadata": {
+          "end": 701,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 701,
+        "block_characters": 832,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 3596,
+          "part": 0,
+          "year": 2025,
+          "start": 2964,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 632,
+        "block_characters": 763,
+        "separator_characters": 2,
+        "remaining_before": 3168,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 2515,
+          "part": 0,
+          "year": 2025,
+          "start": 1516,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 999,
+        "block_characters": 1130,
+        "separator_characters": 2,
+        "remaining_before": 2403,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "f27ebdc669f99e4fee6e4e78cbb35dd8403de5aafd186171949c732fa93f4d92",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 2964,
+          "part": 0,
+          "year": 2025,
+          "start": 2515,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 449,
+        "block_characters": 580,
+        "separator_characters": 2,
+        "remaining_before": 1271,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 56,
+        "metadata": {
+          "end": 2366,
+          "part": 0,
+          "year": 2025,
+          "start": 1502,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 864,
+        "block_characters": 995,
+        "separator_characters": 2,
+        "remaining_before": 689,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 5009,
+          "part": 0,
+          "year": 2025,
+          "start": 4423,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 586,
+        "block_characters": 717,
+        "separator_characters": 2,
+        "remaining_before": 689,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "22c455cba413208a327c6b12bbfd85644ad675fe16d552084d999444a183b9bb",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 56,
+        "metadata": {
+          "end": 4368,
+          "part": 0,
+          "year": 2025,
+          "start": 3478,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 890,
+        "block_characters": 1021,
+        "separator_characters": 2,
+        "remaining_before": 689,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "21e8a8c1113cbe2c94b65e4d88fe521d8ffef740c3afde41261b7d20211ebe4c",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 4423,
+          "part": 0,
+          "year": 2025,
+          "start": 3596,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 827,
+        "block_characters": 958,
+        "separator_characters": 2,
+        "remaining_before": 689,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "34ae13eb3b7d2da93bf3b9ebda039cdcbeafdac8cf7caf683df65dc370f40e7f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 773,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 773,
+        "block_characters": 904,
+        "separator_characters": 2,
+        "remaining_before": 689,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "e61d6387a431437ebd32481bc4ae9eeddaeb9a644a9ead13c185edfe46c0c34b",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 52,
+        "metadata": {
+          "end": 1516,
+          "part": 0,
+          "year": 2025,
+          "start": 773,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 743,
+        "block_characters": 874,
+        "separator_characters": 2,
+        "remaining_before": 689,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 850.5958000005194
+}

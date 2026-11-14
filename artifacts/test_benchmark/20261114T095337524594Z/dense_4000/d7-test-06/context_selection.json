@@ -1,0 +1,315 @@
+{
+  "context": "[8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77 | starter/data/Foundations_of_Information_Systems.pdf | page 70]\n1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the\nutilization of their most critical technology investments. By spreading out costs and consumption, Cohealo\nenables new efficiencies, faster capital redeployment cycles, and improved return on investment.\n\n\n[e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394 | starter/data/Foundations_of_Information_Systems.pdf | page 70]\n3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical\nequipment across the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the\nemergence of disruptive business models.\nSeveral factors influence the success of the sharing economy model in the health-care sector, as observed in\nCohealo’s case12 :\n• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered\nsuitable for sharing.\n\n\n[2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0 | starter/data/Foundations_of_Information_Systems.pdf | page 70]\nCase Study: Transforming Health Care Through the Sharing Economy Model\nThe U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n\n\n[aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f | starter/data/Foundations_of_Information_Systems.pdf | page 70]\n• Clustering of resources: The concentration of interconnected health-care companies and institutions in\n12 Ayushi Tandon, “Cohealo! Sharing Economy Determinants in Healthcare Industry,” SSRN, December 2017, http://dx.doi.org/\n10.2139/ssrn.3677462\n60 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org\n\n[09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae | starter/data/Foundations_of_Information_Systems.pdf | page 71]\nspecific geographic locations facilitates the easy transfer of use rights.\n• Use of IT: Online platforms enable easy and efficient mediation and monitoring of contract terms.\n• Cost advantage: The cost of accessing shared resources through Cohealo is often significantly lower than\nthe cost of ownership, promoting the adoption of the sharing economy model.\n\n\n[d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3 | starter/data/Foundations_of_Information_Systems.pdf | page 72]\n62 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+  "context_ids": [
+    "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+    "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+    "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+    "aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f",
+    "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+    "d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3"
+  ],
+  "context_chars": 3938,
+  "context_sha256": "846d23a06f142fb7c147946880c183c3a03ee48dc48096d79baf1527bd93453a",
+  "budget_chars": 4000,
+  "remaining_chars": 62,
+  "unit": "Python len(str), Unicode codepoints including headers and separators",
+  "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+  "candidate_occurrences": 10,
+  "unique_candidates": 10,
+  "duplicates_removed": 0,
+  "selected_count": 6,
+  "skipped_count": 4,
+  "decisions": [
+    {
+      "id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 2580,
+        "part": 0,
+        "year": 2025,
+        "start": 1906,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.01639344262295082,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 1
+        }
+      ],
+      "text_characters": 674,
+      "block_characters": 805,
+      "separator_characters": 0,
+      "remaining_before": 4000,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 3525,
+        "part": 0,
+        "year": 2025,
+        "start": 2580,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.016129032258064516,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 2
+        }
+      ],
+      "text_characters": 945,
+      "block_characters": 1076,
+      "separator_characters": 2,
+      "remaining_before": 3195,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 1906,
+        "part": 0,
+        "year": 2025,
+        "start": 1185,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015873015873015872,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 3
+        }
+      ],
+      "text_characters": 721,
+      "block_characters": 852,
+      "separator_characters": 2,
+      "remaining_before": 2117,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "aeede9923a6bb0aeed4f8579353fd7dc6d15cb1da15a381cab9f14f8eac0d36f",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 70,
+      "metadata": {
+        "end": 3871,
+        "part": 0,
+        "year": 2025,
+        "start": 3525,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015625,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 4
+        }
+      ],
+      "text_characters": 346,
+      "block_characters": 477,
+      "separator_characters": 2,
+      "remaining_before": 1263,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "822190af9e803e0694b74bba57378cdff2f7f9f77dd12c660f7ad416dc97a442",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 68,
+      "metadata": {
+        "end": 3723,
+        "part": 1,
+        "year": 2025,
+        "start": 2977,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015384615384615385,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 5
+        }
+      ],
+      "text_characters": 746,
+      "block_characters": 877,
+      "separator_characters": 2,
+      "remaining_before": 784,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "09c5d22d801ff43aa7f0c312a4d534d3b4c086ee0b4c66774df692c8b56c66ae",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 71,
+      "metadata": {
+        "end": 358,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015151515151515152,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 6
+        }
+      ],
+      "text_characters": 358,
+      "block_characters": 489,
+      "separator_characters": 2,
+      "remaining_before": 784,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "00f8596499f471efc2f2274a7093a3d38f1e87fb996d4c1fe9bcf283d3da32e2",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 63,
+      "metadata": {
+        "end": 2887,
+        "part": 0,
+        "year": 2025,
+        "start": 2597,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.014925373134328358,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 7
+        }
+      ],
+      "text_characters": 290,
+      "block_characters": 421,
+      "separator_characters": 2,
+      "remaining_before": 293,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "bf9a54938c247718430c6beaf0cdfadb03e423cb0bab25bd5c3fd8720597e939",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 69,
+      "metadata": {
+        "end": 666,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.3",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.014705882352941176,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 8
+        }
+      ],
+      "text_characters": 666,
+      "block_characters": 797,
+      "separator_characters": 2,
+      "remaining_before": 293,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 64,
+      "metadata": {
+        "end": 1972,
+        "part": 0,
+        "year": 2025,
+        "start": 978,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.014492753623188406,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 9
+        }
+      ],
+      "text_characters": 994,
+      "block_characters": 1125,
+      "separator_characters": 2,
+      "remaining_before": 293,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 72,
+      "metadata": {
+        "end": 2488,
+        "part": 0,
+        "year": 2025,
+        "start": 2390,
+        "method": "paragraph-1000",
+        "section": "2.4",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.014285714285714285,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 10
+        }
+      ],
+      "text_characters": 98,
+      "block_characters": 229,
+      "separator_characters": 2,
+      "remaining_before": 293,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    }
+  ],
+  "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+}

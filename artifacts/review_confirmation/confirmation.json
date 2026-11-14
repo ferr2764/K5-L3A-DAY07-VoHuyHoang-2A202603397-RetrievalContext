@@ -1,0 +1,18 @@
+{
+  "human_confirmation": "confirmed",
+  "student_confirmation": "confirmed",
+  "confirmed_by": "Võ Huy Hoàng",
+  "recorded_at_utc": "2026-11-14T10:14:17.136208+00:00",
+  "basis": "Explicit user instruction in this session to change review confirmation positions to confirmed.",
+  "scope": [
+    "Existing DAY07 dev semantic reviews",
+    "Existing DAY07 dev error analysis",
+    "Existing DAY07 test semantic reviews"
+  ],
+  "review_authorship": "AI-assisted; confirmation does not turn the review into independent or blinded assessment.",
+  "historical_records": "Original pre-test freeze, hashed dev review/selection and raw run traces remain unchanged. This record supersedes their historical pending confirmation status.",
+  "new_runs": "Confirmation applies to existing reviewed outputs only; new runs require new review.",
+  "labels_or_scores_changed": false,
+  "original_dev_reviews_sha256": "00ca9eec03c2778d6979b663995bc6e95c0d6c9e75490f02502f6f4e4d3b67d6",
+  "confirmed_dev_reviews": "artifacts/review_confirmation/dev_reviews_confirmed.json"
+}

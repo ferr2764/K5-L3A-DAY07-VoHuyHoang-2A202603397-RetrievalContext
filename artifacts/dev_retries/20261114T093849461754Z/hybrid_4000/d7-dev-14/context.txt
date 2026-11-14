@@ -1,0 +1,53 @@
+[513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44 | starter/data/Foundations_of_Information_Systems.pdf | page 57]
+• Resolving discrepancies in redundant data sources: When multiple sources provide similar data, it is
+important to reconcile any inconsistencies or differences to establish a reliable and accurate
+representation of the information.
+• Managing variations in opinions, forecasting techniques, or simulation models: Recognizing and
+addressing divergent viewpoints, methodologies, or models used for forecasting or simulation ensures
+transparency and reliability in the data analysis process.
+FUTURE TECHNOLOGY
+Master Data Management
+Master data management (MDM) ensures the creation and maintenance of a single, accurate source of
+truth for crucial data points within an organization. This centralized data repository eliminates
+inconsistencies and fosters seamless information exchange across different systems and applications. Let’s
+explore the importance of MDM in two specific contexts: health care and e-commerce retail.
+
+
+[fa2190de930dd9497d4bf9c17ae5d87a4e4ea018d76d0f89eeaa76ca4c34690d | starter/data/Foundations_of_Information_Systems.pdf | page 55]
+• Enterprise Data Management (EDM) Council Data Management Maturity Model: This comprehensive
+framework covers various aspects of data management, including data strategy, data operations, and data
+architecture.
+• Responsible Data Maturity Model: This model is an evolving concept that continues to gain importance as
+the role of data in our lives becomes more prominent.
+
+
+[7ffd5de2be32e43e9fb63d3947950460cdca48553612b9476be9372146499afb | starter/data/Foundations_of_Information_Systems.pdf | page 56]
+• Serving as a system of record or reference for enterprise-wide use, master data represent core entities
+such as customers, products, or employees, and reference data include codes, classifications, or
+standards used across the organization. Maintaining data accuracy, consistency, and synchronization
+across multiple systems for these data types is necessary to ensure reliable and consistent information
+across the organization.
+• Used for data warehousing, business intelligence, and analysis-oriented applications, analytic data
+include aggregated and summarized data from various sources and enable in-depth analysis, reporting,
+and decision support. Analytic data require data integration, transformation, and optimization to provide a
+consolidated view and support complex analytics.
+
+
+[1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd | starter/data/Foundations_of_Information_Systems.pdf | page 53]
+Appropriate data management is crucial to an organization’s reputation and success. Data management
+parameters establish practices that organizations can use to ensure that their data are managed, protected¸
+and of high quality so they can be utilized to make informed decisions. The essential areas for managing data
+effectively are as follows (Figure 2.2)3 :
+• Data governance establishes policies, processes, standards, roles, and responsibilities to manage data
+as a valuable asset.
+• Data quality ensures that data are accurate, complete, and consistent. This is achieved through
+activities such as validation, cleansing, matching, and monitoring via metrics and reporting.
+• Data integration combines data from different systems and applications. It includes tasks such as
+mapping data elements, transforming data, and ensuring seamless integration using tools and best
+practices.
+
+
+[231c5917f6c4401541fcad5adfaa1153b37871a256c0c4c0eade57a6dfb3a2d4 | starter/data/Foundations_of_Information_Systems.pdf | page 57]
+Additionally, MDM facilitates efficient inventory management and product updates across various sales
+channels.
+2.1 • Practices and Frameworks for Data Management 47

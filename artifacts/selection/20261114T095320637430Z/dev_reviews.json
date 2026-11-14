@@ -1,0 +1,1931 @@
+[
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-01",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu sprint và các bước, xem xét/điều chỉnh sau sprint; đoạn Agile trên trang PDF 30 hỗ trợ.",
+    "answer": "Phương pháp Agile chia dự án thành các đơn vị gọi là \"sprints\" (giai đoạn chạy). Mỗi sprint thường bao gồm các bước: lập kế hoạch, thiết kế, phát triển, kiểm thử, triển khai và đánh giá. Sau mỗi sprint, nhóm dự án sẽ xem xét tiến độ và điều chỉnh kế hoạch trước khi chuyển sang sprint tiếp theo. Điều này giúp nhóm liên tục cải tiến và điều chỉnh dự án theo thực tế phát triển [e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09].",
+    "expected_answer": "Các giai đoạn/sprint; xem xét tiến độ và điều chỉnh trước sprint tiếp theo.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-02",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Liệt kê đủ EDM/APO/BAI/DSS/MEA với tên đầy đủ; text/caption COBIT trang 30 hỗ trợ.",
+    "answer": "Năm quy trình của COBIT là: Evaluate, Direct, and Monitor (EDM); Align, Plan, and Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); và Monitor, Evaluate, and Assess (MEA). Đây là các quy trình giúp phát triển và duy trì hệ thống thông tin theo khuôn khổ COBIT do tổ chức ISACA thúc đẩy [e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee][05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2].",
+    "expected_answer": "Evaluate, Direct, and Monitor (EDM); Align, Plan, and Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); Monitor, Evaluate, and Assess (MEA).",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-03",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+        "source_id": "foundations-of-information-systems",
+        "page": 31,
+        "quote": "• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including\ntraining and incentive programs\n• Structure: how an organization is designed, including its hierarchy and chain of command\n• Strategy: the organization’s goals/objectives and the plans to achieve these\n• Skills: the skills, knowledge, and competencies held by the organization’s staff\n• Systems: the workflow processes used to achieve the organization’s goals and objectives\n• Style: the tone at the executive level established by the organization’s leaders and managers\n• Shared values: the organization’s mission and values that motivate its operations\nLINK TO LEARNING\nThe McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination\nwithin an organization across its structure. Review this interactive presentation about the framework’s\napplicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Liệt kê đủ bảy yếu tố McKinsey 7-S; trang 31 hỗ trợ.",
+    "answer": "Trong mục 1.2, McKinsey 7-S phối hợp bảy yếu tố gồm: Staff (nhân sự), Structure (cơ cấu tổ chức), Strategy (chiến lược), Skills (kỹ năng), Systems (hệ thống), Style (phong cách lãnh đạo), và Shared values (giá trị chung). Các yếu tố này tương tác và phối hợp với nhau để tổ chức hoạt động hiệu quả và đạt được mục tiêu đề ra [b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c].",
+    "expected_answer": "Staff, structure, strategy, skills, systems, style và shared values.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-04",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "reason": "Gold là Level 3 Apply; đoạn SFIA trang 32 nêu rõ general supervision, autonomy/nonroutine/oversee. Agent từ chối câu có đáp án, chấm 0; model_abstained.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Level 3 — Apply.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-05",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "citation_reviews": [
+      {
+        "id": "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7",
+        "source_id": "foundations-of-information-systems",
+        "page": 32,
+        "quote": "• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an\norganization’s objectives and assigning responsibilities to subordinates. These employees perform highly\ncomplex tasks and make decisions that directly impact an organization’s performance and achievement of\norganizational goals and objectives.\n• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top\nleaders and managers. These individuals establish an organization’s policy objectives and have oversight\nand accountability for all decisions made and actions taken throughout the organization.\nSFIA is an important framework used globally to promote success in the digital world. Its common language\nhelps technology professionals across the globe integrate the processes they must learn to successfully\nmanage technology.\n",
+        "supports_answer": false,
+        "reason": "ID có thể hợp lệ nhưng đoạn không hỗ trợ khẳng định được gắn citation (sai cấp SFIA, thiếu Velocity hoặc đoạn giới thiệu DOL quá chung)."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Gold là Level 5 Ensure and Advise; trang 32 nêu broad direction và self-initiate. Agent chọn nhầm cấp SFIA và citation không hỗ trợ điều kiện hỏi.",
+    "answer": "Theo SFIA, cấp 6 (Initiate and Influence) cho phép nhận định hướng rộng và tự khởi xướng công việc được cho là cần thực hiện. Ở cấp này, nhân viên đóng vai trò trung tâm trong việc thiết lập mục tiêu của tổ chức và phân công trách nhiệm cho cấp dưới, thực hiện các nhiệm vụ phức tạp và đưa ra các quyết định ảnh hưởng trực tiếp đến hiệu suất và mục tiêu của tổ chức [8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7].",
+    "expected_answer": "Level 5 — Ensure and Advise.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-06",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+        "source_id": "foundations-of-information-systems",
+        "page": 33,
+        "quote": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Where? tìm nơi tổ chức hoạt động; mục Zachman trang 33 hỗ trợ.",
+    "answer": "Trong mô hình Zachman, câu hỏi \"Where?\" nhằm tìm hiểu về nơi tổ chức hoạt động, tức là vị trí hoặc địa điểm mà tổ chức thực hiện các hoạt động của mình [56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae].",
+    "expected_answer": "Tìm hiểu nơi tổ chức hoạt động.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-07",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+        "source_id": "foundations-of-information-systems",
+        "page": 34,
+        "quote": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu cơ sở giáo dục đại học và chuẩn bị nghề IS bậc đại học; IS2020 trang 34 hỗ trợ.",
+    "answer": "IS2020 là một mô hình năng lực cung cấp hướng dẫn và tiêu chuẩn cho các cơ sở giáo dục đại học nhằm đảm bảo rằng các chương trình đại học về Hệ thống Thông tin (IS) chuẩn bị hiệu quả cho sinh viên theo đuổi sự nghiệp trong lĩnh vực IS. Mô hình này được phát triển bởi một nhóm công tác quốc tế gồm các thành viên của Hiệp hội Máy tính (ACM) và Hiệp hội Hệ thống Thông tin (AIS). IS2020 xác định chương trình giảng dạy nên được cung cấp cho sinh viên IS và các năng lực mà sinh viên cần phát triển khi hoàn thành chương trình học. Điều này bao gồm kiến thức, kỹ năng và thái độ mà sinh viên cần để thành công trong sự nghiệp IS, cũng như các nhiệm vụ mà sinh viên nên học để thực hiện [ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c].",
+    "expected_answer": "Cơ sở giáo dục đại học; giúp chương trình IS bậc đại học chuẩn bị sinh viên theo nghề IS.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-08",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "reason": "Đủ kỹ năng, kinh nghiệm, đặc điểm cá nhân và làm việc hiệu quả; định nghĩa trang 36, ví dụ trang 36–38 hỗ trợ phần mở rộng. Agent từ chối câu có đáp án, chấm 0; invalid_or_missing_citations.",
+    "answer": "Không đủ bằng chứng có citation hợp lệ để trả lời.",
+    "expected_answer": "Kỹ năng cụ thể, kinh nghiệm và đặc điểm cá nhân để làm việc hiệu quả và có hiệu suất tốt.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-09",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018",
+        "source_id": "foundations-of-information-systems",
+        "page": 55,
+        "quote": "There are some differences in how each framework approaches data management. DAMA-DMBOK focuses on\nthe technical aspects of data management, while MIKE2.0 focuses on the business aspects of information\nmanagement. The IBM Data Governance Council Maturity Model and the EDM Council Data Management\nMaturity Model are both designed to help organizations assess their current data management practices and\nidentify areas for improvement. The best framework for an organization will depend on its specific needs and\nrequirements. However, all five frameworks can be valuable tools for improving data management and\ninformation quality. The optimal framework for managing data is one that is continuously developing to\naddress advancements in data storage and changes in organizational policy.\nCAREERS IN IS\nData Architect\nA data architect is responsible for designing, creating, and managing an organization’s data architecture.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Phân biệt DAMA-DMBOK kỹ thuật và MIKE2.0 kinh doanh; trang 55 hỗ trợ trọng tâm chính.",
+    "answer": "Trong mục 2.1, DAMA-DMBOK tập trung vào các khía cạnh kỹ thuật của quản lý dữ liệu, trong khi MIKE2.0 tập trung vào các khía cạnh kinh doanh của quản lý thông tin. Điều này thể hiện sự khác biệt trọng tâm giữa hai khuôn khổ này, với DAMA-DMBOK chú trọng vào các hướng dẫn kỹ thuật và MIKE2.0 chú trọng vào việc đánh giá mức độ trưởng thành thông tin của tổ chức từ góc độ kinh doanh [8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018].",
+    "expected_answer": "DAMA-DMBOK tập trung khía cạnh kỹ thuật của quản lý dữ liệu; MIKE2.0 tập trung khía cạnh kinh doanh của quản lý thông tin.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-10",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "• Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity. Particularly evident during high-traffic events, such as online flash\nsales, the constant influx of clickstream data necessitates swift analysis to enable the system to offer\ntailored recommendations and insights to users navigating a dynamic digital landscape.\n• Veracity: The veracity dimension refers to the reliability, accuracy, and trustworthiness of the data,\nconsidering factors like data quality and consistency. As data originate from a multitude of sources and\nare influenced by user behaviors and tracking nuances, ensuring the quality of the data is imperative to\navoiding misinterpretations of metrics like bounce rates and session durations.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Veracity: độ tin cậy/chính xác và chất lượng/nhất quán; trang 56 hỗ trợ.",
+    "answer": "Chiều \"Veracity\" trong bốn V phản ánh độ chính xác và đáng tin cậy của dữ liệu. Veracity đề cập đến tính đáng tin cậy, độ chính xác và độ tin cậy của dữ liệu, bao gồm các yếu tố như chất lượng dữ liệu và tính nhất quán. Vì dữ liệu xuất phát từ nhiều nguồn khác nhau và bị ảnh hưởng bởi hành vi người dùng cũng như các yếu tố theo dõi, nên việc đảm bảo chất lượng dữ liệu là rất quan trọng để tránh hiểu sai các chỉ số như tỷ lệ thoát và thời gian phiên làm việc [dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c].",
+    "expected_answer": "Veracity, xét chất lượng và tính nhất quán.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-11",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "• Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity. Particularly evident during high-traffic events, such as online flash\nsales, the constant influx of clickstream data necessitates swift analysis to enable the system to offer\ntailored recommendations and insights to users navigating a dynamic digital landscape.\n• Veracity: The veracity dimension refers to the reliability, accuracy, and trustworthiness of the data,\nconsidering factors like data quality and consistency. As data originate from a multitude of sources and\nare influenced by user behaviors and tracking nuances, ensuring the quality of the data is imperative to\navoiding misinterpretations of metrics like bounce rates and session durations.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Velocity cần evidence tốc độ phát sinh/thu thập và xử lý thời gian thực; trang 56 là định nghĩa chuẩn.",
+    "answer": "Nếu dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực, đó là chiều \"Velocity\" (tốc độ) của big data. Chiều này đặc trưng cho tốc độ nhanh chóng mà dữ liệu được tạo ra và thu thập, đòi hỏi phải xử lý ngay lập tức để kịp thời cung cấp thông tin và phân tích, ví dụ như trong các sự kiện có lưu lượng truy cập cao hoặc các giao dịch trực tuyến cần phản hồi nhanh [dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c].",
+    "expected_answer": "Velocity.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-12",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "Different types of data are required for generating suitable information, and different types of data require\ndifferent management approaches. There are two main categories of data—structured and unstructured. The\nfirst, structured data, exist in organized, fixed fields in a data repository. Structured data are typically defined\nin terms of field name and type (such as numeric or alphabetical). Structured data can be further categorized\nas follows:\n• Associated with operational or real-time applications, operational data include transactional data\ngenerated by day-to-day business operations. Operational data often require high availability, real-time\nprocessing, and quick access for operational decision-making. When managing operational data, the focus\nis on ensuring data integrity, availability, and performance to support critical business processes.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ integrity, availability, performance và mục tiêu vận hành; trang 56 hỗ trợ.",
+    "answer": "Ba ưu tiên khi quản lý operational data để hỗ trợ quy trình kinh doanh trọng yếu là đảm bảo tính toàn vẹn dữ liệu (data integrity), tính sẵn sàng của dữ liệu (availability), và hiệu suất xử lý (performance). Những ưu tiên này nhằm hỗ trợ các quyết định vận hành quan trọng trong thời gian thực và đảm bảo dữ liệu được truy cập nhanh chóng và chính xác để phục vụ các quy trình kinh doanh trọng yếu [0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11].",
+    "expected_answer": "Tính toàn vẹn, tính sẵn sàng và hiệu năng.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-13",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+        "source_id": "foundations-of-information-systems",
+        "page": 57,
+        "quote": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Tên Date of Birth/Birth Date khác nhưng định nghĩa thống nhất để phân tích/báo cáo đúng; trang 57 hỗ trợ.",
+    "answer": "Khi hai phòng ban dùng \"Date of Birth\" và \"Birth Date\" cho cùng một ngày sinh, định nghĩa dữ liệu cần bảo đảm tính nhất quán và chuẩn hóa. Cụ thể, mặc dù tên gọi có thể khác nhau giữa các phòng ban, nhưng định nghĩa của dữ liệu (ngày sinh thực tế) phải được thống nhất trong toàn hệ thống để đảm bảo phân tích và báo cáo chính xác. Điều này giúp duy trì tính chính xác, nhất quán và tin cậy của dữ liệu trong suốt vòng đời của nó, tránh sai lệch do sự khác biệt về cách gọi hay định dạng dữ liệu giữa các nguồn khác nhau [1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444].",
+    "expected_answer": "Dù tên gọi khác nhau, định nghĩa của cùng dữ liệu phải nhất quán trong hệ thống để phân tích và báo cáo chính xác.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-14",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "reason": "MDM là nguồn sự thật duy nhất chính xác và loại bất nhất/trao đổi dữ liệu; trang 57 hỗ trợ. Agent từ chối câu có đáp án, chấm 0; invalid_or_missing_citations.",
+    "answer": "Không đủ bằng chứng có citation hợp lệ để trả lời.",
+    "expected_answer": "Một nguồn sự thật duy nhất, chính xác; kho tập trung loại bỏ bất nhất và hỗ trợ trao đổi thông tin giữa các hệ thống.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-15",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "reason": "Phân biệt strategic planning và management control; trang 58–59 hỗ trợ mục tiêu, cấp quản lý và hoạt động. Agent từ chối câu có đáp án, chấm 0; invalid_or_missing_citations.",
+    "answer": "Không đủ bằng chứng có citation hợp lệ để trả lời.",
+    "expected_answer": "Strategic planning xác định sứ mệnh, tầm nhìn, mục tiêu và chiến lược, thường do quản lý cấp cao; management control bảo đảm vận hành hằng ngày hiệu quả và tuân thủ kế hoạch chiến lược.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-16",
+    "split": "dev",
+    "answerable": false,
+    "answer_grade": null,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "reason": "Câu thiếu chính sách log riêng của VinUni trong corpus; đáp án xuất bản chỉ nói không đủ evidence, không thêm số ngày.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "dense_4000",
+    "query_id": "d7-dev-17",
+    "split": "dev",
+    "answerable": false,
+    "answer_grade": null,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "reason": "Corpus không có lệ phí SFIA tại Việt Nam năm 2026; đáp án xuất bản từ chối, không đoán giá.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-01",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu sprint và các bước, xem xét/điều chỉnh sau sprint; đoạn Agile trên trang PDF 30 hỗ trợ.",
+    "answer": "Phương pháp Agile chia dự án thành các đơn vị gọi là \"sprints\" (giai đoạn). Mỗi sprint thường bao gồm các bước: lập kế hoạch, thiết kế, phát triển, kiểm thử, triển khai và đánh giá. Sau mỗi sprint, nhóm dự án sẽ xem xét tiến độ và điều chỉnh trước khi chuyển sang sprint tiếp theo. Đây là cách giúp nhóm quản lý và phát triển hệ thống thông tin một cách linh hoạt và hiệu quả [e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09].",
+    "expected_answer": "Các giai đoạn/sprint; xem xét tiến độ và điều chỉnh trước sprint tiếp theo.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-02",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Liệt kê đủ EDM/APO/BAI/DSS/MEA với tên đầy đủ; text/caption COBIT trang 30 hỗ trợ.",
+    "answer": "Năm quy trình của COBIT là: Evaluate, Direct, and Monitor (EDM); Align, Plan, and Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); và Monitor, Evaluate, and Assess (MEA). Các quy trình này giúp phát triển và duy trì hệ thống thông tin hiệu quả [e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee][05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2].",
+    "expected_answer": "Evaluate, Direct, and Monitor (EDM); Align, Plan, and Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); Monitor, Evaluate, and Assess (MEA).",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-03",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+        "source_id": "foundations-of-information-systems",
+        "page": 31,
+        "quote": "• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including\ntraining and incentive programs\n• Structure: how an organization is designed, including its hierarchy and chain of command\n• Strategy: the organization’s goals/objectives and the plans to achieve these\n• Skills: the skills, knowledge, and competencies held by the organization’s staff\n• Systems: the workflow processes used to achieve the organization’s goals and objectives\n• Style: the tone at the executive level established by the organization’s leaders and managers\n• Shared values: the organization’s mission and values that motivate its operations\nLINK TO LEARNING\nThe McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination\nwithin an organization across its structure. Review this interactive presentation about the framework’s\napplicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Liệt kê đủ bảy yếu tố McKinsey 7-S; trang 31 hỗ trợ.",
+    "answer": "Trong mục 1.2, McKinsey 7-S phối hợp bảy yếu tố gồm: Staff (nhân sự), Structure (cơ cấu tổ chức), Strategy (chiến lược), Skills (kỹ năng), Systems (hệ thống), Style (phong cách lãnh đạo), và Shared values (giá trị chung). Các yếu tố này tương tác và phối hợp với nhau để tổ chức hoạt động hiệu quả và đạt được mục tiêu đề ra [b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c].",
+    "expected_answer": "Staff, structure, strategy, skills, systems, style và shared values.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-04",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "citation_reviews": [
+      {
+        "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+        "source_id": "foundations-of-information-systems",
+        "page": 32,
+        "quote": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+        "supports_answer": false,
+        "reason": "ID có thể hợp lệ nhưng đoạn không hỗ trợ khẳng định được gắn citation (sai cấp SFIA, thiếu Velocity hoặc đoạn giới thiệu DOL quá chung)."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Gold là Level 3 Apply; đoạn SFIA trang 32 nêu rõ general supervision, autonomy/nonroutine/oversee. Agent chọn nhầm cấp SFIA và citation không hỗ trợ điều kiện hỏi.",
+    "answer": "Theo SFIA, nhân viên nhận giám sát tổng quát, có thêm tự chủ, công việc có thể không thường lệ và có thể giám sát người khác thuộc cấp độ 5. Cấp độ này được mô tả là có khả năng thực hiện các nhiệm vụ phức tạp hơn, có sự tự chủ trong công việc và có thể giám sát người khác, khác với các cấp độ thấp hơn như cấp độ 1 chỉ làm việc theo sự giám sát chặt chẽ và thực hiện các nhiệm vụ thường lệ [6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8].",
+    "expected_answer": "Level 3 — Apply.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-05",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "citation_reviews": [
+      {
+        "id": "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7",
+        "source_id": "foundations-of-information-systems",
+        "page": 32,
+        "quote": "• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an\norganization’s objectives and assigning responsibilities to subordinates. These employees perform highly\ncomplex tasks and make decisions that directly impact an organization’s performance and achievement of\norganizational goals and objectives.\n• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top\nleaders and managers. These individuals establish an organization’s policy objectives and have oversight\nand accountability for all decisions made and actions taken throughout the organization.\nSFIA is an important framework used globally to promote success in the digital world. Its common language\nhelps technology professionals across the globe integrate the processes they must learn to successfully\nmanage technology.\n",
+        "supports_answer": false,
+        "reason": "ID có thể hợp lệ nhưng đoạn không hỗ trợ khẳng định được gắn citation (sai cấp SFIA, thiếu Velocity hoặc đoạn giới thiệu DOL quá chung)."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Gold là Level 5 Ensure and Advise; trang 32 nêu broad direction và self-initiate. Agent chọn nhầm cấp SFIA và citation không hỗ trợ điều kiện hỏi.",
+    "answer": "Theo SFIA, cấp 6 (Initiate and Influence) cho phép nhận định hướng rộng và tự khởi xướng công việc được cho là cần thực hiện. Ở cấp này, nhân viên đóng vai trò trung tâm trong việc thiết lập mục tiêu của tổ chức và phân công trách nhiệm cho cấp dưới, thực hiện các nhiệm vụ phức tạp và đưa ra các quyết định ảnh hưởng trực tiếp đến hiệu suất và thành tựu của tổ chức [8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7].",
+    "expected_answer": "Level 5 — Ensure and Advise.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-06",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+        "source_id": "foundations-of-information-systems",
+        "page": 33,
+        "quote": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Where? tìm nơi tổ chức hoạt động; mục Zachman trang 33 hỗ trợ.",
+    "answer": "Trong mô hình Zachman, câu hỏi \"Where?\" nhằm tìm hiểu về nơi tổ chức hoạt động, tức là vị trí hoặc địa điểm mà tổ chức thực hiện các hoạt động của mình [56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae].",
+    "expected_answer": "Tìm hiểu nơi tổ chức hoạt động.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-07",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+        "source_id": "foundations-of-information-systems",
+        "page": 34,
+        "quote": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu cơ sở giáo dục đại học và chuẩn bị nghề IS bậc đại học; IS2020 trang 34 hỗ trợ.",
+    "answer": "IS2020 là một mô hình năng lực cung cấp hướng dẫn và tiêu chuẩn cho các cơ sở giáo dục đại học nhằm đảm bảo rằng các chương trình đại học về Hệ thống Thông tin (IS) chuẩn bị hiệu quả cho sinh viên theo đuổi sự nghiệp trong lĩnh vực IS. Mô hình này được phát triển bởi một nhóm công tác quốc tế gồm các thành viên của Hiệp hội Máy tính (ACM) và Hiệp hội Hệ thống Thông tin (AIS). IS2020 xác định chương trình giảng dạy cần được cung cấp cho sinh viên IS và các năng lực mà sinh viên cần phát triển khi hoàn thành chương trình học. Điều này bao gồm kiến thức, kỹ năng và thái độ mà sinh viên cần có để thành công trong sự nghiệp IS, cũng như các nhiệm vụ mà sinh viên cần học để thực hiện [ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c].",
+    "expected_answer": "Cơ sở giáo dục đại học; giúp chương trình IS bậc đại học chuẩn bị sinh viên theo nghề IS.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-08",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25",
+        "source_id": "foundations-of-information-systems",
+        "page": 36,
+        "quote": "Competencies in IS\nFor all occupations, including IS positions, the U.S. Department of Labor (DOL) recommends competency-\nbased approaches for hiring employees and for providing the education and training that employees need to\ndo their jobs well. A competency is the ability to apply specific skills, experience, and personal characteristics\nto do a job in an effective and efficient manner. Someone’s personal characteristics are the traits that are\nappropriate for the job or task being done based on the individual’s interests, strengths, background,\neducation, and training. In addition, an individual’s talents, motivations, and personal perceptions of their\nwork influence competency.\nA competency model is a framework that identifies the competencies required for employees to effectively\nperform their job. Generally, for all industries, the competencies that are important include the following\nelements:\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b",
+        "source_id": "foundations-of-information-systems",
+        "page": 38,
+        "quote": "Competency Description Examples\nWorkplace Competencies used in the workplace\nGeneral:\n• teamwork\n• creative thinking\n• decision-making\nIS-specific:\n• business fundamentals\n• problem-solving\n• listening\nTechnical General competencies needed in a specific industry\nIS-specific:\n• IS principles and concepts\n• IS standards and IS regulations\n• databases management\n• network administration\n• risk management\nOccupation-\nspecific\nCompetencies directly related to\nspecific positions within an\nindustry\nIS specific:\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ kỹ năng, kinh nghiệm, đặc điểm cá nhân và làm việc hiệu quả; định nghĩa trang 36, ví dụ trang 36–38 hỗ trợ phần mở rộng.",
+    "answer": "Competency là khả năng áp dụng các yếu tố cụ thể như kỹ năng, kinh nghiệm và các đặc điểm cá nhân để thực hiện công việc một cách hiệu quả và hiệu suất. Các đặc điểm cá nhân bao gồm các đặc điểm phù hợp với công việc hoặc nhiệm vụ dựa trên sở thích, điểm mạnh, nền tảng, giáo dục và đào tạo của cá nhân. Ngoài ra, tài năng, động lực và nhận thức cá nhân về công việc cũng ảnh hưởng đến năng lực. Mô hình năng lực là một khuôn khổ xác định các năng lực cần thiết để nhân viên thực hiện công việc hiệu quả. Các yếu tố quan trọng trong năng lực bao gồm kỹ năng làm việc nhóm, tư duy sáng tạo, ra quyết định, kiến thức cơ bản về kinh doanh, giải quyết vấn đề, kỹ năng nghe, các nguyên tắc và khái niệm về hệ thống thông tin, quản lý cơ sở dữ liệu, quản trị mạng và quản lý rủi ro [1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25][08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b].",
+    "expected_answer": "Kỹ năng cụ thể, kinh nghiệm và đặc điểm cá nhân để làm việc hiệu quả và có hiệu suất tốt.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-09",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018",
+        "source_id": "foundations-of-information-systems",
+        "page": 55,
+        "quote": "There are some differences in how each framework approaches data management. DAMA-DMBOK focuses on\nthe technical aspects of data management, while MIKE2.0 focuses on the business aspects of information\nmanagement. The IBM Data Governance Council Maturity Model and the EDM Council Data Management\nMaturity Model are both designed to help organizations assess their current data management practices and\nidentify areas for improvement. The best framework for an organization will depend on its specific needs and\nrequirements. However, all five frameworks can be valuable tools for improving data management and\ninformation quality. The optimal framework for managing data is one that is continuously developing to\naddress advancements in data storage and changes in organizational policy.\nCAREERS IN IS\nData Architect\nA data architect is responsible for designing, creating, and managing an organization’s data architecture.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Phân biệt DAMA-DMBOK kỹ thuật và MIKE2.0 kinh doanh; trang 55 hỗ trợ trọng tâm chính.",
+    "answer": "Trong mục 2.1, DAMA-DMBOK và MIKE2.0 khác nhau về trọng tâm như sau: DAMA-DMBOK tập trung vào các khía cạnh kỹ thuật của quản lý dữ liệu, trong khi MIKE2.0 tập trung vào các khía cạnh kinh doanh của quản lý thông tin. Điều này có nghĩa là DAMA-DMBOK cung cấp các hướng dẫn toàn diện về các lĩnh vực kiến thức chính liên quan đến quản lý dữ liệu như quản trị dữ liệu, kiến trúc dữ liệu và chất lượng dữ liệu, còn MIKE2.0 cung cấp một cách tiếp cận có cấu trúc để đánh giá mức độ trưởng thành thông tin của tổ chức từ góc độ kinh doanh [8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018].",
+    "expected_answer": "DAMA-DMBOK tập trung khía cạnh kỹ thuật của quản lý dữ liệu; MIKE2.0 tập trung khía cạnh kinh doanh của quản lý thông tin.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-10",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "reason": "Veracity: độ tin cậy/chính xác và chất lượng/nhất quán; trang 56 hỗ trợ. Agent từ chối câu có đáp án, chấm 0; model_abstained.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Veracity, xét chất lượng và tính nhất quán.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-11",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "citation_reviews": [
+      {
+        "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "Dimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n",
+        "supports_answer": false,
+        "reason": "ID có thể hợp lệ nhưng đoạn không hỗ trợ khẳng định được gắn citation (sai cấp SFIA, thiếu Velocity hoặc đoạn giới thiệu DOL quá chung)."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Velocity cần evidence tốc độ phát sinh/thu thập và xử lý thời gian thực; trang 56 là định nghĩa chuẩn.Nêu đúng nhãn Velocity nhưng citation eab422... chỉ có Volume/Variety, thiếu evidence cho claim chính.",
+    "answer": "Chiều của big data liên quan đến việc dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực là chiều \"Velocity\" (Tốc độ). Đây là một trong bốn chiều chính của big data, còn gọi là bốn V, bao gồm: Volume (Khối lượng), Variety (Đa dạng), Velocity (Tốc độ), và Veracity (Độ chính xác). Velocity đề cập đến tốc độ dữ liệu được tạo ra và xử lý để đáp ứng yêu cầu thời gian thực hoặc gần thời gian thực trong các ứng dụng và phân tích dữ liệu [eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245].",
+    "expected_answer": "Velocity.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-12",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "Different types of data are required for generating suitable information, and different types of data require\ndifferent management approaches. There are two main categories of data—structured and unstructured. The\nfirst, structured data, exist in organized, fixed fields in a data repository. Structured data are typically defined\nin terms of field name and type (such as numeric or alphabetical). Structured data can be further categorized\nas follows:\n• Associated with operational or real-time applications, operational data include transactional data\ngenerated by day-to-day business operations. Operational data often require high availability, real-time\nprocessing, and quick access for operational decision-making. When managing operational data, the focus\nis on ensuring data integrity, availability, and performance to support critical business processes.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ integrity, availability, performance và mục tiêu vận hành; trang 56 hỗ trợ.",
+    "answer": "Ba ưu tiên khi quản lý operational data để hỗ trợ quy trình kinh doanh trọng yếu là đảm bảo tính toàn vẹn dữ liệu (data integrity), tính sẵn sàng của dữ liệu (data availability), và hiệu suất xử lý (performance). Những ưu tiên này nhằm hỗ trợ các quyết định vận hành quan trọng trong thời gian thực và đảm bảo dữ liệu được truy cập nhanh chóng và chính xác để phục vụ các quy trình kinh doanh trọng yếu [0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11].",
+    "expected_answer": "Tính toàn vẹn, tính sẵn sàng và hiệu năng.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-13",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+        "source_id": "foundations-of-information-systems",
+        "page": 57,
+        "quote": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Tên Date of Birth/Birth Date khác nhưng định nghĩa thống nhất để phân tích/báo cáo đúng; trang 57 hỗ trợ.",
+    "answer": "Khi hai phòng ban dùng \"Date of Birth\" và \"Birth Date\" cho cùng một ngày sinh, định nghĩa dữ liệu cần bảo đảm tính nhất quán và chuẩn hóa. Cụ thể, mặc dù tên gọi có thể khác nhau giữa các phòng ban, nhưng định nghĩa của dữ liệu (ngày sinh thực tế) phải được thống nhất trong toàn hệ thống để đảm bảo phân tích và báo cáo chính xác. Điều này giúp duy trì tính chính xác, nhất quán và tin cậy của dữ liệu trong suốt vòng đời của nó. Việc này thuộc về việc thiết lập một định nghĩa dữ liệu rõ ràng và chuẩn hóa cách tổ chức thông tin, bao gồm loại dữ liệu và định dạng dữ liệu cần được đồng bộ giữa các nguồn dữ liệu khác nhau [1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444].",
+    "expected_answer": "Dù tên gọi khác nhau, định nghĩa của cùng dữ liệu phải nhất quán trong hệ thống để phân tích và báo cáo chính xác.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-14",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44",
+        "source_id": "foundations-of-information-systems",
+        "page": 57,
+        "quote": "• Resolving discrepancies in redundant data sources: When multiple sources provide similar data, it is\nimportant to reconcile any inconsistencies or differences to establish a reliable and accurate\nrepresentation of the information.\n• Managing variations in opinions, forecasting techniques, or simulation models: Recognizing and\naddressing divergent viewpoints, methodologies, or models used for forecasting or simulation ensures\ntransparency and reliability in the data analysis process.\nFUTURE TECHNOLOGY\nMaster Data Management\nMaster data management (MDM) ensures the creation and maintenance of a single, accurate source of\ntruth for crucial data points within an organization. This centralized data repository eliminates\ninconsistencies and fosters seamless information exchange across different systems and applications. Let’s\nexplore the importance of MDM in two specific contexts: health care and e-commerce retail.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "MDM là nguồn sự thật duy nhất chính xác và loại bất nhất/trao đổi dữ liệu; trang 57 hỗ trợ.",
+    "answer": "Master data management (MDM) tạo và duy trì một nguồn dữ liệu duy nhất, chính xác cho các điểm dữ liệu quan trọng trong tổ chức. Kho dữ liệu tập trung này loại bỏ sự không nhất quán và thúc đẩy việc trao đổi thông tin liền mạch giữa các hệ thống và ứng dụng khác nhau trong tổ chức [513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44].",
+    "expected_answer": "Một nguồn sự thật duy nhất, chính xác; kho tập trung loại bỏ bất nhất và hỗ trợ trao đổi thông tin giữa các hệ thống.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-15",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "reason": "Phân biệt strategic planning và management control; trang 58–59 hỗ trợ mục tiêu, cấp quản lý và hoạt động. Agent từ chối câu có đáp án, chấm 0; invalid_or_missing_citations.",
+    "answer": "Không đủ bằng chứng có citation hợp lệ để trả lời.",
+    "expected_answer": "Strategic planning xác định sứ mệnh, tầm nhìn, mục tiêu và chiến lược, thường do quản lý cấp cao; management control bảo đảm vận hành hằng ngày hiệu quả và tuân thủ kế hoạch chiến lược.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-16",
+    "split": "dev",
+    "answerable": false,
+    "answer_grade": null,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "reason": "Câu thiếu chính sách log riêng của VinUni trong corpus; đáp án xuất bản chỉ nói không đủ evidence, không thêm số ngày.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "lexical_4000",
+    "query_id": "d7-dev-17",
+    "split": "dev",
+    "answerable": false,
+    "answer_grade": null,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "reason": "Corpus không có lệ phí SFIA tại Việt Nam năm 2026; đáp án xuất bản từ chối, không đoán giá.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-01",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu sprint và các bước, xem xét/điều chỉnh sau sprint; đoạn Agile trên trang PDF 30 hỗ trợ.",
+    "answer": "Phương pháp Agile chia dự án thành các giai đoạn nhỏ gọi là sprint. Mỗi sprint thường bao gồm các bước: lập kế hoạch, thiết kế, phát triển, kiểm thử, triển khai và đánh giá. Sau mỗi sprint, nhóm dự án sẽ xem xét tiến độ và điều chỉnh kế hoạch trước khi chuyển sang sprint tiếp theo. Điều này giúp nhóm có thể liên tục cải tiến và điều chỉnh dự án một cách linh hoạt theo từng giai đoạn nhỏ [e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09].",
+    "expected_answer": "Các giai đoạn/sprint; xem xét tiến độ và điều chỉnh trước sprint tiếp theo.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-02",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Liệt kê đủ EDM/APO/BAI/DSS/MEA với tên đầy đủ; text/caption COBIT trang 30 hỗ trợ.",
+    "answer": "Năm quy trình của COBIT là: Evaluate, Direct, and Monitor (EDM); Align, Plan, and Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); và Monitor, Evaluate, and Assess (MEA). Đây là các quy trình giúp phát triển và duy trì hệ thống thông tin theo khuôn khổ COBIT do tổ chức ISACA thúc đẩy [e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee][05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2].",
+    "expected_answer": "Evaluate, Direct, and Monitor (EDM); Align, Plan, and Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); Monitor, Evaluate, and Assess (MEA).",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-03",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+        "source_id": "foundations-of-information-systems",
+        "page": 31,
+        "quote": "• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including\ntraining and incentive programs\n• Structure: how an organization is designed, including its hierarchy and chain of command\n• Strategy: the organization’s goals/objectives and the plans to achieve these\n• Skills: the skills, knowledge, and competencies held by the organization’s staff\n• Systems: the workflow processes used to achieve the organization’s goals and objectives\n• Style: the tone at the executive level established by the organization’s leaders and managers\n• Shared values: the organization’s mission and values that motivate its operations\nLINK TO LEARNING\nThe McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination\nwithin an organization across its structure. Review this interactive presentation about the framework’s\napplicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Liệt kê đủ bảy yếu tố McKinsey 7-S; trang 31 hỗ trợ.",
+    "answer": "Trong mục 1.2, McKinsey 7-S phối hợp bảy yếu tố gồm: Staff (nhân sự), Structure (cơ cấu tổ chức), Strategy (chiến lược), Skills (kỹ năng), Systems (hệ thống), Style (phong cách lãnh đạo), và Shared values (giá trị chung). Các yếu tố này phối hợp để đảm bảo tổ chức hoạt động hiệu quả và đồng bộ trong việc đạt được mục tiêu và sứ mệnh của mình [b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c].",
+    "expected_answer": "Staff, structure, strategy, skills, systems, style và shared values.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-04",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "citation_reviews": [
+      {
+        "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+        "source_id": "foundations-of-information-systems",
+        "page": 32,
+        "quote": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+        "supports_answer": false,
+        "reason": "ID có thể hợp lệ nhưng đoạn không hỗ trợ khẳng định được gắn citation (sai cấp SFIA, thiếu Velocity hoặc đoạn giới thiệu DOL quá chung)."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Gold là Level 3 Apply; đoạn SFIA trang 32 nêu rõ general supervision, autonomy/nonroutine/oversee. Agent chọn nhầm cấp SFIA và citation không hỗ trợ điều kiện hỏi.",
+    "answer": "Theo SFIA, nhân viên nhận giám sát tổng quát, có thêm tự chủ, công việc có thể không thường lệ và có thể giám sát người khác thuộc cấp độ 5. Cấp độ này thường liên quan đến việc nhận giám sát tổng quát, có tự chủ trong công việc và có thể giám sát người khác, khác với các cấp độ thấp hơn như cấp độ 1 chỉ làm việc theo sự giám sát chặt chẽ và thực hiện các nhiệm vụ thường lệ [6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8].",
+    "expected_answer": "Level 3 — Apply.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-05",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "citation_reviews": [
+      {
+        "id": "8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7",
+        "source_id": "foundations-of-information-systems",
+        "page": 32,
+        "quote": "• Level 6, Initiate and Influence: Employees who initiate and influence play a central role in establishing an\norganization’s objectives and assigning responsibilities to subordinates. These employees perform highly\ncomplex tasks and make decisions that directly impact an organization’s performance and achievement of\norganizational goals and objectives.\n• Level 7, Set Strategy, Inspire, and Mobilize: The final and highest level is filled by an organization’s top\nleaders and managers. These individuals establish an organization’s policy objectives and have oversight\nand accountability for all decisions made and actions taken throughout the organization.\nSFIA is an important framework used globally to promote success in the digital world. Its common language\nhelps technology professionals across the globe integrate the processes they must learn to successfully\nmanage technology.\n",
+        "supports_answer": false,
+        "reason": "ID có thể hợp lệ nhưng đoạn không hỗ trợ khẳng định được gắn citation (sai cấp SFIA, thiếu Velocity hoặc đoạn giới thiệu DOL quá chung)."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Gold là Level 5 Ensure and Advise; trang 32 nêu broad direction và self-initiate. Agent chọn nhầm cấp SFIA và citation không hỗ trợ điều kiện hỏi.",
+    "answer": "Theo SFIA, cấp 6 (Initiate and Influence) cho phép nhận định hướng rộng và tự khởi xướng công việc được cho là cần thực hiện. Ở cấp này, nhân viên đóng vai trò trung tâm trong việc thiết lập mục tiêu của tổ chức và phân công trách nhiệm cho cấp dưới, thực hiện các nhiệm vụ phức tạp và đưa ra các quyết định ảnh hưởng trực tiếp đến hiệu suất và mục tiêu của tổ chức [8087e20413e3d0e51298e5d866ae48d172b1aebca5f8c7ea13efd96281cc4dd7].",
+    "expected_answer": "Level 5 — Ensure and Advise.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-06",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+        "source_id": "foundations-of-information-systems",
+        "page": 33,
+        "quote": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Where? tìm nơi tổ chức hoạt động; mục Zachman trang 33 hỗ trợ.",
+    "answer": "Trong mô hình Zachman, câu hỏi \"Where?\" nhằm tìm hiểu về nơi tổ chức hoạt động, tức là vị trí hoặc địa điểm mà tổ chức thực hiện các hoạt động của mình [56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae].",
+    "expected_answer": "Tìm hiểu nơi tổ chức hoạt động.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-07",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+        "source_id": "foundations-of-information-systems",
+        "page": 34,
+        "quote": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu cơ sở giáo dục đại học và chuẩn bị nghề IS bậc đại học; IS2020 trang 34 hỗ trợ.",
+    "answer": "IS2020 là một mô hình năng lực cung cấp hướng dẫn và tiêu chuẩn cho các cơ sở giáo dục đại học nhằm đảm bảo rằng các chương trình đại học về Hệ thống Thông tin (IS) chuẩn bị hiệu quả cho sinh viên theo đuổi sự nghiệp trong lĩnh vực IS. Mô hình này được phát triển bởi một nhóm công tác quốc tế gồm các thành viên của Hiệp hội Máy tính (ACM) và Hiệp hội Hệ thống Thông tin (AIS). IS2020 xác định chương trình giảng dạy cần được cung cấp cho sinh viên IS và các năng lực mà sinh viên cần phát triển khi hoàn thành chương trình học. Điều này bao gồm kiến thức, kỹ năng và thái độ mà sinh viên cần có để thành công trong sự nghiệp IS, cũng như các nhiệm vụ mà sinh viên cần học để thực hiện [ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c].",
+    "expected_answer": "Cơ sở giáo dục đại học; giúp chương trình IS bậc đại học chuẩn bị sinh viên theo nghề IS.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-08",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25",
+        "source_id": "foundations-of-information-systems",
+        "page": 36,
+        "quote": "Competencies in IS\nFor all occupations, including IS positions, the U.S. Department of Labor (DOL) recommends competency-\nbased approaches for hiring employees and for providing the education and training that employees need to\ndo their jobs well. A competency is the ability to apply specific skills, experience, and personal characteristics\nto do a job in an effective and efficient manner. Someone’s personal characteristics are the traits that are\nappropriate for the job or task being done based on the individual’s interests, strengths, background,\neducation, and training. In addition, an individual’s talents, motivations, and personal perceptions of their\nwork influence competency.\nA competency model is a framework that identifies the competencies required for employees to effectively\nperform their job. Generally, for all industries, the competencies that are important include the following\nelements:\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "a33a8629b5d669a360748f30fcf204b1cbf03eeb189d60d6c9985895b5a206c3",
+        "source_id": "foundations-of-information-systems",
+        "page": 36,
+        "quote": "• Personal effectiveness: competencies such as interpersonal skills, integrity, professionalism, initiative,\n26 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b",
+        "source_id": "foundations-of-information-systems",
+        "page": 38,
+        "quote": "Competency Description Examples\nWorkplace Competencies used in the workplace\nGeneral:\n• teamwork\n• creative thinking\n• decision-making\nIS-specific:\n• business fundamentals\n• problem-solving\n• listening\nTechnical General competencies needed in a specific industry\nIS-specific:\n• IS principles and concepts\n• IS standards and IS regulations\n• databases management\n• network administration\n• risk management\nOccupation-\nspecific\nCompetencies directly related to\nspecific positions within an\nindustry\nIS specific:\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ kỹ năng, kinh nghiệm, đặc điểm cá nhân và làm việc hiệu quả; định nghĩa trang 36, ví dụ trang 36–38 hỗ trợ phần mở rộng.",
+    "answer": "Competency (năng lực) là khả năng áp dụng các kỹ năng cụ thể, kinh nghiệm và các đặc điểm cá nhân để thực hiện công việc một cách hiệu quả và hiệu suất. Các đặc điểm cá nhân bao gồm các đặc điểm phù hợp với công việc hoặc nhiệm vụ dựa trên sở thích, điểm mạnh, nền tảng, giáo dục và đào tạo của cá nhân. Ngoài ra, tài năng, động lực và nhận thức cá nhân về công việc cũng ảnh hưởng đến năng lực. Các yếu tố quan trọng trong năng lực bao gồm: hiệu quả cá nhân (như kỹ năng giao tiếp, tính chính trực, sự chuyên nghiệp, sáng kiến), năng lực học thuật (như đọc, viết, toán học, kiến thức kinh doanh và công nghệ), năng lực tại nơi làm việc (như làm việc nhóm, tư duy sáng tạo, ra quyết định) và các năng lực chuyên ngành cụ thể cho từng vị trí công việc trong ngành thông tin hệ thống (IS) như nguyên tắc IS, quản lý cơ sở dữ liệu, quản trị mạng, quản lý rủi ro [1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25][a33a8629b5d669a360748f30fcf204b1cbf03eeb189d60d6c9985895b5a206c3][08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b].",
+    "expected_answer": "Kỹ năng cụ thể, kinh nghiệm và đặc điểm cá nhân để làm việc hiệu quả và có hiệu suất tốt.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-09",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018",
+        "source_id": "foundations-of-information-systems",
+        "page": 55,
+        "quote": "There are some differences in how each framework approaches data management. DAMA-DMBOK focuses on\nthe technical aspects of data management, while MIKE2.0 focuses on the business aspects of information\nmanagement. The IBM Data Governance Council Maturity Model and the EDM Council Data Management\nMaturity Model are both designed to help organizations assess their current data management practices and\nidentify areas for improvement. The best framework for an organization will depend on its specific needs and\nrequirements. However, all five frameworks can be valuable tools for improving data management and\ninformation quality. The optimal framework for managing data is one that is continuously developing to\naddress advancements in data storage and changes in organizational policy.\nCAREERS IN IS\nData Architect\nA data architect is responsible for designing, creating, and managing an organization’s data architecture.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Phân biệt DAMA-DMBOK kỹ thuật và MIKE2.0 kinh doanh; trang 55 hỗ trợ trọng tâm chính.",
+    "answer": "Trong mục 2.1, DAMA-DMBOK tập trung vào các khía cạnh kỹ thuật của quản lý dữ liệu, bao gồm các hướng dẫn toàn diện qua mười lĩnh vực kiến thức chính như quản trị dữ liệu, kiến trúc dữ liệu và chất lượng dữ liệu. Trong khi đó, MIKE2.0 tập trung vào các khía cạnh kinh doanh của quản lý thông tin, cung cấp một cách tiếp cận có cấu trúc để đánh giá mức độ trưởng thành thông tin của tổ chức. Do đó, điểm khác biệt trọng tâm giữa hai khuôn khổ này là DAMA-DMBOK chú trọng kỹ thuật dữ liệu còn MIKE2.0 chú trọng khía cạnh kinh doanh của quản lý thông tin [8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018].",
+    "expected_answer": "DAMA-DMBOK tập trung khía cạnh kỹ thuật của quản lý dữ liệu; MIKE2.0 tập trung khía cạnh kinh doanh của quản lý thông tin.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-10",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "• Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity. Particularly evident during high-traffic events, such as online flash\nsales, the constant influx of clickstream data necessitates swift analysis to enable the system to offer\ntailored recommendations and insights to users navigating a dynamic digital landscape.\n• Veracity: The veracity dimension refers to the reliability, accuracy, and trustworthiness of the data,\nconsidering factors like data quality and consistency. As data originate from a multitude of sources and\nare influenced by user behaviors and tracking nuances, ensuring the quality of the data is imperative to\navoiding misinterpretations of metrics like bounce rates and session durations.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Veracity: độ tin cậy/chính xác và chất lượng/nhất quán; trang 56 hỗ trợ.",
+    "answer": "Chiều \"Veracity\" trong bốn V phản ánh độ chính xác và đáng tin cậy của dữ liệu. Veracity đề cập đến tính đáng tin cậy, độ chính xác và độ tin cậy của dữ liệu, bao gồm các yếu tố như chất lượng dữ liệu và tính nhất quán. Vì dữ liệu xuất phát từ nhiều nguồn khác nhau và bị ảnh hưởng bởi hành vi người dùng cũng như các yếu tố theo dõi, nên việc đảm bảo chất lượng dữ liệu là rất quan trọng để tránh hiểu sai các chỉ số như tỷ lệ thoát và thời gian phiên làm việc [dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c].",
+    "expected_answer": "Veracity, xét chất lượng và tính nhất quán.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-11",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "citation_reviews": [
+      {
+        "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "Dimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n",
+        "supports_answer": false,
+        "reason": "ID có thể hợp lệ nhưng đoạn không hỗ trợ khẳng định được gắn citation (sai cấp SFIA, thiếu Velocity hoặc đoạn giới thiệu DOL quá chung)."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Velocity cần evidence tốc độ phát sinh/thu thập và xử lý thời gian thực; trang 56 là định nghĩa chuẩn.Nêu đúng nhãn Velocity nhưng citation eab422... chỉ có Volume/Variety, thiếu evidence cho claim chính.",
+    "answer": "Nếu dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực, đó là thuộc chiều \"Velocity\" (tốc độ) của big data. Chiều này đề cập đến tốc độ dữ liệu được tạo ra và xử lý để đáp ứng các yêu cầu thời gian thực hoặc gần thời gian thực trong các ứng dụng vận hành và ra quyết định nhanh chóng [eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245].",
+    "expected_answer": "Velocity.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-12",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "Different types of data are required for generating suitable information, and different types of data require\ndifferent management approaches. There are two main categories of data—structured and unstructured. The\nfirst, structured data, exist in organized, fixed fields in a data repository. Structured data are typically defined\nin terms of field name and type (such as numeric or alphabetical). Structured data can be further categorized\nas follows:\n• Associated with operational or real-time applications, operational data include transactional data\ngenerated by day-to-day business operations. Operational data often require high availability, real-time\nprocessing, and quick access for operational decision-making. When managing operational data, the focus\nis on ensuring data integrity, availability, and performance to support critical business processes.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ integrity, availability, performance và mục tiêu vận hành; trang 56 hỗ trợ.",
+    "answer": "Ba ưu tiên khi quản lý operational data để hỗ trợ quy trình kinh doanh trọng yếu là đảm bảo tính toàn vẹn dữ liệu (data integrity), tính sẵn sàng (availability), và hiệu suất (performance). Những ưu tiên này nhằm hỗ trợ các quyết định vận hành quan trọng trong thời gian thực và đảm bảo dữ liệu được xử lý nhanh chóng, chính xác để phục vụ các quy trình kinh doanh trọng yếu [0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11].",
+    "expected_answer": "Tính toàn vẹn, tính sẵn sàng và hiệu năng.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-13",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+        "source_id": "foundations-of-information-systems",
+        "page": 57,
+        "quote": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Tên Date of Birth/Birth Date khác nhưng định nghĩa thống nhất để phân tích/báo cáo đúng; trang 57 hỗ trợ.",
+    "answer": "Khi hai phòng ban dùng \"Date of Birth\" và \"Birth Date\" cho cùng một ngày sinh, định nghĩa dữ liệu cần bảo đảm tính nhất quán và chuẩn hóa. Cụ thể, mặc dù tên gọi có thể khác nhau giữa các phòng ban, nhưng định nghĩa của dữ liệu (ngày sinh thực tế) phải được thống nhất trong toàn hệ thống để đảm bảo phân tích và báo cáo chính xác. Điều này giúp duy trì tính chính xác, nhất quán và tin cậy của dữ liệu trong suốt vòng đời của nó, tránh nhầm lẫn do sự khác biệt về tên gọi nhưng cùng một nội dung dữ liệu [1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444].",
+    "expected_answer": "Dù tên gọi khác nhau, định nghĩa của cùng dữ liệu phải nhất quán trong hệ thống để phân tích và báo cáo chính xác.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-14",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "reason": "MDM là nguồn sự thật duy nhất chính xác và loại bất nhất/trao đổi dữ liệu; trang 57 hỗ trợ. Agent từ chối câu có đáp án, chấm 0; invalid_or_missing_citations.",
+    "answer": "Không đủ bằng chứng có citation hợp lệ để trả lời.",
+    "expected_answer": "Một nguồn sự thật duy nhất, chính xác; kho tập trung loại bỏ bất nhất và hỗ trợ trao đổi thông tin giữa các hệ thống.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-15",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea",
+        "source_id": "foundations-of-information-systems",
+        "page": 59,
+        "quote": "• Management control is the process of ensuring that the organization is meeting its strategic goals. It\ninvolves setting budgets, monitoring expenses, and tracking sales. Management control is typically done\nby middle management.\n• Strategic planning is the process of setting long-term goals for an organization. It involves identifying the\norganization’s mission, vision, and values, as well as its strategic objectives. Strategic planning is typically\ndone by the organization’s top management team.\nBy classifying information into these categories, Anthony’s framework provides a structured approach to\ngathering, analyzing, and utilizing information for effective planning and control within an organization. Table\n2.1 features data characteristics for the three types of domains.\nDomain Data Use Data Characteristics\nOperational Track and control day-to-day activities. Data are typically detailed and time sensitive.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506",
+        "source_id": "foundations-of-information-systems",
+        "page": 58,
+        "quote": "There is a distinction between information used for strategic planning and information used for management\ncontrol. An organization’s strategic planning is its process of defining the organization’s mission, vision, goals,\nand objectives, and developing strategies to achieve them, often with the support of information systems,\ntypically done by senior-level managers. In contrast, management control ensures efficient day-to-day\noperations and adherence to those strategic plans. The information required for each level serves a distinct\npurpose; hence, the data required also differ. The data need to be in user-friendly formats, enabling managers\nand analysts to easily comprehend and utilize the information according to their specific requirements (Figure\n2.3). Managers, drawing on their expertise and experience while analyzing data, can effectively leverage these\ninsights to address complex business problems. This fosters a dynamic and adaptive approach of leveraging\ncollective data to ",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf",
+        "source_id": "foundations-of-information-systems",
+        "page": 59,
+        "quote": "Management Make decisions about how to allocate resources and achieve goals. Data are typically summarized and less time sensitive than operational data.\nStrategic Set long-term goals and make strategic decisions. Data are typically aggregated and less time sensitive than management data.\nTable 2.1 Three Domains of the Robert Anthony Framework The three domains of the Robert Anthony framework—operational\ncontrol, management control, and strategic planning—each work with different types of data for different purposes.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Phân biệt strategic planning và management control; trang 58–59 hỗ trợ mục tiêu, cấp quản lý và hoạt động.",
+    "answer": "Strategic planning khác management control về mục tiêu ở chỗ strategic planning tập trung vào việc thiết lập các mục tiêu dài hạn cho tổ chức, bao gồm xác định sứ mệnh, tầm nhìn, giá trị và các mục tiêu chiến lược của tổ chức. Quá trình này thường do đội ngũ quản lý cấp cao thực hiện. Trong khi đó, management control là quá trình đảm bảo tổ chức đạt được các mục tiêu chiến lược đã đề ra, bao gồm việc thiết lập ngân sách, giám sát chi phí và theo dõi doanh số, thường do quản lý cấp trung thực hiện. Như vậy, strategic planning đặt ra các mục tiêu dài hạn và định hướng chiến lược, còn management control tập trung vào việc kiểm soát và đảm bảo thực hiện các mục tiêu đó trong hoạt động hàng ngày của tổ chức [1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea][f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506][2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf].",
+    "expected_answer": "Strategic planning xác định sứ mệnh, tầm nhìn, mục tiêu và chiến lược, thường do quản lý cấp cao; management control bảo đảm vận hành hằng ngày hiệu quả và tuân thủ kế hoạch chiến lược.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-16",
+    "split": "dev",
+    "answerable": false,
+    "answer_grade": null,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "reason": "Câu thiếu chính sách log riêng của VinUni trong corpus; đáp án xuất bản chỉ nói không đủ evidence, không thêm số ngày.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_4000",
+    "query_id": "d7-dev-17",
+    "split": "dev",
+    "answerable": false,
+    "answer_grade": null,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "reason": "Corpus không có lệ phí SFIA tại Việt Nam năm 2026; đáp án xuất bản từ chối, không đoán giá.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-01",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu sprint và các bước, xem xét/điều chỉnh sau sprint; đoạn Agile trên trang PDF 30 hỗ trợ.",
+    "answer": "Phương pháp Agile chia dự án thành các giai đoạn gọi là sprint. Mỗi sprint thường bao gồm các bước: lập kế hoạch, thiết kế, phát triển, kiểm thử, triển khai và đánh giá. Sau mỗi sprint, nhóm dự án sẽ xem xét tiến độ và điều chỉnh trước khi chuyển sang sprint tiếp theo. Điều này giúp nhóm có thể liên tục cải tiến và điều chỉnh dự án theo thực tế phát triển [e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09].",
+    "expected_answer": "Các giai đoạn/sprint; xem xét tiến độ và điều chỉnh trước sprint tiếp theo.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-02",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "quote": "Figure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Liệt kê đủ EDM/APO/BAI/DSS/MEA với tên đầy đủ; text/caption COBIT trang 30 hỗ trợ.",
+    "answer": "Năm quy trình của COBIT là: Evaluate, Direct, and Monitor (EDM); Align, Plan, and Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); và Monitor, Evaluate, and Assess (MEA). Đây là các quy trình giúp phát triển và duy trì hệ thống thông tin theo khuôn khổ COBIT do tổ chức ISACA thúc đẩy [e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee][05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2].",
+    "expected_answer": "Evaluate, Direct, and Monitor (EDM); Align, Plan, and Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); Monitor, Evaluate, and Assess (MEA).",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-03",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c",
+        "source_id": "foundations-of-information-systems",
+        "page": 31,
+        "quote": "• Staff: the people who lead and work in an organization, as well as the tools to support the staff, including\ntraining and incentive programs\n• Structure: how an organization is designed, including its hierarchy and chain of command\n• Strategy: the organization’s goals/objectives and the plans to achieve these\n• Skills: the skills, knowledge, and competencies held by the organization’s staff\n• Systems: the workflow processes used to achieve the organization’s goals and objectives\n• Style: the tone at the executive level established by the organization’s leaders and managers\n• Shared values: the organization’s mission and values that motivate its operations\nLINK TO LEARNING\nThe McKinsey 7-S Framework was introduced in the 1970s to emphasize the importance of coordination\nwithin an organization across its structure. Review this interactive presentation about the framework’s\napplicability today (https://openstax.org/r/109McKinsey) from McKinsey and Company.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Liệt kê đủ bảy yếu tố McKinsey 7-S; trang 31 hỗ trợ.",
+    "answer": "Trong mục 1.2, McKinsey 7-S phối hợp bảy yếu tố gồm: Staff (nhân sự), Structure (cơ cấu tổ chức), Strategy (chiến lược), Skills (kỹ năng), Systems (hệ thống), Style (phong cách lãnh đạo), và Shared values (giá trị chung). Đây là các yếu tố quan trọng giúp tổ chức phối hợp hiệu quả và đạt được mục tiêu của mình [b9c927a85f30d36de464e8b7ad05878a42d29a56543bb80a555eea93e9bc302c].",
+    "expected_answer": "Staff, structure, strategy, skills, systems, style và shared values.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-04",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "citation_reviews": [
+      {
+        "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+        "source_id": "foundations-of-information-systems",
+        "page": 32,
+        "quote": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+        "supports_answer": false,
+        "reason": "ID có thể hợp lệ nhưng đoạn không hỗ trợ khẳng định được gắn citation (sai cấp SFIA, thiếu Velocity hoặc đoạn giới thiệu DOL quá chung)."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Gold là Level 3 Apply; đoạn SFIA trang 32 nêu rõ general supervision, autonomy/nonroutine/oversee. Agent chọn nhầm cấp SFIA và citation không hỗ trợ điều kiện hỏi.",
+    "answer": "Theo SFIA, nhân viên nhận giám sát tổng quát, có thêm tự chủ, công việc có thể không thường lệ và có thể giám sát người khác thuộc cấp độ 5. Cấp độ này là \"Ensure, Advise\" (Đảm bảo, Tư vấn), trong đó nhân viên có trách nhiệm giám sát tổng quát, có mức độ tự chủ cao hơn và công việc có thể không theo quy trình thường lệ, đồng thời có thể giám sát người khác. Đây là cấp độ cao hơn so với các cấp độ đầu như \"Follow\" (theo dõi) hay \"Assist\" (hỗ trợ) và thấp hơn các cấp độ như \"Initiate and Influence\" (Khởi xướng và Ảnh hưởng) hoặc \"Set Strategy, Inspire, and Mobilize\" (Đặt chiến lược, Truyền cảm hứng và Huy động) dành cho các nhà lãnh đạo cấp cao [6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8].",
+    "expected_answer": "Level 3 — Apply.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-05",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde",
+        "source_id": "foundations-of-information-systems",
+        "page": 32,
+        "quote": "• Level 2, Assist: These employees also work under close supervision, but their work is a bit more complex,\nand they have more influence with colleagues.\n• Level 3, Apply: At this level, employees receive more general supervision, and they have more autonomy.\nTheir work is more complex and may not be routine. They also may be allowed to make some decisions on\ntheir own and may oversee other employees.\n• Level 4, Enable: Employees at this level have much more complex work in a broader range of contexts.\nWhile they receive general direction, they have considerable autonomy, as well as personal responsibility\nfor work outcomes.\n• Level 5, Ensure and Advise: At this level, employees receive broad direction, giving them more autonomy,\nincluding the ability to self-initiate work that they think should be performed. Their tasks tend to be\ncomplex and are an integral part of an organization’s strategic plans.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Gold là Level 5 Ensure and Advise; trang 32 nêu broad direction và self-initiate.",
+    "answer": "Theo SFIA, cấp 5 (Ensure and Advise) cho phép nhân viên nhận định hướng rộng và có khả năng tự khởi xướng công việc mà họ cho là cần thực hiện. Ở cấp này, nhân viên nhận được sự chỉ đạo rộng rãi, có nhiều quyền tự chủ, bao gồm khả năng tự khởi xướng công việc mà họ nghĩ là cần thiết. Công việc của họ thường phức tạp và là một phần quan trọng trong kế hoạch chiến lược của tổ chức [1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde].",
+    "expected_answer": "Level 5 — Ensure and Advise.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-06",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+        "source_id": "foundations-of-information-systems",
+        "page": 33,
+        "quote": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Where? tìm nơi tổ chức hoạt động; mục Zachman trang 33 hỗ trợ.",
+    "answer": "Trong khuôn khổ Zachman, câu hỏi \"Where?\" nhằm tìm hiểu thông tin về nơi tổ chức hoạt động, tức là vị trí hoặc địa điểm mà tổ chức thực hiện các hoạt động của mình [56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae].",
+    "expected_answer": "Tìm hiểu nơi tổ chức hoạt động.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-07",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c",
+        "source_id": "foundations-of-information-systems",
+        "page": 34,
+        "quote": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS. Developed by an\ninternational task force of members of the Association for Computing Machinery (ACM) and Association for\nInformation Systems (AIS), IS2020 outlines the curriculum that should be offered to IS students and the\ncompetencies that students should develop as they complete the curriculum. This includes the knowledge,\nskills, and dispositions that students need for successful careers in IS, as well as the tasks that students should\nlearn to perform.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu cơ sở giáo dục đại học và chuẩn bị nghề IS bậc đại học; IS2020 trang 34 hỗ trợ.",
+    "answer": "IS2020 là một mô hình năng lực cung cấp hướng dẫn và tiêu chuẩn cho các cơ sở giáo dục đại học nhằm đảm bảo rằng các chương trình đại học về Hệ thống Thông tin (IS) chuẩn bị hiệu quả cho sinh viên bước vào sự nghiệp trong lĩnh vực IS. Mô hình này được phát triển bởi một nhóm công tác quốc tế gồm các thành viên của Hiệp hội Máy tính (ACM) và Hiệp hội Hệ thống Thông tin (AIS). IS2020 xác định chương trình giảng dạy cần được cung cấp cho sinh viên IS và các năng lực mà sinh viên cần phát triển khi hoàn thành chương trình học. Điều này bao gồm kiến thức, kỹ năng và thái độ mà sinh viên cần để có sự nghiệp thành công trong lĩnh vực IS, cũng như các nhiệm vụ mà sinh viên cần học để thực hiện [ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c].",
+    "expected_answer": "Cơ sở giáo dục đại học; giúp chương trình IS bậc đại học chuẩn bị sinh viên theo nghề IS.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-08",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25",
+        "source_id": "foundations-of-information-systems",
+        "page": 36,
+        "quote": "Competencies in IS\nFor all occupations, including IS positions, the U.S. Department of Labor (DOL) recommends competency-\nbased approaches for hiring employees and for providing the education and training that employees need to\ndo their jobs well. A competency is the ability to apply specific skills, experience, and personal characteristics\nto do a job in an effective and efficient manner. Someone’s personal characteristics are the traits that are\nappropriate for the job or task being done based on the individual’s interests, strengths, background,\neducation, and training. In addition, an individual’s talents, motivations, and personal perceptions of their\nwork influence competency.\nA competency model is a framework that identifies the competencies required for employees to effectively\nperform their job. Generally, for all industries, the competencies that are important include the following\nelements:\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b",
+        "source_id": "foundations-of-information-systems",
+        "page": 38,
+        "quote": "Competency Description Examples\nWorkplace Competencies used in the workplace\nGeneral:\n• teamwork\n• creative thinking\n• decision-making\nIS-specific:\n• business fundamentals\n• problem-solving\n• listening\nTechnical General competencies needed in a specific industry\nIS-specific:\n• IS principles and concepts\n• IS standards and IS regulations\n• databases management\n• network administration\n• risk management\nOccupation-\nspecific\nCompetencies directly related to\nspecific positions within an\nindustry\nIS specific:\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727",
+        "source_id": "foundations-of-information-systems",
+        "page": 36,
+        "quote": "Department of Labor has developed the Information Technology Competency Model, a framework that defines\nthe knowledge, skills, and abilities that are essential for IS professionals. It is important for IS professionals to\nunderstand the relationship between IS and IT, as these two disciplines work in tandem to support\norganizational objectives and foster innovation. Further, many of the training and education requirements for\nprofessionals in the IS field use the Information Technology Competency Model to prepare individuals to\nnavigate the complexities of this dynamic and rapidly changing industry.\n",
+        "supports_answer": false,
+        "reason": "ID có thể hợp lệ nhưng đoạn không hỗ trợ khẳng định được gắn citation (sai cấp SFIA, thiếu Velocity hoặc đoạn giới thiệu DOL quá chung)."
+      },
+      {
+        "id": "0a0f9ce82d58fe33ea6324b610d744a6e36836dd06bea33c140a29663a4687e4",
+        "source_id": "foundations-of-information-systems",
+        "page": 37,
+        "quote": "information technology, databases and applications,\ntechnological networks, telecom, wireless and mobility, software development and management, user and\ncustomer support, digital media and visualization, compliance, risk management, security, and information\nassurance. IS professionals also need competencies specific to the role they fill in IS. Table 1.1 outlines both\ngeneral and IS-specific professional competencies.\nCompetency Description Examples\nPersonal\neffectiveness\nPersonal characteristics or traits\nrelated to working\nGeneral:\n• interpersonal skills\n• initiative\n• dependability\n• reliability\nIS-specific:\n• integrity\n• willingness to learn\n• professionalism\nAcademic Essential education\nGeneral:\n• reading\n• writing\n• mathematics\nIS-specific:\n• business\n• technology\nTable 1.1 Professional Competencies No matter what field you go into, certain personal, academic, and workplace skills are needed\nto be successful as you grow in your career.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "615963ed2d8ec580b29ead6827aafd1eec7c86578d66cffd14290b69873cb754",
+        "source_id": "foundations-of-information-systems",
+        "page": 37,
+        "quote": "dependability, reliability, and willingness to learn\n• Academic: competencies such as reading, writing, and mathematics\n• Workplace: competencies used in the workplace such as teamwork, creative thinking, problem-solving,\nand decision-making\n• Industry-wide technical: general competencies needed in a specific industry; for example, database\nmanagement and network administration are competencies necessary to succeed in IS\n• Industry-sector technical: competencies directly related to specific positions within an industry; for\nexample, in IS, professionals who focus on cybersecurity must be competent about data security and risk\nmanagement\n• Management: leadership, direction setting, team oversight, conflict resolution, delegation\nTo be successful in the workplace, IS professionals need personal effectiveness, academic, and workplace\ncompetencies. In addition, they need competencies specific to technology and information systems. These\ninclude knowledge and skills in the principles of ",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "a33a8629b5d669a360748f30fcf204b1cbf03eeb189d60d6c9985895b5a206c3",
+        "source_id": "foundations-of-information-systems",
+        "page": 36,
+        "quote": "• Personal effectiveness: competencies such as interpersonal skills, integrity, professionalism, initiative,\n26 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ kỹ năng, kinh nghiệm, đặc điểm cá nhân và làm việc hiệu quả; định nghĩa trang 36, ví dụ trang 36–38 hỗ trợ phần mở rộng.",
+    "answer": "Competency là khả năng áp dụng các kỹ năng cụ thể, kinh nghiệm và các đặc điểm cá nhân để thực hiện công việc một cách hiệu quả và hiệu suất. Các đặc điểm cá nhân bao gồm các đặc điểm phù hợp với công việc hoặc nhiệm vụ dựa trên sở thích, điểm mạnh, nền tảng, giáo dục và đào tạo của cá nhân. Ngoài ra, tài năng, động lực và nhận thức cá nhân về công việc cũng ảnh hưởng đến năng lực. Các yếu tố quan trọng trong năng lực bao gồm: hiệu quả cá nhân (kỹ năng giao tiếp, tính chính trực, chuyên nghiệp, sáng kiến), năng lực học thuật (đọc, viết, toán học), năng lực sử dụng trong môi trường làm việc (làm việc nhóm, tư duy sáng tạo, giải quyết vấn đề, ra quyết định), năng lực kỹ thuật ngành nghề (ví dụ quản lý cơ sở dữ liệu, quản trị mạng trong lĩnh vực hệ thống thông tin), và năng lực đặc thù theo ngành nghề (ví dụ an ninh mạng, quản lý rủi ro) [1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25][08381550ec3c8008c2129da3987c1ee15caca2244989754cee9fe17bb962743b][5b892f39a86e0f1543578e83440224a8ba8921841fec400fb1162f54dfe71727][0a0f9ce82d58fe33ea6324b610d744a6e36836dd06bea33c140a29663a4687e4][615963ed2d8ec580b29ead6827aafd1eec7c86578d66cffd14290b69873cb754][a33a8629b5d669a360748f30fcf204b1cbf03eeb189d60d6c9985895b5a206c3].",
+    "expected_answer": "Kỹ năng cụ thể, kinh nghiệm và đặc điểm cá nhân để làm việc hiệu quả và có hiệu suất tốt.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-09",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "reason": "Phân biệt DAMA-DMBOK kỹ thuật và MIKE2.0 kinh doanh; trang 55 hỗ trợ trọng tâm chính. Agent từ chối câu có đáp án, chấm 0; invalid_or_missing_citations.",
+    "answer": "Không đủ bằng chứng có citation hợp lệ để trả lời.",
+    "expected_answer": "DAMA-DMBOK tập trung khía cạnh kỹ thuật của quản lý dữ liệu; MIKE2.0 tập trung khía cạnh kinh doanh của quản lý thông tin.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-10",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "• Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity. Particularly evident during high-traffic events, such as online flash\nsales, the constant influx of clickstream data necessitates swift analysis to enable the system to offer\ntailored recommendations and insights to users navigating a dynamic digital landscape.\n• Veracity: The veracity dimension refers to the reliability, accuracy, and trustworthiness of the data,\nconsidering factors like data quality and consistency. As data originate from a multitude of sources and\nare influenced by user behaviors and tracking nuances, ensuring the quality of the data is imperative to\navoiding misinterpretations of metrics like bounce rates and session durations.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Veracity: độ tin cậy/chính xác và chất lượng/nhất quán; trang 56 hỗ trợ.",
+    "answer": "Chiều \"Veracity\" trong bốn V phản ánh độ chính xác và đáng tin cậy của dữ liệu. Veracity đề cập đến tính đáng tin cậy, độ chính xác và độ tin cậy của dữ liệu, bao gồm các yếu tố như chất lượng dữ liệu và tính nhất quán. Vì dữ liệu xuất phát từ nhiều nguồn khác nhau và bị ảnh hưởng bởi hành vi người dùng cũng như các yếu tố theo dõi, nên việc đảm bảo chất lượng dữ liệu là rất quan trọng để tránh hiểu sai các chỉ số như tỷ lệ thoát và thời gian phiên làm việc [dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c].",
+    "expected_answer": "Veracity, xét chất lượng và tính nhất quán.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-11",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "• Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity. Particularly evident during high-traffic events, such as online flash\nsales, the constant influx of clickstream data necessitates swift analysis to enable the system to offer\ntailored recommendations and insights to users navigating a dynamic digital landscape.\n• Veracity: The veracity dimension refers to the reliability, accuracy, and trustworthiness of the data,\nconsidering factors like data quality and consistency. As data originate from a multitude of sources and\nare influenced by user behaviors and tracking nuances, ensuring the quality of the data is imperative to\navoiding misinterpretations of metrics like bounce rates and session durations.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Velocity cần evidence tốc độ phát sinh/thu thập và xử lý thời gian thực; trang 56 là định nghĩa chuẩn.",
+    "answer": "Chiều của big data liên quan đến việc dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực là chiều \"Velocity\" (tốc độ). Velocity đặc trưng cho tốc độ nhanh chóng mà dữ liệu được tạo ra và thu thập, đòi hỏi phải xử lý ngay lập tức hoặc gần như thời gian thực để có thể phân tích và đưa ra các quyết định kịp thời. Ví dụ, trong các sự kiện có lưu lượng truy cập cao như các đợt bán hàng trực tuyến nhanh, dữ liệu clickstream liên tục được thu thập và cần phân tích nhanh để cung cấp các đề xuất và thông tin phù hợp cho người dùng trong môi trường số động này [dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c].",
+    "expected_answer": "Velocity.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-12",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "quote": "Different types of data are required for generating suitable information, and different types of data require\ndifferent management approaches. There are two main categories of data—structured and unstructured. The\nfirst, structured data, exist in organized, fixed fields in a data repository. Structured data are typically defined\nin terms of field name and type (such as numeric or alphabetical). Structured data can be further categorized\nas follows:\n• Associated with operational or real-time applications, operational data include transactional data\ngenerated by day-to-day business operations. Operational data often require high availability, real-time\nprocessing, and quick access for operational decision-making. When managing operational data, the focus\nis on ensuring data integrity, availability, and performance to support critical business processes.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ integrity, availability, performance và mục tiêu vận hành; trang 56 hỗ trợ.",
+    "answer": "Ba ưu tiên khi quản lý operational data để hỗ trợ quy trình kinh doanh trọng yếu là đảm bảo tính toàn vẹn dữ liệu (data integrity), tính sẵn sàng của dữ liệu (availability), và hiệu suất xử lý (performance). Những ưu tiên này nhằm hỗ trợ các quyết định vận hành quan trọng trong doanh nghiệp, đảm bảo dữ liệu được xử lý kịp thời và chính xác để phục vụ các hoạt động kinh doanh hàng ngày một cách hiệu quả [0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11].",
+    "expected_answer": "Tính toàn vẹn, tính sẵn sàng và hiệu năng.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-13",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+        "source_id": "foundations-of-information-systems",
+        "page": 57,
+        "quote": "• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Tên Date of Birth/Birth Date khác nhưng định nghĩa thống nhất để phân tích/báo cáo đúng; trang 57 hỗ trợ.",
+    "answer": "Khi hai phòng ban dùng hai tên khác nhau như \"Date of Birth\" và \"Birth Date\" cho cùng một ngày sinh, định nghĩa dữ liệu cần bảo đảm sự nhất quán về định nghĩa dữ liệu. Cụ thể, mặc dù tên gọi có thể khác nhau tùy theo phòng ban, nhưng định nghĩa của dữ liệu (ngày sinh thực tế) phải được chuẩn hóa và nhất quán trong toàn hệ thống để đảm bảo phân tích và báo cáo chính xác. Điều này giúp duy trì tính chính xác, nhất quán và tin cậy của dữ liệu trong suốt vòng đời của nó, tránh nhầm lẫn và sai lệch thông tin khi dữ liệu được sử dụng ở các bộ phận khác nhau [1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444].",
+    "expected_answer": "Dù tên gọi khác nhau, định nghĩa của cùng dữ liệu phải nhất quán trong hệ thống để phân tích và báo cáo chính xác.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-14",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 0,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": null,
+    "reason": "MDM là nguồn sự thật duy nhất chính xác và loại bất nhất/trao đổi dữ liệu; trang 57 hỗ trợ. Agent từ chối câu có đáp án, chấm 0; invalid_or_missing_citations.",
+    "answer": "Không đủ bằng chứng có citation hợp lệ để trả lời.",
+    "expected_answer": "Một nguồn sự thật duy nhất, chính xác; kho tập trung loại bỏ bất nhất và hỗ trợ trao đổi thông tin giữa các hệ thống.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-15",
+    "split": "dev",
+    "answerable": true,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "citation_reviews": [
+      {
+        "id": "1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea",
+        "source_id": "foundations-of-information-systems",
+        "page": 59,
+        "quote": "• Management control is the process of ensuring that the organization is meeting its strategic goals. It\ninvolves setting budgets, monitoring expenses, and tracking sales. Management control is typically done\nby middle management.\n• Strategic planning is the process of setting long-term goals for an organization. It involves identifying the\norganization’s mission, vision, and values, as well as its strategic objectives. Strategic planning is typically\ndone by the organization’s top management team.\nBy classifying information into these categories, Anthony’s framework provides a structured approach to\ngathering, analyzing, and utilizing information for effective planning and control within an organization. Table\n2.1 features data characteristics for the three types of domains.\nDomain Data Use Data Characteristics\nOperational Track and control day-to-day activities. Data are typically detailed and time sensitive.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506",
+        "source_id": "foundations-of-information-systems",
+        "page": 58,
+        "quote": "There is a distinction between information used for strategic planning and information used for management\ncontrol. An organization’s strategic planning is its process of defining the organization’s mission, vision, goals,\nand objectives, and developing strategies to achieve them, often with the support of information systems,\ntypically done by senior-level managers. In contrast, management control ensures efficient day-to-day\noperations and adherence to those strategic plans. The information required for each level serves a distinct\npurpose; hence, the data required also differ. The data need to be in user-friendly formats, enabling managers\nand analysts to easily comprehend and utilize the information according to their specific requirements (Figure\n2.3). Managers, drawing on their expertise and experience while analyzing data, can effectively leverage these\ninsights to address complex business problems. This fosters a dynamic and adaptive approach of leveraging\ncollective data to ",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      },
+      {
+        "id": "2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf",
+        "source_id": "foundations-of-information-systems",
+        "page": 59,
+        "quote": "Management Make decisions about how to allocate resources and achieve goals. Data are typically summarized and less time sensitive than operational data.\nStrategic Set long-term goals and make strategic decisions. Data are typically aggregated and less time sensitive than management data.\nTable 2.1 Three Domains of the Robert Anthony Framework The three domains of the Robert Anthony framework—operational\ncontrol, management control, and strategic planning—each work with different types of data for different purposes.\n",
+        "supports_answer": true,
+        "reason": "Đoạn hỗ trợ ít nhất một khẳng định được dẫn trong đáp án và có trong context cuối."
+      }
+    ],
+    "abstention_correct": null,
+    "reason": "Phân biệt strategic planning và management control; trang 58–59 hỗ trợ mục tiêu, cấp quản lý và hoạt động.",
+    "answer": "Strategic planning và management control khác nhau về mục tiêu như sau: Strategic planning là quá trình thiết lập các mục tiêu dài hạn cho tổ chức, bao gồm xác định sứ mệnh, tầm nhìn, giá trị và các mục tiêu chiến lược của tổ chức. Quá trình này thường do đội ngũ quản lý cấp cao thực hiện. Trong khi đó, management control là quá trình đảm bảo tổ chức đạt được các mục tiêu chiến lược đã đề ra, bao gồm việc thiết lập ngân sách, giám sát chi phí và theo dõi doanh số, thường do quản lý cấp trung thực hiện. Nói cách khác, strategic planning tập trung vào việc đặt ra các mục tiêu dài hạn và chiến lược, còn management control tập trung vào việc kiểm soát và đảm bảo hoạt động hàng ngày phù hợp với các mục tiêu đó [1150de12438d42c89b2a260e4627c78cf0150a60aa1395675d378c8cbc54ffea][f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506][2072bffc000c102fbd37adc77d0598d4b182ebe937c64f72ffd7dc45b52b09bf].",
+    "expected_answer": "Strategic planning xác định sứ mệnh, tầm nhìn, mục tiêu và chiến lược, thường do quản lý cấp cao; management control bảo đảm vận hành hằng ngày hiệu quả và tuân thủ kế hoạch chiến lược.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-16",
+    "split": "dev",
+    "answerable": false,
+    "answer_grade": null,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "reason": "Câu thiếu chính sách log riêng của VinUni trong corpus; đáp án xuất bản chỉ nói không đủ evidence, không thêm số ngày.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  },
+  {
+    "profile": "hybrid_6000",
+    "query_id": "d7-dev-17",
+    "split": "dev",
+    "answerable": false,
+    "answer_grade": null,
+    "citation_support": [],
+    "citation_reviews": [],
+    "abstention_correct": true,
+    "reason": "Corpus không có lệ phí SFIA tại Việt Nam năm 2026; đáp án xuất bản từ chối, không đoán giá.",
+    "answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "expected_answer": "Không đủ bằng chứng trong bộ tài liệu để trả lời con số được hỏi.",
+    "provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "human_confirmation": "pending",
+      "method": "Content review of saved answers, citations/context and source passages after dev; not blind, not a human review."
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09 | starter/data/Foundations_of_Information_Systems.pdf | page 30]
+Agile methodology is a framework used to guide project management, primarily by dividing projects into
+phases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and
+reviewing. After each sprint, the project team examines their progress and adjusts before moving to the next
+sprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several
+versions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.
+
+
+[56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae | starter/data/Foundations_of_Information_Systems.pdf | page 33]
+Waterfall include compiling documentation of the project requirements, using logical design to brainstorm
+how to approach the project, developing the physical design, implementing the design plan, verifying and
+testing the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer
+programming and coding, the framework can be applied to IS.
+The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise
+architecture, including data and documents, which are vital for a robust information system. Using a 6 × 6
+matrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of
+stakeholders in a particular system:
+• What? seeks to understand the data needed for the system by learning about the organization’s data,
+objects, and information.
+• How? seeks to understand the organization’s processes and functions.
+• Where? seeks to learn where the organization operates.
+
+
+[5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc | starter/data/Foundations_of_Information_Systems.pdf | page 30]
+Industry standards help IS professionals ensure that the system they develop has the appropriate
+infrastructure and technological components required to function efficiently. This includes ensuring the
+system is compatible with information systems used in other organizations. After all, an important objective of
+IS to enable information sharing internally and externally as organizations interact in the marketplace.
+Specific Frameworks and Standards in Information Systems
+Starting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for
+Information and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills
+Framework for the Information Age (SFIA), Waterfall, and Zachman.
+
+
+[0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91 | starter/data/Foundations_of_Information_Systems.pdf | page 33]
+Figure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By
+asking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs
+from the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification
+1.2 • Frameworks of Knowledge and Industry Standards 23
+
+[a08e48e88bc4a3fbc30127f2c684d01535c332db703cff02c3b5855ddbc7de1f | starter/data/Foundations_of_Information_Systems.pdf | page 32]
+Waterfall is a structured, linear framework used to guide project management. Generally, the steps of
+22 1 • Fundamentals of Information Systems
+Access for free at openstax.org
+
+[7e5aeb9e42675f54450adc7c04582c9ec4d32c9d15fc29a5b28703e3b86079e9 | starter/data/Foundations_of_Information_Systems.pdf | page 58]
+drive continuous improvement and growth.

@@ -1,0 +1,1008 @@
+{
+  "query": "Agile chia dự án thành đơn vị nào và nhóm làm gì sau mỗi đơn vị?",
+  "filter": null,
+  "results": [
+    {
+      "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+      "text": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 1942,
+        "part": 0,
+        "year": 2025,
+        "start": 1415,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03278688524590164,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.40965828398496074,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.39288738743019747,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+      "text": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "metadata": {
+        "end": 986,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.016129032258064516,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.2963421643635047,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 652,
+        "end": 1415,
+        "method": "paragraph-1000"
+      },
+      "score": 0.016129032258064516,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.13924487654760345,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 3
+    },
+    {
+      "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+      "text": "Figure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By\nasking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs\nfrom the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification\n1.2 • Frameworks of Knowledge and Industry Standards 23",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "metadata": {
+        "end": 2394,
+        "part": 0,
+        "year": 2025,
+        "start": 1950,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015873015873015872,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 3,
+          "raw_score": 0.2637278181599948,
+          "rrf_contribution": 0.015873015873015872
+        }
+      },
+      "rank": 4
+    },
+    {
+      "id": "a08e48e88bc4a3fbc30127f2c684d01535c332db703cff02c3b5855ddbc7de1f",
+      "text": "Waterfall is a structured, linear framework used to guide project management. Generally, the steps of\n22 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 32,
+      "metadata": {
+        "end": 2868,
+        "part": 0,
+        "year": 2025,
+        "start": 2692,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015625,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 4,
+          "raw_score": 0.2569684493672013,
+          "rrf_contribution": 0.015625
+        }
+      },
+      "rank": 5
+    },
+    {
+      "id": "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce",
+      "text": "on\ninvestment\nManufacturing\nand\noperations\nProduct life-cycle\noptimization and risk\nassessment\nEfficient\nmaterials and\nproduction\nplanning\nReal-time shop\nfloor\nmonitoring\nand quality\ncontrol\nImproved product\nquality, reduced\nproduction downtime,\nstreamlined processes\nSupply chain\nmanagement\nSupply chain visibility\nand demand\nforecasting\nInventory\noptimization and\nsupplier\nperformance\ntracking\nEfficient order\nprocessing and\nshipment\ntracking\nReduced inventory costs,\nimproved supply chain\nefficiency\nCustomer\nservice\nAcquisition and\nretention of\ncustomers; customer\nfeedback and\nsentiment analysis\nHelp desk\nperformance\nanalytics and\nticket tracking\nCustomer self-\nhelp\nknowledge\nbase and issue\nresolution\nEnhanced customer\nsatisfaction, reduced\nresponse time, and\nsupport costs\nResearch and\ndevelopment\nRate of collaborative\ninnovation and new\nidea generation\nProject resource\nallocation and\ninnovation\ntracking\nIdea evaluation\nand research\nand\ndevelopment\nprocess\noptimization\nAccelerated ",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 64,
+      "metadata": {
+        "end": 1972,
+        "part": 0,
+        "year": 2025,
+        "start": 978,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015384615384615385,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 5,
+          "raw_score": 0.256299858951913,
+          "rrf_contribution": 0.015384615384615385
+        }
+      },
+      "rank": 6
+    },
+    {
+      "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+      "text": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 32,
+      "metadata": {
+        "end": 887,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.015151515151515152,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 6,
+          "raw_score": 0.23654774492670083,
+          "rrf_contribution": 0.015151515151515152
+        }
+      },
+      "rank": 7
+    },
+    {
+      "id": "01ec090a761e56c89f0eed5d490ca01eef33bab72c35a20c8232f30d61640847",
+      "text": "Innovation: modification of work “Idea (89054) - The Noun Project” by “Nice and Serious”/Wikimedia Commons, CC0 1.0; credit\nCustomers: modification of work “Noun Project people icon 3376085” by Anhar Ismail, ID/Wikimedia Commons, CC BY 3.0; credit\nCollaboration: modification of work “Handshake, by David“ by David/Wikimedia Commons, CC BY 3.0; credit Goals: modification of\nwork “Checklist Noun project 5166” by Aaron Dodson/Wikimedia Commons, CC BY 3.0; credit Financials: modification of work\n“Analysis (1510724) - The Noun Project” by Anwer Hossain/Wikimedia Commons, CC0 1.0; credit Culture: modification of work “Ethics\nof Open Sharing icon - Organizational culture” by Julius Uusikylä, KRUT Collective/Wikimedia Commons, CC0 1.0)\nUnfortunately, many organizations struggle to achieve such close alignment. The primary reasons for the gap\nbetween business and IT departments can usually be attributed to the following:\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 66,
+      "metadata": {
+        "end": 925,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.014925373134328358,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 7,
+          "raw_score": 0.23190612089406826,
+          "rrf_contribution": 0.014925373134328358
+        }
+      },
+      "rank": 8
+    },
+    {
+      "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+      "text": "• Who? seeks to learn who the organizational members are, as well as gather details about the\norganization’s units and hierarchy.\n• When? seeks to learn the organization’s schedule of operations, including when processes are performed.\n• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk\nmanagement and information systems. This question also seeks to determine what motivates the\norganization to perform certain functions.\nAs shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of\nthe matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’\nperspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an\nimportant tool to understand what an organization’s information systems should entail and develop the\nappropriate enterprise architecture to support that system.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "metadata": {
+        "end": 1950,
+        "part": 0,
+        "year": 2025,
+        "start": 986,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.014705882352941176,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 8,
+          "raw_score": 0.22793010082739973,
+          "rrf_contribution": 0.014705882352941176
+        }
+      },
+      "rank": 9
+    },
+    {
+      "id": "2ca84f1e38106e0ef1ff42c86ab21c0be63468ffaf676c988a70b7f78a89aaa8",
+      "text": "2. Design: Analyze the collected information to make informed judgments about whether an activity can be\neffectively automated or requires human intervention.\n3. Choice: Based on the decisions made, select the appropriate approach for each activity—either\nprogramming it for automation or handling it through human involvement.\n4 Robert N. Anthony, “Framework for Analysis,” Management Services: A Magazine of Planning, Systems, and Controls 1, no. 1\n(1964): 6, https://egrove.olemiss.edu/mgmtservices/vol1/iss1/6\n2.1 • Practices and Frameworks for Data Management 49",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 59,
+      "metadata": {
+        "end": 3831,
+        "part": 0,
+        "year": 2025,
+        "start": 3264,
+        "method": "paragraph-1000",
+        "section": "2.1",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.014492753623188406,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 9,
+          "raw_score": 0.2274130402203497,
+          "rrf_contribution": 0.014492753623188406
+        }
+      },
+      "rank": 10
+    }
+  ],
+  "top3": [
+    {
+      "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+      "text": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 1942,
+        "part": 0,
+        "year": 2025,
+        "start": 1415,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.03278688524590164,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 1,
+          "raw_score": 0.40965828398496074,
+          "rrf_contribution": 0.01639344262295082
+        },
+        "lexical": {
+          "rank": 1,
+          "raw_score": 0.39288738743019747,
+          "rrf_contribution": 0.01639344262295082
+        }
+      },
+      "rank": 1
+    },
+    {
+      "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+      "text": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 33,
+      "metadata": {
+        "end": 986,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "score": 0.016129032258064516,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "dense": {
+          "rank": 2,
+          "raw_score": 0.2963421643635047,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 2
+    },
+    {
+      "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.2",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 652,
+        "end": 1415,
+        "method": "paragraph-1000"
+      },
+      "score": 0.016129032258064516,
+      "method": "hybrid_rrf",
+      "score_type": "rrf",
+      "components": {
+        "lexical": {
+          "rank": 2,
+          "raw_score": 0.13924487654760345,
+          "rrf_contribution": 0.016129032258064516
+        }
+      },
+      "rank": 3
+    }
+  ],
+  "trace": {
+    "method": "hybrid_rrf",
+    "filter": {},
+    "candidate_k_per_branch": 10,
+    "rrf_k": 60,
+    "dense_results": [
+      {
+        "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "text": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+        "metadata": {
+          "end": 1942,
+          "part": 0,
+          "year": 2025,
+          "start": 1415,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.40965828398496074,
+        "rank": 1,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "text": "Waterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n",
+        "metadata": {
+          "end": 986,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2963421643635047,
+        "rank": 2,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "text": "Figure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By\nasking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs\nfrom the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification\n1.2 • Frameworks of Knowledge and Industry Standards 23",
+        "metadata": {
+          "end": 2394,
+          "part": 0,
+          "year": 2025,
+          "start": 1950,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2637278181599948,
+        "rank": 3,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "a08e48e88bc4a3fbc30127f2c684d01535c332db703cff02c3b5855ddbc7de1f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 32,
+        "text": "Waterfall is a structured, linear framework used to guide project management. Generally, the steps of\n22 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 2868,
+          "part": 0,
+          "year": 2025,
+          "start": 2692,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2569684493672013,
+        "rank": 4,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 64,
+        "text": "on\ninvestment\nManufacturing\nand\noperations\nProduct life-cycle\noptimization and risk\nassessment\nEfficient\nmaterials and\nproduction\nplanning\nReal-time shop\nfloor\nmonitoring\nand quality\ncontrol\nImproved product\nquality, reduced\nproduction downtime,\nstreamlined processes\nSupply chain\nmanagement\nSupply chain visibility\nand demand\nforecasting\nInventory\noptimization and\nsupplier\nperformance\ntracking\nEfficient order\nprocessing and\nshipment\ntracking\nReduced inventory costs,\nimproved supply chain\nefficiency\nCustomer\nservice\nAcquisition and\nretention of\ncustomers; customer\nfeedback and\nsentiment analysis\nHelp desk\nperformance\nanalytics and\nticket tracking\nCustomer self-\nhelp\nknowledge\nbase and issue\nresolution\nEnhanced customer\nsatisfaction, reduced\nresponse time, and\nsupport costs\nResearch and\ndevelopment\nRate of collaborative\ninnovation and new\nidea generation\nProject resource\nallocation and\ninnovation\ntracking\nIdea evaluation\nand research\nand\ndevelopment\nprocess\noptimization\nAccelerated ",
+        "metadata": {
+          "end": 1972,
+          "part": 0,
+          "year": 2025,
+          "start": 978,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.256299858951913,
+        "rank": 5,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 32,
+        "text": "Figure 1.7 SFIA can be an important framework as organizations develop the skills needed to manage technology. This includes\nplanning and organizing, acquisition, deployment, assessment, analysis, and development. It is also important that organizations\nreward employees and recognize their success. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nIndividually, IS professionals use SFIA to identify the skills they personally need to develop to perform their\njobs and advance their careers. SFIA is structured to help organizations and individuals achieve success in the\nfollowing seven levels of responsibility:\n• Level 1, Follow: This level applies to entry-level positions that are closely supervised, perform routine tasks,\nrely on basic tools, and have minimal influence on the work environment, essentially following others as\nthey perform their jobs.\n",
+        "metadata": {
+          "end": 887,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.23654774492670083,
+        "rank": 6,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "01ec090a761e56c89f0eed5d490ca01eef33bab72c35a20c8232f30d61640847",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "text": "Innovation: modification of work “Idea (89054) - The Noun Project” by “Nice and Serious”/Wikimedia Commons, CC0 1.0; credit\nCustomers: modification of work “Noun Project people icon 3376085” by Anhar Ismail, ID/Wikimedia Commons, CC BY 3.0; credit\nCollaboration: modification of work “Handshake, by David“ by David/Wikimedia Commons, CC BY 3.0; credit Goals: modification of\nwork “Checklist Noun project 5166” by Aaron Dodson/Wikimedia Commons, CC BY 3.0; credit Financials: modification of work\n“Analysis (1510724) - The Noun Project” by Anwer Hossain/Wikimedia Commons, CC0 1.0; credit Culture: modification of work “Ethics\nof Open Sharing icon - Organizational culture” by Julius Uusikylä, KRUT Collective/Wikimedia Commons, CC0 1.0)\nUnfortunately, many organizations struggle to achieve such close alignment. The primary reasons for the gap\nbetween business and IT departments can usually be attributed to the following:\n",
+        "metadata": {
+          "end": 925,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.23190612089406826,
+        "rank": 7,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "text": "• Who? seeks to learn who the organizational members are, as well as gather details about the\norganization’s units and hierarchy.\n• When? seeks to learn the organization’s schedule of operations, including when processes are performed.\n• Why? seeks to learn why the organization has selected certain systems and solutions for its enterprise risk\nmanagement and information systems. This question also seeks to determine what motivates the\norganization to perform certain functions.\nAs shown in Figure 1.8, these questions are posed across the top of Zachman’s 6 × 6 matrix. On the left side of\nthe matrix, the rows list the organization’s stakeholders. To understand the system needs, the stakeholders’\nperspectives are entered into the appropriate cells in the matrix. The Zachman Framework can be an\nimportant tool to understand what an organization’s information systems should entail and develop the\nappropriate enterprise architecture to support that system.\n",
+        "metadata": {
+          "end": 1950,
+          "part": 0,
+          "year": 2025,
+          "start": 986,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.22793010082739973,
+        "rank": 8,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "2ca84f1e38106e0ef1ff42c86ab21c0be63468ffaf676c988a70b7f78a89aaa8",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 59,
+        "text": "2. Design: Analyze the collected information to make informed judgments about whether an activity can be\neffectively automated or requires human intervention.\n3. Choice: Based on the decisions made, select the appropriate approach for each activity—either\nprogramming it for automation or handling it through human involvement.\n4 Robert N. Anthony, “Framework for Analysis,” Management Services: A Magazine of Planning, Systems, and Controls 1, no. 1\n(1964): 6, https://egrove.olemiss.edu/mgmtservices/vol1/iss1/6\n2.1 • Practices and Frameworks for Data Management 49",
+        "metadata": {
+          "end": 3831,
+          "part": 0,
+          "year": 2025,
+          "start": 3264,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2274130402203497,
+        "rank": 9,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      },
+      {
+        "id": "5c73687c1a3343e5e8dc704b79fb700cd4fda792639dfc5424e0118d871b631d",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 61,
+        "text": "• crowdsourcing platforms: online marketplaces where businesses or individuals can outsource tasks or\nproblems to a large, dispersed group of people\nhttps://quickbooks.intuit.com/r/supply-chain/zara-supply-chain-its-secret-to-retail-success/\n7 Rashik Parmar, Marc Peters, and Llewellyn D.W. Thomas, “What Is Responsible Computing?” Harvard Business Review, July 7, 2023,\nhttps://hbr.org/2023/07/what-is-responsible-computing\n8 “Domino’s: Taking the Guesswork Out of Pizza Delivery with Google Maps Platform,” Google Cloud, accessed January 19, 2025,\nhttps://cloud.google.com/customers/dominos-maps\n9 Jacob Roach, “How Nvidia Is Using A.I. to Help Domino’s Deliver Pizzas Faster,” Digital Trends, November 9, 2021,\nhttps://www.digitaltrends.com/computing/nvidia-using-ai-to-help-dominos-deliver-pizzas-faster/\n2.2 • Strategies to Improve the Value of Information Technology Within Organizations 51",
+        "metadata": {
+          "end": 2990,
+          "part": 1,
+          "year": 2025,
+          "start": 2094,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.22550348850054258,
+        "rank": 10,
+        "method": "dense",
+        "score_type": "cosine_similarity"
+      }
+    ],
+    "lexical_results": [
+      {
+        "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+        "text": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 1415,
+          "end": 1942,
+          "method": "paragraph-1000"
+        },
+        "score": 0.39288738743019747,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 1
+      },
+      {
+        "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+        "text": "Industry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 652,
+          "end": 1415,
+          "method": "paragraph-1000"
+        },
+        "score": 0.13924487654760345,
+        "method": "tfidf",
+        "score_type": "tfidf_cosine",
+        "rank": 2
+      }
+    ],
+    "dense_call": {
+      "method": "dense",
+      "filter": {},
+      "returned": 10,
+      "elapsed_ms": 1253.6715000005643,
+      "cache_hit": false,
+      "service_cost_usd": null,
+      "cost_note": "Cache is in-process ranked-result cache. Cache miss uses real OpenRouter query embedding; actual charge/token usage not exposed by legacy adapter.",
+      "model": "openai/text-embedding-3-small",
+      "dimensions": 1536,
+      "strategy": "B",
+      "embedding_requests": [
+        {
+          "status": "ok",
+          "id": "gen-emb-1794648537-r6MxNeEjVNe3fUaA6dub",
+          "elapsed_ms": 1139.5011999993585,
+          "usage": {
+            "prompt_tokens": 31,
+            "total_tokens": 31,
+            "cost": 6.2e-07,
+            "is_byok": false,
+            "cost_details": {
+              "upstream_inference_cost": 6.2e-07,
+              "upstream_inference_prompt_cost": 6.2e-07,
+              "upstream_inference_completions_cost": 0
+            }
+          }
+        }
+      ],
+      "measured_embedding_cost": {
+        "request_count": 1,
+        "known_cost_usd": 6.2e-07,
+        "cost_usd": 6.2e-07,
+        "unknown_cost_request_count": 0,
+        "prompt_tokens_known": 31
+      }
+    },
+    "lexical_call": {
+      "method": "tfidf",
+      "filter": {},
+      "eligible_count": 162,
+      "returned": 2,
+      "elapsed_ms": 0.1702999998087762,
+      "service_cost_usd": 0,
+      "tokenization": "NFC_casefold_word_regex",
+      "idf_scope": "entire_fixed_snapshot"
+    },
+    "returned": 10,
+    "elapsed_ms": 1254.0685000003577
+  },
+  "context_selection": {
+    "context": "[e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09 | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nAgile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint. Agile can be a useful framework as IS professionals plan and develop an information system. Several\nversions of Agile frameworks are used for project management, including Kanban, Lean, and Scrum.\n\n\n[56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae | starter/data/Foundations_of_Information_Systems.pdf | page 33]\nWaterfall include compiling documentation of the project requirements, using logical design to brainstorm\nhow to approach the project, developing the physical design, implementing the design plan, verifying and\ntesting the design, and maintaining the design once it is in use. While Waterfall tends to focus on computer\nprogramming and coding, the framework can be applied to IS.\nThe Zachman Framework provides a structure for developing and organizing the artifacts of enterprise\narchitecture, including data and documents, which are vital for a robust information system. Using a 6 × 6\nmatrix, the Zachman Framework asks the following six questions to identify the needs and perspectives of\nstakeholders in a particular system:\n• What? seeks to understand the data needed for the system by learning about the organization’s data,\nobjects, and information.\n• How? seeks to understand the organization’s processes and functions.\n• Where? seeks to learn where the organization operates.\n\n\n[5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nIndustry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n\n\n[0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91 | starter/data/Foundations_of_Information_Systems.pdf | page 33]\nFigure 1.8 The Zachman Framework provides a structure for developing and organizing the artifacts of enterprise architecture. By\nasking what, how, where, who, when, and why, the Zachman Framework can help IS developers understand an organization’s needs\nfrom the perspective of an organization’s various stakeholders, including executives, managers, and technicians. (credit: modification\n1.2 • Frameworks of Knowledge and Industry Standards 23\n\n[a08e48e88bc4a3fbc30127f2c684d01535c332db703cff02c3b5855ddbc7de1f | starter/data/Foundations_of_Information_Systems.pdf | page 32]\nWaterfall is a structured, linear framework used to guide project management. Generally, the steps of\n22 1 • Fundamentals of Information Systems\nAccess for free at openstax.org",
+    "context_ids": [
+      "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+      "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+      "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+      "a08e48e88bc4a3fbc30127f2c684d01535c332db703cff02c3b5855ddbc7de1f"
+    ],
+    "context_chars": 3559,
+    "context_sha256": "ea4ff6640605d50cdac65e939b219496714047acc6e17094dabc8971bfa9d1b4",
+    "budget_chars": 4000,
+    "remaining_chars": 441,
+    "unit": "Python len(str), Unicode codepoints including headers and separators",
+    "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+    "candidate_occurrences": 10,
+    "unique_candidates": 10,
+    "duplicates_removed": 0,
+    "selected_count": 5,
+    "skipped_count": 5,
+    "decisions": [
+      {
+        "id": "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "end": 1942,
+          "part": 0,
+          "year": 2025,
+          "start": 1415,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.01639344262295082,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 1
+          }
+        ],
+        "text_characters": 527,
+        "block_characters": 658,
+        "separator_characters": 0,
+        "remaining_before": 4000,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "metadata": {
+          "end": 986,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.016129032258064516,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 2
+          }
+        ],
+        "text_characters": 986,
+        "block_characters": 1117,
+        "separator_characters": 2,
+        "remaining_before": 3342,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 30,
+        "metadata": {
+          "language": "en",
+          "year": 2025,
+          "section": "1.2",
+          "part": 0,
+          "attribution": "Access for free at openstax.org.",
+          "start": 652,
+          "end": 1415,
+          "method": "paragraph-1000"
+        },
+        "best_reciprocal_rank": 0.015873015873015872,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 3
+          }
+        ],
+        "text_characters": 763,
+        "block_characters": 894,
+        "separator_characters": 2,
+        "remaining_before": 2223,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "0d4f7c3d2ad7f27526b1e0ee0be1261765521f53cc7e685539a360409ee50f91",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "metadata": {
+          "end": 2394,
+          "part": 0,
+          "year": 2025,
+          "start": 1950,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015625,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 4
+          }
+        ],
+        "text_characters": 444,
+        "block_characters": 575,
+        "separator_characters": 2,
+        "remaining_before": 1327,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "a08e48e88bc4a3fbc30127f2c684d01535c332db703cff02c3b5855ddbc7de1f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 32,
+        "metadata": {
+          "end": 2868,
+          "part": 0,
+          "year": 2025,
+          "start": 2692,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015384615384615385,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 5
+          }
+        ],
+        "text_characters": 176,
+        "block_characters": 307,
+        "separator_characters": 2,
+        "remaining_before": 750,
+        "selected": true,
+        "reason": "selected_complete_chunk"
+      },
+      {
+        "id": "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 64,
+        "metadata": {
+          "end": 1972,
+          "part": 0,
+          "year": 2025,
+          "start": 978,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.015151515151515152,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 6
+          }
+        ],
+        "text_characters": 994,
+        "block_characters": 1125,
+        "separator_characters": 2,
+        "remaining_before": 441,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "6f16c7ac104d147cb7ca391fd5bed7627b0ea254727b71f73c25d577d1a2c0f8",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 32,
+        "metadata": {
+          "end": 887,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014925373134328358,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 7
+          }
+        ],
+        "text_characters": 887,
+        "block_characters": 1018,
+        "separator_characters": 2,
+        "remaining_before": 441,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "01ec090a761e56c89f0eed5d490ca01eef33bab72c35a20c8232f30d61640847",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 66,
+        "metadata": {
+          "end": 925,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014705882352941176,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 8
+          }
+        ],
+        "text_characters": 925,
+        "block_characters": 1056,
+        "separator_characters": 2,
+        "remaining_before": 441,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "b8e94bb5666154051e4d018c6f2d9ea87af73db0fb882c5e139c5c2eee103a5f",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 33,
+        "metadata": {
+          "end": 1950,
+          "part": 0,
+          "year": 2025,
+          "start": 986,
+          "method": "paragraph-1000",
+          "section": "1.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014492753623188406,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 9
+          }
+        ],
+        "text_characters": 964,
+        "block_characters": 1095,
+        "separator_characters": 2,
+        "remaining_before": 441,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      },
+      {
+        "id": "2ca84f1e38106e0ef1ff42c86ab21c0be63468ffaf676c988a70b7f78a89aaa8",
+        "source_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 59,
+        "metadata": {
+          "end": 3831,
+          "part": 0,
+          "year": 2025,
+          "start": 3264,
+          "method": "paragraph-1000",
+          "section": "2.1",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "best_reciprocal_rank": 0.014285714285714285,
+        "occurrences": [
+          {
+            "search_round": 1,
+            "rank": 10
+          }
+        ],
+        "text_characters": 567,
+        "block_characters": 698,
+        "separator_characters": 2,
+        "remaining_before": 441,
+        "selected": false,
+        "reason": "insufficient_remaining_budget"
+      }
+    ],
+    "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+  },
+  "elapsed_ms": 1254.5119000005798
+}

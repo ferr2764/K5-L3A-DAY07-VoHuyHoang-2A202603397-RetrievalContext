@@ -1,0 +1,104 @@
+[91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076 | starter/data/Foundations_of_Information_Systems.pdf | page 52]
+1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,
+https://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/
+2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,
+https://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-
+unused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D
+42 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[00f8596499f471efc2f2274a7093a3d38f1e87fb996d4c1fe9bcf283d3da32e2 | starter/data/Foundations_of_Information_Systems.pdf | page 63]
+10 Parmy Olson, “Under Armour Buys Health-Tracking App MyFitnessPal for $475 Million,” Forbes, February 4, 2015,
+https://www.forbes.com/sites/parmyolson/2015/02/04/myfitnesspal-acquisition-under-armour/
+2.2 • Strategies to Improve the Value of Information Technology Within Organizations 53
+
+[821b2ddad02a0d60a03c778c5eef55549ef52bb87bf663d810fac88d8b56a1a9 | starter/data/Foundations_of_Information_Systems.pdf | page 64]
+Functional
+Area
+Strategic
+Information
+Systems
+Managerial
+Information
+Systems
+Operational
+Information
+Systems
+Overall Value
+Indicators for
+Information
+Technology Investment
+Human
+resources
+Workforce
+optimization
+Data-driven
+human
+resources
+decision-making
+and analytics
+Efficient
+employee data
+management
+and self-
+service options
+Improved talent
+acquisition and
+retention, reduced
+human resources
+operational costs
+Finance and
+accounting
+Effectiveness of real-
+time financial insights
+and predictive
+analysis
+Streamlined
+budgeting and
+financial
+forecasting
+Automated
+accounting
+processes and
+payroll
+management
+Better financial decision-
+making, cost savings,
+minimized errors
+Sales and
+marketing
+Acquisition and
+retention of customer
+with data analysis for
+market trends and
+demand forecasting
+Sales
+performance
+tracking and
+sales pipeline
+management
+Target
+marketing
+campaigns and
+customer
+engagement
+Increased sales,
+enhanced customer
+satisfaction, improved
+marketing return 
+
+[5c73687c1a3343e5e8dc704b79fb700cd4fda792639dfc5424e0118d871b631d | starter/data/Foundations_of_Information_Systems.pdf | page 61]
+• crowdsourcing platforms: online marketplaces where businesses or individuals can outsource tasks or
+problems to a large, dispersed group of people
+https://quickbooks.intuit.com/r/supply-chain/zara-supply-chain-its-secret-to-retail-success/
+7 Rashik Parmar, Marc Peters, and Llewellyn D.W. Thomas, “What Is Responsible Computing?” Harvard Business Review, July 7, 2023,
+https://hbr.org/2023/07/what-is-responsible-computing
+8 “Domino’s: Taking the Guesswork Out of Pizza Delivery with Google Maps Platform,” Google Cloud, accessed January 19, 2025,
+https://cloud.google.com/customers/dominos-maps
+9 Jacob Roach, “How Nvidia Is Using A.I. to Help Domino’s Deliver Pizzas Faster,” Digital Trends, November 9, 2021,
+https://www.digitaltrends.com/computing/nvidia-using-ai-to-help-dominos-deliver-pizzas-faster/
+2.2 • Strategies to Improve the Value of Information Technology Within Organizations 51
+
+[9f877c459dc337dcfd5279a5866efe0799edd3aecf798ba3ea168d84d62c15d3 | starter/data/Foundations_of_Information_Systems.pdf | page 71]
+IBM, September 17, 2024, https://www.ibm.com/topics/ai-ethics
+2.3 • Digital Business Models 61

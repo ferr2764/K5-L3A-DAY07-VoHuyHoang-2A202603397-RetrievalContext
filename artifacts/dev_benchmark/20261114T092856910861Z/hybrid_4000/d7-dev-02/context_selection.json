@@ -1,0 +1,314 @@
+{
+  "context": "[e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nControl Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6). COBIT is promoted by the Information Systems Audit and Control Association\n(ISACA), which is a global organization that provides training, research information, news updates, advocacy,\nand related support for IS professionals and others involved in information technology.\n\n\n[05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2 | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nFigure 1.6 COBIT’s framework provides IS professionals with five processes—Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate, and Assess\n(MEA)—that can help develop and maintain an information system. (credit: modification of work from Introduction to Computer\nScience. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)\nInformation Technology Infrastructure Library (ITIL) is a comprehensive framework of documentation that\n20 1 • Fundamentals of Information Systems\nAccess for free at openstax.org\n\n[53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5 | starter/data/Foundations_of_Information_Systems.pdf | page 72]\n2.4 Business Process Management\nLearning Objectives\nBy the end of this section, you will be able to:\n• Describe a business process\n• Differentiate business process reengineering, improvement, and management\n• Discuss ways in which information systems enable business processes\nTo promote success, businesses and other organizations need robust business processes that are well\nmanaged. Business processes help organizations be more efficient and effective—providing higher-quality\nproducts and services, and improving customer service and satisfaction. Business processes can be tailored to\nmeet an organization’s specific needs, and information systems can be important tools to enhance business\nprocesses.\nBusiness Process\nA business process represents a continuous series of interconnected activities aimed at producing a valuable\nproduct or service for an organization, its business partners, and its customers. This process relies on three\nessential components:\n\n\n[5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc | starter/data/Foundations_of_Information_Systems.pdf | page 30]\nIndustry standards help IS professionals ensure that the system they develop has the appropriate\ninfrastructure and technological components required to function efficiently. This includes ensuring the\nsystem is compatible with information systems used in other organizations. After all, an important objective of\nIS to enable information sharing internally and externally as organizations interact in the marketplace.\nSpecific Frameworks and Standards in Information Systems\nStarting with the most commonly used frameworks, those applicable to IS include Agile, Control Objectives for\nInformation and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL), the Skills\nFramework for the Information Age (SFIA), Waterfall, and Zachman.\n\n\n[66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da | starter/data/Foundations_of_Information_Systems.pdf | page 62]\n• automation of operation\n• information generation for managing people and resources\n• transformation of existing processes or combined tasks called routines\nFigure 2.5 Information technology creates value for organizations through automation, information generation, and transformation.\n",
+  "context_ids": [
+    "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+    "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+    "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+    "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+    "66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da"
+  ],
+  "context_chars": 3946,
+  "context_sha256": "a0a12428b251222e628324b79f21c1524809ea21555150d9bcb61d2d941b9f68",
+  "budget_chars": 4000,
+  "remaining_chars": 54,
+  "unit": "Python len(str), Unicode codepoints including headers and separators",
+  "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+  "candidate_occurrences": 10,
+  "unique_candidates": 10,
+  "duplicates_removed": 0,
+  "selected_count": 5,
+  "skipped_count": 5,
+  "decisions": [
+    {
+      "id": "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 2568,
+        "part": 0,
+        "year": 2025,
+        "start": 1942,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.01639344262295082,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 1
+        }
+      ],
+      "text_characters": 626,
+      "block_characters": 757,
+      "separator_characters": 0,
+      "remaining_before": 4000,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "05cfa3af90a9b119819f2f3ef6b5b602c5609a730151ffe017439dd0ad5c9eb2",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 3207,
+        "part": 0,
+        "year": 2025,
+        "start": 2568,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.016129032258064516,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 2
+        }
+      ],
+      "text_characters": 639,
+      "block_characters": 770,
+      "separator_characters": 2,
+      "remaining_before": 3243,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 72,
+      "metadata": {
+        "end": 967,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "2.4",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015873015873015872,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 3
+        }
+      ],
+      "text_characters": 967,
+      "block_characters": 1098,
+      "separator_characters": 2,
+      "remaining_before": 2471,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "5d58717f3ae6edef10a396de0102babbeebece949ae0888423c4db001c272bcc",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 30,
+      "metadata": {
+        "end": 1415,
+        "part": 0,
+        "year": 2025,
+        "start": 652,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015625,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 4
+        }
+      ],
+      "text_characters": 763,
+      "block_characters": 894,
+      "separator_characters": 2,
+      "remaining_before": 1371,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 62,
+      "metadata": {
+        "end": 1902,
+        "part": 0,
+        "year": 2025,
+        "start": 1614,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015384615384615385,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 5
+        }
+      ],
+      "text_characters": 288,
+      "block_characters": 419,
+      "separator_characters": 2,
+      "remaining_before": 475,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 31,
+      "metadata": {
+        "end": 731,
+        "part": 0,
+        "year": 2025,
+        "start": 0,
+        "method": "paragraph-1000",
+        "section": "1.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.015151515151515152,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 6
+        }
+      ],
+      "text_characters": 731,
+      "block_characters": 862,
+      "separator_characters": 2,
+      "remaining_before": 54,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "c836bf3455c17822455eccf1fc313fab7d2a099953f32a896853e14bb2a0ebce",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 64,
+      "metadata": {
+        "end": 1972,
+        "part": 0,
+        "year": 2025,
+        "start": 978,
+        "method": "paragraph-1000",
+        "section": "2.2",
+        "language": "en",
+        "attribution": "Access for free at openstax.org."
+      },
+      "best_reciprocal_rank": 0.014925373134328358,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 7
+        }
+      ],
+      "text_characters": 994,
+      "block_characters": 1125,
+      "separator_characters": 2,
+      "remaining_before": 54,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "321518e63e2dc320404e1d071576cab2bf1bf1e6a487b3ad49496c726761a80b",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 40,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "1.4",
+        "part": 1,
+        "attribution": "Access for free at openstax.org.",
+        "start": 2545,
+        "end": 3140,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014705882352941176,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 8
+        }
+      ],
+      "text_characters": 595,
+      "block_characters": 726,
+      "separator_characters": 2,
+      "remaining_before": 54,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "ea92b2e767bff6bc6ca3aaeb64dabca5c1a56296f78edf1b771802bbd01d9566",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 72,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.4",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1471,
+        "end": 2390,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014492753623188406,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 9
+        }
+      ],
+      "text_characters": 919,
+      "block_characters": 1050,
+      "separator_characters": 2,
+      "remaining_before": 54,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 55,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1344,
+        "end": 2269,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014285714285714285,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 10
+        }
+      ],
+      "text_characters": 925,
+      "block_characters": 1056,
+      "separator_characters": 2,
+      "remaining_before": 54,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    }
+  ],
+  "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+}

@@ -1,0 +1,19 @@
+{
+  "query_id": "d7-test-06",
+  "split": "test",
+  "answerable": false,
+  "raw_hit_at_1_literal": null,
+  "raw_hit_at_3_literal": null,
+  "final_model_context_evidence_literal": null,
+  "status": "abstain",
+  "search_count": 1,
+  "model_call_count": 2,
+  "manual_review": {
+    "grounded_answer_0_2": null,
+    "context_0_2": null,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": null
+  },
+  "scoring": "literal source/page/complete-evidence; equivalence/content grading pending"
+}

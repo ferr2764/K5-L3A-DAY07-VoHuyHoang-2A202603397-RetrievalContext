@@ -1,0 +1,313 @@
+{
+  "context": "[1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444 | starter/data/Foundations_of_Information_Systems.pdf | page 57]\n• Rectifying known inaccuracies: Identifying and correcting any inaccuracies or errors in the data are crucial\nto maintaining data integrity, which means ensuring data remain accurate, consistent, and reliable over\ntheir entire life cycle.\n• Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting.\n\n\n[1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd | starter/data/Foundations_of_Information_Systems.pdf | page 53]\nAppropriate data management is crucial to an organization’s reputation and success. Data management\nparameters establish practices that organizations can use to ensure that their data are managed, protected¸\nand of high quality so they can be utilized to make informed decisions. The essential areas for managing data\neffectively are as follows (Figure 2.2)3 :\n• Data governance establishes policies, processes, standards, roles, and responsibilities to manage data\nas a valuable asset.\n• Data quality ensures that data are accurate, complete, and consistent. This is achieved through\nactivities such as validation, cleansing, matching, and monitoring via metrics and reporting.\n• Data integration combines data from different systems and applications. It includes tasks such as\nmapping data elements, transforming data, and ensuring seamless integration using tools and best\npractices.\n\n\n[510065945487652c5065c489fc7f5182cfb9095393d345f7275195a128db72d6 | starter/data/Foundations_of_Information_Systems.pdf | page 55]\nThis includes creating frameworks and structures for collecting, storing, processing, and accessing data in a\nway that aligns with business goals, compliance requirements, and performance needs. In addition to\ndesigning traditional data architectures, many modern data architects now also focus on frameworks like\ndata mesh, data fabric, and federated analytics as part of their responsibilities. A data architect needs\nstrong knowledge of database technologies, data modeling, cloud platforms, and big data tools. They must\nalso understand data governance practices, security protocols, and compliance regulations and be familiar\nwith data pipelines, integration tools, and extract, transform, and tools. Having strong problem-solving\nskills will allow a data architect to design complex systems and solve integration challenges, ensuring data\nflows smoothly across different parts of the organization.\n\n\n[eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245 | starter/data/Foundations_of_Information_Systems.pdf | page 56]\nDimensions and Characteristics of Data to Inform Data Management\nDecisions\nFor each type of data, an organization needs to define rules and policies to measure the quality of the data\nand the effectiveness of the data’s management. There are four key dimensions of big data known as the four\nVs:\n• Volume: The dimension of volume refers to the vast amount of data generated and stored. Big data\ndatasets are incredibly large and can grow exponentially.\n• Variety: The variety dimension encompasses the diverse array of data types and formats, which might\ninclude structured elements like user IDs, time stamps, and actions taken, as well as unstructured\ncomponents such as user comments and feedback.\n",
+  "context_ids": [
+    "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+    "1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd",
+    "510065945487652c5065c489fc7f5182cfb9095393d345f7275195a128db72d6",
+    "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245"
+  ],
+  "context_chars": 3987,
+  "context_sha256": "40abcb917568a211bc1b79282eff050b19337499cf03a450904aeabbfb6f50f6",
+  "budget_chars": 4000,
+  "remaining_chars": 13,
+  "unit": "Python len(str), Unicode codepoints including headers and separators",
+  "selection_rule": "best reciprocal rank across rounds then chunk ID; dedup ID; no truncation",
+  "candidate_occurrences": 10,
+  "unique_candidates": 10,
+  "duplicates_removed": 0,
+  "selected_count": 4,
+  "skipped_count": 6,
+  "decisions": [
+    {
+      "id": "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 57,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 875,
+        "end": 1840,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.01639344262295082,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 1
+        }
+      ],
+      "text_characters": 965,
+      "block_characters": 1096,
+      "separator_characters": 0,
+      "remaining_before": 4000,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "1134d152894357ac900062ddbdfaed83af7bb235e95b1d10b84cfff0b741e0dd",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 53,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 887,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.016129032258064516,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 2
+        }
+      ],
+      "text_characters": 887,
+      "block_characters": 1018,
+      "separator_characters": 2,
+      "remaining_before": 2904,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "510065945487652c5065c489fc7f5182cfb9095393d345f7275195a128db72d6",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 55,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 2269,
+        "end": 3173,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015873015873015872,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 3
+        }
+      ],
+      "text_characters": 904,
+      "block_characters": 1035,
+      "separator_characters": 2,
+      "remaining_before": 1884,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "e94d54c122336117d3e74c789a4557bdc30540ca4f9fc926b1021aa9e228c8bc",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1516,
+        "end": 2515,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015625,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 4
+        }
+      ],
+      "text_characters": 999,
+      "block_characters": 1130,
+      "separator_characters": 2,
+      "remaining_before": 847,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "eab422a8084144f9dab0a4517a0224040455e5537e09bbf3dc91497f382a0245",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 701,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015384615384615385,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 5
+        }
+      ],
+      "text_characters": 701,
+      "block_characters": 832,
+      "separator_characters": 2,
+      "remaining_before": 847,
+      "selected": true,
+      "reason": "selected_complete_chunk"
+    },
+    {
+      "id": "34daaddd4938cf6d81965ffba188cb7c79038ebae208ccd88d98f2361bc06085",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 54,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 0,
+        "end": 603,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.015151515151515152,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 6
+        }
+      ],
+      "text_characters": 603,
+      "block_characters": 734,
+      "separator_characters": 2,
+      "remaining_before": 13,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "21e8a8c1113cbe2c94b65e4d88fe521d8ffef740c3afde41261b7d20211ebe4c",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 52,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 3596,
+        "end": 4423,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014925373134328358,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 7
+        }
+      ],
+      "text_characters": 827,
+      "block_characters": 958,
+      "separator_characters": 2,
+      "remaining_before": 13,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "fa2190de930dd9497d4bf9c17ae5d87a4e4ea018d76d0f89eeaa76ca4c34690d",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 55,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 972,
+        "end": 1344,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014705882352941176,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 8
+        }
+      ],
+      "text_characters": 372,
+      "block_characters": 503,
+      "separator_characters": 2,
+      "remaining_before": 13,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 1502,
+        "end": 2366,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014492753623188406,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 9
+        }
+      ],
+      "text_characters": 864,
+      "block_characters": 995,
+      "separator_characters": 2,
+      "remaining_before": 13,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    },
+    {
+      "id": "7ffd5de2be32e43e9fb63d3947950460cdca48553612b9476be9372146499afb",
+      "source_id": "foundations-of-information-systems",
+      "source": "starter/data/Foundations_of_Information_Systems.pdf",
+      "page": 56,
+      "metadata": {
+        "language": "en",
+        "year": 2025,
+        "section": "2.1",
+        "part": 0,
+        "attribution": "Access for free at openstax.org.",
+        "start": 2366,
+        "end": 3158,
+        "method": "paragraph-1000"
+      },
+      "best_reciprocal_rank": 0.014285714285714285,
+      "occurrences": [
+        {
+          "search_round": 1,
+          "rank": 10
+        }
+      ],
+      "text_characters": 792,
+      "block_characters": 923,
+      "separator_characters": 2,
+      "remaining_before": 13,
+      "selected": false,
+      "reason": "insufficient_remaining_budget"
+    }
+  ],
+  "semantic_note": "Whole chunks retain original source conditions; completeness/relevance still requires source review."
+}

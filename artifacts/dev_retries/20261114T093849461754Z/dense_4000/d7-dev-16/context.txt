@@ -1,0 +1,48 @@
+[91b4b497d8db2042554ff10d48f210defe8897f6d5659000009daeee2cf08076 | starter/data/Foundations_of_Information_Systems.pdf | page 52]
+1 Steve Morgan, “The World Will Store 200 Zettabytes of Data by 2025,” Cybersecurity Magazine, February 1, 2024,
+https://cybersecurityventures.com/the-world-will-store-200-zettabytes-of-data-by-2025/
+2 “Wasted Data: Why So Much Enterprise Information Goes Unused,” MarketLogic, October 26, 2022,
+https://marketlogicsoftware.com/blog/wasted-info-why-so-much-enterprise-data-goes-
+unused/#:~:text=Unbelievably%2C%20only%20about%20one%20third,their%20data%20remains%20%E2%80%9Cdark%E2%80%9D
+42 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[d961f757880eb8d144c94e8e7cd6fb19f2038afb37189d4795845c344dd4b2d3 | starter/data/Foundations_of_Information_Systems.pdf | page 72]
+62 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[22c455cba413208a327c6b12bbfd85644ad675fe16d552084d999444a183b9bb | starter/data/Foundations_of_Information_Systems.pdf | page 56]
+There are several challenges associated with managing unstructured data. Their large volume can make them
+difficult to store and manage. Unstructured data also come in a variety of formats from multiple sources,
+including internal sources, personal sources, and external sources. Data can also come from the web in the
+form of blogs, podcasts, tweets, social media posts, online videos, texts, and radio-frequency identification
+tags and other wireless sensors. These technologies generate data that must be managed but are difficult to
+process and analyze. Unstructured data are often generated at high velocity. This can make it difficult to keep
+up with and make sense of the data.
+Despite the challenges, managing unstructured data can be valuable. Unstructured data can provide insights
+46 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[8c1031957ccb478fa3b8db1cdbf49ed59027773f7cd338bd1e915cc2c3a701c2 | starter/data/Foundations_of_Information_Systems.pdf | page 42]
+LINK TO LEARNING
+One way to learn more about IS in cybersecurity and understand its importance is to play security
+awareness games. You can give this a try by exploring the Security Awareness Games (https://openstax.org/
+r/109SecurtyGames) from the Center for Development of Security Excellence. The website also offers
+games, word searches, and crossword puzzles that can help you learn more about cybersecurity.
+32 1 • Fundamentals of Information Systems
+Access for free at openstax.org
+
+[30a2e63dbd1793fe971d5880c1670963c381479b515e9a765cdcbdc2fa61ad4f | starter/data/Foundations_of_Information_Systems.pdf | page 62]
+Information generation through IT can also empower organizations to make strategic choices based on real-
+time and accurate data, which can lead to better decision-making and increased competitiveness. Information
+technology systems capture vast amounts of data from various sources, including customer interactions,
+52 2 • Data Management and Information Systems Business Strategies
+Access for free at openstax.org
+
+[787ae0c2544bafb74d823edf8433cce469254f1aed65bb9af1d94ffac4af9b4a | starter/data/Foundations_of_Information_Systems.pdf | page 52]
+Notably, most of these data are underutilized. For most enterprises, only about one-third of data is used for
+decision-making, while the remaining two-thirds is simply stored.2 When analysts are unable to find the
+appropriate and available data for decision-making, it can cost organizations billions of dollars each year. On
+the other hand, data archives are often required for regulatory reasons to ensure compliance with laws
+governing data retention, privacy, and security. For instance, industries like health care and finance have strict
+regulations regarding the retention of patient records and financial transactions data.

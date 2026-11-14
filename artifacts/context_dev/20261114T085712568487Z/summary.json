@@ -1,0 +1,41 @@
+{
+  "scope": "15 dev answerable cases only; fixed TF-IDF rankings; context-budget diagnostic, not agent quality or configuration selection",
+  "budgets": [
+    {
+      "budget_chars": 800,
+      "answerable_dev_n": 15,
+      "literal_context_evidence_n": 3,
+      "literal_context_evidence_rate": 0.2,
+      "literal_hit3_n": 11,
+      "mean_context_chars": 553.6,
+      "empty_context_n": 3,
+      "skipped_chunks_total": 86
+    },
+    {
+      "budget_chars": 4000,
+      "answerable_dev_n": 15,
+      "literal_context_evidence_n": 11,
+      "literal_context_evidence_rate": 0.7333333333333333,
+      "literal_hit3_n": 11,
+      "mean_context_chars": 3072.266666666667,
+      "empty_context_n": 1,
+      "skipped_chunks_total": 46
+    },
+    {
+      "budget_chars": 6000,
+      "answerable_dev_n": 15,
+      "literal_context_evidence_n": 11,
+      "literal_context_evidence_rate": 0.7333333333333333,
+      "literal_hit3_n": 11,
+      "mean_context_chars": 4261.266666666666,
+      "empty_context_n": 1,
+      "skipped_chunks_total": 25
+    }
+  ],
+  "service_cost_usd": 0,
+  "llm_calls": 0,
+  "test_cases_evaluated": 0,
+  "protocol_sha256": "2d2ff50bd6407fffcfa0a13ecff2fb265e6037a5c2297135936393bd034d2f0b",
+  "benchmark_sha256": "aa58d6b0d688eb053bffb7d4726cbe489829cbe5204c805d80f48ca984b8d61a",
+  "review_note": "Literal source/page/evidence check; no human context grades inferred."
+}

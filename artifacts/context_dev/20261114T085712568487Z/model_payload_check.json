@@ -1,0 +1,19 @@
+{
+  "scope": "Read-only validation of existing real-model integration traces; no new API calls and no trace rewrites.",
+  "checks": [
+    {
+      "run": "20261114T084553259113Z",
+      "status": "answered",
+      "exact_context_matches_new_builder": true,
+      "request_context_sha256": "167db072b9ebeca7d05872d9122e0e160dabef7356292eae014866d953fe9e66",
+      "transmission": "response_received"
+    },
+    {
+      "run": "20261114T084709552005Z",
+      "status": "abstain",
+      "exact_context_matches_new_builder": true,
+      "request_context_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transmission": "response_received"
+    }
+  ]
+}

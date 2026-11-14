@@ -72,3 +72,7 @@ Script cần PDF và benchmark DAY06 trong thư mục cùng cấp như đường
 Khi triển khai bước chạy lexical dev, dùng answerable_questions.json thay cho questions.json vì baseline mẫu yêu cầu mỗi câu có gold không rỗng. Khi chạy agent, dùng toàn bộ 24 câu và chọn đúng split; tách nhãn/gold khỏi dữ liệu gửi model.
 
 Kết quả từ việc dựng benchmark chỉ là kiểm chứng nguồn. Chưa chạy benchmark retrieval, agent, hoặc tạo điểm chất lượng.
+
+## Quy tắc đánh giá đã chốt trước thử nghiệm
+
+Xem [EVALUATION_PROTOCOL.md](EVALUATION_PROTOCOL.md) và [evaluation_protocol.json](evaluation_protocol.json) về evidence, context budget, filter, metrics, lỗi, cách chọn cấu hình và tách gold khỏi agent. Đây là đặc tả để triển khai runner, chưa phải kết quả hoặc xác nhận code hiện tại đã tuân thủ.

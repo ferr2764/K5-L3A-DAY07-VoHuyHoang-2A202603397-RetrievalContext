@@ -1,0 +1,51 @@
+[92df3d35aa1b9abe9e3a83538a7142a0989d25251c100c74a9c5116c26dccf81 | starter/data/Foundations_of_Information_Systems.pdf | page 61]
+quantified the value of their IT
+investment by measuring improvements in delivery times, a key performance indicator directly linked to
+customer satisfaction.
+In today’s ever-evolving business landscape, organizations have come to recognize the immense potential of
+IT to enhance the value of their products and services. Leveraging IT has become a key factor in staying
+competitive and relevant in the digital age. However, as businesses delve deeper into the realm of IT, they face
+an essential question: How can they effectively assess the value IT adds to their organization?
+Defining the Value of Information Technology Within Organizations
+Over the past decades, businesses and managers have focused on understanding how to employ IT systems
+to achieve goals in diverse organizational, consumer, and societal contexts. Transformative opportunities have
+been ushered in with the emergence of a new generation of IT, including elements such as:
+
+
+[9e1bf6a166362693ce55a6b6d6405f2f1c011050e166023e41af300b3949e14e | starter/data/Foundations_of_Information_Systems.pdf | page 62]
+The most common means of understanding the value of information systems in a business is to measure the
+relationship between IT investments and output measures of revenue and human productivity. This evaluation
+can be conducted at both the industry level and organizational level. However, the business value of IT goes
+beyond direct output or revenue measures because IT often supports organizational redesign efforts, such as
+the traditional taxi services being disrupted by new ride services like Uber or Lyft. This type of business model
+innovation leverages IT to create entirely new business models, not just enhance existing ones.
+Managers should consider which of the following three primary methods of value IT brings to their
+organization (Figure 2.5):
+
+
+[66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da | starter/data/Foundations_of_Information_Systems.pdf | page 62]
+• automation of operation
+• information generation for managing people and resources
+• transformation of existing processes or combined tasks called routines
+Figure 2.5 Information technology creates value for organizations through automation, information generation, and transformation.
+
+
+[e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a | starter/data/Foundations_of_Information_Systems.pdf | page 65]
+organizations.
+Strategies to Improve the Value of Information Technology for
+Organizations
+Understanding the role of business processes within an organization is vital to measuring the specific value
+that IT can deliver and the mechanisms through which it achieves this. Information systems professionals
+know that technology alone is not the sole determinant of digital success, and that strategy is an important
+catalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of
+the IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly
+supports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure
+2.6):
+• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading
+to new revenue opportunities.
+
+
+[273d65280b725344788030bb823968620895ba4128dcbb65189ac389e45146d3 | starter/data/Foundations_of_Information_Systems.pdf | page 61]
+2.2 Strategies to Improve the Value of Information Technology Within Organizations
+Learning Objectives
+By the end of this section, you will be able to:

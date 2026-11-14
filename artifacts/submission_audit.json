@@ -1,0 +1,30 @@
+{
+  "task": 11,
+  "offline_tests": {
+    "passed": 27,
+    "failed": 0
+  },
+  "restore_snapshot": "passed; checksum matches frozen input",
+  "demo_replay": [
+    "answer with citation and PDF page",
+    "correct refusal",
+    "real HTTP 402 error"
+  ],
+  "frozen_hash_mismatches": [],
+  "new_report_local_links": "all resolve",
+  "git_diff_check": "passed",
+  "shared_text_files_scanned": 812,
+  "credential_pattern_matches_files": [],
+  "tracked_dotenv_files": [],
+  "credential_scan_limit": "Pattern scan, not an exhaustive security guarantee; local .env excluded.",
+  "shareable_snapshot": "data/day6/chunks.json",
+  "original_ignore_rules_unchanged": true,
+  "test_rerun_for_task11": false,
+  "api_calls_for_task11": 0,
+  "remaining": [
+    "Commit/push and verify grader access",
+    "Submit repository link according to lecturer instructions"
+  ],
+  "submission_status": "prepared locally; not committed/pushed by assistant",
+  "review_confirmation": "confirmed; artifacts/review_confirmation/confirmation.json"
+}
