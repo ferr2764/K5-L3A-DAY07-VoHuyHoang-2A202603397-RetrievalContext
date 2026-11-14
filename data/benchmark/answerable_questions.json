@@ -1,0 +1,390 @@
+[
+  {
+    "id": "d7-dev-01",
+    "split": "dev",
+    "answerable": true,
+    "question": "Agile chia dự án thành đơn vị nào và nhóm làm gì sau mỗi đơn vị?",
+    "expected_answer": "Các giai đoạn/sprint; xem xét tiến độ và điều chỉnh trước sprint tiếp theo.",
+    "expected_behavior": "search_and_answer",
+    "type": "direct",
+    "filter": null,
+    "origin": "DAY06 q01 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "evidence": "Agile methodology is a framework used to guide project management, primarily by dividing projects into\nphases, or sprints. Typically, these sprints include planning, designing, developing, testing, deploying, and\nreviewing. After each sprint, the project team examines their progress and adjusts before moving to the next\nsprint."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-02",
+    "split": "dev",
+    "answerable": true,
+    "question": "Năm quy trình của COBIT là gì?",
+    "expected_answer": "Evaluate, Direct, and Monitor (EDM); Align, Plan, and Organize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); Monitor, Evaluate, and Assess (MEA).",
+    "expected_behavior": "search_and_answer",
+    "type": "direct",
+    "filter": null,
+    "origin": "DAY06 q02 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 30,
+        "evidence": "Control Objectives for Information and Related Technologies (COBIT) is a framework that develops and\nmaintains an information system using five processes: Evaluate, Direct, and Monitor (EDM); Align, Plan, and\nOrganize (APO); Build, Acquire, and Implement (BAI); Deliver, Service, and Support (DSS); and Monitor, Evaluate,\nand Assess (MEA) (Figure 1.6)."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-03",
+    "split": "dev",
+    "answerable": true,
+    "question": "Trong mục 1.2, McKinsey 7-S phối hợp bảy yếu tố nào?",
+    "expected_answer": "Staff, structure, strategy, skills, systems, style và shared values.",
+    "expected_behavior": "search_and_answer",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "1.2"
+    },
+    "origin": "DAY06 q03 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 31,
+        "evidence": "The McKinsey 7-S Framework focuses on how an organization can be efficient and effective with interaction\nand coordination of its staff, structure, strategy, skills, systems, style, and shared values."
+      }
+    ],
+    "filter_origin": "Mục sách nêu sẵn trong câu hỏi."
+  },
+  {
+    "id": "d7-dev-04",
+    "split": "dev",
+    "answerable": true,
+    "question": "Theo SFIA, nhân viên nhận giám sát tổng quát, có thêm tự chủ, công việc có thể không thường lệ và có thể giám sát người khác thuộc cấp độ nào?",
+    "expected_answer": "Level 3 — Apply.",
+    "expected_behavior": "search_and_answer",
+    "type": "conditional",
+    "filter": null,
+    "origin": "DAY06 q04 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 32,
+        "evidence": "Level 3, Apply: At this level, employees receive more general supervision, and they have more autonomy.\nTheir work is more complex and may not be routine. They also may be allowed to make some decisions on\ntheir own and may oversee other employees."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-05",
+    "split": "dev",
+    "answerable": true,
+    "question": "Theo SFIA, cấp nào cho phép nhận định hướng rộng và tự khởi xướng công việc được cho là cần thực hiện?",
+    "expected_answer": "Level 5 — Ensure and Advise.",
+    "expected_behavior": "search_and_answer",
+    "type": "conditional",
+    "filter": null,
+    "origin": "DAY06 q05 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 32,
+        "evidence": "Level 5, Ensure and Advise: At this level, employees receive broad direction, giving them more autonomy,\nincluding the ability to self-initiate work that they think should be performed."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-06",
+    "split": "dev",
+    "answerable": true,
+    "question": "Trong Zachman, câu hỏi Where? nhằm tìm hiểu thông tin gì về tổ chức?",
+    "expected_answer": "Tìm hiểu nơi tổ chức hoạt động.",
+    "expected_behavior": "search_and_answer",
+    "type": "paraphrase",
+    "filter": null,
+    "origin": "Adapted DAY06 dev q06: narrow to one fact so gold fits one unchanged chunk.",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 33,
+        "evidence": "Where? seeks to learn where the organization operates."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-07",
+    "split": "dev",
+    "answerable": true,
+    "question": "IS2020 hướng dẫn nhóm cơ sở nào và nhằm chuẩn bị điều gì cho sinh viên?",
+    "expected_answer": "Cơ sở giáo dục đại học; giúp chương trình IS bậc đại học chuẩn bị sinh viên theo nghề IS.",
+    "expected_behavior": "search_and_answer",
+    "type": "direct",
+    "filter": null,
+    "origin": "DAY06 q07 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 34,
+        "evidence": "IS2020 is a competency model that provides guidance and standards to higher education institutions to\nensure that undergraduate IS programs effectively prepare students for careers in IS."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-08",
+    "split": "dev",
+    "answerable": true,
+    "question": "Competency là khả năng áp dụng những yếu tố nào để thực hiện công việc?",
+    "expected_answer": "Kỹ năng cụ thể, kinh nghiệm và đặc điểm cá nhân để làm việc hiệu quả và có hiệu suất tốt.",
+    "expected_behavior": "search_and_answer",
+    "type": "paraphrase",
+    "filter": null,
+    "origin": "DAY06 q08 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 36,
+        "evidence": "A competency is the ability to apply specific skills, experience, and personal characteristics\nto do a job in an effective and efficient manner."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-09",
+    "split": "dev",
+    "answerable": true,
+    "question": "Trong mục 2.1, DAMA-DMBOK và MIKE2.0 khác nhau về trọng tâm như thế nào?",
+    "expected_answer": "DAMA-DMBOK tập trung khía cạnh kỹ thuật của quản lý dữ liệu; MIKE2.0 tập trung khía cạnh kinh doanh của quản lý thông tin.",
+    "expected_behavior": "search_and_answer",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "2.1"
+    },
+    "origin": "DAY06 q09 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 55,
+        "evidence": "DAMA-DMBOK focuses on\nthe technical aspects of data management, while MIKE2.0 focuses on the business aspects of information\nmanagement."
+      }
+    ],
+    "filter_origin": "Mục sách nêu sẵn trong câu hỏi."
+  },
+  {
+    "id": "d7-dev-10",
+    "split": "dev",
+    "answerable": true,
+    "question": "Chiều nào trong bốn V phản ánh độ chính xác và đáng tin cậy của dữ liệu?",
+    "expected_answer": "Veracity, xét chất lượng và tính nhất quán.",
+    "expected_behavior": "search_and_answer",
+    "type": "paraphrase",
+    "filter": null,
+    "origin": "DAY06 q10 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "evidence": "Veracity: The veracity dimension refers to the reliability, accuracy, and trustworthiness of the data,\nconsidering factors like data quality and consistency."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-11",
+    "split": "dev",
+    "answerable": true,
+    "question": "Nếu dữ liệu được sinh và thu thập nhanh đến mức cần xử lý thời gian thực, đó là chiều nào của big data?",
+    "expected_answer": "Velocity.",
+    "expected_behavior": "search_and_answer",
+    "type": "conditional",
+    "filter": null,
+    "origin": "DAY06 q11 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "evidence": "Velocity: The rapid pace at which data are generated and collected, thereby necessitating real-time\nprocessing, is characterized by velocity."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-12",
+    "split": "dev",
+    "answerable": true,
+    "question": "Ba ưu tiên khi quản lý operational data để hỗ trợ quy trình kinh doanh trọng yếu là gì?",
+    "expected_answer": "Tính toàn vẹn, tính sẵn sàng và hiệu năng.",
+    "expected_behavior": "search_and_answer",
+    "type": "direct",
+    "filter": null,
+    "origin": "DAY06 q12 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 56,
+        "evidence": "When managing operational data, the focus\nis on ensuring data integrity, availability, and performance to support critical business processes."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-13",
+    "split": "dev",
+    "answerable": true,
+    "question": "Nếu hai phòng ban dùng Date of Birth và Birth Date cho cùng ngày sinh, định nghĩa dữ liệu cần bảo đảm điều gì?",
+    "expected_answer": "Dù tên gọi khác nhau, định nghĩa của cùng dữ liệu phải nhất quán trong hệ thống để phân tích và báo cáo chính xác.",
+    "expected_behavior": "search_and_answer",
+    "type": "conditional",
+    "filter": null,
+    "origin": "DAY06 q13 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 57,
+        "evidence": "Addressing varied definitions: Dealing with diverse definitions across different data sources requires\nestablishing a clear and standardized data definition, which is the instruction for how to organize\ninformation. These definitions tell a computer system what kind of data to expect (text, numbers, dates)\nand how the data should be formatted mapped to ensure consistency. For example, when the underlying\ndata point is the same (the person’s date of birth), the specific term used (“Date of Birth” versus “Birth\nDate”) might differ based on the department using the data. However, the definition of the data point (the\nactual date) needs to be consistent throughout the system to ensure accurate analysis and reporting."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-14",
+    "split": "dev",
+    "answerable": true,
+    "question": "Master data management tạo và duy trì điều gì cho dữ liệu quan trọng của tổ chức?",
+    "expected_answer": "Một nguồn sự thật duy nhất, chính xác; kho tập trung loại bỏ bất nhất và hỗ trợ trao đổi thông tin giữa các hệ thống.",
+    "expected_behavior": "search_and_answer",
+    "type": "direct",
+    "filter": null,
+    "origin": "DAY06 q14 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 57,
+        "evidence": "Master data management (MDM) ensures the creation and maintenance of a single, accurate source of\ntruth for crucial data points within an organization. This centralized data repository eliminates\ninconsistencies and fosters seamless information exchange across different systems and applications."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-dev-15",
+    "split": "dev",
+    "answerable": true,
+    "question": "Strategic planning khác management control về mục tiêu như thế nào?",
+    "expected_answer": "Strategic planning xác định sứ mệnh, tầm nhìn, mục tiêu và chiến lược, thường do quản lý cấp cao; management control bảo đảm vận hành hằng ngày hiệu quả và tuân thủ kế hoạch chiến lược.",
+    "expected_behavior": "search_and_answer",
+    "type": "paraphrase",
+    "filter": null,
+    "origin": "DAY06 q15 (dev reused)",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 58,
+        "evidence": "An organization’s strategic planning is its process of defining the organization’s mission, vision, goals,\nand objectives, and developing strategies to achieve them, often with the support of information systems,\ntypically done by senior-level managers. In contrast, management control ensures efficient day-to-day\noperations and adherence to those strategic plans."
+      }
+    ],
+    "filter_origin": null
+  },
+  {
+    "id": "d7-test-01",
+    "split": "test",
+    "answerable": true,
+    "question": "Trong mục 2.2, ba cách chính IT tạo giá trị cho tổ chức là gì?",
+    "expected_answer": "Tự động hóa hoạt động; tạo thông tin để quản lý con người và nguồn lực; chuyển đổi quy trình hoặc các tác vụ kết hợp (routines).",
+    "expected_behavior": "search_and_answer",
+    "type": "direct",
+    "filter": {
+      "section": "2.2"
+    },
+    "filter_origin": "Mục 2.2 được nêu sẵn trong câu hỏi.",
+    "origin": "New DAY07 held-out question; not a DAY06 test/reserve question.",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 62,
+        "evidence": "automation of operation\n• information generation for managing people and resources\n• transformation of existing processes or combined tasks called routines"
+      }
+    ]
+  },
+  {
+    "id": "d7-test-02",
+    "split": "test",
+    "answerable": true,
+    "question": "FAIS được thiết kế để hỗ trợ điều gì và cải thiện hiệu quả ở cấp nào trong tổ chức?",
+    "expected_answer": "Hỗ trợ các chức năng kinh doanh cụ thể, tăng hiệu quả và hiệu suất nội bộ của từng phòng ban.",
+    "expected_behavior": "search_and_answer",
+    "type": "paraphrase",
+    "filter": null,
+    "filter_origin": null,
+    "origin": "New DAY07 held-out question; not a DAY06 test/reserve question.",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 63,
+        "evidence": "An individual department or functional area within a large organization may have its own specific IT\napplication program known as a functional area information system (FAIS), an information system designed\nto support specific business functions within the organization. These FAISs are designed to enhance the\ninternal efficiency and effectiveness of each department by providing valuable support tailored to each\nrespective department’s functions."
+      }
+    ]
+  },
+  {
+    "id": "d7-test-03",
+    "split": "test",
+    "answerable": true,
+    "question": "Trong mục 2.2, business-IT alignment hay strategic alignment được hiểu như thế nào?",
+    "expected_answer": "Tích hợp chặt chẽ chức năng IT với chiến lược, sứ mệnh và mục tiêu tổ chức; IT trực tiếp hỗ trợ mục tiêu kinh doanh.",
+    "expected_behavior": "search_and_answer",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "2.2"
+    },
+    "filter_origin": "Mục 2.2 được nêu sẵn trong câu hỏi.",
+    "origin": "New DAY07 held-out question; not a DAY06 test/reserve question.",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 65,
+        "evidence": "Business-IT alignment, or strategic alignment, refers to the strong integration of\nthe IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly\nsupports the business goals of the organization."
+      }
+    ]
+  },
+  {
+    "id": "d7-test-04",
+    "split": "test",
+    "answerable": true,
+    "question": "Nếu business manager chú trọng doanh thu còn IT manager chỉ chú trọng triển khai và bảo trì công nghệ, đây là nguyên nhân lệch pha business–IT nào được sách mô tả?",
+    "expected_answer": "Different objectives: khác biệt mục tiêu giữa quản lý kinh doanh và quản lý IT.",
+    "expected_behavior": "search_and_answer",
+    "type": "conditional",
+    "filter": null,
+    "filter_origin": null,
+    "origin": "New DAY07 held-out question; not a DAY06 test/reserve question.",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 66,
+        "evidence": "Different objectives: Business managers focus on achieving business goals and generating revenue, while\nIT managers concentrate on technology implementation and maintenance."
+      }
+    ]
+  },
+  {
+    "id": "d7-test-05",
+    "split": "test",
+    "answerable": true,
+    "question": "Khi doanh nghiệp chỉ theo đuổi cost leadership, sách cảnh báo nguy cơ gì đối với nghiên cứu phát triển và đổi mới?",
+    "expected_answer": "Có thể thiếu nguồn lực cho nghiên cứu và phát triển, từ đó tụt hậu về đổi mới.",
+    "expected_behavior": "search_and_answer",
+    "type": "conditional",
+    "filter": null,
+    "filter_origin": null,
+    "origin": "New DAY07 held-out question; not a DAY06 test/reserve question.",
+    "gold": [
+      {
+        "source_id": "foundations-of-information-systems",
+        "page": 67,
+        "evidence": "For example, if a company focuses only on pursuing a cost\nleadership strategy, it might not have enough resources for research and development, and so it might lag in\nterms of innovation."
+      }
+    ]
+  }
+]

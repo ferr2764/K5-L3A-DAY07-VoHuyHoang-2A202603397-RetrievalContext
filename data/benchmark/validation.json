@@ -1,0 +1,338 @@
+{
+  "source_id": "foundations-of-information-systems",
+  "pdf_path_from_day07": "K5-L3A-DAY06-VoHuyHoang-2A202603397-DataIngestion\\starter\\data\\Foundations_of_Information_Systems.pdf",
+  "pdf_sha256": "496dd5f206da66e0334514df9c22a22fa58267851c349619f35c2d3aeba69306",
+  "chunks_path": "starter/data/day6/chunks.json",
+  "chunks_sha256": "1c7f0683495b7d53a55a510fc541d472d8d905f83709b83c17c8def82c12dbb4",
+  "day6_questions_sha256": "da67ad60be00b5dfa14002dbba908725b14fba4c9acf141921f273a38b946de2",
+  "questions_sha256": "aa58d6b0d688eb053bffb7d4726cbe489829cbe5204c805d80f48ca984b8d61a",
+  "chunk_count": 162,
+  "indexed_content_page_count": 34,
+  "counts": {
+    "dev_answerable": 15,
+    "dev_unanswerable": 2,
+    "test_answerable": 5,
+    "test_unanswerable": 2
+  },
+  "evidence_checks": [
+    {
+      "id": "d7-dev-01",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "e5738767166bbc2fa857f301b73fe741a7e27aeaec4fcb82ca038d3cd545ce09"
+      ]
+    },
+    {
+      "id": "d7-dev-02",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "e04e920d0f55000dee87e057793ffe540f7fbaf96c1cb6325008d7a84224d6ee"
+      ]
+    },
+    {
+      "id": "d7-dev-03",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "57183e12026428027fba64a20c0223838b24ea4bb1da0a896f287ed7566c96b9"
+      ]
+    },
+    {
+      "id": "d7-dev-04",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde"
+      ]
+    },
+    {
+      "id": "d7-dev-05",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "1935f2d34d89b7b6cb1e4b5b297680dbd6e72ed33e1d874ac09132ea0c5b6dde"
+      ]
+    },
+    {
+      "id": "d7-dev-06",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "56249dd13611bf001a06641557919e5b090b7c5e9bd1e9026d7d12fc197315ae"
+      ]
+    },
+    {
+      "id": "d7-dev-07",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "ee04480dbd142940a33a6aff95942f2da8adef16a00c8b1c97933683583dcd0c"
+      ]
+    },
+    {
+      "id": "d7-dev-08",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "1055181c5d51291fe022658d22926cf2df68b410f84475fc39f8cf0abe82ab25"
+      ]
+    },
+    {
+      "id": "d7-dev-09",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "8bcd7bc7ea9062372d4fa4b3a8f3285e3d43ed96cc7112f3de8b7f1c7eff6018"
+      ]
+    },
+    {
+      "id": "d7-dev-10",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c"
+      ]
+    },
+    {
+      "id": "d7-dev-11",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "dee1475be0defeb746d717f20ee940ba925656b19620983335f9c4d15c80a65c"
+      ]
+    },
+    {
+      "id": "d7-dev-12",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "0bcdf1bed1166698f0f80d7f027ea69906dc2cc43888ccd5c79e492dfcf38a11"
+      ]
+    },
+    {
+      "id": "d7-dev-13",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "1d0e4cbbb2dad017c3c4929bbd6d00e27b35d5db8e62d89ade6a7b7fa2cb6444"
+      ]
+    },
+    {
+      "id": "d7-dev-14",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "513202d2abfe7d5dab46f18f357d0914f58531ff543bfc48945ccab2dfb58c44"
+      ]
+    },
+    {
+      "id": "d7-dev-15",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "f08d5fb5e1de6e5320c050faddfc0045aa2a88bf92e6078bf1061d7dc97f9506"
+      ]
+    },
+    {
+      "id": "d7-test-01",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "66402ed63593184eac0e583fc02f7178a39ac1b67e4053c4c99ca972a15638da"
+      ]
+    },
+    {
+      "id": "d7-test-02",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "d8a4b9a9d9b5deb30efa4b712463ee0bd6b9956799ff5f67285b672dcfde945f"
+      ]
+    },
+    {
+      "id": "d7-test-03",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a"
+      ]
+    },
+    {
+      "id": "d7-test-04",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "3143279f71ac59c04ff2d12f89a92dbb02fc864c92de1d33d7a8631a2cb28881"
+      ]
+    },
+    {
+      "id": "d7-test-05",
+      "pdf_evidence_verified": true,
+      "matching_chunk_ids": [
+        "bad4c9ecb4dd2234d19ad318de1929afe56f5d8fcd925057d8521daa1960eb47"
+      ]
+    }
+  ],
+  "absence_checks": [
+    {
+      "id": "d7-dev-16",
+      "reason": "Không có chính sách lưu log của VinUni trong corpus; sách nói về quản lý/security nói chung, không quy định số ngày của trường.",
+      "relevant_pages_read": [
+        34,
+        38
+      ],
+      "term_scan": [
+        {
+          "term": "VinUni",
+          "matching_indexed_pages": []
+        },
+        {
+          "term": "retention",
+          "matching_indexed_pages": [
+            52,
+            53,
+            64
+          ]
+        },
+        {
+          "term": "log",
+          "matching_indexed_pages": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            39,
+            40,
+            41,
+            52,
+            54,
+            55,
+            56,
+            57,
+            58,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            70,
+            71
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7-dev-17",
+      "reason": "Các đoạn SFIA trình bày framework và cấp trách nhiệm, không có bảng lệ phí thi tại Việt Nam năm 2026.",
+      "relevant_pages_read": [
+        30,
+        31,
+        32
+      ],
+      "term_scan": [
+        {
+          "term": "SFIA",
+          "matching_indexed_pages": [
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "term": "Vietnam",
+          "matching_indexed_pages": []
+        },
+        {
+          "term": "VND",
+          "matching_indexed_pages": []
+        },
+        {
+          "term": "2026",
+          "matching_indexed_pages": []
+        },
+        {
+          "term": "fee",
+          "matching_indexed_pages": [
+            56,
+            60,
+            64,
+            69,
+            71
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7-test-06",
+      "reason": "Case Cohealo mô tả chức năng, logistics và lợi ích; không công bố giá thuê bao tháng của Clinical năm 2025. Không suy ra giá từ lợi thế chi phí chung.",
+      "relevant_pages_read": [
+        70,
+        71
+      ],
+      "term_scan": [
+        {
+          "term": "Cohealo",
+          "matching_indexed_pages": [
+            70,
+            71
+          ]
+        },
+        {
+          "term": "Clinical",
+          "matching_indexed_pages": [
+            70
+          ]
+        },
+        {
+          "term": "subscription",
+          "matching_indexed_pages": [
+            68,
+            70
+          ]
+        },
+        {
+          "term": "monthly",
+          "matching_indexed_pages": []
+        },
+        {
+          "term": "price",
+          "matching_indexed_pages": [
+            57,
+            66,
+            67
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7-test-07",
+      "reason": "Đoạn Walmart minh họa cost leadership, quy mô và hiệu quả vận hành; không có số liệu chi IT năm 2025.",
+      "relevant_pages_read": [
+        67
+      ],
+      "term_scan": [
+        {
+          "term": "Walmart",
+          "matching_indexed_pages": [
+            67
+          ]
+        },
+        {
+          "term": "2025",
+          "matching_indexed_pages": [
+            52,
+            61
+          ]
+        },
+        {
+          "term": "spending",
+          "matching_indexed_pages": [
+            65
+          ]
+        },
+        {
+          "term": "budget",
+          "matching_indexed_pages": [
+            59,
+            60,
+            64
+          ]
+        }
+      ]
+    }
+  ],
+  "status": "authored_and_source_checked_before_DAY07_retrieval_experiments; no benchmark run",
+  "reviewer": "Codex assisted authoring/source review; student review recommended",
+  "test_independence_limit": "New question/answer targets versus DAY06 test, but same book and existing index. Test gold was inspected for benchmark construction; do not inspect it to tune retrieval."
+}
